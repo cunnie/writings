@@ -1,10 +1,8 @@
 ## The Wizard and the Ice Queen
 
-<!-- format off -->
+### The Ice Queen
 
-<h3>The Ice Queen</h3>
-
-<p class=poem> <i>&ldquo;What is the world, O soldiers?<br> It is I:<br> I this incessant snow,<br> This northern sky;<br> Soldiers, this solitude<br> Through which we go<br> is I.&rdquo;<br> <br> &mdash;Walter de La Mare, <u>Napoleon</u></i></p> <br /> <!-- format on -->
+*&ldquo;What is the world, O soldiers?<br> It is I:<br> I this incessant snow,<br> This northern sky;<br> Soldiers, this solitude<br> Through which we go<br> is I.&rdquo;<br> <br> &mdash;Walter de La Mare, Napoleon*
 
 The Ice Queen looked over the parapet and said, &ldquo;So you made an enemy of the wizard, and now you have come to me for help.  You are foolish, you know: my heart is frozen, and I have no pity for you.&rdquo;
 
@@ -111,11 +109,9 @@ And the first sign of water appeared in the castle of ice: a single tear fell fr
 And, in the castle of ice, the Ice Queen wept while the young man laughed.
 
 
-<!-- format off -->
+### The Wizard
 
-<h3>The Wizard</h3>
-
-<p class=poem> <i>&ldquo;He is plotting to become a Power.  He has a mind of<br /> metal and wheels; and he does not care for growing<br /> things, except as far as they serve him for the moment.&rdquo;<br /> <br> &mdash;J. R. R. Tolkien, <u>The Two Towers</u></i></p> <!-- format on -->
+*&ldquo;He is plotting to become a Power.  He has a mind of<br /> metal and wheels; and he does not care for growing<br /> things, except as far as they serve him for the moment.&rdquo;<br /> <br> &mdash;J. R. R. Tolkien, The Two Towers*
 
 
 Far away, in the wizard&rsquo;s tower, the wizard shook his head as if awakening from a slumber.  Surrounding him were five of his students.  They too were wakening from their trance.
