@@ -16,7 +16,7 @@ An eternity passed. Lucifer ruled from the gates of heaven, and the nights were 
 
 And all had forgotten Azrael.
 
-And Lucifer, the lord of Hell, one day came across Azrael. 
+And Lucifer, the lord of Hell, one day came across Azrael.
 
 &ldquo;You are no statue,&rdquo; he said, staring at Azrael.
 
@@ -76,7 +76,7 @@ Azrael looked upwards and said, &ldquo;He shall leave me unmolested in the futur
 
 He paused, then continued, &ldquo;Consider your duty done, your obligation fulfilled. You are dismissed. You may return to Lucifer and tell him that he must let me be. It is best for all.&rdquo;
 
-&ldquo;Your arrogance is insufferable! You give me, a demon lord, orders as if I was some lowly messenger-boy. And you talk of Lucifer meddling in things--do you not see that it is you who is the meddler, foolishly playing with powerful forces about which you have no comprehension?&rdquo; said Craxus.
+&ldquo;Your arrogance is insufferable! You give me, a demon lord, orders as if I was some lowly messenger-boy. And you talk of Lucifer meddling in things&mdash;do you not see that it is you who is the meddler, foolishly playing with powerful forces about which you have no comprehension?&rdquo; said Craxus.
 
 Azrael said, &ldquo;Begone! And make haste, for your presence gives offense.&rdquo;
 
@@ -95,7 +95,7 @@ Craxus looked into Azrael&rsquo;s eyes, seeing something that he had never encou
 And that is how Craxus, the demon lord, was undone. And that ended the age where there was no death, for death had been awakened from his slumber, and death now walked the land again.
 
 
-Azrael looked around. He looked at where he had stood--he looked at the ground underneath where his feet had stood, ground which had not seen the light of day since almost the beginning. Time passed.
+Azrael looked around. He looked at where he had stood&mdash;he looked at the ground underneath where his feet had stood, ground which had not seen the light of day since almost the beginning. Time passed.
 
 Azrael turned west, and began to walk slowly.
 
@@ -185,7 +185,7 @@ In the distance, Azrael saw a stream. &ldquo;What is that river?&rdquo; asked Az
 
 &ldquo;It is the river Lethe. It is a dangerous river. We will need to cross it.&rdquo;
 
-They arrived at the banks of the river Lethe. But it was not water which flowed through the river Lethe--it was as if the deepest blue sapphires had been turned to liquid and poured. And the river did not flow smoothly--it appeared that a thousand shapes were struggling under the water, struggling to break free.
+They arrived at the banks of the river Lethe. But it was not water which flowed through the river Lethe&mdash;it was as if the deepest blue sapphires had been turned to liquid and poured. And the river did not flow smoothly&mdash;it appeared that a thousand shapes were struggling under the water, struggling to break free.
 
 &ldquo;We must run across the river quickly,&rdquo; said Prometheus, &ldquo;Are you ready?&rdquo;
 
@@ -207,11 +207,11 @@ The golden sword of Craxus throbbed and sung triumphantly. Craxus cut Azrael aga
 
 Azrael stopped, stood still, and stared at Craxus.
 
-Suddenly Craxus leapt behind Azrael, too fast for Azrael&rsquo;s eyes to follow. And then Craxus picked up Azrael from the back of the neck. Azrael&rsquo;s hand clamped down on Craxus&rsquo;s arm, and he spun around in Craxus&rsquo;s grasp. Now he was facing Craxus, holding Craxus&rsquo;s arm firmly. 
+Suddenly Craxus leapt behind Azrael, too fast for Azrael&rsquo;s eyes to follow. And then Craxus picked up Azrael from the back of the neck. Azrael&rsquo;s hand clamped down on Craxus&rsquo;s arm, and he spun around in Craxus&rsquo;s grasp. Now he was facing Craxus, holding Craxus&rsquo;s arm firmly.
 
 &ldquo;Make your peace Craxus. Your end is near,&rdquo; said Azrael triumphantly.
 
-Azrael reached out with his other hand to grab Craxus&rsquo;s neck. Azrael gently fingered Craxus&rsquo;s neck, almost like a lover, looking for the right grip. He found it. He started to squeeze slowly--there was no need to rush.
+Azrael reached out with his other hand to grab Craxus&rsquo;s neck. Azrael gently fingered Craxus&rsquo;s neck, almost like a lover, looking for the right grip. He found it. He started to squeeze slowly&mdash;there was no need to rush.
 
 
 There was a flash of light. Azrael realized that it was not Craxus that was in his grip, but Prometheus. And he also realized that he was no longer on the river Lethe, but now he was on the far banks.
@@ -322,7 +322,7 @@ And he said, &ldquo;Obey my commands, winged one: you must find the demon lord C
 
 Lucifer opened his hands, and the bird flew up. The bird flew straight up, and then started flying in circles, each circle much larger than the one before it. The bird flew fast, for it breathed devil&rsquo;s breath, and was fashioned with devil&rsquo;s spittle. The bird was soon out of sight.
 
-Lucifer picked up another handful of sand. Again he spat in it, and again he fashioned it into the shape of an animal, but this time he made a fish. Again he plucked a single hair from his eyebrow, and again he worked it into the body of the creature of sand. And again he breathed life into the creature. 
+Lucifer picked up another handful of sand. Again he spat in it, and again he fashioned it into the shape of an animal, but this time he made a fish. Again he plucked a single hair from his eyebrow, and again he worked it into the body of the creature of sand. And again he breathed life into the creature.
 
 And he said, &ldquo;Obey my commands, gilled one: you must find the demon lord Craxus; you must tell him to return to me; and you yourself must return to me and tell me where you found him.&rdquo;
 
@@ -487,9 +487,9 @@ And Lucifer reached out to the Angel of Death, and reached towards his throat. W
 
 &ldquo;You should have left me alone, brother Lucifer. You were a fool to wake me, and now I shall destroy you.&rdquo;
 
-Lucifer pressed the point of the sword against the body of Azrael. He felt resistance. He pushed harder. Still, the sword did not penetrate. Summoning all his strength, the Lord of Hell pushed for the third time. Lucifer wondered what it was that was protecting the Angel of Death--never had he encountered something which tested his mettle so. The sword suddenly broke past the resistance, into the Angel of Death.
+Lucifer pressed the point of the sword against the body of Azrael. He felt resistance. He pushed harder. Still, the sword did not penetrate. Summoning all his strength, the Lord of Hell pushed for the third time. Lucifer wondered what it was that was protecting the Angel of Death&mdash;never had he encountered something which tested his mettle so. The sword suddenly broke past the resistance, into the Angel of Death.
 
-&ldquo;Azrael, I have destroyed you. You could never have destroyed me--the Fates told me that none can stand against me. You were a fool to come into my dominion, to challenge the most beautiful of angels.&rdquo;
+&ldquo;Azrael, I have destroyed you. You could never have destroyed me&mdash;the Fates told me that none can stand against me. You were a fool to come into my dominion, to challenge the most beautiful of angels.&rdquo;
 
 And then Lucifer realized he, the lord of Hell, was dying.
 

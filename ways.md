@@ -24,7 +24,7 @@ He didn&rsquo;t talk about what the project was, but I knew how to read him.  I 
 
 Later he talked about how unimaginative our concept of aliens were. &ldquo;Hollywood did a disservice when it came to portraying aliens, usually bipedal, existing in our environment, breathing our air. Aliens looked just like us, except with pointy ears, or different color skin.  The differences were minimal.&rdquo;
 
-He continued, &ldquo;Gene Rodenberry, when he did Star Trek, once or twice had a flash of brilliance when it came to portraying aliens, but mostly it was fairly pedestrian:  Klingons, Vulcans, Romulans, Ferengi--they all looked like us, more or less.  Same emotions too. Rodenberry was limited by his imagination and his budget.&rdquo;
+He continued, &ldquo;Gene Rodenberry, when he did Star Trek, once or twice had a flash of brilliance when it came to portraying aliens, but mostly it was fairly pedestrian:  Klingons, Vulcans, Romulans, Ferengi&mdash;they all looked like us, more or less.  Same emotions too. Rodenberry was limited by his imagination and his budget.&rdquo;
 
 He suddenly changed topics.  &ldquo;The aliens don&rsquo;t have two feet.  They don&rsquo;t have a physical existence in the way that we do.  They are patterns that exist in certain frequencies.  Certain drugs  can re-engineer the brain to become sensitive to those patterns.&rdquo;
 
@@ -45,7 +45,7 @@ I looked at him.  He started blurring, and then suddenly became normal again.
 
 &ldquo;They&rsquo;ve terminated the experiment.  I think the whole project is on hold until they figure out what&rsquo;s going on with me.  They haven&rsquo;t given me the drugs for a month, but it&rsquo;s still getting worse, not better.&rdquo;
 
-&ldquo;You know there won&rsquo;t be a body--I won&rsquo;t leave anything behind when I go. I don&rsquo;t know how much longer I can stay here.  It&rsquo;s so hard staying, and it keeps getting harder, and I&rsquo;m not strong enough.  And once I&rsquo;m gone I won&rsquo;t come back, so there will have to be a funeral.  I guess put some ashes or something in a can, I mean an urn.  I don&rsquo;t know.&rdquo;
+&ldquo;You know there won&rsquo;t be a body&mdash;I won&rsquo;t leave anything behind when I go. I don&rsquo;t know how much longer I can stay here.  It&rsquo;s so hard staying, and it keeps getting harder, and I&rsquo;m not strong enough.  And once I&rsquo;m gone I won&rsquo;t come back, so there will have to be a funeral.  I guess put some ashes or something in a can, I mean an urn.  I don&rsquo;t know.&rdquo;
 
 This time, Instead of blurring, he became shifting planes of light.  Then snapped back to himself.  He winced.
 
@@ -55,7 +55,7 @@ This time, Instead of blurring, he became shifting planes of light.  Then snappe
 
 &ldquo;Imagine that you are yourself, and then suddenly you are something completely different, but you can sort of remember who you were, maybe it&rsquo;s something small, like remembering the taste of orange juice.  So you don&rsquo;t let that go, you hold on to that thing, whatever it is.  And then you pull at it, so that you can remember other things, like maybe the color of orange juice, and then you can remember colors, and tastes, and sounds, and then suddenly you&rsquo;re back to being you again.&rdquo;
 
-He took a deep breath.  &ldquo;But remembering that stuff, pulling at that stuff--it&rsquo;s like pulling yourself up Mount Everest on a rope.  It&rsquo;s unbelievably exhausting.&rdquo;
+He took a deep breath.  &ldquo;But remembering that stuff, pulling at that stuff&mdash;it&rsquo;s like pulling yourself up Mount Everest on a rope.  It&rsquo;s unbelievably exhausting.&rdquo;
 
 He nodded towards the scientists on the other side of the glass. &ldquo;They can&rsquo;t figure out what it is.  When I transform, their instruments go crazy.  I radiate unbelievably strong, in all sorts of different wavelengths.  My absorption levels are nothing they&rsquo;ve ever seen. They suspect that I&rsquo;m even absorbing neutrinos, but of course they can&rsquo;t really test that.&rdquo;
 

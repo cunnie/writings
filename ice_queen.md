@@ -30,7 +30,7 @@ The man looked into the Queen&rsquo;s eyes as the Queen spoke, and the man felt 
 
 &ldquo;Yes, but also why they cannot protect me from him?&rdquo;
 
-&ldquo;Ah.  A two-pronged question, like the horns of a bull.  Allow me to address your first question: this domain is very pervasive--it is hard to put up a magical shield to protect oneself from the effects. There are other ways, of course, to make this place more hospitable. One way is to simply not be here, but rather have some proxy or avatar instead.  Of course, the avatar will be subject to the full effects, and will probably die.  Another way is to slow the passage of time.  There is a statue in the hallway downstairs of a wizard who realized he had stayed too long.  Knowing that he did not have time to leave, he merely made time stop.  For himself.  He will &rsquo;wake up&rsquo; when he is no longer here--he was good enough to work that into his spell.  I have occasionally thought of bringing him to the border of my domain, but for obvious reasons I cannot do that.&rdquo;
+&ldquo;Ah.  A two-pronged question, like the horns of a bull.  Allow me to address your first question: this domain is very pervasive&mdash;it is hard to put up a magical shield to protect oneself from the effects. There are other ways, of course, to make this place more hospitable. One way is to simply not be here, but rather have some proxy or avatar instead.  Of course, the avatar will be subject to the full effects, and will probably die.  Another way is to slow the passage of time.  There is a statue in the hallway downstairs of a wizard who realized he had stayed too long.  Knowing that he did not have time to leave, he merely made time stop.  For himself.  He will &rsquo;wake up&rsquo; when he is no longer here&mdash;he was good enough to work that into his spell.  I have occasionally thought of bringing him to the border of my domain, but for obvious reasons I cannot do that.&rdquo;
 
 &ldquo;You cannot leave here?&rdquo;
 
@@ -42,11 +42,11 @@ The Ice Queen smiled again, &ldquo;I cannot leave this place any more than you c
 
 &ldquo;But my skin is part of me.&rdquo;
 
-&ldquo;And this place is me.  This castle in which you stand, the snow through which you walked, this cold remote sky under which you slept--it is me.&rdquo;
+&ldquo;And this place is me.  This castle in which you stand, the snow through which you walked, this cold remote sky under which you slept&mdash;it is me.&rdquo;
 
 &ldquo;So if I killed you, you would not die.&rdquo;
 
-&ldquo;This conversation has taken an interesting turn.  If you were to destroy this part of me--this body of ice you see before you--then certain events would happen which are hard to describe.  I would feel pain, and I would be wounded, but by no means would I die.  It would be very, very difficult to destroy me.&rdquo;
+&ldquo;This conversation has taken an interesting turn.  If you were to destroy this part of me&mdash;this body of ice you see before you&mdash;then certain events would happen which are hard to describe.  I would feel pain, and I would be wounded, but by no means would I die.  It would be very, very difficult to destroy me.&rdquo;
 
 &ldquo;Very difficult?&rdquo;
 
@@ -66,7 +66,7 @@ The Ice Queen smiled, &ldquo;He is not my enemy any more than the mountain is th
 
 &ldquo;You did not answer my second question: why will not my magics continue to protect me?&rdquo;
 
-&ldquo;Ah, yes--the bull&rsquo;s second horn--why your magics will not protect you.  Your magics will protect you neither from him nor from this place.  They might help a little bit, in the short term, but you will be crushed in the long term.  There are weaknesses in simple magics.  Holes.  Your magic is full of holes, and his magics will cut through them.&rdquo;
+&ldquo;Ah, yes&mdash;the bull&rsquo;s second horn&mdash;why your magics will not protect you.  Your magics will protect you neither from him nor from this place.  They might help a little bit, in the short term, but you will be crushed in the long term.  There are weaknesses in simple magics.  Holes.  Your magic is full of holes, and his magics will cut through them.&rdquo;
 
 &ldquo;How much time do I have?&rdquo;
 
@@ -80,7 +80,7 @@ The Ice Queen smiled, &ldquo;He is not my enemy any more than the mountain is th
 
 The Ice Queen looked out over the parapet again, &ldquo;You misunderstand me,&rdquo; the Ice Queen said.  &ldquo;I cannot help you.  It is not something in which I have a choice.&rdquo;
 
-The queen continued, &ldquo;You must leave now; your magical defenses are buckling, and this land--I--will destroy you.  You have little time.&rdquo;
+The queen continued, &ldquo;You must leave now; your magical defenses are buckling, and this land&mdash;I&mdash;will destroy you.  You have little time.&rdquo;
 
 &ldquo;I am cold,&rdquo; said the man, &ldquo;Perhaps I could light a fire to warm myself before I go?&rdquo;
 
@@ -122,7 +122,7 @@ An older student looked at him and sneered, &ldquo;because the avatar died.&rdqu
 
 The wizard said, &ldquo;Perhaps the castle crumbled, or perhaps the Ice Queen indulged in a petulant slaying.  The flame, though, will still be burning.  Of that we can be sure.  Let us go then, you and I, to the Chamber of Mirrors.&rdquo;
 
-They tramped up the circular stairs to the Chamber of Mirrors.  The name, in a sense, was a misnomer, for there were no mirrors in the Chamber--there was only a small pool of water in the middle of the room.  The wizard and his students formed a ring around the pool and sat down.  The wizard thew some herbs over the water, passing his hands over the surface, muttering words under his breath.  The pool suddenly clouded over.
+They tramped up the circular stairs to the Chamber of Mirrors.  The name, in a sense, was a misnomer, for there were no mirrors in the Chamber&mdash;there was only a small pool of water in the middle of the room.  The wizard and his students formed a ring around the pool and sat down.  The wizard thew some herbs over the water, passing his hands over the surface, muttering words under his breath.  The pool suddenly clouded over.
 
 &ldquo;Odd,&rdquo; said the wizard.
 
@@ -140,9 +140,9 @@ The wizard looked at the clouded water, and slowly nodded his head, &ldquo;You m
 
 The wizard started absentmindedly fumbling in his pockets for the right materials while his mouth was already starting to form the words necessary to travel to the Ice Queen&rsquo;s domain.  The air became heavy, full of half-seen shapes.  A quiet groaning could be heard in the room.
 
-The room changed into a ship, though it was hard to pinpoint the exact moment of transition--it seemed that the room became more and more shiplike, and less and less roomlike.  The wizard continued muttering.
+The room changed into a ship, though it was hard to pinpoint the exact moment of transition&mdash;it seemed that the room became more and more shiplike, and less and less roomlike.  The wizard continued muttering.
 
-A wizard&rsquo;s ship does not sail on water but instead sails on air--a convenience much appreciated by magicians.  A smile actually cut across the Wizard&rsquo;s face--he was going to witness firsthand the destruction--the remains of the destruction--of his enemy the Ice Queen.  The destruction of his sworn enemy had two purposes.  The first, more obvious one, was the downfall of his enemy.  The second purpose was to cement his reputation as one of the greatest, if not the greatest, wizards of all time.  A smile played upon his lips.
+A wizard&rsquo;s ship does not sail on water but instead sails on air&mdash;a convenience much appreciated by magicians.  A smile actually cut across the Wizard&rsquo;s face&mdash;he was going to witness firsthand the destruction&mdash;the remains of the destruction&mdash;of his enemy the Ice Queen.  The destruction of his sworn enemy had two purposes.  The first, more obvious one, was the downfall of his enemy.  The second purpose was to cement his reputation as one of the greatest, if not the greatest, wizards of all time.  A smile played upon his lips.
 
 The ride went smoothly, the wizard continued to utter the chants necessary to keep the boat on course and at a reasonable clip.  Then he turned to the youngest student, &ldquo;Manage the boat for a while; I will rest.&rdquo;
 
@@ -157,11 +157,11 @@ The magician pulled some powder out of one of his pockets, muttered some words, 
 
 The effects were quick and decisive; the fog rolled back, and continued rolling back, almost as if it was running away from the ship.  And underneath that fog was water, clear bright water.
 
-&ldquo;Can you believe it?&rdquo; the wizard asked his students, &ldquo;Her domain was pure ice--there was no land underneath!  This sea that we see has never been seen before by human eyes.  I think I shall name it--I am generous in my victory--I shall name it the &lsquo;Ice Queen Sea&rsquo;, after my fallen foe.&rdquo;
+&ldquo;Can you believe it?&rdquo; the wizard asked his students, &ldquo;Her domain was pure ice&mdash;there was no land underneath!  This sea that we see has never been seen before by human eyes.  I think I shall name it&mdash;I am generous in my victory&mdash;I shall name it the &lsquo;Ice Queen Sea&rsquo;, after my fallen foe.&rdquo;
 
 The wizard laughed.  His victory was complete, his reputation made. All that remained was one task:
 
-&ldquo;My research has revealed that the Ice Queen has a heart--had a heart.  The heart had great magic, and should not have been destroyed in the fire.  I need to find the heart.  First, though, let us turn this air ship into a water ship, for a water ship will serve our purposes.&rdquo;
+&ldquo;My research has revealed that the Ice Queen has a heart&mdash;had a heart.  The heart had great magic, and should not have been destroyed in the fire.  I need to find the heart.  First, though, let us turn this air ship into a water ship, for a water ship will serve our purposes.&rdquo;
 
 He waved his arms and the air ship sank slowly until it came into contact with the water.  In a few moments the boat was rocking rhythmically with the waves and was an air ship no more.
 
@@ -177,9 +177,9 @@ Then the bird stopped, began to lose substance, turned into a thick dark cloud, 
 
 The wizard smiled; he enjoyed frightening his students.  He then dove off the end of the ship into the water.
 
-Down, down he swam.  He didn&rsquo;t need to breathe of course--he had taken care of the need to breathe a long time ago.  Along with the need to eat.  Sleep was still an unfortunate necessity, but there was time to work on that one.  Lots of time.
+Down, down he swam.  He didn&rsquo;t need to breathe of course&mdash;he had taken care of the need to breathe a long time ago.  Along with the need to eat.  Sleep was still an unfortunate necessity, but there was time to work on that one.  Lots of time.
 
-Down, down he swam.  He could feel the heart--its magical field was palpable.  It was terribly strong, stronger than he had imagined. He stopped a moment to wait for his students, but none of them had followed.  
+Down, down he swam.  He could feel the heart&mdash;its magical field was palpable.  It was terribly strong, stronger than he had imagined. He stopped a moment to wait for his students, but none of them had followed.
 
 &ldquo;Cowards,&rdquo; the wizard thought to himself, &ldquo;cowards, but not fools. This is a dangerous place.  Dangerous for them.  But fruitful for me.&rdquo;
 
@@ -197,7 +197,7 @@ He jerked around.  He guessed that one of his students was stupid enough to try 
 
 He heard nothing.
 
-&ldquo;Students!&rdquo; he spoke, &ldquo;come to me now!&rdquo;  He twisted the pendant that he wore--one that was woven from the strands of his students&rsquo; hair--as he spoke his commands.  His cowardly students could not help but obey; it was one of the prices they paid for studying under him.  And yet they did not come.
+&ldquo;Students!&rdquo; he spoke, &ldquo;come to me now!&rdquo;  He twisted the pendant that he wore&mdash;one that was woven from the strands of his students&rsquo; hair&mdash;as he spoke his commands.  His cowardly students could not help but obey; it was one of the prices they paid for studying under him.  And yet they did not come.
 
 &ldquo;Your students are dead,&rdquo; spoke the voice.
 
@@ -215,11 +215,11 @@ He frantically moved his hands to summon aid, and found that the water, previous
 
 &ldquo;You have made your last mistake,&rdquo; said the voice.  &ldquo;You tried to kill my sister, the Ice Queen.&rdquo;
 
-The voice continued, &ldquo;your plan was well conceived, except one fatal flaw: you assumed the melting of the Ice would destroy my sister. But it didn&rsquo;t--did you forget?  Water is melted ice; ice is frozen water.&rdquo;
+The voice continued, &ldquo;your plan was well conceived, except one fatal flaw: you assumed the melting of the Ice would destroy my sister. But it didn&rsquo;t&mdash;did you forget?  Water is melted ice; ice is frozen water.&rdquo;
 
 &ldquo;I am the Water King.  In some senses, I am also the Ice Queen.  We are different sides of the same coin.  Your silly ploy had the effect of putting her to sleep and waking me up.&rdquo;
 
-The wizard smiled, &ldquo;I made mistakes.  Such is obvious.  But you should be grateful--thanks to my work, you are now alive and free to roam the world.&rdquo;
+The wizard smiled, &ldquo;I made mistakes.  Such is obvious.  But you should be grateful&mdash;thanks to my work, you are now alive and free to roam the world.&rdquo;
 
 &ldquo;Silly man,&rdquo; spoke the voice, &ldquo;I was not dead; I was not imprisoned. I was merely slumbering while my sister walked the earth.  I owe you no gratitude.&rdquo;
 

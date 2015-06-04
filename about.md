@@ -492,9 +492,9 @@ Neal Shultz was not very tolerant of people who raised their hands in class with
 
 There was one group of people Neal hated more than people who raised their hands with the wrong answer: grade-grubbers. And there was someone in the class who was an unapologetic grade-grubber. Indeed, this person&rsquo;s pursuit of high grades was so unbridled that it even offended the other grade-grubbers. Yes, I&rsquo;m talking about Tom Morse, the student who, when he scored a perfect 100 on a chemistry exam, ran through the halls shouting, &ldquo;I pegged a ten-squared!&rdquo;
 
-This was too much for Neal, who had only scored a 98 on that exam, but who, even if he had scored 100, would have had the decency not to run through the hallways shouting his grade--he would have only told a few close friends. Well, maybe all his close friends.
+This was too much for Neal, who had only scored a 98 on that exam, but who, even if he had scored 100, would have had the decency not to run through the hallways shouting his grade&mdash;he would have only told a few close friends. Well, maybe all his close friends.
 
-Neal decided that something had to be done about Tom. So, after the next Chemistry exam, Neal and I snuck into the classroom and found the pile of graded tests. We quickly rifled through it until we found Tom&rsquo;s. He had done well--he had scored a 98. But by the time we were finished, Tom had scored a 88. Yes, Neal had taken a red ballpoint pen, identical to the one that the chemistry teacher used, marked several of the answers wrong (it&rsquo;s surprisingly easy to change a checkmark into an &ldquo;x&rdquo; and a &ldquo;98&rdquo; into an &ldquo;88&rdquo;).
+Neal decided that something had to be done about Tom. So, after the next Chemistry exam, Neal and I snuck into the classroom and found the pile of graded tests. We quickly rifled through it until we found Tom&rsquo;s. He had done well&mdash;he had scored a 98. But by the time we were finished, Tom had scored a 88. Yes, Neal had taken a red ballpoint pen, identical to the one that the chemistry teacher used, marked several of the answers wrong (it&rsquo;s surprisingly easy to change a checkmark into an &ldquo;x&rdquo; and a &ldquo;98&rdquo; into an &ldquo;88&rdquo;).
 
 The look on Tom Morse&rsquo;s face when he picked up his exam was priceless.
 

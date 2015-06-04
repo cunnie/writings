@@ -1,6 +1,6 @@
 ## Ugly
 
-She was one of those talented but homely women who raged at the injustice--she was great, so why did she have such a hard time getting the men she wanted?
+She was one of those talented but homely women who raged at the injustice&mdash;she was great, so why did she have such a hard time getting the men she wanted?
 
 Any guy could have told her the reason, but that type of brutal honesty is rare past junior high school.  Sure, that honesty is common when two men are talking between themselves about the girl, but rare when talking with the girl.
 
@@ -10,7 +10,7 @@ Eric was always restrained, but his friend was the opposite which was one of the
 
 Eric was a little uncomfortable because he didn&rsquo;t want to acknowledge that Paula may have wanted more from him than just discussions about music, &ldquo;Aw, she&rsquo;s okay.&rdquo;
 
-&ldquo;What are you saying dude--you wanna go out with her?  I&rsquo;ll call her up now and tell her--she&rsquo;ll be psyched!   I&rsquo;ll tell her, &rsquo;yo, Eric wants to date you, but he plays hard to get, so you gotta dog him all the time.&rsquo; &rdquo;
+&ldquo;What are you saying dude&mdash;you wanna go out with her?  I&rsquo;ll call her up now and tell her&mdash;she&rsquo;ll be psyched!   I&rsquo;ll tell her, &rsquo;yo, Eric wants to date you, but he plays hard to get, so you gotta dog him all the time.&rsquo; &rdquo;
 
 Eric smiled in spite of himself, &ldquo;Don&rsquo;t do that man; she&rsquo;s not my type.&rdquo;
 
