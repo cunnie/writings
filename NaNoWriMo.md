@@ -237,3 +237,71 @@ remember anything that happened more than a minute ago.
 The first thing he noticed was the boots, big ugly boots, the kind that rich
 people who go skiing use. They were clumsy and ugly, but at least his feet were
 warm.
+
+## The Blossoms of Gethsemane
+
+She knew it was going to get ugly.
+
+It was always ugly. Even when it wasn't ugly, when things went her way, it
+was never perfect — it never _quite_ went her way.
+
+And that seemed to bring out the best in her. She thought of her sister, fat,
+dumb, and happy. Well, maybe not happy. Her sister's husband had let himself go
+after the second kid. Her sister would say, "I married a Greek God, but now I'm
+married to a goddamn Greek!" and then laugh.
+
+But you could tell there was an undercurrent of dissatisfaction. Sure, her
+sister laughed, but that didn't mean everything was okay. Her husband had gotten
+fat. And, along with the fat, came a certain negligence with regard to grooming:
+his clothing was rumpled, he always wore t-shirts, and his shaving had become
+inconsistent (which is not a problem if you're a blond Norwegian, but is a
+problem if you're a swarthy Greek).
+
+Her sister's husband looked like an overworked Brooklyn building superintendent.
+
+She was surprised how easily her sister had come to terms with it. At times she
+wanted to shake her and say, "Lori, look at him, look at Dino! Is that who you
+want to be married to? Do you want to be married to a sweaty fat bald
+cigar-smoker who on a good day remembers to shower?"
+
+God, Dino drove her crazy. He used to be handsome, too. And quite the clothes
+horse. When he was in his twenties and thirties he was an Adonis: chiseled
+looks, and deep brown eyes you could swim in. But halfway in his forties things
+took a sharp left turn for the worse. He hadn't aged well.
+
+It wasn't about the aging. Well, it was a bit about the aging, but also how
+you dealt with it. Some people just gave up and let themselves go. But it didn't
+have to be that way. A small number of people were fighters. Yes, your body
+wants to change shape, and your skin wants to wrinkle, and your hair wants to
+turn white, but those are things you can fix, and, if not fix, mitigate.
+
+She had taken care of herself. It wasn't easy, she'd grant that. Gym every
+morning: treadmill, bicycle, and then the half-hour with her trainer.
+
+Her trainer — God he was hot. She had been working with him for the last two
+years. There was a period when their relationship began to become personal,
+when he shared about the overwhelming sense of loneliness that sometimes
+strikes him in mid-morning when he has no clients. She wanted to reach out and
+touch him, caress his head in her bosom, tell him that things were okay.
+
+But things shifted, and he never mentioned that again. She wished she had
+reached out to him that one time, that maybe their relationship would have
+broken through the client-trainer boundary and become more.
+
+She felt her face. Her forehead was smooth — the Botox was working well, and next
+treatment was three weeks away — but she was beginning to get a turkey wattle.
+Botox wouldn't fix that. Maybe she should try the surgery, a little nip-and-tuck
+to put things in their place. She had to be careful though — the last thing
+she wanted was to become one of those grotesque people who take plastic
+surgery too far. Still have the surgery, but keep a little bit of wattle, not
+too much.
+
+When she was twenty she would look at the plastic-surgeries-gone-wrong section
+of the gossip rags, gripped with a morbid fascination. "I'll never get plastic
+surgery! It's so fake — I'll never do it! I'll grow old gracefully, like Grace
+Kelly."
+
+It's easy to make pronouncements like that when you're twenty years old when
+your skin is as smooth as a Wisconsin lake at early dawn, but
+your perspective changes when your in your fifties and your skin is starting
+to sag and wrinkle.
