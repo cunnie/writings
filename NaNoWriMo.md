@@ -286,7 +286,7 @@ touch him, caress his head in her bosom, tell him that things were okay.
 
 But things shifted, and he never mentioned that again. She wished she had
 reached out to him that one time, that maybe their relationship would have
-broken through the client-trainer boundary and become more.
+broken through the client-trainer boundary and become something more.
 
 She felt her face. Her forehead was smooth — the Botox was working well, and next
 treatment was three weeks away — but she was beginning to get a turkey wattle.
