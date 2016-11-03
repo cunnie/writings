@@ -305,3 +305,146 @@ It's easy to make pronouncements like that when you're twenty years old when
 your skin is as smooth as a Wisconsin lake at early dawn, but
 your perspective changes when your in your fifties and your skin is starting
 to sag and wrinkle.
+
+She looked at her hands. The hands were the give-aways. That's the trick the
+carnies used to judge people's age — the hands. Over time the hands lose their
+baby fat, and the bones and veins become more pronounced. And it didn't help
+that there was a big liver spot in the middle of the back of her hand.
+
+She was in the elevator. Up, up, and up. Why were the executive offices
+always near the top floor? It meant executives spent more time in elevators.
+In a perfectly efficient world, the executives would be in the ground floor.
+It was about status: the view overlooking the city, the corner office. It was
+easy to dismiss these things as unimportant, as her father the engineer
+had a tendency to do. But these status symbols were important to some people,
+and thus they were important to her, too.
+
+She got off at her floor. She checked her phone: one minute early. Good. She
+detested being late. It was a lack of discipline that made people late. Her
+sister was chronically late. It didn't mean her sister was a bad person — quite
+the opposite: her sister was a wonderful person. She loved her sister. But
+loving someone didn't mean you turned a blind eye to their faults.
+
+She opened the door. Everyone was there. Good. They were a good team.
+It was going to be a tough meeting.
+
+"Gentlemen," she said, and then nodded to Rebecca, "Lady."
+
+She took her seat. "We're all here. Let's start, shall we?"
+
+The meeting began. A legal issue in a business unit, which, if not
+handled correctly, could force her to resign or, even worse, sink the
+company.
+
+A bull-faced man was talking. The head of global sales, a big blustering man.
+He began talking louder, then pointed at Ned,
+the man who ran the business unit with the legal problem.
+
+She stepped in, "You raise a good point: it's worthwhile to explore
+what led up to this issue, and we'll examine that in a later meeting.
+Let's focus on how to fix the problem right now."
+
+Dealing with him was tricky — he was an alpha male-type. It meant he needed to
+be put in his place periodically. Surprisingly, it seemed that he _wanted_ to be
+put in his place: it confirmed the existing hierarchy. But putting him in
+his place needed to be done with the utmost delicacy, without impugning his
+character or diminishing his dignity. He was good at what he did, and it would
+be unfortunate to lose him.
+
+It helped that she was a woman; he didn't feel threatened by a woman, but he
+had had a hard time being put in his place by a man. The previous CEO was a
+man, and that made for some very rocky meetings: he had resigned on at least
+one occasion.
+
+Yes, that was the dirty secret of feminism: sometimes being a woman made it
+_easier_ to be the leader of men because it short-circuited the male competitive
+drive.
+
+The meeting continued. She mostly listened. She did step in once when she sensed
+the beginning of a feeding frenzy around Ned. She didn't like when people ganged
+up on each other. It was bad for business and rarely accomplished anything.
+There was a hint of savage when it happened, and she had a strong dislike of
+anything savage.
+
+In some ways handling the problem was easy because there were many constraints.
+Obeying the law, for example. They didn't have a choice. They needed to appear
+as cooperative as possible, so no document-shredding, no email-deleting. The
+best approach always was, "We're sorry, we made a mistake, we're going to do
+our best to make it better."
+
+The solution was simple: they were going to spend lots of money making things
+better. Lots of money. Not enough to bankrupt the company, but enough to hurt.
+The bonuses were going to be small this year, and everyone in the room knew
+that. There was the miasma of sadness and loss in the room.
+
+Her mentor, the previous CEO, had said to her, "Remember: when you have a problem,
+and it can be fixed with money, you don't have a problem — you have an expense."
+Right now she had an expense. A very big expense.
+
+The purpose of the meeting had been to achieve consensus, and consensus had
+been achieved.
+
+The meeting adjourned. She asked, "Ned, could you please stay."
+
+Everyone else in the room had left. Ned began stammering, saying that accidentally
+the waivers had been signed.
+
+She waved her hand, "Let's not worry about the waivers for a minute. I have a
+few questions about what was going on."
+
+Ned said that he couldn't talk about it, that it was a project for the military
+and that it was top-secret.
+
+She said, "Ned, I'm not asking you to reveal anything that's classified. I'm merely
+trying to understand what exactly happened."
+
+He seemed relieved, then nervous.
+
+She said simply, "The notes we have indicated that someone died. Did someone die?"
+
+He said, "Yes. No. We're not sure."
+
+"Was there a specific person or persons who died?"
+
+"There was one specific person who may or may not have died."
+
+"Is there a body?"
+
+"No."
+
+"There's no body?"
+
+"Not really, no."
+
+"So he or she might be walking around in New York somewhere."
+
+Ned chuckled and then stopped. "He's a he — I think I can say that — and he's
+definitely not walking around New York."
+
+"Was the body accidentally destroyed as part of the experiment?"
+
+"'Destroyed' is probably not quite the right word. Maybe 'transformed' or
+'transmogrified'"
+
+"The body was transformed into something else, something not a body."
+
+"Yes."
+
+She put her hand on his forearm and leaned in conspiratorially, a somewhat
+calculated move on her part, smiled and asked, "Was what he was transformed
+into animal, mineral, or vegetable?"
+
+He smiled back and said, "None of the above."
+
+"Really?"
+
+"Really."
+
+It was at that moment that she decided she was going to learn more about
+what exactly this project was. She knew that this was irresponsible on
+her part, that she was tasked with running a company and the last thing
+she should allow herself to do is get lost in the weeds to satisfy her
+curiosity. Two weeks. She'd time-box her exploration to two weeks, so it
+wouldn't get out of hand.
+
+"Ned," she asked, "how do I go about getting top-secret clearance?"
