@@ -623,3 +623,142 @@ on her not having the balls to shut down the project, he was
 wrong. She was willing to take the hit. Too risky. The board
 would back her, too. Besides, her mentor was now the chairman.
 He understood risk.
+
+She dashed off a quick email to Ned saying to prepare to shut
+down the project, then got in the car.
+
+She hadn't even left the base when her phone rang. She looked
+at the callerid — it said, "911". She answered it.
+
+The voice on the other end said, "Hello Julia, I'm General Gates."
+
+"General Gates? What an unexpected pleasure."
+
+"Thank you Julia. I'm going to ask you a favor — 500 feet
+from where you are now, there's a blue hangar on the left.
+The doors are open. I want you to drive through the doors."
+
+"I'd like to ask about the..."
+
+General Gates interrupted her, "We can talk when you're in
+the blue hangar, not before. Thank you for your consideration."
+
+"Ok."
+
+General Gates had a strange voice, oddly melodic, and yet not
+quite human. It sounded like ten people saying the exact same
+thing at the exact same time. Or maybe a hundred people.
+
+She found the hangar, took a left, and drove through its
+double doors.
+
+The hangar was dark, but as her car passed through the
+doors two things happened: 3 overhead lights flicked on, and
+the doors closed.
+
+"General, the doors are closing behind me."
+
+There was a pause. She looked at her phone: no signal.
+
+Suddenly there were five bars. And her phone rang again.
+"911" again.
+
+She answered it. "What was that about?"
+
+"You spoke with Taggart about risk and about mitigation. In
+my position it's all about risk and mitigation. Risks that to
+you may appear inconsequential, but to me border on gross
+negligence. For example, we're talking on your cellphone,
+right?"
+
+"Right!"
+
+"And your provider is Verizon, right?"
+
+"Right!"
+
+"And we're talking over Verizon's network, right?"
+
+"Right!"
+
+"Wrong. We're not talking on Verizon's network. This hangar is a Faraday cage —
+no cell phone traffic comes in or out of this hangar. The electromagnetic waves
+can't break past the cage. In this hangar is a fake cell phone tower. The  fake
+cell phone tower masquerades as a Verizon tower, and is connected to a secure
+fiber trunk line  which encrypts all communications coming inside our outside
+the building."
+
+"What?"
+
+"It's about mitigating risk. We don't want our conversation eavesdropped.
+If it is eavesdropped, we want it encrypted so they can't make sense out of
+it. In spite of those precautions, I'm taking a grave risk speaking to you."
+
+The general continued. "Our initial conversation took place over the public
+network. That will be the last time we will have a conversation on a public
+network."
+
+"What if I need to get in touch with you?"
+
+"You will not get in touch with me; I will get in touch with you."
+
+She thought to herself for a second, and then grunted.
+
+"You will not shut down the project."
+
+She laughed. She said, "I've already had this conversation with Colonel Taggart."
+
+"I am not Taggart, and you will not shut this project down."
+
+"General Gates, with all due respect this project is a disaster waiting to happen,
+and my company can't afford a disaster."
+
+"Julia, you mentioned you wanted to understand what happened to the project.
+We — I — are prepared to give you access to the project, to allow you to talk
+with the scientists, but there are things you must understand."
+
+"Yes?"
+
+"You may not repeat anything that the scientists tell you. You may not repeat
+what one scientist on the project has told you to another scientist on the
+project. You may not 'hint' to anyone anything about the project. You may not
+mention that you've been given access to the project. You may not tell Ned that
+you've been given access to the project. You may not write anything down
+about the project. You may not write notes on your phone or your computer.
+You may not punch in addresses to navigate to on your phone, GPS, or computer.
+You are familiar with the blackout period leading up to the release of a
+company's financials? This is similar, except that it's much blacker,
+and it never ends. Are we clear?"
+
+"General, this seems a bit overboard..."
+
+He interrupted again. "Are we clear?"
+
+"We are clear, as clear as an azure sky of deepest summer."
+
+General Gates chuckled. "Don't think that Clockwork Orange reference went
+unnoticed. The thing to remember is that things didn't work out well for Alex,
+but we want them to work out well for you. Hew to the path, Julia; it's quite
+important."
+
+"I will, sir." She said.
+
+The phone went dead. No bars. The hangar doors behind her opened up. She backed
+out of the hangar, and continued her drive to the airport.
+
+---
+
+She sat in coach. She travelled mostly in coach, sometimes in business class, but
+mostly in coach. She wanted to set the example for her company. Frugal. She
+had seen some companies go overboard, "sucking on the corporate teat," was how
+her mentor had described it.
+
+She didn't begrudge her people flying business, but never first class, not even
+on the long Asia flights. If they used their points to upgrade, well that was
+their prerogative. But the company was only going to pay for business class.
+
+It was curious: Sales and Marketing tended to spend proportionally much larger
+amounts on flights, meals, entertainment, conferences, than the engineers and
+scientists, who spent at times unbelievably little. But the scientists and engineers
+would kill you on the capital expenditures. Engineering was expensive. Salaries
+were much of it, but capital expenditures was a close second.
