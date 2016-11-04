@@ -526,3 +526,100 @@ Ned gave a funny look.
 "Well, give me someone I can meet."
 
 "There's a bird colonel. Taggart."
+
+"Would you be kind enough to set up a meeting?"
+
+"Sure," he said, "I'll do it."
+
+She knew he'd do it. he knew he was in the hot seat, and
+he believed that she would protect him, that she had his back.
+And he was right, too — she would protect him, or at least
+do her best. She found that when people  had a guardian it
+inspired a fierce sense of loyalty. Ned would do what it
+took to get her to see Colonel Taggart.
+
+---
+
+It was a week later, and they were in an army base in
+New Jersey.
+
+"Pardon my surprise, but I thought Congress had
+shut the base down a couple of years ago."
+
+Colonel Taggart looked across the table at her and said,
+"They _did_ shut it down a couple of years ago. We're the
+clean-up crew." then he smiled to himself.
+
+He continued, "I know you're busy; I know I'm busy, so
+why did you come all the way here?"
+
+"I need to know what happened."
+
+"The people who need to know already know."
+
+"Colonel Taggart," she said, "I'm asking you
+to appreciate the position I'm in: I'm the final
+custodian of risk. When someone dies using one of
+our products, we need to make sure that we're doing
+the utmost to make sure it doesn't happen again.
+Except I can't make sure it doesn't happen again
+because no one can tell me what happened and
+even worse no is sure what happened."
+
+"The people who need to know, already know," he
+repeated.
+
+"I'm shutting down the project," she said.
+
+That got his attention. She knew she had a hunch she'd
+have to play that card.
+
+"You can't shut down the project."
+
+"Actually I can," she said. "My counsel has reviewed
+the project's contract."
+
+"There's a penalty for early termination," he sputtered.
+
+"Yes, there's a steep financial penalty. It'll certainly
+hurt the company," she said. "I don't see another choice.
+I can't have a second death. We need to understand what's
+going on."
+
+She lowered her tone, "Colonel, in civilian life there
+are terrible repercussions when people die. People go
+to jail, companies are shuttered. As the steward of this
+company, I can't allow a second person to die on my watch.
+Not only is it harmful to the company, but it's not the
+right thing."
+
+The colonel held his jaw tight. "What do you think
+you'll find? A smoking gun? A device that has a tendency to
+explode? Loose, uninsulated wiring that electrocutes people?
+There's no carelessness, no negligence."
+
+"Let me be the judge of that."
+
+"You're not getting project clearance."
+
+"That's your decision, Colonel."
+
+"And you're not shutting the project down, either."
+
+"That is my decision, not yours."
+
+He began talking loudly about national security and ground-breaking
+research. She let him go on.
+
+"I think we're done here, Colonel."
+
+The Colonel shook his head. "Don't touch the project."
+
+"I'll do what I must to protect the company."
+
+She picked up her things and walked out the door. The meeting
+hadn't gone as she had hoped, but if the Colonel was banking
+on her not having the balls to shut down the project, he was
+wrong. She was willing to take the hit. Too risky. The board
+would back her, too. Besides, her mentor was now the chairman.
+He understood risk.
