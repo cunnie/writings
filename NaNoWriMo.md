@@ -448,3 +448,81 @@ curiosity. Two weeks. She'd time-box her exploration to two weeks, so it
 wouldn't get out of hand.
 
 "Ned," she asked, "how do I go about getting top-secret clearance?"
+
+## The Vale of Tears
+
+It wasn't hard getting Top Secret clearance — there were tedious chores,
+such as getting fingerprinted, filling out a 20-page questionnaire, and
+then there was the waiting while the FBI interviewed her friends to
+discover if she had a gambling problem, a drug problem, or anything that
+might lend her to blackmail.
+
+She kept busy. The good thing about being a CEO: there was no shortage of
+work to be done. She spent a lot of time in planes.
+
+When the clearance finally came through, she summoned Ned to her
+office. "Alright, now you can tell me everything."
+
+He said, "You already know everything that I know."
+
+"What?"
+
+"That's pretty much all I know: that they think a guy died, and that
+it was using our equipment."
+
+"Then what does the Top Secret clearance buy me?"
+
+"It buys this: I can tell you, 'that's all I know'."
+
+"I thought you ran the division."
+
+"I do, but it's a lot of military stuff. This particular unit
+is fairly opaque — other than the fact that they're pulling in
+good money from the Department of Homeland Security, I don't know
+much about what's going on."
+
+"C'mon Ned, that sounds dangerously close to negligence."
+
+"I know; look, I wanted to find out more about what they're doing,
+but I was being blocked at every turn. It's not good enough to
+have clearance, you must have need-to-know clearance."
+
+"And you didn't have that?"
+
+"I'm a manager, not a scientist. They didn't think I needed to know.
+I pushed pretty hard once, too, but they made it clear that they
+might pull the contract, and I didn't want to be the guy who killed
+the goose that laid the golden egg."
+
+He continued, "Look, I screwed up, I know. But I trusted my guys. They said  it
+was okay, they said nobody should get hurt. I've been with  them for years, I've
+been to their houses, I know the name of their wives and children. And believe
+me, these guys are torn up — they can't believe what happened either. One of
+them said to me, 'Ned, I can't say more than this, but this shouldn't have
+happened, we don't quite know what happened, and we may never know what
+happened."
+
+"How can they not know what happened?"
+
+"Crazy, isn't it?"
+
+"Who's the customer? Who's running the champion?"
+
+"General Randall W. Gates."
+
+"Have I met him?"
+
+"Probably not. He's not much of a meet-and-greet guy. He's
+strictly business. Smart, too. Crisp."
+
+"I want to meet with him."
+
+Ned gave a funny look.
+
+"What, you've never met him?"
+
+"I've met some of his people, but I've never met him."
+
+"Well, give me someone I can meet."
+
+"There's a bird colonel. Taggart."
