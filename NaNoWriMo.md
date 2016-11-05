@@ -716,7 +716,21 @@ unnoticed. The thing to remember is that things didn't work out well for Alex,
 but we want them to work out well for you. Hew to the path, Julia; it's quite
 important."
 
-"I will, sir." She said.
+"I will, sir." She said. "I need to know the next step."
+
+He chuckled.
+
+"I need to know what I can expect, and when I can expect it. I need to know when
+I'll have access to the project."
+
+Her mentor had said, "Always ask 'when?'. If they can't tell you, then ask them,
+'When will you be able to tell me when?'"
+
+"Fair enough, Julia. Monday, two weeks from today, A man will meet you at 8am in
+your office. You will leave your cellphone at your office. He will be driving a
+windowless van. You will sit in the back of the van. It will be comfortable, but
+there will be no windows. You will be driven in the van for approximately 5
+hours.
 
 The phone went dead. No bars. The hangar doors behind her opened up. She backed
 out of the hangar, and continued her drive to the airport.
@@ -761,6 +775,105 @@ It wasn't sexual, her relationship, not sexual at all. There was one time, too
 late, she had been tired, and besides nothing had happened. Nothing at all.
 
 Their relationship wasnm't sexual, but he yearned for something from her. Was it
-the unconditional love of a mother? Was it acknowledgement of his success.
+the unconditional love of a mother? Was it acknowledgement of his talent?
 
-She wasn't stingy with her praise, but she wasn't over-the-top, either.
+She wasn't stingy with her praise, but she wasn't over-the-top, either. Early in
+her career she tended to be over-the-top, but it merely debased the currency of
+her praise, and she adjusted accordingly.
+
+She made it clear that he was valued, not only in those _pro forma_ yearly
+performance appraisals, but more importantly in the special way when you come to
+someone with a problem. Earlier last week, for example, she walked into his
+office and said, "John, we're having trouble in Support with the EMC account —
+the Support organization is fixing some of it on their end, but I'm wondering if
+you could smooth any waves on the executive side before it gets out of hand?"
+
+Asking people for help was important — it helped made them feel valued. But it
+had to be something you couldn't do yourself — "Could you please get me a cup of
+coffee?" did not engender feelings of being appreciated.
+
+And there was the mom-thing. For better or worse, when younger men reported to
+you, they projected feelings about their mother onto you. It was a tricky dance:
+on one hand,  in a strange way, they loved you, they trusted you. On another
+hand, a professional relationship was not a mother-son relationship — those are
+different beasts. And you needed your guard up.
+
+She remembered one particularly difficult employee. Only after he had left the
+company did she discover that he had been estranged from his mother for the last
+ten years. Sigh. There was a reason to keep one's private and professional lives
+separate, but some people could not but help drag their emotional baggage into
+work, and this employee was one of them.
+
+She remembered being in her mentor's office, "I'm having a problem with an
+employee."
+
+He said, "Close the door."
+
+After the door was closed, he said, "What's going on Julia?"
+
+"He's disruptive at the office. He's inappropriate with customers, and," she
+paused, and then blurted, "He undermines my authority. He interrupts me
+constantly at meetings. And other ways, too."
+
+"Other ways?"
+
+"Two of my other reps came to me and said that he said that the only reason I
+got the job was because..."
+
+"Yes?"
+
+"because you and I were having an affair," she blurted out.
+
+Her mentor twitched, "That's what they're saying?"
+
+"That's what _he_ is saying."
+
+They both sat in silence. There never had been anything sexual between them. She
+was originally drawn to him because of his hands — his hands reminded her  of
+her father's hands: strong but not too rough. And other things about him
+reminded her of her father: he was gentle but also firm. She had reported to him
+early in her career, and they clicked right away, and he took her under his
+wing. She couldn't explain it, but somehow she _trusted_ him from day one. And
+he trusted her.
+
+He spoke up, "As disturbing as this is, this type of salacious rumor-mongering
+is not a good enough reason to terminate someone. It's a lesser sin than
+undermining your authority in front of the other subordinates — that is bad. Is
+there anything else he has done?"
+
+"He once set me up for an ambush."
+
+"How so?"
+
+"He arranged a meeting between him, me, and his second biggest client. One of
+the topics he asked me to bring up was to migrate the client from the old
+B-Style contract to the new C-style contract. When I brought it up, the client
+was so angry that he walked out of the meeting. I found out later that he _knew_
+the client was adamantly opposed to changing the contract, but he had never
+told. He set me up."
+
+"How is he as a sales rep?"
+
+"He's mediocre, but he's not incompetent."
+
+Her mentor paused. "He's probably not worth transferring to another group. Have
+you spoken with him?"
+
+"Yes. And I've put him on a performance plan, too."
+
+"Good. That was my next question. And he still undermines you?"
+
+"Yes."
+
+"That's a problem. We can't have that. It makes you look weak, and your other
+subordinates may wonder why you're not doing anything about it. He is one of
+your reps, right? Has a quota? Bump it up."
+
+"Bump it up?"
+
+"Bump it up enough so that he can't make it. And use that as grounds for
+dismissal. Also, you'll need to justify bumping up the quota, so give him a few
+extra accounts. Give him dead ones, that he has no chance of selling into. If
+he's a miracle worker and brings in those accounts, that's great — you'll have a
+bigger bonus that quarter. But use that as a reason to bump up his quota again.
+He'll be gone in three months, six months on the outside."
