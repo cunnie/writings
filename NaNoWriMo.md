@@ -849,8 +849,8 @@ there anything else he has done?"
 the topics he asked me to bring up was to migrate the client from the old
 B-Style contract to the new C-style contract. When I brought it up, the client
 was so angry that he walked out of the meeting. I found out later that he _knew_
-the client was adamantly opposed to changing the contract, but he had never
-told. He set me up."
+the client was adamantly opposed to changing the contract, but he had never told
+me. He set me up."
 
 "How is he as a sales rep?"
 
@@ -877,3 +877,31 @@ extra accounts. Give him dead ones, that he has no chance of selling into. If
 he's a miracle worker and brings in those accounts, that's great — you'll have a
 bigger bonus that quarter. But use that as a reason to bump up his quota again.
 He'll be gone in three months, six months on the outside."
+
+"I wish I could just fire him"
+
+"Yeah, in the old days it was easier getting rid of the bad eggs, unless they
+were union. If they were union it was next to impossible to get rid of them.
+With him, you need to be careful — you don't want to give him grounds for a
+lawsuit when he's dismissed. You want to make it look like we've been fair and
+even-handed, and we dismissed him for performance reasons. It has to look fair,
+that we followed procedures. It works like this: you know this guy is bad news;
+I know this guy is bad news, and the guy probably suspects he's bad news. He
+does more harm than good to the corporation. But knowing someone is bad news
+isn't quantifiable, it doesn't lend itself as a reason to dismiss. We can't
+write 'Bad News' on a piece of paper, stick it in his personnel file, and then
+dismiss him. Instead, we play the game: we set performance expectations, show
+that he hasn't met them, and only then dismiss him. We protect the company from
+retaliation."
+
+He added, "There's something you should know about firing people — it never
+feels good afterwards. I'm always haunted by doubt — maybe there's something I
+could have done to salvage the situation. Firing someone is always the last
+resort, only to be used when all other options have been exhausted. In this
+case, I think firing is the right choice."
+
+They sat in silence a little longer.
+
+"Anything else?" he asked.
+
+She shook her head.
