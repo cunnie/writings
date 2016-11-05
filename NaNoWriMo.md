@@ -748,8 +748,8 @@ out of the hangar, and continued her drive to the airport.
 
 ---
 
-She sat in coach. She travelled mostly in coach, sometimes in business class, but
-mostly in coach. She wanted to set the example for her company. Frugal. She
+She sat in coach. She travelled mostly in coach, sometimes in business class,
+but mostly in coach. She wanted to set the example for her company. Frugal. She
 had seen some companies go overboard, "sucking on the corporate teat," was how
 her mentor had described it.
 
@@ -759,6 +759,35 @@ their prerogative. But the company was only going to pay for business class.
 
 It was curious: Sales and Marketing tended to spend proportionally much larger
 amounts on flights, meals, entertainment, conferences, than the engineers and
-scientists, who spent at times unbelievably little. But the scientists and engineers
-would kill you on the capital expenditures. Engineering was expensive. Salaries
-were much of it, but capital expenditures was a close second.
+scientists, who spent at times unbelievably little. But the scientists and
+engineers would kill you on the capital expenditures. Engineering was expensive.
+Salaries were much of it, but capital expenditures was a close second.
+
+She thought of the head of Global Sales. He always travelled business
+class. He was a large man, and business class made a big difference.
+
+She smiled. She couldn't help but like John. Heck, that's one of the reasons he
+was so effective in Sales. He could say the most outrageous things and, with a
+wink and a smile, get away with it.
+
+She frequently travelled with John when they called upon their enterprise
+customers. Sometimes she'd fly in business class with John, but other
+times she sat back in coach.
+
+He didn't like that, when she sat back in coach. He didn't like that, but
+not enough to change his ticket, so she used that time
+to work on other things, sometimes personnel issues, sometimes financial.
+
+He was a warm person, and she was reserved. He was drawn to that,
+the reservation. She was never quite within his grasp, and it
+made him try harder to make her like him.
+
+It wasn't sexual, her relationship, not sexual at all.
+There was one time, too late, she had been tired, and besides
+nothing had happened. Nothing at all.
+
+Their relationship wasnm't sexual, but he yearned for something
+from her. Was it the unconditional love of a mother? Was it
+acknowledgement of his success.
+
+She wasn't stingy with her praise, but she wasn't over-the-top, either.
