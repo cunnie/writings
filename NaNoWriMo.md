@@ -1,4 +1,4 @@
-## The Blossoms of Gethsemane
+## The Eyes of the Blind Shall Be Opened
 
 She knew it was going to get ugly.
 
@@ -827,3 +827,49 @@ extremely dense on information. Dr. Bernstein's papers were among the best.
 "Oh yes, the project" he said. "Well, the short version is this: we're using
 long cycle low-power electromagnetic fields to shape sympathetic receptors in
 the human brain."
+
+"Sympathetic?"
+
+"Sympathetic to high frequency electromagnetic waves."
+
+"Not low frequency?"
+
+He smiled. "The human skull is too small to fit an antenna that handles low
+frequency waves. And by low frequency, I mean any wavelength under 10GHz. Look,
+let's say we wanted to listen to AM Radio, which is 535kHz at the bottom of the
+scale, and let's say we  wanted to have a 1/8 length antenna — it would need to
+be over 200 feet! We can't fit that in a human skull. Let's try something more
+reasonable — let's try a cell phone antenna. Typically the low-end of the cell
+phone spectrum is 700MHz, which means the antenna would need to be about two
+inches — that's something you can easily fit inside a cell phone case. Actually,
+outside the case would be better, but now we're getting way off topic."
+
+She asked, "What affects the length of the antenna?"
+
+"Oh yes, sorry, let me backtrack. I was talking about frequency, which is
+inversely proportional to the wavelength, and that's what's important — the
+wavelength. The longer the wavelength, the longer your antenna needs to be to
+pick it up."
+
+He was on a roll: "Short wavelengths get blocked fairly easily. That's a
+generalization, but it's a good rule of thumb. That's one of the reasons why
+5GHz WiFi doesn't travel through walls as well as 2.4GHz. If you dig deep, you
+find it's more complicated, and it depends on the property of the material
+that's blocking, but like I said, it's a good rule of thumb."
+
+"Long radio waves are almost unblockable". The difficulty with them is that they
+have low bandwidth. Let's take the nuclear subs, for example. They drag a wire
+behind them that's a couple of miles long. That's so they can pick up an 8kHz
+signal — the nuclear launch codes. It'll take a couple of minutes to transmit
+the entire code, but who cares? As long as it gets through then the missiles get
+launched. And you can't block the signal."
+
+"As a side note: I hope that those antennae — they can also be called
+'antennas', but I always like to use the Latin plural. 'Antenna' is a first
+declension noun. Did I mention I took four years of Latin at St. Ignatius Prep?
+Yes, a Jew in a Jesuit school — I wasn't the first, and I won't be the last.
+'Hybrid vigor' I call it, though from an intellectual standpoint than a genetic
+standpoint."
+
+She found herself completely drawn in by him, his enthusiasm, his leap from
+topic to topic, his wealth of knowledge.
