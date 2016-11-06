@@ -729,8 +729,8 @@ Her mentor had said, "Always ask 'when?'. If they can't tell you, then ask them,
 "Fair enough, Julia. Monday, two weeks from today, A man will meet you at 8am in
 your office. You will leave your cellphone at your office. He will be driving a
 windowless van. You will sit in the back of the van. It will be comfortable, but
-there will be no windows. You will be driven in the van for approximately 5
-hours.
+there will be no windows. You will be driven in the van for approximately 2
+hours. You will have six hours to interview the scientists on the project.
 
 The phone went dead. No bars. The hangar doors behind her opened up. She backed
 out of the hangar, and continued her drive to the airport.
@@ -910,7 +910,157 @@ He nodded.
 
 ---
 
-The week flew by. And advantage of being CEO was that there was no end of work to be done. It bled a little bit into the weekend, but she sequestered work to very specifi time periods.
+The week flew by. And advantage of being CEO was that there was no end of work
+to be done. It bled a little bit into the weekend, but she sequestered work to
+very specific time periods. It allowed her to be responsive and still preserve
+time for herself.
 
 The 40-hour work week did not apply to CEOs, financiers, shop owners, high-level
-executives, sales reps, scientists, or most professions it seemed. It was an illusion, an aspiration. She remembered the first-time she saw the book titled, "The 4-hour work week", by Timothy Ferris
+executives, sales reps, scientists, or most professions it seemed. It was an
+illusion, an aspiration. She remembered the first-time she saw the book titled,
+"The 4-hour Work Week" — she almost burst out laughing. It was for sale in a
+bookstore in an airport. She looked around — clearly the book's target audience
+were harried businessmen and businesswomen hoping to magically free up time. It
+was similar to the tabloids in the supermarket check-out that touted, "The Ice
+Cream diet: eat all the ice cream you want and still lose weight!" They were con
+jobs that differed only in their sophistication.
+
+She had cleared her schedule for all of Monday. She had been at work since 7am
+polishing some last minute details. At 8am sharp she received a call from the
+security desk saying someone was here to see her.
+
+She put everything away and went downstairs. She was surprised to find that the
+person waiting for her was not a man dressed like a Secret Service agent with
+black sunglasses. Instead, it was a young women dressed casually.
+
+"I'll be your driver today," she said. They exited the building together; the
+van was parked in front.
+
+"Before we leave, I'll need your cell phone, your tablet, your laptop, and any
+other electronic device you might have. You may want to turn them off before you
+give them to me — they will most likely drain their batteries searching for a
+signal."
+
+Julia turned her cellphone off and her laptop and gave both of them to the
+driver, who put them in a briefcase-sized black box.
+
+"Faraday cage?" Julia asked.
+
+The driver nodded.
+
+"I need to ask you one more time if there's any electronic device that you have
+forgotten to give me. I must also remind you that failure to turn over an
+electronic device constitutes a violation of the Patriot Act, for which the
+penalty can be fine or imprisonment. Do I have all your electronic devices?"
+
+"You have all my electronic devices."
+
+"Good." The drive slid open the side panel of the van. The van had two rows
+seats and no windows. And no magazines.
+
+Julia stepped inside, sat in the front row. There was an opaque barrier between
+the inside of the van and the driver in front. She could see nothing outside the
+van.
+
+She felt a sense of disorientation — without her laptop, without her cell,
+without a window to look out, there was nothing to do. After five minutes she
+moved to the longer rear seat, stretched out, and took a nap.
+
+The sliding of the door woke her. "We're here," said the driver.
+
+Julia sat up. She took the mirror out of her purse and checked herself. She
+didn't spend much time grooming, and she was spare when it came to make-up, but
+it was important not to be unkempt. No bed-hair. Good. She snapped the mirror
+shut, put it in her bag, and exited the van.
+
+They were in a large hangar. "What's with the hangars?" she thought to herself.
+"It's always a hangar."
+
+"Follow me," said the driver. She walked to the door at the end of the hangar,
+waved a badge, and was buzzed in. Inside there was a checkpoint with two armed
+soldiers. One soldier was watching them, the other soldier was watching a
+screen.
+
+The driver put her hand on a glass panel inset into the desk. A green light
+flickered under the glass panel, and a soldier nodded.
+
+"You need to place your hands on the glass. Make sure your prints touch the
+surface. You might find it helpful to splay your fingers to that the thumbprints
+are visible."
+
+Julia did as the driver instructed. She noticed that the glass was clear, free
+of fingerprints or smudges, probably some type of oleophobic material. The green
+light flickered, the soldier looked at his screen, then nodded.
+
+"Follow me," said the driver. They walked through a set of double doors into a
+corridor.
+
+"Do you need to use the restroom or would you like some water before we begin?"
+
+Julia shook her head.
+
+"Good, then I'll introduce you to the first scientist."
+
+She opened a door to the right and began walking down another hallway, this one
+with large glass panels showing the lab to the right. Julia recognized her
+company's equipment — the logo was easily identifiable. A man in a labcoat was
+adjusting the dials on one of the pieces of equipment.
+
+The driver knocked on the door, and then opened it. "Dr. Bernstein? Ms. Chou is
+here to see you."
+
+The scientist, though in his mid-forties, had a boyishness to him. He held up
+his hand, "I'll be with you in a second — I just need to make this one setting."
+
+He carefully set the dial, then walked, almost bounced, over to Julia.
+
+"Hi," he said, "You can call me Max. We don't need need to be formal here. Sorry
+to keep you waiting, but if I hadn't made that adjustment right then, I would
+have had to re-start the experiment, which means I would have lost sixteen
+hours."
+
+The driver interrupted, "Dr. Bernstein, please buzz me when you have finished
+with Ms. Chou so that I may escort her to the next interview. And, this applies
+to you, too, Ms. Chou: please do not discuss any classified information in my
+presence."
+
+"Of course, of course," said Dr. Bernstein. "You may call me Max."
+
+The driver nodded and then left the room.
+
+"I always tell her to call me Max, and she insists on calling me Dr. Bernstein,"
+said Max. "The military is such an odd organization, so formal. And
+hierarchical."
+
+"I must confess I'm pleased to meet you," said Julia. "I've read some of your
+papers. The one published in _Nature_ was particularly impressive, as was the
+one in _Scientific American_. Some of the more technical aspects were beyond me,
+I'm sorry to say."
+
+"You've read my papers?" He noticeably brightened. "Us scientists spend so much
+time researching, and then writing papers, but sometimes we wonder if they have
+any impact outside our rather small community.  So much work, but the audience
+is maybe fifty, maybe a couple of hundred other scientists at most. At times it
+feels like stuffing messages in a bottle and throwing them out into the ocean
+hoping that someone, somewhere will read it and find it useful."
+
+Julia smiled. She had a genuine interest in her employees. Although she no
+longer had time to interview every new hire, she made sure to review their
+resumes. And she had a soft spot for scientists and engineers — her father had
+been an engineer, and she had been one too at the beginning of her career.
+Scientists in some ways  were the easiest to review because publishing was an
+important aspect of being  a scientist. She wished that engineers published more —
+it enforced a certain clarity of thinking that was too often lacking in
+engineering circles. Scholarly publishing,  that is. In the computer science
+realm there were too many publications that fell into the
+"tabloid-sensationalism" category ("Why Google is scared to death of this new
+networking technology!") — heavy on opinion, light on facts, and weak on logic.
+
+Among scientists, however, rigor was prized, and a good article was often
+extremely dense on information. Dr. Bernstein's papers were among the best.
+
+"What are you working on?" she asked.
+
+"Oh yes, the project" he said. "Well, the short version is this: we're using
+long cycle low-power electromagnetic fields to shape sympathetic receptors in
+the human brain."
