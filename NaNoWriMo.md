@@ -898,10 +898,64 @@ human cell."
 
 "Where was I? Oh yes, the antennae. We want people to be able to perceive
 radiation, but not something they can already see — if they have eyes, there's
-no purpose installing an antennae what will see the visible spectrum inside the
+no purpose installing an antenna what will see the visible spectrum inside the
 skull — it doesn't buy them anything. Plus light has a hard time penetrating the
 skull — they wouldn't see much at all."
 
 "We can't go to a low frequency, because we can't stick a 2-inch rod inside
 someone's skull. In fact, we don't want to do any drilling or surgery at all if
-we can help it. So that means we have to go with the high-frequencies.""
+we can help it. So that forces our hand: small antennae, high frequencies."
+
+"Max, what was that machine you were working on before I came in?"
+
+"Machine? Oh yes, that wasn't a machine _per se_: it's the console to a machine.
+A modified MRI. It's what we use to create the antennae."
+
+"Create the antennae?"
+
+"We arrange the cells. We delicately push and pull them until they line up
+correctly. The ganglions and axions, mostly the ganglions. Salt water and
+everything — make a good antenna when they're lined up exactly right."
+
+"You inject salt water?"
+
+"Heavens, no. I meant to say that we are salt water. When you cry, the tears are
+salty. Curiously they're always the same concentration of salt. Salty enough to
+conduct electricity decently, which is a requirement for antennae. Your body's
+cells, they are all pretty salty, about as salty as the ocean."
+
+"So when you create these antennae, where do you place them?"
+
+He turned to her: "Now _that_ is a very good question."
+
+He says, "In the beginning we had no idea — we thought we'd create them in the
+frontal lobes — the cerebral cortext — and that was weird. You could tell the
+behavior changed. Then we began to branch out: the thalamus, the hippocampus,
+the amygdalae"
+
+"You did this on humans?"
+
+"Goodness no! We're scientists, not lunatics. We were testing on mice. Mice are
+not always the best subjects when it comes to these types of experiments though
+because they can never describe what they're thinking or sensing. We extrapolate
+from their behavior."
+
+"And what did you find?"
+
+"Honestly we found very little. The behavior changed, but only slightly.
+Sometimes they could do the maze faster, sometimes they'd refuse to do it. But
+these were subtle changes, and not always consistent."
+
+"Then what happened?"
+
+"We were at a dead-end. We had been stuck for six months. It was time to wrap
+things up. We spoke to our sponsor andtold them we weren't making progress, and
+that it was time to wrap-up the project."
+
+"Early termination?"
+
+He looked at her, "I guess from a company standpoint you want to keep the money
+coming in, but we weren't getting anywhere."
+
+"You did the right thing," she reassured him. "We're in this business for the
+long haul; we want to be straight shooters. "
