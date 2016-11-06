@@ -949,7 +949,7 @@ these were subtle changes, and not always consistent."
 "Then what happened?"
 
 "We were at a dead-end. We had been stuck for six months. It was time to wrap
-things up. We spoke to our sponsor andtold them we weren't making progress, and
+things up. We spoke to our sponsor and told them we weren't making progress, and
 that it was time to wrap-up the project."
 
 "Early termination?"
@@ -958,4 +958,55 @@ He looked at her, "I guess from a company standpoint you want to keep the money
 coming in, but we weren't getting anywhere."
 
 "You did the right thing," she reassured him. "We're in this business for the
-long haul; we want to be straight shooters. "
+long haul; we want to be straight shooters. Besides, there are always other
+projects to bid on."
+
+"You're the CEO — don't you already know all this?"
+
+"The Federal Division is different than the company's other business units,"
+Julia said. "Most of the projects are classified, so although we see the
+financials, they're rolled-up, not broken out by project. Sometimes we might see
+a codename for a project, usually not."
+
+"This project's name was 'Winterfell'"
+
+"We never saw that name in the financials."
+
+"I wouldn't think so," said Dr. Bernstein. "I've worked on several DHS projects,
+and this is one of the most secretive."
+
+"So what happened when you suggested an early project termination?"
+
+"They surprised us. They asked if they procured us a live human subject if we
+could continue the research."
+
+"We pointed out that although a live human subject would help move the project
+forward, there were ethical considerations that precluded us from using human
+subjects."
+
+"Then what happened?"
+
+"They introduced us to the test subject. He was a very interesting young man.
+Although he wasn't a scientist, he understood the biological and electromagnetic
+underpinnings of our work. He also understood the risks, and yet he was
+completely willing to go ahead anyway."
+
+Dr. Bernstein's voice sunk to a low whisper, "Julia, I must tell you that
+there's something strange about this project — I get the feeling they — the
+sponsor — isn't telling us everything. This research I'm doing — it has no
+value. No military value, that is, and no medicinal value. I've done a lot of
+these projects, and usually I get a sense of what they're looking for, what
+they're trying to do. Not this one. This project, from my standpoint, is a
+spaghetti-on-the-wall project — throw a lot of spaghetti on the wall, and see
+what sticks. It's basic research. But they're much too interested in this.
+There's something more in play here, and for the life of me I can't figure out
+what it is. But I can tell you this: they want it very badly, and they're not
+telling us what they're looking for."
+
+Julia asked, "Do you think the subject knows what they're looking for?"
+
+"He knows more than me, of that I am sure. I don't know how much they told him,
+but they've told him enough so that he's willing to take big risks. Look, even
+though it's not invasive surgery, pushing parts of your brain around is
+dangerous stuff — a lot can go wrong, terribly wrong, very quickly. And he knows
+all this, and he's willing to do it. I just don't get it."
