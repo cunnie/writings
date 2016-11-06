@@ -884,7 +884,7 @@ He'll be gone in three months, six months on the outside."
 were union. If they were union it was next to impossible to get rid of them.
 With him, you need to be careful — you don't want to give him grounds for a
 lawsuit when he's dismissed. You want to make it look like we've been fair and
-even-handed, and we dismissed him for performance reasons. It has to look fair,
+even-handed, and we dismisshim for performance reasons. It has to look fair,
 that we followed procedures. It works like this: you know this guy is bad news;
 I know this guy is bad news, and the guy probably suspects he's bad news. He
 does more harm than good to the corporation. But knowing someone is bad news
@@ -904,4 +904,13 @@ They sat in silence a little longer.
 
 "Anything else?" he asked.
 
-She shook her head.
+She shook her head. "Thanks," she said.
+
+He nodded.
+
+---
+
+The week flew by. And advantage of being CEO was that there was no end of work to be done. It bled a little bit into the weekend, but she sequestered work to very specifi time periods.
+
+The 40-hour work week did not apply to CEOs, financiers, shop owners, high-level
+executives, sales reps, scientists, or most professions it seemed. It was an illusion, an aspiration. She remembered the first-time she saw the book titled, "The 4-hour work week", by Timothy Ferris
