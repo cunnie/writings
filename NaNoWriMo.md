@@ -869,7 +869,39 @@ launched. And you can't block the signal."
 declension noun. Did I mention I took four years of Latin at St. Ignatius Prep?
 Yes, a Jew in a Jesuit school — I wasn't the first, and I won't be the last.
 'Hybrid vigor' I call it, though from an intellectual standpoint than a genetic
-standpoint."
+one."
 
 She found herself completely drawn in by him, his enthusiasm, his leap from
 topic to topic, his wealth of knowledge.
+
+"So where was I? Oh yes, the long antennae on nuclear subs — I hope they never
+are used. Good engineering, bad use-case. But no sense in getting worked up over
+things outside my control."
+
+"We were talking about antennae and wavelengths. Now don't get me wrong, the
+human brain can detect wavelengths of many sorts. Let's take hearing for
+example: we can hear wavelengths from about 20Hz to about 21kHz if you're a kid.
+At my age, my hearing only goes up to 12kHz, so I can't hear high-pitched whines
+above a certain frequency. Note that we can 'sense' frequencies lower than 20Hz —
+we can feel the rumble — but we don't 'hear' them. But sound waves, even though
+they have a frequency and a wavelength, aren't electromagnetic — instead, they
+fall under the more classic definition: a wave caused by displacement of mass,
+which happens to be air in the case of soundwaves."
+
+"But our senses aren't limited to sound — we can can also see, and light is a
+good example of electromagnetic radiation. Light has a really short wavelength —
+in the hundreds of nanometers. And the frequency? 430–750 terahertz. That's
+right, _terahertz_. So the frequency of visible light will cycle about ten
+thousand times more frequently than, say,  a 5GHz WiFi signal. So we don't need
+a long antenna at all. They can be small enough to fit inside a specialized
+human cell."
+
+"Where was I? Oh yes, the antennae. We want people to be able to perceive
+radiation, but not something they can already see — if they have eyes, there's
+no purpose installing an antennae what will see the visible spectrum inside the
+skull — it doesn't buy them anything. Plus light has a hard time penetrating the
+skull — they wouldn't see much at all."
+
+"We can't go to a low frequency, because we can't stick a 2-inch rod inside
+someone's skull. In fact, we don't want to do any drilling or surgery at all if
+we can help it. So that means we have to go with the high-frequencies.""
