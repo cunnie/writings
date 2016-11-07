@@ -929,7 +929,7 @@ cells, they are all pretty salty, about as salty as the ocean."
 He turned to her: "Now _that_ is a very good question."
 
 He says, "In the beginning we had no idea — we thought we'd create them in the
-frontal lobes — the cerebral cortext — and that was weird. You could tell the
+frontal lobes — the cerebral cortex — and that was weird. You could tell the
 behavior changed. Then we began to branch out: the thalamus, the hippocampus,
 the amygdalae"
 
@@ -1010,3 +1010,117 @@ but they've told him enough so that he's willing to take big risks. Look, even
 though it's not invasive surgery, pushing parts of your brain around is
 dangerous stuff — a lot can go wrong, terribly wrong, very quickly. And he knows
 all this, and he's willing to do it. I just don't get it."
+
+She became serious, "Is this the young man that died?"
+
+"It's the man who disappeared. We don't know if he died. One minute he was in
+the room, the next minute he was gone."
+
+"Is it possible he left out the back door or something similar?"
+
+"You saw how locked-down they have this place: it would be next-to-impossible to
+sneak out undetected."
+
+"Do you think that 'pretending' he disappeared and spirited him away?"
+
+"If that's the case, I don't see what 'pretending' buys them — it's brought the
+project to a screeching halt and opened the possibility of shutting us down,
+which was the last thing they wanted. Plus the instruments had very strange
+readings leading up to the moment he disappeared."
+
+"The instruments?"
+
+"Mostly health monitor stuff: pulse rate, blood pressure, breathing, EKG."
+
+"Which readings were off?"
+
+"The pulse rate & blood pressure were normal, and so was his EKG, but his
+brainwaves were like nothing I've seen before."
+
+"Were you in the room when this was happening?"
+
+"No, I was in the next room."
+
+"And then?"
+
+"And then all the readings went flat. I thought maybe a cable fell loose or
+something, so I was fiddling with the workstation for about a minute. But I
+couldn't find anything wrong, so I walked to the other room to find that he was
+gone."
+
+"Gone?"
+
+"The plank was empty. The sensors were still there, but they were resting on the
+plank, not attached to anything. The way the sensors were laid out — it made it
+seemed like he vanished rather than disconnecting each sensor and then leaving."
+
+"May I see the room?"
+
+"Yes, of course. This was the room I was in when it happened."
+
+He walked to the far end of the room to another door with a sign on it that
+said, "Danger. Strong Magnetic Field. No Pacemakers, Metallic Implants, or
+Neurostimulators."
+
+He turned to her and said, "You don't have a pacemaker, do you?"
+
+"No."
+
+"And nothing ferro-magnetic? Nothing that can become a projectile?"
+
+"Not on my clothing, but maybe I should leave my handbag here."
+
+She placed her handbag on one of the lab chairs and followed him through the
+door through a short six-foot corridor at the end of which was another door. He
+opened it.
+
+"Here we are."
+
+It was a spare room with an MRI: a large torus with a plank leading into it.
+Julia was reminded of Dunkin' Donuts, and the thought made her smile.
+
+"He was on the plank, of course. Or, more precisely, he _wasn't_ on the plank
+when I came back in."
+
+"If I understand correctly, it is here that the antennae are created."
+
+"Yes."
+
+"Is one antenna created during each session, or more?"
+
+"It depends. There's a limitation of the number of adjustments in one setting.
+Sometimes you only need to adjust one or two things to make an antenna,
+sometimes you need a dozen. During a given session we limit the number of
+adjustments to one hundred for several reasons, the most important of which is a
+buffer limitation, but there's also a re-calibration requirement."
+
+"So if I'm doing the math right, you can make about ten antenna per session."
+
+"That's more-or-less accurate. In this case it we had just finished creating the
+third antenna when he disappeared."
+
+"He had three functioning antennas, I mean, antennae?"
+
+"Oh my, no — he had 147 antennae."
+
+"What?"
+
+"This was his fifteenth session."
+
+"In how many days?"
+
+"In eight days. We had been doing two sessions per day, followed by a
+multi-modal stress test to make sure that there were no ill effects."
+
+"Isn't that rather aggressive?"
+
+"It was _extremely_ aggressive. I balked. I said it wasn't safe, we don't know
+the consequences of this type of cerebral manipulation, that we should go slowly
+and be careful — I said one antenna per week, max."
+
+"They went non-linear."
+
+Julia smiled at this reference: whereas most people would say, "they went
+ballistic", electrical engineers have a tendency to say, "they went non-linear",
+a reference to an electrical system whose response to an input is out of
+proportion.
