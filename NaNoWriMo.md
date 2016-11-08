@@ -1116,11 +1116,131 @@ multi-modal stress test to make sure that there were no ill effects."
 
 "It was _extremely_ aggressive. I balked. I said it wasn't safe, we don't know
 the consequences of this type of cerebral manipulation, that we should go slowly
-and be careful — I said one antenna per week, max."
-
-"They went non-linear."
+and be careful — I said one antenna per week, max. And you know what happened?
+They went non-linear."
 
 Julia smiled at this reference: whereas most people would say, "they went
 ballistic", electrical engineers have a tendency to say, "they went non-linear",
 a reference to an electrical system whose response to an input is out of
 proportion.
+
+"But I wouldn't budge. That colonel, Taggart, didn't like me saying no. You
+could tell that he's used to people saying yes. I even spoke with our counsel,
+who  backed me 100%, said that I didn't have to do it if I felt it would pose
+undue risk."
+
+"Funny, the counsel never told me about that."
+
+"She couldn't tell you — she had to get clearance, too. Even when she got
+clearance they wouldn't tell her anything about the project. I could only talk
+in generalities. «They want me to perform an untested procedure on another human
+being that will most likely leave him with permanent brain damage, possibly kill
+him.» She said that I was in my rights to refuse; in fact, anything other than
+refusing would constitute criminal negligence, and expose me and the company to
+criminal prosecution."
+
+"So you refused?"
+
+"I stuck to my guns: I refused. And then they went to court and compelled me to
+perform the procedure."
+
+"I thought Janice told you that you shouldn't do the procedure."
+
+"That's what she said on Monday, but on Tuesday she called me and said I had to
+go ahead with it. She said she had been served a court order."
+
+"From which court?"
+
+"FISC. Foreign Intelligence Surveillance Court."
+
+"But this project has _nothing_ to do with surveillance. It's a biomed project."
+
+"I know; I couldn't figure out how FISC became involved — did they decide they
+needed to branch out to new markets? That the NSA eavesdropping wasn't enough?"
+
+Dr. Max Bernstein laughed at his joke, and Julia thought that the laugh, which
+was little more than an asthmatic snort, was somehow quite endearing. She found
+herself laughing, too.
+
+"Anyway, we can appeal the order, but you need a special lawyer to argue before
+that particular court. The attorneys need some type of approval or certification —
+I didn't understand the details, and the reasoning seemed fairly contorted and
+unnatural. Made me glad I went into Science instead of Law."
+
+"I went back and forth with Janice. I even considered resigning from the
+company. I knew if I went ahead with the cerebral manipulation it wouldn't turn
+out well. And it didn't turn out well — though it didn't turn out well in a
+completely unexpected way."
+
+"I insisted on thorough cerebral analysis after each session. We found some
+research, but we had to do most of it on our own — some of the easiest were the
+senses: visual, auditory, smell, taste, touch. And we dove down into each one.
+For example, to determine that he lost no sense of touch, we needed to do an
+almost complete scan of his body, first with a hot object, then with a cold
+object, then with a moist object, then with a feathery object."
+
+"Then there was kinesthesia: balance, use of limbs, tossing a ball against the
+wall and catching it. Writing your name with your left hand, picking up a sock
+with your toes.
+
+"Emotions were very tricky, we never got a good handle on those. We'd give him a
+battery of tests which was basically asking one question, «How do you feel right
+now?» I was never happy with those tests."
+
+"Then there were the run-of-the-mill tests — was he still breathing regularly?
+Was his heart beating? Could he still fall asleep? Did his digestion work
+properly?"
+
+"Did you find any aberrations as the study progressed?"
+
+"Not really. Sure, some measurements varied over the course of the 8 days, but
+those variations were either not statistically significant or within normal
+range."
+
+"So there was no hint that anything could go wrong leading up to his
+disappearance?"
+
+"Not really. I could show you the spreadsheets if you want — it's a lot of raw
+data, and I haven't put it together with nice charts or anything, but you're
+welcome to look them over."
+
+"Yes, I'd be interested if that's okay."
+
+"Sure."
+
+He led her out of the MRI room and back to the original lab. He sat her down in
+front of his computer. He fiddled around and brought up several spreadsheets.
+
+"Here you go — you can sit at my desk and go through them. I'm going to go back
+to adjust the equipment."
+
+"Why bother adjusting? The subject is gone, right? Isn't the project on hold?"
+
+"I'm testing the mice. I'm not working on humans, only mice. In my humble
+opinion we should have spent years working with mice, then maybe with primates,
+as much as that breaks my heart, and only at the very end work with humans.
+There's a reason that  pharma companies take so long to bring new drugs to
+market — there's a lot of safeguards in place to prevent people getting
+unnecessarily hurt. Some would argue that there are too many safeguards, too
+much red tape, but I always err on the side of safety. Anyway, that's a topic
+for another day."
+
+He fiddled with the knobs and looked at the console while she explored the
+spreadsheet. She was good with numbers, and she had a good enough background in
+medicine/biology to understand when something wasn't right. The numbers looked
+mostly normal. There were some spikes, but no outliers.
+
+"Max?"
+
+"Yes?"
+
+"When he disappeared, you were putting an antenna in his brain, right?"
+
+"Yes. Definitely. In fact we had finished."
+
+"Where were you placing the antenna?"
+
+"Funny you should ask — we were working on a part of his brain that we hadn't
+yet worked on — it was the limbic system."
+
+---
