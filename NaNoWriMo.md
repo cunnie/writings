@@ -1301,3 +1301,37 @@ listened to the pitches, the presentations.
 But here was the kicker: she was a great sales rep. She knew her customers, she
 knew their business, and she knew her products cold. Her looks may have gotten
 her in the door, but her performance was what made her stellar.
+
+Performance. She had originally thought that sales was glamorous, but she
+quickly realized it wasn't. Sales was an endless stream of tedious chores. She
+remembered one time a customer was furious — he had spent $1M on a system but
+was missing the cables needed to make it work. The factory swore they had
+shipped the cables. She had managed to get the tracking number, trace it via the
+shipper, track it to the customer's shipping and receiving, retrieved the name
+of the person who signed the package, and discovered that the box of cables had
+been sitting under that person's desk for the last week. The customer was both
+embarrassed and pleased. Admittedly, it was grunt work, but that's what made
+customers stick with you – they trusted you to make it work, make it good.
+
+She knew the product line, too. That helped. One time there was a demo unit in
+the  customer's lab, and engineer was having a hard time getting his code to
+make the API calls properly — he couldn't read data from the demo unit. She sat
+next to him and reviewed his code and modified the flags passed to the
+`configure` script. After 15 minutes of working alongside the engineer they
+managed to pull data from the instrument.
+
+She remembered the engineer. After she had helped fix his program he looked at
+her differently, as if she were a dog who suddenly began speaking in impeccable
+English. Up to that moment he had been fairly hostile at the several meetings
+they had attended together, and it was clear he was suspicious of sales reps. He
+would make snide comments, "Yeah, sure" or "I'd like to see that happen" when
+she discussed the features of her products. But after those 15 minutes, the
+world changed. His manager later spoke to her, "I don't know what you did, but
+he's not blocking the purchase. He says your products are at least as good as
+our current vendors. He's pretty happy."
+
+The engineer may have even had a crush on her, but he never asked her out or
+acted unprofessionally.
+
+And that was another tricky topic: customer crushes. That was one case where it
+would have been easier to have been a man.
