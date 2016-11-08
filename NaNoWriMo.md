@@ -1244,3 +1244,60 @@ mostly normal. There were some spikes, but no outliers.
 yet worked on — it was the limbic system."
 
 ---
+
+"Max, I'm not an anatomist, but if I remember correctly, some consider the term
+«limbic system» to be somewhat outdated — it's not really a system but a
+collection of disparate structures."
+
+"You're right: the function of, say, the hippocampus, which consolidates
+memories, is very different than the amygdala, which is related to a number of
+emotional processes."
+
+"So in which structure of the limbic system was the antenna being added?"
+
+"The amygdala."
+
+Julia wondered if that was significant.
+
+"I want to understand everything about the process," she said. "I want to
+understand from start to finish. For example, when the subject arrived — by the
+way, what was his name?"
+
+"He said his name was «Tyrion», but I suspect that wasn't his real name."
+
+"I suspect you're right. When he arrived, what was the first machine you hooked
+him up to?"
+
+"The first thing we needed was a topographical map of his brain — we needed to
+know every detail of the layout so that we knew where to place the antennae. So
+we used the MRI to map his brain over the course of an hour. The granularity of
+the MRI is quite fine, so the the dataset was huge."
+
+"There's no danger using the MRI, is there?"
+
+"No danger, unless you have a pacemaker or something like that."
+
+"Then I want you to make a topographical map of my brain."
+
+"Really?"
+
+"Yes, I want to understand the process, not only from a high-level, abstract
+viewpoint, but also from a detailed down-in-the-trenches viewpoint. I want to
+experience as closely as possible what Tyrion went through."
+
+Although Julia was not an expert in the field to the same degree as Max, she had
+a background in STEM, with an emphasis on biology, medicine, and computers, so
+she was quite familiar with the terrain.
+
+There was a point when her career was on a trajectory to become a scientist at a
+time when there were few women scientists, but like many of her sister
+scientists, she was sidetracked into a sales position.
+
+She had few illusions about why she was chosen for sales: she was a woman, and
+although she was not drop-dead gorgeous, she was not unattractive either, and
+all her customers were men, and they liked being in her company, and they
+listened to the pitches, the presentations.
+
+But here was the kicker: she was a great sales rep. She knew her customers, she
+knew their business, and she knew her products cold. Her looks may have gotten
+her in the door, but her performance was what made her stellar.
