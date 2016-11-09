@@ -1636,3 +1636,32 @@ but I think we should put you to sleep."
 He stuck the syringe in one of the bottles, a clear bottle with clear fluid. She
 couldn't read the label, but she suspected phenobarbitol — it was a
 tried-and-true sedative.
+
+He pointed the syringe directly upwards, flicked it three times, then squeezed
+out a single drop to make sure there were no air bubbles.
+
+"I really wish you wouldn't do this," she said, utterly calm.
+
+"If it helps, I'm not happy about doing this either."
+
+She remained still while he tried to find a vein. "Got it! Damn, too far, let me
+go back."
+
+He moved the syringe around trying to find the vein. He tried to be still, but
+he was still trembling. She grimaced. Finally she said, "Max, you're butchering
+my arm. Let me do it, okay?"
+
+"Okay. Here it is." he passed her the syringe.
+
+She took the syringe. She held it in her right hand, slid the needle into the
+vein in the crook of her left elbow, and slowly pushed the plunger. When the
+plunger was all the way in she asked, "Are you ready with the bandage?"
+
+"Ready".
+
+"I'm pulling out now." She knew she had approximately 30 seconds once she
+started pushing the plunger before she passed out. The last thing she remembered
+saying was "Hold me because I'm about to pass out". Over Max's shoulder she could
+see Tyrion squinting at her.
+
+---
