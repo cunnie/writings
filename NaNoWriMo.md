@@ -1334,4 +1334,128 @@ The engineer may have even had a crush on her, but he never asked her out or
 acted unprofessionally.
 
 And that was another tricky topic: customer crushes. That was one case where it
-would have been easier to have been a man.
+would have been easier to have been a man. She was often asked out by her
+clients, usually older, often divorced. She toyed with the idea of wearing a
+decoy wedding ring, but decided not to — it was fundamentally dishonest, and she
+was bad at lying — it was too much work. It was easier to say, "I'm not
+available." She felt bad when she saw the disappointment in their eyes, although
+curiously it was sometimes tinged with relief.
+
+She got along well with all her customers. She liked them, and they liked her.
+She stayed in touch with the ones who went to her competitors, when they and
+sometimes it paid off they came back, but that wasn't the reason she stayed in
+touch. She stayed in touch because she genuinely liked them.
+
+She had spent six years as a sales rep, and in the last two years she declined
+two offers to become a sales manager. "I can't afford the pay cut," she
+half-joked.
+
+Finally she acquiesced, and that was the beginning of her rapid ascent through
+the company.
+
+That was probably her best quality: she was kind. And she liked people. And she
+had the capacity to work really, really hard.
+
+Harder, apparently, than Dr. Max, who after a couple of hours walking her
+through the charts, the machines, the procedures, said, "Julia, it's 8pm. I'm
+tired. I usually head home at 5pm, maybe 6pm or even 7pm if the work is
+exciting, but this is as long as I've stayed at work in years, and I need my
+rest."
+
+Julia looked up from the console, "What? Oh, Max, I'm sorry — I didn't mean to
+keep you. It's been such a long time since I've worked with equipment, and I've
+forgotten how exciting it can be. Please, go home. Rest. Is it okay if I stay
+here and continue to review?"
+
+"Of course. I was told you have full access to the project, so look at whatever
+you need to. There's no internet of course, so you can't check email or
+anything, but whatever's on the local fileserver is available."
+
+"I'll be careful. I may still be here in the morning when you get in."
+
+Max was about to laugh when he realized she was serious.
+
+She didn't hear him close the door — she was too engrossed in the research. It
+was fascinating.
+
+Earlier in the evening Dr. Max had taken a full MRI of her brain, and showed her
+where the limbic system was, where the hippocampus was, the amygdala, the
+hypothalamus, the olfactory bulbs. The resolution was wonderful. And the antenna
+placement.
+
+He had also showed her how to program the instrument that "draws" the antenna in
+the brain. Funny, things hadn't changed much since her days in working with the
+equipment — you just needed to know C and some API routines and plug in
+coordinates and you were off to the races.
+
+She reviewed his lab notes — wonderful old-school notebooks with grid patterns.
+He had beautiful handwriting, Dr. Max. And his drawings were easy-to-understand.
+There was a clariy of thought that came through the pages when you read his
+notes — you sensed the broad sweep of his project and where he was taking it.
+
+She could also tell that he was more affected by Tyrion's disappearance than he
+let on. The last entry in the notebook was a simple "Tyrion" along with drawings
+of tears along the margin of the notebook. Poor Tyrion, poor Max.
+
+She decided she would go through a dry run of everything leading up to Tyrion's
+disappearance. She'd use her brain scan instead of his, but go through it.
+First,  she calculated the antenna placement in her amygdala. Then she wrote the
+code that pushed-and-pulled the ganglions and axions into place, then she
+downloaded the code into the MRI, and then walked into the MRI room, lay on the
+platform, and hooked up the sensors to herself. She turned everything on, and
+then lay their for 15 minutes, then got up and pulled the sensors off.
+
+She still had no idea what happened. The dry-run hadn't haccomplished anything,
+nothing at all.
+
+The thought came to her, "Why a dry run? Why not the real thing?"
+
+She thought about that for a second — why not the real thing? She could do it.
+It was just a small adjustment. Minute. Microscopic. Not invasive, just a pull
+here, a push there. It couldn't be safer. All she had to do was flip up the
+manual off switch next to the MRI.
+
+She thought about it. It felt exhilirating, like she was on the brink of a
+precipice looking down. She remembered when she was eight, and her friend had
+dared her to run naked through the theater class with nothing on except a mask.
+Her friend had double-dared her, knowing she wouldn't do. But she did do it. She
+took off her clothes, put on the bird-mask, and ran through the theater class
+naked. Then Julia and her friend hid in the closet while Julia dressed. And
+then, when the excitement died down and everyone had returned to the theater
+class, they snuck out the back door. Julia's friend was surprised she had done
+it, but no one was more surprised than Julia herself.
+
+Julia remembered the feeling she had the moment before she had taken her clothes
+off — she felt she was on the brink of a precipice, looking down.
+
+She flipped up the switch, the MRI was now on. She went through the procedure a
+second time, hooking up the electrodes, lying on the platform, listening to the
+far-off distant clanging that the MRI made while it was moving around.
+
+She lay there. And lay there. And nothing. Nothing happened, nothing was
+different.
+
+She took the electrodes off. That was it? All that excitement for nothing?
+
+She blushed. That was childish and irresponsible to try an experimental
+procedure on herself with no one around. You can do crazy things when you're an
+eight-year-old girl, but it's unbecoming of a CEO in her late forties.
+
+She'd tell Dr. Max when he got in next morning. She'd tell him, and he'd be
+incredulous and give her a look that said, "What were you thinking?", and she'd
+have nothing to say. It was a poorly thought out idea, and completely out of
+character. Oh well.
+
+She decided she'd give herself the battery of tests to make sure her brain was
+functioning. Some of the tests required a second person, so she skipped those
+ones. Her eyes seemed fine, hearing was good, taste, smell, touch — all good.
+She could read a paragraph of text, she could watch a YouTube video of a baby
+sloth trying to eat peanut butter and feel an emotional response ("how cute!").
+She did a sudoku puzzle. Everything was fine.
+
+She wondered if there was anything to this. Was this some high-priced snake oil
+we were selling the government? What benefit could there possibly be to having
+tiny antennas made out of squishy brain matter? And did they hold their shapes?
+Of course not, the brain isn't hard like bone, it's squishy. A quick turn of the
+head to see something outside the window would twist the shape of the antenna.
+It was silly. She went through it, and nothing had happened.
