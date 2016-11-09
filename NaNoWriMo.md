@@ -1459,3 +1459,180 @@ tiny antennas made out of squishy brain matter? And did they hold their shapes?
 Of course not, the brain isn't hard like bone, it's squishy. A quick turn of the
 head to see something outside the window would twist the shape of the antenna.
 It was silly. She went through it, and nothing had happened.
+
+She became aware she was beginning to get sleepy. She checked the clock on the
+computer console: 4:26 am. She could get a couple of hours of sleep before Max
+came in. She looked around — the only place to stretch out was the MRI machine.
+Why not? In her early years she had spent many a night sleeping in the lap, and
+she was lucky in that she rarely if ever had trouble falling asleep. She lay
+down on the MRI and within a minute had drifted off to sleep.
+
+She never heard the far-off distant clanging of the MRI.
+
+---
+
+She dreamt she was in an impossibly large house. It was beautiful, with soaring
+vistas. She could hear someone in the distance calling her name.
+
+"Julia! Julia, wake up!"
+
+Dr. Max was shaking her. "Wake up Julia! Oh my God, Oh Jesus!"
+
+She said, "Max!? Why are you saying «Jesus»? You're Jewish."
+
+"Thank God, you can at least talk. And, to answer your question, I am Jewish,
+and I believe that Jesus was a historical person, and furthermore I was trained
+by Jesuits, and that's what they said when things were going horribly wrong."
+
+She rubbed her eyes. May as well get it over with, fast.
+
+"Max, in what only described as a moment of poor decision-making, I used the
+equipment to draw an antenna in my amygdala. It was wrong, and I won't do it
+again."
+
+"Oh Julia, Julia, I wish it was only one antenna."
+
+"What do you mean?"
+
+"The machine has been drawing antennae in your head since about 4:30 am. For the
+last four hours it has been drawing one antenna every 3 minutes — you have 80
+antennae in your head right now."
+
+"What!?"
+
+"The program you wrote only controls the placement of the _first_ antenna. After
+that, the program loops using an algorithm to place the next antenna
+automatically. It keeps placing antennae as long as it detects a subject in the
+MRI."
+
+"Oh my God."
+
+"We need to get you through the tests right away. And we need to notify Taggart
+so he can send a medical doctor as soon as possible."
+
+He said, "Let's get you up first." He held out his hand. She took it, and his
+hand felt nice. He led her into the other room.
+
+"That damn MRI; I knew have should have had at least two overrides," Max said.
+
+"It wouldn't have made a difference; I would have overridden both of them."
+
+He nodded. He sat her down in a chair and began hooking sensors up to her.
+"We're going to get the basic sensors going, the heartbeat/EKG, breathing,
+etc..., to detect a sudden catastrophic event as soon as it happens — we don't
+want to lose you. Things are bad enough as is. Oh Jesus, how could I have let
+this happen?"
+
+"Max: let's get a couple of things straight. First, there was nothing you could
+have done. I made the decision to draw antennae in my head, not you. Also, I run
+this  company — it's my prerogative to make decisions. There are good decisions,
+and there are not-so-good decisions, but they're mine to make. So don't blame
+yourself. You didn't do anything wrong. You did exactly as you should have.
+Mis-placed guilt is a purposeless emotion, and you are wrong to indulge in it."
+
+He paused for a second, pursed his lips, and said, "You're right."
+
+She went on, "Look at where we are: here, in this lab. I'm breathing, you're
+breathing. We're both healthy as of this moment. I am confident everything is
+going to be okay."
+
+Max took a deep breath and said, "Okay."
+
+He seemed more relaxed, more even-keeled. That was good. People tended to make
+fewer mistakes when they were relaxed. Emotions were wonderful servants but
+terrible masters. Much of her job as CEO was to dampen the influence of emotions
+such as anger, despair, fear. Sometimes the best thing a leader could bring to
+the table was a sense of perspective, to show that these problems which can seem
+so gargantuan in the moment are merely minor bumps in the road. Confidence
+helped, too. When people saw that you were confident, they calmed down.
+
+She was not worried. Maybe she should have been, but she wasn't. She was on the
+fence with regard to the efficacy of the science — the idea that nudging a
+ganglion in the brain a few microns over could make an amazing difference seemed
+silly. She had nudged a couple of neurons in her brain, a couple of ganglions,
+with the MRI. Big deal. She nudged millions, maybe billions more when she
+sneezed. Tyrion's disappearance most likely had little or nothing to do with the
+science, with the project. That was the real mystery: what had happened to
+Tyrion?
+
+Max picked up the phone on his desk to call Taggart. So retro — a desk phone!
+And a desk phone that was not connected to the public switched telephone
+network. She suspected that there were maybe 200 numbers at most that Dr. Max
+could dial, and he probably only ever dialed two of them: Taggart and the front
+desk.
+
+"Colonel Taggart? This is Dr. Bernstein. We've had an accident. What? No,
+everyone is okay." Dr. Max turned to look at Julia. "Everyone's okay for now."
+
+"The short version is this: there has been an accident, and approximately 80
+antennae have been drawn into Ms. Julia Chou's brain."
+
+There was a long awkward pause.
+
+"She fell asleep on the MRI while it was on and in inscription-mode."
+
+Another long pause.
+
+"Well, we look forward to seeing you soon then."
+
+Max hung up the phone and turned to Julia, "he's on his way."
+
+Julia, sitting up on the chair, hooked up to many medical instruments, suddenly
+saw double. "I'm seeing double. Not quite double, more like a juxtaposition of
+two almost-identical views."
+
+Max ran over and began checking the machines. "Your pulse rate hasn't budged;
+kudos to keeping calm. In fact, everything looks normal, although I'm beginning
+to see an interesting harmonic on one of your brain waves."
+
+"I'm feeling a mild sense of dizziness. Also a very strong sense of well-being.
+I think, if anything, my pulse rate and blood pressure may drop slightly."
+
+"You're right about the pulse rate and the blood pressure — they're dropping,
+but not dangerously so. Also the interesting harmonic seems to have an ebb and
+flow to it."
+
+Julia sat on the chair, watching the juxtaposed images. It was almost as if she
+was seeing two worlds at once, two almost-identical worlds. She also felt a
+sense of extreme calm. And rather than feeling tired or sleepy, she felt as if
+she was sitting on a limitless supply of energy, energy that could be tapped if
+needed.
+
+"Max?"
+
+"Julia?"
+
+"Was Tyrion black, about five-foot-eleven, one hundred eighty pounds,
+short-cropped hair, and clean-shaven?"
+
+"Yes"
+
+"I'm looking at him right now."
+
+Max whipped around, "I don't see him. He's not in this room."
+
+Julia said, "He is in my field of view. I believe he sees me, for he's looking
+at me, but he's squinting, so maybe not. I don't think he hears me, but I will
+call out anyway. Tyrion? Tyrion? He doesn't appear to hear me."
+
+"I'm worried about you, Julia. The harmonic is getting stronger. It's anomalous.
+I also believe that you're hallucinating. I feel we should sedate you until we
+have a better understanding of what is happening."
+
+"I'd rather you didn't sedate me."
+
+Max was rummaging through his drawers until he found what he was looking for. A
+nylon zippered case. He unzipped it. There were several bottles and a syringe.
+
+"You appear to be shaking — perhaps it's you, and not me, that could use
+sedation."
+
+She smiled. He frowned.
+
+"That's not funny, Julia. I'm shaking because I don't want to lose the second
+person on this project. I don't know what's happening — it's all very strange —
+but I think we should put you to sleep."
+
+He stuck the syringe in one of the bottles, a clear bottle with clear fluid. She
+couldn't read the label, but she suspected phenobarbitol — it was a
+tried-and-true sedative.
