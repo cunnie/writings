@@ -1659,9 +1659,90 @@ plunger was all the way in she asked, "Are you ready with the bandage?"
 
 "Ready".
 
-"I'm pulling out now." She knew she had approximately 30 seconds once she
-started pushing the plunger before she passed out. The last thing she remembered
-saying was "Hold me because I'm about to pass out". Over Max's shoulder she could
-see Tyrion squinting at her.
+"I'm pulling the syringe out now." She knew she had approximately 30 seconds
+once she started pushing the plunger before she passed out. The last thing she
+remembered saying was "Hold me because I'm about to pass out". Over Max's
+shoulder she could see Tyrion squinting at her.
 
 ---
+
+She awoke on a gurney. She was still in Max's lab, hooked up to the medical
+monitoring equipment.
+
+"How long have I been out?"
+
+"A little more than an hour."
+
+She grunted. "For what it's worth, I don't see any juxtaposed images, and I
+don't see anyone other than you. FYI, I have a mild headache and feel groggy,
+though I suspect those are side effects of the sedative."
+
+"Let me call Taggart. He wanted to speak with you as soon as you regained
+consciousness."
+
+Julia nodded. Max went to the desk, picked up the old-school telephone, and
+dialed a number.
+
+"She's awake," he said, and then hung up the phone.
+
+In a few minutes the door to the lab opened and Colonel Taggart strode in. He
+looked annoyed.
+
+"Good morning Colonel," she said. Was it still morning? She wasn't sure. There
+weren't any windows, and she couldn't see any clocks.
+
+Taggart neither confirmed nor denied whether it was morning. He launched into a
+rebuke, "You committed a breach of trust. You used the equipment in an
+unauthorized manner, you violated our agreement."
+
+It wasn't the time to get into a pissing contest with the Colonel. There were a
+number of ways she could handle this: she decided the best was an
+acknowledgement and a reminder.
+
+"Colonel Taggart: it was a poor decision to use the equipment on myself without
+supervision, and for that I take responsibility. I would like to remind you that
+the equipment is the corporation's — I see our asset tags on them — and, that as
+an officer of the corporation, I am within my rights to use said equipment."
+
+He pursed his lips. "You jeopardized the project."
+
+"I think our time is better spent deciding how to move forward rather than
+assigning blame." Julia said curtly.
+
+"There are things you don't understand."
+
+"Then explain those things to me."
+
+Taggart looked like he was about to say something and then thought the better of
+it.
+
+"I'll need to run this by my superiors," he said, and strode out of the lab.
+
+"Max, is there anything about the project that you didn't tell me? Is there
+something I should know?"
+
+"I've told you everything of significance. Like I said earlier, I get the
+feeling they're not telling me everything they know about the project — they
+have a strong sense of urgency, but it's at complete odds with the type of work
+we're doing."
+
+"You said there was a brain wave anomaly you were seeing — is it still there?"
+
+Max checked the scope. The brain waves were normal. "I set a trigger to alert us
+if the anomaly re-appears, but so far it hasn't. It disappeared the moment you
+passed out. But all your brain waves changed dramatically once you lost
+consciousness — that was to be expected. Anyway, it hasn't reappeared."
+
+"I wonder if the anomaly was related to me seeing «juxtaposed» images."
+
+"It's possible, but we ran no tests to prove or disprove that hypothesis. And
+I'm loath to do those tests if we see anomalous brain waves again. Julia,
+there's something not right happening."
+
+"That's another thing I wanted to ask you — how could I have described Tyrion so
+closely never having seen him before? Did I really see him, or was it some
+projection of my subconscious?"
+
+"That was very interesting. I don't think that there's a physical description of
+Tyrion on paper or on the workstation, so I was surprised that you could
+describe him so closely. That being said, "
