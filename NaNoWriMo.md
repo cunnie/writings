@@ -1745,4 +1745,68 @@ projection of my subconscious?"
 
 "That was very interesting. I don't think that there's a physical description of
 Tyrion on paper or on the workstation, so I was surprised that you could
-describe him so closely. That being said, "
+describe him so closely. That being said, let's break it down: you said he was
+about five-foot-eleven, 180 pounds. Clean-shaven, short-cropped hair. What
+you're describing is the average military person.  Although it wasn't explicit,
+it was implied that Tyrion had some sort of military background. So the
+apparition was merely an amalgamation of your typical soldier. Your subconscious
+conjured up a soldier for you . The big surprise is that the apparition was
+black, and that Tyrion was also black. Blacks make up approximately 13% of the
+military, so that was either a lucky guess on the part of your subconscious, or
+maybe I accidentally mentioned he was black.
+
+"You don't believe I «saw» anything."
+
+"I believe your mind saw something, but no, I don't believe anything was there,
+otherwise I would have seen it too."
+
+"Good point."
+
+"Do you believe you saw something?"
+
+"I can tell you he looked as real as day to me, but then again I was seeing two
+images superimposed on each other. My visual field was compromised."
+
+"Have you ever been under the influence of hallucinogens?"
+
+"In college, yes. Not since."
+
+"Did Tyrion remind you of those experiences?"
+
+"A lot of the hallucinations I saw were simple things: walls breathing, trails,
+that sort of stuff. Tyrion was not like that at all."
+
+"Hmmm. I wonder if it was a side effect of the procedure."
+
+"That would be the logical guess — my brain acting wonky after it has been
+adjusted."
+
+Taggart strode back in the room. "General Gates would like a word."
+
+"Is he here?" asked Dr. Max.
+
+"No, he's never here — I've never met him in person. He'll call within the next
+few minutes though".
+
+The phone rang. Taggart walked over, picked up the handset, and jammed a button
+to put the caller on speakerphone. "Taggart here".
+
+"Hello Colonel Taggart, this is General Gates."
+
+"Yes sir!" said Taggart.
+
+"At ease." Even over the phone Gates had a mellifluous voice, like a kindly
+grandfather.
+
+"Julia — may I call you Julia? I believe that you had something to tell me."
+
+"General Gates, I used the MRI to draw antennas — I mean antennae — in my
+brain."
+
+"How many, and what part of the brain?"
+
+Julia mumbled.
+
+"I didn't catch that." said Gates.
+
+"Eighty, EIGHTY!" Julia said.
