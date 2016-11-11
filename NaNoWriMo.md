@@ -1810,3 +1810,116 @@ Julia mumbled.
 "I didn't catch that." said Gates.
 
 "Eighty, EIGHTY!" Julia said.
+
+Gates chuckled. "You didn't want to stop at one, did you? You had to do all 80?"
+
+"There was a misunderstanding regarding the functioning of the program."
+
+"What part of the brain?"
+
+"Limbic system. Throughout all parts of the limbic system."
+
+Gates sighed. "This isn't quite what we planned, but in some ways this is a
+godsend. We have one subject — had one subject — and now we have a subject
+again."
+
+"General Gates, with all due respect, I am a civilian; I am _not_ a test
+subject."
+
+"Ms. Chou, there are aspects of this research that preclude you from returning
+to civilian life in the near future. Dr. Bernstein: we hadn't fully informed you
+of many aspects of the research. We didn't want to unnecessarily ... trouble
+you. But the events of the last 24 hours force us to tell you information which
+perhaps we should have told you all along."
+
+"The short version is this: we believe that the changes made to your brain
+enable you to perceive things that may be real."
+
+"Are you saying that when I saw Tyrion it was real? Not a hallucination?"
+
+"You saw Captain Tyrion?" asked Gates.
+
+Max jumped in, "She said she saw him. I couldn't see anyone. She gave a physical
+description that matched Tyrion's. She also saw «juxtaposed» images. At the time
+she was exhibiting anomalous brain waves, so I sedated her."
+
+_Technically I, not you, who sedated me. You wasn't good with veins_ thought
+Jennifer to herself.
+
+"Max, were you able to record the anomalous brain waves?" asked Gates.
+
+"Yes, they're recorded in the brain wave unit."
+
+"I'd be very interested in seeing them later."
+
+"I would like to know what about the research precludes me from returning to
+work," said Julia.
+
+"We don't know what's going to happen to you. Other than Captain Tyrion, we've
+only had one other subject, and similar to Captain Tyrion the other subject
+vanished one day. Without a trace. From a high security military facility. A
+facility like this one, where people can not disappear. Until now. We still
+don't know what happened, and you, Julia, are our only living link."
+
+"Did either of these subjects manifest any symptoms before their disappearance?"
+
+"Yes," said General Gates. "Their field of vision was distorted, they saw what
+you refer to as «juxtaposed» images. At times they suffered mild headaches. At
+other times they were overcome with a sense of calm and well-being. Also, they
+«flickered»?"
+
+"What do you mean by «flickered»?"
+
+"There were people who noticed that the subjects would seem to disappear for a
+fraction of a second and then reapper."
+
+Max interrupted, "Were there any measurement instruments trained on them at the
+time?"
+
+"With the first subject, no. With Captain Tyrion, there were, but they didn't
+seem to  capture anything of interest."
+
+Max asked, "Did the subjects describe any sensation or events leading up to the
+flickering? Did they themselves notice the flickering?"
+
+"The one subject said that he had a feeling of absolute serenity. And also that
+he was completely unaware of flickering."
+
+"Why is the military so interested?"
+
+Taggart jumped in, "If they can flicker, maybe they can disappear. If we have
+soldiers that can become invisible, it makes certain types of infiltration
+missions much, much easier."
+
+"How far along did you get with the first test subject?"
+
+"Unfortunately not as far as we would have liked. We didn't expect anything, and
+when we realized things were becoming odd he had already disappeared."
+
+Gates said, "It's something we're very interested in, but not at the cost of
+losing soldiers. Tyrion was uniquely qualified. You see, he had only a month to
+live. He suffered — suffers — from a very aggressive form of pancreatic cancer.
+It had already metastasized to much of his body. He was a good soldier, asked if
+there were any missions he could perform while he was still able to function. We
+said there was one. This one. He agreed to do it. Dr. Max, that's why we had
+such an aggressive schedule — he didn't have much time."
+
+Dr. Max looked down on the ground. "I am so sorry. I had no idea. I am so
+sorry."
+
+The room fell awkwardly silent.
+
+Gates spoke again, "Julia, you asked when you could return to civilian life.
+This is what we plan to do: we'll keep you under observation. The two previous
+subjects exhibited symptoms within ten days or less. If we don't observe any
+change within two weeks, we'll assume that the antennae, for whatever reason,
+don't work. We'll debrief you, and then send you back. But we will stay in
+touch."
+
+"I must contact my work and let them know that I'll be gone."
+
+"Of course. The project is classified, so you can not mention any details for
+the project. You must not mention that your brain has been adjusted via an MRI,
+you must not mention the antennae. You may say that you're working on a
+classified project and are not sure when you'll be able to return. If people
+have questions, you may give them Colonel Taggart's contact information."
