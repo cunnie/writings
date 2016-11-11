@@ -1913,8 +1913,8 @@ Gates spoke again, "Julia, you asked when you could return to civilian life.
 This is what we plan to do: we'll keep you under observation. The two previous
 subjects exhibited symptoms within ten days or less. If we don't observe any
 change within two weeks, we'll assume that the antennae, for whatever reason,
-don't work. We'll debrief you, and then send you back. But we will stay in
-touch."
+don't work. We'll debrief you, and then send you back. But you will need to
+report for a medical every week."
 
 "I must contact my work and let them know that I'll be gone."
 
@@ -1923,3 +1923,54 @@ the project. You must not mention that your brain has been adjusted via an MRI,
 you must not mention the antennae. You may say that you're working on a
 classified project and are not sure when you'll be able to return. If people
 have questions, you may give them Colonel Taggart's contact information."
+
+"Understood."
+
+Gates continued, "There's a room that has a phone that has an outside line;
+Taggart will bring you there. You'll have a half-hour to make the calls you
+need. You may use that phone for a half-hour each day. Your calls will be
+monitored."
+
+"But that's illegal," objected Julia. "When I talk to corporate counsel, I'm
+protected under attorney-client privilege."
+
+"Evidence obtained is inadmissable in a court of law, Julia, but you're on
+Federal property here, and we work under a parallel legal system, military
+tribunals and all that. The ground rules are slightly different, especially when
+working with State secrets, in which category this project falls."
+
+Gates's voice softened, "Julia, we're on the same team here. We're not after
+you. We want you to succeed, in more ways than you can imagine. You are, at this
+moment, incredibly precious: you are the only person who has gone through this
+procedure and is still around to talk about it. We want to make sure nothing bad
+happens to you, and if something does happen, we want to be there to help. As
+soon as possible. I appreciate how difficult it is for a woman of your position
+to take a sudden and unexpected leave of absence for two weeks. We're doing our
+best to accommodate your needs. The use of an outside line for 1/2 hour each
+day? I had to move earth and heaven to make that happen. Please, Julia, work
+with us."
+
+Julia understood. Gates was smart to position it as being part of a team; she
+believed in teamwork. She believed in trading the individual desire for success
+and achievement for the team's success and achievement. She was a team player,
+and she didn't mind when others got the the glory. It paid off, too: she hadn't
+clawed her way to the top, she had been push-pulled to the top. Her superiors
+noticed that she played well with others and made things happen, so they pulled
+her up, and her teammates knew that she was good and hardworking and that they
+could trust her to acknowledge their successes, so they pushed her up.
+
+She was surprised by the cult of the CEO — that one man was responsible for the
+success of the company. In the early days she believed it, that someone like
+Steve Jobs or Bill Gates were singularly responsible for the success of their
+company.
+
+But her mentor quickly disabused her of that notion: "That's bullshit," he said.
+"You look at any successful CEO. Then you look behind him — he's got a bunch of
+talented and hard-working people making his success possible. Do you think he'd
+still be as successful if those people weren't there? Of course not. We like the
+idea of heroes, of individuals who can perform herculean tasks. But it's not an
+individual who wins a battle, it's an army. It's not Achilles, it's the 92nd
+Infantry Division. It's not an individual that wins the World Series, it's a
+team. That's not to say that the CEO is merely an ornament — it's an important
+job, and he can tank the company if he's not doing it correctly — but it's not
+the be-all and end-all that we like think it is."
