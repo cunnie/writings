@@ -2011,5 +2011,89 @@ Promote him. That great guy who everybody likes and who always has a smile but
 can never close a deal? Let him go. Really. You're doing him a disservice by
 keeping him around. He has a better career waiting in the wings."
 
-Her mentor was on a roll, "You know why blacks do so well in sports? Because
-it's very clear who the achievers are."
+Her mentor was on a roll, "You know why blacks do so well in sports? Because in
+sports there's a rigorous metric for achievement: RBIs, three-pointers, assists.
+If you're good, it's clear, and if you suck, that's clear, too. There's not much
+wiggle room in professional sports. But in corporations? Much too much wiggle
+room. If we're not careful, we let our biases make bad judgements for us. Just
+because someone went to the same Ivy League school as you did does not make them
+better rep than the Latino guy busting his butt. Keep in mind what T.J. Watson
+Jr. once said, «just because I didn't like a guy never stopped me from promoting
+him.»"
+
+Julia said, "Yes, I'd love a lab notebook — thank you so much Max."
+
+Max passed her a notebook along with a blue ballpoint pen.
+
+"Colonel Taggart, would you be kind enough to direct me to the room with the
+telephone?"
+
+Taggart nodded, and they exited the lab and headed down the hallway and made a
+quick left and to the right was a small, windowless (every room was windowless).
+She sat down and dialed her executive assistant's phone number. Julia didn't
+bother memorizing phone numbers anymore, but she knew her EA's number by heart.
+For the next 29 minutes Julia had a high-bandwidth exchange with her EA,
+scheduling events, pushing things out that could be done. And Julia wrote in her
+notebook constantly. It reminded her of the old days, before cellphones and
+laptops, when everything was written down in a notebook. There was something
+viscerally satisfying about taking pen to paper, something that computers and
+tablets were never quite able to match, not even come close.
+
+Taggart knocked on the door when her time was up. "I must go now. Remember,
+schedule a call with the lead counsel tomorrow morning at this time. I'm afraid
+this is one call you won't be able to participate in, not because I don't want
+you to, but because I think it will be breaking the law. I'll call you tomorrow
+morning same time and you can patch me in to the counsel."
+
+She hung up the phone and turned to Taggart, "It's almost impossible doing my
+job without Internet access — is there any way we can loosen the restrictions
+and let me use the phone and the laptop?"
+
+Taggart shook his head, "I'm afraid that's not possible. I wish it were."
+
+Julia nodded. She had a good sense when she could push people, and when it
+wouldn't make a difference. In this case she knew it wouldn't make a difference —
+they'd never let her use her phone. In two weeks, when she was back in the
+office, she'd have her phone. In the meantime, she'd try her best to appreciate
+being off the grid.
+
+They walked back in silence to Max's lab. The next 8 hours consisted of
+batteries of tests designed to uncover any malfunction in her brain.
+
+"If something is wrong, you must tell me," said Julia to Max. "If there's some
+disability that would prevent me from fulfilling my role as CEO, I'd need to
+know as soon as possible in order to prepare a transition plan. This is not
+about feelings, Max. This is business."
+
+She locked eyes with Max. "Okay?"
+
+He looked directly in her eyes and nodded. "Okay," he said.
+
+Towards the end of the day she made a small mistake on one of the memorization
+quizzes, inverting the order of two items, and she also had a slightly more
+difficult time balancing on one foot with her eyes closed than she had had that
+morning.
+
+"There's nothing wrong that I can see," said Max. "The slight degradation is a
+normal response to end-of-day fatigue."
+
+"Degradation?"
+
+"You know — you were flawless in the morning, but now in the evening you made a
+small mistake with the memorization and balancing."
+
+"Cut me some slack!" joked Julia. Max smiled.
+
+Julia yawned. "These tests are tiring me out. Are we done for the day? I think
+I'm ready for bed. Or at least the cot." she said, eyeing the cot in the lab.
+
+"There's one piece of equipment I forgot to show you, but it's of utmost
+importance" said Max.
+
+"What?"
+
+He opened a cabinet drawer and pointed inside, "the coffeemaker! Coffee is to
+the left, filters to the right. Help yourself."
+
+Max put his stuff away and headed out the door. Julia lay down on the couch.
+Sleep came easily.
