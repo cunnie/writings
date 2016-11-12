@@ -2097,3 +2097,110 @@ the left, filters to the right. Help yourself."
 
 Max put his stuff away and headed out the door. Julia lay down on the couch.
 Sleep came easily.
+
+---
+
+She dreamed. She was in an open field with Max. She was excited, "Let's run,
+Max! Let's run." She was giddy and running across the field, and Max was trying
+to keep up. She took one jump, two jumps, and the she was flying, "Look Max I'm
+flying!" But he was too far back and falling further behind.
+
+She woke up. Her sense of time had become unanchored — was it morning or still
+the middle of the night? She lay back in bed and listened to her heartbeat. It
+was quiet at first, and then seemed to slow and deepen, like some huge taiko
+drum, like a huge taiko drum under water. Boom, Booom, Booom.
+
+She could see the room, and yet in the back of her mind she knew she shouldn't
+be able to see it — she knew her eyes were still closed. She was overwhelmed
+with a sense of well-being.
+
+Her field of view expanded. Humans could only see what was in front of them,
+typical of most predators — they needed to be able to focus on their prey,
+preferably in stereoscopic vision, in order to better determine distance. Prey,
+on the other hand, typically had a much wider field of view: their eyes were on
+the sides of their head so they could tell when something was sneaking up on
+them, but they paid a price of course: no stereoscopic vision. Nothing is ever
+free in the natural world.
+
+Humans could see 180º, maybe 220º, but much of that field of view was coarse:
+only ~120º was stereoscopic, only ~60º enabled color discrimination, only ~25º
+if reading, and ~3º to see intricate detail.
+
+But this vision that she was experiencing was wholly different: she could see
+360º, everything in intricate detail. To describe it as "vision" would not do it
+justice; perhaps "sensing" is a better word.
+
+She could feel herself becoming bigger — she didn't know how else to describe
+it. On one hand, she was lying on a cot in a room in a facility, and on the
+other hand she was huge, bigger than the lab. And she wasn't lying down, but she
+wasn't standing up, either.
+
+She became so big she breached the facility; she could sense where she was. She
+saw everything.
+
+The facility was a series of non-descript buildings. It was in the desert, not
+much but sand and cacti. A single asphalt road led to a checkpoint, and a chain
+link fence surrounded everything. In the distance she could sense the canyons.
+The sun hadn't yet risen, but it would soon, for there was a full moon near the
+horizon. She knew the asphalt road lead East, but she didn't know how she knew.
+It was a visceral knowledge, similar to how people know which way is down.
+
+She sensed Max's car, parked in an underground garage. She sensed him striding
+to the lab, but that was merely one of thousand things she sensed: she sensed
+the scorpions stirring in the sand, she sensed the guard at the gatehouse,
+bored, tapping on the formica desk, she sensed Taggart, snoring in his bed, his
+room spare and impeccably neat.
+
+Taggart. She sensed something else about him. He was somehow wounded. A very
+old, a very grievous wound. She sensed layers of discipline and loyalty binding
+that wound, stanching the pain, preventing it from overwhelming and destroying
+him. He had buried himself in his work. But there was something beautiful about
+him, hidden there, under that wound: a capacity to love in a fierce way. She
+reached out to him, sensing the contours of the bindings on the wound. It was
+incredibly tightly-bound, very intricate. She pushed herself through binding and
+came face-to-face with an all-consuming heart-breaking sorrow. She sensed
+Taggart moan in his sleep, and she sensed herself, on the cot sobbing.
+
+And then, as quickly as it began, it ended. She found herself back on the cot,
+in the lab. Her senses were normal. She was just herself. Maybe it was a dream.
+She rubbed her eyes.
+
+And Max opened the door. "G'morning."
+
+Julia got up, "Let me make some coffee, then we can talk."
+
+Max was looking at the instruments. "That's weird."
+
+She started the pot brewing, and then turned to him and said, "What's weird?"
+
+"The biometric readings."
+
+"Any anomalies?"
+
+"Not really. Kind of. About 20 minutes ago the anomalous brain wave appeared
+again, faint at first, then becoming much more pronounced. Then about 15 minutes
+ago _all_ the biometric readings suddenly stopped."
+
+"Stopped?"
+
+"Yes, all the readings: no blood pressure, no pulse rate, no breathing, no EKG,
+no brainwaves — everything went dead."
+
+"I wonder if I knocked the sensors off in my sleep?"
+
+"Possibly, but it would be difficult — you'd need to knock off all the sensors
+at the exact same time. Maybe there's another explanation, but I can't think
+what that would be. I suspect there's videocam footage, so maybe we can ask
+Taggart to allow us to review it."
+
+"They're recording us?"
+
+"I'm pretty sure they are — see that?" he pointed to the dark half-globe
+embedded in the middle of the ceiling. "Almost definitely a videocamera."
+
+"How did you sleep?"
+
+"Pretty normal," she said. "Weird dreams at the end, but pretty normal
+otherwise."
+
+The coffee was waking her up. She wondered how people survived without coffee.
