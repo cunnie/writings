@@ -1962,7 +1962,7 @@ could trust her to acknowledge their successes, so they pushed her up.
 She was surprised by the cult of the CEO — that one man was responsible for the
 success of the company. In the early days she believed it, that someone like
 Steve Jobs or Bill Gates were singularly responsible for the success of their
-company.
+companies.
 
 But her mentor quickly disabused her of that notion: "That's bullshit," he said.
 "You look at any successful CEO. Then you look behind him — he's got a bunch of
@@ -1970,7 +1970,46 @@ talented and hard-working people making his success possible. Do you think he'd
 still be as successful if those people weren't there? Of course not. We like the
 idea of heroes, of individuals who can perform herculean tasks. But it's not an
 individual who wins a battle, it's an army. It's not Achilles, it's the 92nd
-Infantry Division. It's not an individual that wins the World Series, it's a
-team. That's not to say that the CEO is merely an ornament — it's an important
-job, and he can tank the company if he's not doing it correctly — but it's not
-the be-all and end-all that we like think it is."
+Infantry Division. That's not to say that the CEO is merely an ornament — it's
+an important job, and he can tank the company if he's not doing it correctly —
+but it's not the be-all and end-all that we like think it is."
+
+Julia thought for a second. "Okay," she said. She wasn't sure, but it seemed
+like Taggart breathed a big sigh of relief. "But I need that half-hour right
+now. And, since I don't have my laptop nor my cell, I'll need a pad of paper and
+a pen."
+
+Max said, "Would one of these lab notebooks do?"
+
+A lab notebook? Julia loved lab notebooks, with their acid-free paper and their
+grid lines — perfect for taking notes and drawing charts. In fact, she used her
+lab notebook her first year as a sales rep.
+
+One of the more senior sales reps brought her a gift on her birthday. It was a
+small notebook with elegant backing. She had said to Julia, "Look, I know you're
+an engineer, you know you're an engineer, but part of this game we're in, this
+game of sales, is to use subtle cues that you're in the same tribe as the person
+to whom you're selling. And that tribe is the "executive" tribe and not the
+"engineering-and-scientist" tribe. You're going to be well groomed and you're
+going to have the type of notebook that your customer would have if he was a
+woman. And let me tell you something: that notebook isn't going to be a lab
+notebook. It'll be small, elegant, and probably in a leather case."
+
+Contrary to what she read in the business journals, she discovered that the
+women she worked with were always helpful and always looked out for her. It was
+a stereotype that women were out to get each other, and that men did better
+because they played on sports teams.
+
+When she spoke to her mentor about how her fellow women were helpful rather than
+competitive, he said, "«women aren't team players» is the crap that guys tell
+each other so they don't feel bad about not promoting a woman who's better than
+them," said her mentor. "People are people, most of them lack the discipline to
+separate personal feelings from objective results. Whether I want to have a BBQ
+with someone is completely irrelevant to evaluating how effective they are. That
+smelly guy who consistently brings in more and more revenue every quarter?
+Promote him. That great guy who everybody likes and who always has a smile but
+can never close a deal? Let him go. Really. You're doing him a disservice by
+keeping him around. He has a better career waiting in the wings."
+
+Her mentor was on a roll, "You know why blacks do so well in sports? Because
+it's very clear who the achievers are."
