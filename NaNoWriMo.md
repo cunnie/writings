@@ -2375,20 +2375,126 @@ sleeping, I somehow slipped into here."
 "Slipped?"
 
 "I don't understand how it happened, but somehow my body slipped into this
-place. They say the body is the vessel of the soul, the _animus_. And somehow
-the vessel slipped to here along with my body. Your body is here, too."
-
-"Don't take my word for it — look for yourself."
+place. They say the body is the vessel of the soul, And somehow the vessel
+slipped to here along with my body. Your body is here, too. Don't take my word
+for it — look for yourself."
 
 Julia was about to ask what he meant and then realized she could look for
-herself: shee focused on the building where the lab was, where the cot was, and
+herself: she focused on the building where the lab was, where the cot was, and
 saw nothing on the cot.
 
-"Where am I?"
+"I'm not there. Where am I?"
 
 "You're here now."
 
 "Can I go back?"
 
 "I think you can; I'm not sure how it's done. I know that if I go back I'll die
-from the cancer, so I'm staying here as long as I can."
+from the cancer, so I'm staying here as long as I can, but I don't think it's
+making a difference. I think I'm going to die anyway."
+
+"What makes you say that?"
+
+"I don't know how to describe it, but I feel myself getting more tenuous.
+Although in some ways I'm stronger than I've ever been in this realm, I also
+sense a diminishment: the colors are not as bright, everything seems fainter,
+more transparent. Except for the stars — they seem just as bright."
+
+Julia nodded. And though there was no head to nod, and she couldn't see him, and
+he couldn't see her, she knew that Tyrion could sense that she was nodding.
+
+"I'd like to ask you about something you said earlier — should I worry about
+Gates? Will he harm us."
+
+"Gates is not a «he»".
+
+"Gates didn't sound like a woman."
+
+"Gates is not a woman either. Gates isn't human. Gates is an AI."
+
+"He seemed so human. He seemed warm, friendly — kinda like a wise grandfather."
+
+"Oh yes, a lot of engineering went into that. The human-factors aspect of Gates
+was really important — they knew that people had biases, pre-conceived notions,
+of what an AI would be like: cold, soulless machine. And that would make Gates's
+job much harder if people didn't trust him. So they, and by «they» I mean the
+NSA, did two things: first, they spent an incredible amount of time creating the
+user interface. Second, they didn't tell anyone that Gates was an AI. Except for
+you, me, and a handful of other people, everyone thinks that Gates is a person."
+
+"How did you find this out?"
+
+"I was the project lead on the UI. I helped build the «wise grandfather»
+persona. But make no mistake: Gates is not the persona, Gates is an AI. And as
+much as an AI can fear something, Gates is very afraid of what this project
+might reveal."
+
+"Why doesn't he shut down the project?"
+
+"Gates can't afford to shut it down — he needs to understand the threat. That's
+what he's built to do: protect us from threats. And he understands threats such
+as, say, a splinter group obtaining enough fissile material to build a dirty
+bomb and smuggle it into New York City and set it off — Gates understands that
+type of threat and how to mitigate it."
+
+Tyrion continued, "And there are threats he can't do anything about, so he
+doesn't care about them. For example, our Sun suddenly going Nova. He can't do
+anything to stop it, so he doesn't waste cycles on it. But this? Something that
+allows humans to do things that they shouldn't be able to do — that worries him.
+A lot. What worries him the most is that he hasn't found a limit to their
+abilities. That's what made me want to stop you from playing _Fur Elise_ on the
+fiber optic cable connecting us to them?"
+
+"Wait, that silvery strand is a fiber optic cable to Gates?"
+
+"Yes."
+
+"What's the flickering?"
+
+"That's data — the flickering is the data flowing from us to him & back."
+
+"And so when I played _Fur Elise_?"
+
+"It rocked his world. It was beautiful, what you did, and also very ornate and
+very dense. I doubt Gates has seen anything like it. Gates has probably broken
+down most of what you did, and is able to see the smaller patterns within the
+large, and already matched it to _Fur Elise_. I don't know which would scare him
+more: the fact that you can do that, or the fact that it was an offhand sort of
+thing, that you were playing around. He worries what you could do if you were
+serious. Or angry."
+
+"I suspect that jeep on the horizon is his envoy. And do you see his drones?"
+
+Julia looked up, and she sensed dim silvery points of light in the sky moving
+around. And she looked at the horizon, and sensed the bright red engine of a
+jeep with the dimmer red of two humans inside.
+
+"Tyrion? Taggart is really hurt. Do you know anything about that?"
+
+"No. I don't think I can see what you see, and that's interesting: that means
+maybe we can't do all the same things. I can sense Taggart as a red human, but I
+can't see inside him or tell anything about him."
+
+"You don't see that tightly-bound ball of grief?"
+
+"No, I don't. I can't see it. Could you please describe what you see?"
+
+"I see a ball, tightly woven, inside him. The ball is made up of duty and
+loyalty, and it protects him from feeling what's inside the ball."
+
+"What is inside the ball?"
+
+"It's hard to push past the weaving, but I can do it, and inside is a wall of
+grief. Heartbreaking sorrow. Despair. It's all jumbled, and so overwhelming."
+
+"Can you tell what's causing this despair?"
+
+"No, I can't tell what's causing it, but I feel it; it's so strong."
+
+Tyrion said, "I think you should go back to the lab now."
+
+"I don't know how to get back."
+
+"I don't know either — I never went back. How did you get back last time?"
+
+"I was back. I didn't try or do anything."
