@@ -2201,6 +2201,55 @@ embedded in the middle of the ceiling. "Almost definitely a videocamera."
 "How did you sleep?"
 
 "Pretty normal," she said. "Weird dreams at the end, but pretty normal
-otherwise."
+otherwise. What time is it?"
 
-The coffee was waking her up. She wondered how people survived without coffee.
+"7:00 a.m."
+
+"I need to call corporate counsel in a half-hour," she said. "In the meantime,
+let's get started."
+
+They spent the next twenty minutes performing tests of cerebral function when
+Taggart arrived.
+
+Maybe it was Julia's imagination, but he looked slightly different this morning.
+Something in his manner. A little softer.
+
+Taggart escorted her to the phone room, where she was able to call her corporate
+lawyer.
+
+"Let me sketch it out for you, and I suspect you can fill in some of the gaps. I
+am onsite in the Federal Division inspecting the project that suffered what we
+believe to have been a loss of human life. For reasons I can't get into I will
+be sequestered here for at least two weeks. What I need from you is to prepare a
+brief to force my release at the end of two weeks in the event they decide to
+prolong my sequestration."
+
+"You don't want to be released now?"
+
+"I'd love to be released now, but they've given reasons why they shouldn't
+release me right away, and I'm willing to play ball with them. But I want to
+make sure that this doesn't continue indefinitely — I should be back at the
+office, not here."
+
+"Anything else I should know?"
+
+"The reason they gave for keeping me here is State Secrets."
+
+"Okay."
+
+The call was short — maybe five minutes — so Julia used her remaining 25 minutes
+to call her executive assistant and work through the things to accomplish that
+day.
+
+At the end of her allotted half-hour, Taggart knocked on the door and escorted
+her back to Max's lab, where Max greeted her.
+
+"I'd like to do a different type of testing," said Max. "Your brain function is
+normal, so what I'd like to do is put it under stress and see how it responds."
+
+"What kind of stress?"
+
+"To begin with, I'd like expose you to flashing lights. First, you're not an
+epileptic, are you? Good. I'd like to expose you to flashing lights in the
+frequency range of 5 to 30 Hz — which can trigger a seizure in someone with
+photosensitive epilepsy."
