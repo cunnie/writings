@@ -2253,3 +2253,142 @@ normal, so what I'd like to do is put it under stress and see how it responds."
 epileptic, are you? Good. I'd like to expose you to flashing lights in the
 frequency range of 5 to 30 Hz — which can trigger a seizure in someone with
 photosensitive epilepsy."
+
+Max set up the apparatus, and although staring at the flashing lights was
+uncomfortable, it didn't inducs a seizure or brainwave anomalies.
+
+The days was spent doing tests that were either uncomfortable (30 minute sauna)
+or very uncomfortable (3-minute ice bath). Julia didn't mind — she was not
+someone who was comfort-oriented. Comfort was often an afterthought.
+
+But the tests were tiring in a manner which she didn't expect. And when Max said
+that they were done for the day, Julia stretched out on the cot.
+
+"I need to take a nap," she said. "I am so tired".
+
+Max dimmed the lights before he closed the door behind him, and within a minute
+Julia was asleep.
+
+The dreams came fast this time. She was flying in a huge airplane. No tiny
+portholes — instead, huge sheets of glass. No cramped rows of seats, rather
+decorated as a spacious lounge. They were barely flying above the treeline. The
+expanse was beautiful, and it made her feel big in a way she couldn't describe.
+
+She awoke drenched in sweat. What time was it? She didn't know. But the sweat
+made the electrodes slippery, and there was a slight shocking sensation coming
+from them. The sweat was probably short-circuiting them, and when she looked at
+the consoles she could see that was the case. She took them off. What harm could
+happe by removing them for a few hours? And then drifted back to sleep.
+
+She was dreaming, but it felt different. It was like her earlier dream, where
+she could see everything. She could see everything in the room, and, as she
+became bigger, she could see the facility in the desert, the road leading East,
+the guardhouse.
+
+There was an overlay, she could see flickering of lights. The cacti were diffuse
+orange clouds, the scorpions were tiny yellow dots, the guard in the guardhouse
+was a bright red dot, pulsing. She could sense Taggart, too: another bright red
+pulsing dot. And then she saw a flickering silvery strand running parallel to
+the road.
+
+The strand fascinated her. She reached out to feel the strand. Unlike the time
+she reached out to Taggart, who felt warm, the strand felt cold. She watched the
+flickering, and realized there was a rhythm to it. It had a precise logic to it.
+She followed the strand into the facility and saw it fan out to a hundred
+smaller threads, all silver.
+
+She reached out to the strand, and she don't know how she did it, but she
+"plucked" it. She sensed ripples moving back and forth from where she plucked
+it, her rhythm mixing with its.
+
+And from the distance she found a stream of rhythms coming back. Was this an
+angry response? She wasn't sure. But it was definitely a response to her
+plucking it. She plucked it again.
+
+When had played the piano though high school, and at one point considered going
+to Oberlin to study music. That hadn't happened of course, but when she studied
+computers she sensed a similarity between the patterns of music and the loops
+and patterns of computer programs — there was a beauty and elegance. And she
+sensed something similar in the manner in which this silvery strand flickered.
+
+She realized she pluck the strand and it would play a note, and the greater the
+strength which with she plucked the strand, the higher the note. She began to
+experiment, and soon she was playing _Für Elise_. She knew in the back of her
+mind it wasn't music that she was hearing, rather, it was something else that
+her mind interpreted as music. And it was beautiful music, the most beautiful
+music she had ever heard.
+
+And then she started playing with her other hand, adding a contretemps. And she
+was taking Beethoven's _Für Elise_ and layering and stretching and pulling and
+twisting the music so it was achingly beautiful, and she realized that rather
+than two hands she was playing with a hundred hands, maybe a thousand.
+
+She slowly built it up to an earth-shattering crescendo, and then let it
+subside. All was quiet, and the silver strand resumed its unimaginative, steady
+flickering.
+
+She sensed a presence. "Tyrion?" she spoke, although she had no mouth. It was
+more of an announcement, a broadcast.
+
+"Yes, it's me."
+
+"Are you here?"
+
+"I am «here», though I'm not sure where that is."
+
+"They're worried about you."
+
+"I'm dying Julia; I can't go back."
+
+Julia was quiet.
+
+"It's beautiful here, Julia. I wouldn't go back even if I could."
+
+"Where are we?"
+
+"It's not a place, not in the way that New York City is a place. It's more of a
+state of being or a state of mind, although I'm not sure anymore if there's a
+difference between the two."
+
+"That was a beautiful, what you just did," said Tyrion. "I was going to stop
+you, but I couldn't bear to not listen. It broke my heart."
+
+"Thank you, but why would you stop me?"
+
+Julia was non-plussed — she was having a conversation without her mouth, with a
+person she couldn't see, and yet it seemed so natural.
+
+"Gates will know something is going on. He's already frightened — I'm not sure
+if that's the right word — he's been introduced to an unknown, a powerful
+unknown, and he doesn't know its parameters or constraints. He's struggling
+furiously to understand it. I don't know who the first subject was, but
+something must have happened, something that made Gates bring to bear a set of
+resources unseen in a long time."
+
+"It didn't seem like a lot resources." said Julia. "A couple million dollars, a
+dilapidated facility in the desert — I've seen much bigger."
+
+"Don't mis-judge what you're seeing — this is only the tip of the iceberg. I was
+the second subject and they had me wired up all day. And then, while I was
+sleeping, I somehow slipped into here."
+
+"Slipped?"
+
+"I don't understand how it happened, but somehow my body slipped into this
+place. They say the body is the vessel of the soul, the _animus_. And somehow
+the vessel slipped to here along with my body. Your body is here, too."
+
+"Don't take my word for it — look for yourself."
+
+Julia was about to ask what he meant and then realized she could look for
+herself: shee focused on the building where the lab was, where the cot was, and
+saw nothing on the cot.
+
+"Where am I?"
+
+"You're here now."
+
+"Can I go back?"
+
+"I think you can; I'm not sure how it's done. I know that if I go back I'll die
+from the cancer, so I'm staying here as long as I can."
