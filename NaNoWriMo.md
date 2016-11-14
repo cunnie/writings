@@ -2501,4 +2501,53 @@ Tyrion said, "I think you should go back to the lab now."
 Tyrion's voice sounded far-off. "Everything is becoming more transparent, Julia.
 I fear I have little time left. Watch out for Gates: Gates is neither bad nor
 good, that's not a paradigm in which he exists. Gates's axis is threat-severity,
-and you are at the far end of that scale. Don't be fooled: he soun"
+and you are at the far end of that scale. Don't be fooled: Gates may sound like
+the voice of reason, but Gates is about threat-containment and nothing more."
+
+He continued, "The earth is fainter now, so transparent that I can see the stars
+beyond. The stars themselves are quite bright. I think I fooled myself that I
+could avoid death by coming here, to this place. I can feel myself slowly
+dissolving. There's a surprising warm comfort, and rather than being fearful, I
+find a sense of peace. Everything has become dim, except the stars, which are
+brighter than ever, and I believe they are speaking to me..."
+
+Tyrion trailed off, and Julia knew he was gone, this time forever. She wondered
+if he had had a wife, or children, or next of kin. She was quiet, and meditated
+on the void.
+
+She meditated for what felt like aeons, but noticed that the jeep on the horizon
+had hardly moved, and that the flickering silver strand had slowed to a crawl.
+She looked around, and felt Taggart in his bed, tossing and turned. She reached
+out and felt the tightly-bound ball with which he contained his grief. That ball
+had outlived its usefulness. Rather than helping him, it merely served to stunt
+his growth, to make him somehow less a man. He had traded an aspect of his
+humanity for abstract ideals which made his pain bearable. That ball had long
+outlived its usefulness.
+
+She reached out to the ball: so many strands. She picked at one strand, tugging
+it, pulling it away, and as soon as she did that another strand appeared it and
+sealed it again. She pulled that strand, too, and as quickly as it was pulled,
+another appeared. And again, and again. One hand wasn't enough.
+
+She tried again, two hands. And still as fast as she worked the ball repaired
+itself. She became lost in the flow of unwinding: it seemed that as fast as she
+moved, the ball was faster. She had two hands, then three, then four, then
+dozens, then hundreds: hundreds of tiny hands unweaving a miraculously resilient
+ball.
+
+Such small hands, opening and closing. Faster and faster she moved, and faster
+and faster the ball repaired itself.
+
+So fierce, the ball, the unwinding. She was lost in some cosmic conflict of
+strands.
+
+And suddenly there was a turn of the tide. She knew in the lifespan of large
+stars, the minute before they go supernova, there is a brief period when they
+exhaust their fuel: the iron in the core of the star begins to undergo fusion,
+but rather than releasing energy, it absorbs energy, and that is the death knell
+of the star: it rapidly implodes on itself and then, in an incredible burst of
+energy brighter than anything else in the Universe, explodes in a Supernova.
+
+And so it was with Taggart: the ball containing his grief suddenly gave way, and
+the resulting explosion of grief and sorrow overwhelmed Julia — she felt herself
+lost in a tempest of unleashed emotion. She wept.
