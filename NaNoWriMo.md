@@ -2461,9 +2461,8 @@ down most of what you did, and is able to see the smaller patterns within the
 large, and already matched it to _Fur Elise_. I don't know which would scare him
 more: the fact that you can do that, or the fact that it was an offhand sort of
 thing, that you were playing around. He worries what you could do if you were
-serious. Or angry."
-
-"I suspect that jeep on the horizon is his envoy. And do you see his drones?"
+serious. Or angry. I suspect that jeep on the horizon is his envoy. And do you
+see his drones?"
 
 Julia looked up, and she sensed dim silvery points of light in the sky moving
 around. And she looked at the horizon, and sensed the bright red engine of a
@@ -2497,4 +2496,9 @@ Tyrion said, "I think you should go back to the lab now."
 
 "I don't know either — I never went back. How did you get back last time?"
 
-"I was back. I didn't try or do anything."
+"It happened. I didn't try or do anything."
+
+Tyrion's voice sounded far-off. "Everything is becoming more transparent, Julia.
+I fear I have little time left. Watch out for Gates: Gates is neither bad nor
+good, that's not a paradigm in which he exists. Gates's axis is threat-severity,
+and you are at the far end of that scale. Don't be fooled: he soun"
