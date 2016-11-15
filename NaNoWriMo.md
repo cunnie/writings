@@ -2550,4 +2550,23 @@ energy brighter than anything else in the Universe, explodes in a Supernova.
 
 And so it was with Taggart: the ball containing his grief suddenly gave way, and
 the resulting explosion of grief and sorrow overwhelmed Julia — she felt herself
-lost in a tempest of unleashed emotion. She wept.
+lost in a tempest of unleashed emotion.
+
+---
+
+She found herself on the cot, weeping uncontrollably. She lay there for what
+seemed like forever. And then dabbed her eyes, went over and made coffee. The
+banality of grief, she thought to herself.
+
+She thought of what she had experienced. Was it a dream? She wasn't sure. Maybe
+her subconscious had conjured a beautiful dream for her, one which reflected
+what she wanted to see. The truth was drab: she was a fifty-year-old woman who
+hadn't showered in at least two days who was holed up in a dilapidated army
+facility. Glamorous it was not. And being hooked up to electrodes and solve math
+problems or balancing on a chair or any of 100 simple tests to determine if
+one's brain was on the fritz — it was soul-crushing. And she missed being around
+the people she loved.
+
+She'd call her dad today. She'd call him after she talked to her exective
+assitant. She'd save the last 5 minutes for talking with her dad: 25 minutes for
+the EA, 5 minutes for dad. It'd be nice to hear his voice.
