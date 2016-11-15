@@ -2567,6 +2567,123 @@ problems or balancing on a chair or any of 100 simple tests to determine if
 one's brain was on the fritz — it was soul-crushing. And she missed being around
 the people she loved.
 
-She'd call her dad today. She'd call him after she talked to her exective
-assitant. She'd save the last 5 minutes for talking with her dad: 25 minutes for
-the EA, 5 minutes for dad. It'd be nice to hear his voice.
+She'd call her father today. She'd call him after she talked to her executive
+assistant. She'd save the last 5 minutes for talking with her dad: 25 minutes
+for the EA, 5 minutes for dad. It'd be nice to hear his voice.
+
+That was something she learned early but never understood — it was important to
+do things she enjoyed which were, on the outside, purposeless. Things like
+writing letters to her mother when a five-minute phone call would have been more
+efficient (her mother loved letters), or buying items at thrift stores (a guilty
+pleasure!) when clicking at Amazon would have taken a tenth the time. Or
+spending an evening binge-watching. Or napping in the afternoon.
+
+There are many kinds of sales reps, but she was aware of one type which seemed
+odd: they had no friends. It wasn't that they had no friends, it was that their
+customers were their friends. And the relationship was a mercenary one: when the
+customers were no longer buying (a transfer to a different position), they would
+slowly become not-friends. The reps she knew like this were often terribly
+charismatic — people were drawn to them — and were fun-loving and exciting. And
+they always seemed to be on their way to a special concert or a ski weekend in
+Utah or scuba diving in Hawaii. They had a vigor, a vitality that seemed to have
+leapt from a magazine. But there was an undercurrent of something not quite
+right, something deficient. They had no friends, no friends once their customers
+were discounted. All their friends were new, made in the last few years.
+
+It wasn't for her to judge. She found it odd, and was hesitant to become close
+to such people. She couldn't put her finger on it, but they made her a tad
+uncomfortable. She kept her distance. They never noticed — there was always a
+flock of people swirling around them.
+
+She took out the lab notebook that Max had given her and began jotting notes for
+her upcoming meeting. As she was writing a colonel flanked by two MPs strode
+down the hall.
+
+"Julia Chou?"
+
+"I am Julia Chou," she opted for formality. She found that often it was better
+to err on the side of being too formal. Many people in the military preferred
+formality — she suspected they found it comforting, in the same manner that they
+found the military, with its unambivalent rules, comforting.
+
+"My name is Colonel Dryden"
+
+"A pleasure to make your acquaintance, Colonel. I am accustomed to dealing with
+Colonel Taggart — is he indisposed?"
+
+"Colonel Taggart can't make it."
+
+"I see. Is there something I may help you with?"
+
+"General Gates would like a word with you."
+
+"Well, if he's looking for me he certainly should know where to find me," she
+said, dryly. She noticed one of the MPs suppressed a smile. "I would be most
+interested to meet him in person."
+
+"He can't make it in person."
+
+"Maybe at some point in the future I'll be graced with the presence of General
+Gates."
+
+"He'd like to call on the phone."
+
+"I am ready, but I have my own calls to make in," she checked the console,
+"eighteen minutes."
+
+The phone rang, the colonel picked up the handset and pressed the button to put
+him on speakerphone.
+
+"Julia, what a pleasure," said General Gates. "I want to thank you for spending
+time with us. This research is incalculably valuable, and you are a key part of
+that success. I know the testing can be tiresome, the food bland, and the
+accommodations spartan — I can't thank you enough."
+
+"General, may I remind you that I am here at your insistence?"
+
+"Yes, I know, and I'm terribly sorry about that. We want to get you out of here
+once we know everything is okay, and so far everything appears normal and is on
+track for a timely release."
+
+Gates was genuine — she had a hard time believing that she was talking to a
+computer program, an AI. Wait, was she sure he was an AI? Maybe that
+conversation with Tyrion was a dream. But she had never met Gates, not in
+person, and she couldn't easily check the Internet. It was a bit of mystery.
+When she got out she'd check.
+
+"Could you hold on a second Julia? There are people in my office."
+
+She heard muttering over the speaker, then Gates came back on.
+
+"They're tuning the piano. I love playing it to relax. I'm not great, but I love
+the classics: chopsticks, goldberg variations — it's music to my ears, but hell
+on my neighbors'. Do you enjoy music, Julia?"
+
+For a computer AI he was surprisingly transparent, she could see his question
+from a mile away. She was going to enjoy this.
+
+"I played in my youth," she said. "My parents wanted me to play. I was never
+terribly good. I did like that one piece by Beethoven..."
+
+She dangled that piece in front of Gates, and now she would see if he rose to
+the bait.
+
+"Moonlight sonata?" he asked.
+
+"No, the other one." She wasn't going to say it for him. She was going to make
+him say it.
+
+"Fur Elise?" he asked.
+
+"Yes, that was it. Fur Elise — it's funny that you mention it because last night —
+look at the time! I must call work right now. I am terribly sorry General.
+Perhaps we can pick up this conversation later?"
+
+She wondered how an AI responded to being teased. She wondered if the AI even
+knew it was being teased. That's a shortcoming of being an AI: they're deprived
+of the growth experience of growing up with other children. They don't know what
+it's like being teased, and they don't even know it's happening. Well, Gates was
+about to learn. Julia smiled to herself as she picked up her notebook and pen
+and strode off to the phone room.
+
+The call with her EA went quickly. Her EA was good, on top of things, crisp.
