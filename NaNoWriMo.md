@@ -2457,12 +2457,12 @@ fiber optic cable connecting us to them?"
 
 "It rocked his world. It was beautiful, what you did, and also very ornate and
 very dense. I doubt Gates has seen anything like it. Gates has probably broken
-down most of what you did, and is able to see the smaller patterns within the
-large, and already matched it to _Fur Elise_. I don't know which would scare him
-more: the fact that you can do that, or the fact that it was an offhand sort of
-thing, that you were playing around. He worries what you could do if you were
-serious. Or angry. I suspect that jeep on the horizon is his envoy. And do you
-see his drones?"
+down most of it, and is able to see the smaller patterns within the large, and
+already matched it to _Fur Elise_. I don't know which would scare him more: the
+fact that you can do that, or the fact that it was an offhand sort of thing,
+that you were playing around. He worries what you could do if you were serious.
+Or angry. I suspect that jeep on the horizon is his envoy. And do you see his
+drones?"
 
 Julia looked up, and she sensed dim silvery points of light in the sky moving
 around. And she looked at the horizon, and sensed the bright red engine of a
@@ -2501,8 +2501,16 @@ Tyrion said, "I think you should go back to the lab now."
 Tyrion's voice sounded far-off. "Everything is becoming more transparent, Julia.
 I fear I have little time left. Watch out for Gates: Gates is neither bad nor
 good, that's not a paradigm in which he exists. Gates's axis is threat-severity,
-and you are at the far end of that scale. Don't be fooled: Gates may sound like
-the voice of reason, but Gates is about threat-containment and nothing more."
+and you are at the dangerous end of that scale. Don't be fooled: Gates may sound
+like the voice of reason, but Gates is about threat-containment and nothing
+more."
+
+"If Gates decides that you have unmapped abilities — things that can't be
+explained and that no one else can do — he will never permit you return to
+civilian life. He will try to turn you into a weapon, or, if that fails, to
+blunt your abilities, either with imprisonment, sedation, or worse. You must not
+let on what you can do; you must tell no one. Mark my words: Gates must not
+discover what you can do."
 
 He continued, "The earth is fainter now, so transparent that I can see the stars
 beyond. The stars themselves are quite bright. I think I fooled myself that I
@@ -2656,7 +2664,7 @@ When she got out she'd check.
 She heard muttering over the speaker, then Gates came back on.
 
 "They're tuning the piano. I love playing it to relax. I'm not great, but I love
-the classics: chopsticks, goldberg variations — it's music to my ears, but hell
+the classics: chopsticks, Goldberg variations — it's music to my ears, but hell
 on my neighbors'. Do you enjoy music, Julia?"
 
 For a computer AI he was surprisingly transparent, she could see his question
@@ -2681,9 +2689,100 @@ Perhaps we can pick up this conversation later?"
 
 She wondered how an AI responded to being teased. She wondered if the AI even
 knew it was being teased. That's a shortcoming of being an AI: they're deprived
-of the growth experience of growing up with other children. They don't know what
-it's like being teased, and they don't even know it's happening. Well, Gates was
+of the experience of growing up with other children. They don't know what it's
+like being teased, and they don't even know it's happening. Well, Gates was
 about to learn. Julia smiled to herself as she picked up her notebook and pen
 and strode off to the phone room.
 
 The call with her EA went quickly. Her EA was good, on top of things, crisp.
+
+The she called her dad. She told him she was away for two weeks — he didn't seem
+surprised. She was often traveling somewhere. He was having problems with
+printing photos from his computer. It was quaint how older people adapt to a
+technology — they'll adapt some aspects, but not others. For example, Julia
+never printed photos; she browsed them from her phone or from her computer. But
+her dad's generation preferred to browse physical pictures, placed in photo
+albums. So it was with her father: he took pictures with his camera, edited them
+on his computer, and, as a last step, printed them out. He never adapted to
+browsing photos on his phone or his camera. She suggested he try turning the
+printer off an on again. "I've already done that five times," he said in
+frustration.
+
+"I have to go, Dad," she said. "Take care."
+
+"I love you." "I love you, too."
+
+She hung up and walked back to Max's lab. The colonel and his two MPs had left,
+and Max hadn't arrived. She was alone. The phone rang. She picked it up: it was
+General Gates.
+
+Gates spoke, "I am sorry I couldn't be more forthcoming in our earlier
+conversation; the topic was something that should have been discussed one-on-one
+and not in front of a colonel and two MPs. Last night, our secure fiber optic
+channel was breached in an egregious manner: it was flooded with data, at near
+maximum capacity. We thought at first it was a denial-of-service attack, but the
+data coming in did not match that profile — no port scanning, no ICMP source
+routing requests. We moved to contain the breach, but the data continued to
+flood in, and the source of the data was this facility. At first we thought it
+was the Chinese, maybe the Russians, had somehow tapped into our fiber optic
+cable. But it didn't have the hallmarks of their work. We began examining the
+data. At first it seemed like nonsense data, garbage, and then we began pattern
+matching."
+
+"What did you find?"
+
+"It was Beethoven's _Für Elise_. But it wasn't a mere recording — that amount of
+data is small, could not saturate our fiber optic cable. Even uncompressed
+stereo-channel 24 bit data sampled at 44,100 Hz would have been a drop in the
+bucket. No, this was something unbelievably greater. It was _Für Elise_, but
+stretched out in many dimensions, harmony layered upon harmony. And once we
+cracked the pattern, we could see it from every angle we examined the music:
+frequency, amplitude, phase. And the manner in which it hung together was, for
+lack of a better word, genius. It was something we could only appreciate in the
+abstract because the human brain can't absorb that much data. Not even close.
+And then, as soon as it began, it stopped. Our fiber optic was transmitting
+normal data."
+
+"What do you think caused it?"
+
+"We're not sure," said Gates. "When you mentioned something about _Für Elise_
+and last night, what were you going to say?"
+
+Julia paused. On one hand, Gates had confirmed that at least one of the events
+last night happened. Which meant that Tyrion may have been real. But the entire
+episode had a dreamlike quality, and maybe Tyrion wasn't real, or maybe he was
+real but was paranoid about General Gates. She wasn't sure.
+
+"Last night I dreamed I was playing _Für Elise_," said Julia. "I dreamt I was
+playing a very, very complicated version."
+
+"Thank you, Julia, that is what I needed to know."
+
+"You're welcome."
+
+"I'm sorry"
+
+"About what?"
+
+"About what's about to happen."
+
+The MPs and the colonel rushed into the room. Julia opened her mouth to speak
+but each MP grabbed her by the arm and roughly pushed her into the chair.
+
+"What are you doing?" Julia said. "Stop it. Let me go."
+
+She struggled, but to no avail. They were strong. The colonel unzipped a nylon
+bag and placed it on the table. In it was a syringe and bottles.
+
+Julia screamed, "Help, HELP! Max! Taggart, ANYONE!"
+
+The colonel and MPs ignored her screams. The colonel filled the syringe, walked
+over to her, and said to the MP on the right, "Hold her arm very still."
+
+Julia screamed, and tried to move her arm, but it was locked down by the MP. He
+held her arm so tightly that her veins bulged. He tapped one of the veins twice,
+then slid the syringe in, then quickly depressed the plunger. Julia didn't know
+what was in the plunger, but she knew she had 30 seconds before it hit her
+brain. She screamed and struggled for those thirty seconds, and then darkness.
+
+---
