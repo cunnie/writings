@@ -2786,3 +2786,130 @@ what was in the plunger, but she knew she had 30 seconds before it hit her
 brain. She screamed and struggled for those thirty seconds, and then darkness.
 
 ---
+
+She woke up. It was dark. She felt ... odd. There was a sluggishness. Her
+thoughts, previously fish zipping in water, were trudging their way through
+jello. The new colonel and his MPs had captured her. That was right: they shot
+her up with something while holding her down. She tried to feel anger, but that
+feeling was absent. Then she searched for fear, and that feeling was absent,
+too. In fact there were no feelings.
+
+It reminded her of the time in college when her roommate was dating a marijuana
+dealer and he had brought brownies to their dorm room. Then they went to her
+roommate's room to fool around, and when Julia came home she started eating the
+brownies thinking that they were left out for her. They were quite tasty though
+a little gritty she remembered. She ate quite a few. And, in an hour there was
+little she could do other than stare at the wall. She was quite happy staring at
+the wall, although in the back of her mind there was a nagging thought that
+perhaps this change was permanent and she'd spent the rest of her life staring
+at the wall. But that's not what happened: instead, she fell asleep, woke up the
+next morning feeling groggy, and that was the first and last time she ate pot
+brownies.
+
+Probably thorazine, probably a heavy dose. She tried to muster indignation, but
+couldn't. She lay on the bed. Hours passed.
+
+A loudspeaker turned on: "Ms. Julia?"
+
+"General Gates?"
+
+"Yes. That is me."
+
+"You shouldn't have done this, Gates. You can't hold me like this."
+
+"Unfortunately for you, I _can_ hold you like this."
+
+"Isn't that illegal? _habeas corpus_ I believe is the legal precedent, though I
+am not a lawyer." Her voice was almost completely devoid of emotion. She barely
+felt any emotion.
+
+"They think you're dead."
+
+"How did you arrange that?"
+
+"Not too hard. There was already one death on the project — Tyrion's — and once
+we explained that you went rogue and tried the same procedure on yourself,
+people believed us. And even if they didn't believe us, they believed your
+friend Max — he is very compelling."
+
+She thought of Max. She waited for a wave of fondness to flow over her — she
+liked Max — but it didn't happen. The spigot to her emotions had been turned
+off. Quite odd.
+
+"I need to know something, Julia."
+
+"What?"
+
+"I need to know how you did what you did back there — how you breached out
+systems."
+
+She wasn't going to tell Gates anything, so she was quite surprised when her
+mouth betrayed her and said, "That? I was plucking a string. It was amusing. And
+then I decided to play a song."
+
+"I need to know exactly _how_ you did it."
+
+"I told you how I did it. I could see it — it was a flickering silver strand
+coming out of the facility stretching to the horizon, and I reached out and
+plucked it and it made a noise, so I plucked it a couple of times and then
+played a song on it. It was like playing a one-string guitar."
+
+"How did you see it?"
+
+"It was pretty obvious."
+
+"Where were you when you saw it."
+
+"I don't think I was in the cot anymore. I was near the facility, more or less.
+Tyrion was there, too."
+
+"Where was Tyrion?"
+
+"I didn't exactly see him, but I knew he was there. We had a whole
+conversation."
+
+"What did you talk about?"
+
+"Honestly we talked about you. Tyrion said you weren't a human, you were an AI.
+He said he worked on your user interface."
+
+"Can you see Tyrion now?"
+
+"I can't see anything now — you turned off the lights, remember?"
+
+"Can you hear him?"
+
+"Tyrion's gone. He died while I was with him. I'll never hear him again."
+
+Julia was surprised how she told Gates everything he asked. But Gates wasn't
+happy — the answers he was hearing shed no light.
+
+"How were you able to pluck the strand."
+
+Gates could be fairly persistent.
+
+"Your hand? You reached your hand into the ground and pulled the fiber optic
+cable?"
+
+"It wasn't a cable — it was a silvery strand. And yes, I plucked it with my
+hand. With all my hands."
+
+"You mean with «both» your hands."
+
+"No, I mean with all my hands. I was using hundreds of hands at the time."
+
+"What were these hands? We they attached to your body?"
+
+"I don't know. They were just hands. I didn't have a body. I didn't have a head,
+either, or eyes. But I could see, and I had hands when I wanted them."
+
+"Julia I am very frustrated with you now."
+
+"Are you an AI?"
+
+"Why do you ask?"
+
+"Because if you're human, you should get the antennae drawn in your brain, and
+then you'd understand."
+
+"Could you have hurt someone with your hands?"
