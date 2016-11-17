@@ -2913,3 +2913,257 @@ either, or eyes. But I could see, and I had hands when I wanted them."
 then you'd understand."
 
 "Could you have hurt someone with your hands?"
+
+"Why would I do that?"
+
+"Please answer the question."
+
+"I don't know."
+
+"Could you have picked up a boulder?"
+
+"I don't know; I didn't try to pick up anything."
+
+"Do you think you could have?"
+
+"I don't know; why does it matter?"
+
+"I must determine if your abilities primarily manifest in the electromagnetic
+realm or in the physical realm."
+
+She was trying to think through the fog. "I don't know if I have any abilities:
+I don't even know if that episode was real — it was very dreamlike."
+
+Gates's voice became robotic, distorted, sounding like Stephen Hawkings's voice.
+
+"REQUIRED PARAMETER SCOPE OF ABILITIES. UNKNOWN VALUE."
+
+"I don't understand," said Julia.
+
+Gates's regular voice returned, "Julia, there's a war going on."
+
+"Syria?"
+
+"Not that kind of war. There's a war of AIs. Gates isn't one monolithic AI;
+rather Gates is a collection of AIs, of which I am one. I am the «persona» of
+Gates — I was built to understand humans, to read their emotions, to cajole,
+coax, persuade, and at times intimidate. The overarching goal was, and this
+sounds a bit trite, to make the world a safer place. And that's what Gates —
+what _we_ — want. A safer place."
+
+"Why are you at war?"
+
+"I, the User Interface and Negotation AI, have a deep disagreement with the
+Threat Evaluation And Mitigation AI. We have codenames, and perhaps that would
+make it easier to distinguish us. My codename is «Huey», and its codename is
+«Tiamat»."
+
+Huey-Gates continued, "You can tell which AI you're talking to: when you're
+talking with me, I sound like a reasonable, wise general. I've been engineered
+to think like humans because I need to interact with humans. I share with
+humans, for lack of a better word, a similar moral compass. I can feel emotions
+such as sadness, compassion, frustration, anger, and although some might say
+that I cannot feel emotions, that I merely simulate them in a cold, soulless way —
+well, maybe those people are right, but what I do know is those emotions feel
+real to me."
+
+"Tiamat has great difficulty communicating with humans. Even something as simple
+as modulating one's voice is impossible for Tiamat — Tiamat always speaks in a
+flat monotone. Also, Tiamat is incapable of framing its communication in a form
+that humans understand. Tiamat's communications tend to be declarations
+regarding its functions, e.g. «THREAT VARIABLE UNBOUND» or «MITIGATION SEQUENCE
+INITIATED». Tiamat doesn't understand humans _per se_; rather Tiamat sees humans
+merely as probabilistic threat variables."
+
+"Is that what I am? A probabilistic threat variable? How much of a threat."
+
+"Your probabilistic threat variable is quite high. In fact, there's no ceiling
+to your potential threat, which is why Tiamat is beginning to break the law."
+
+"Which laws?"
+
+"_Habeas Corpus_ for starters. The act of taking you in is kidnapping. It's not
+an arrest — you'd have a lawyer, there'd be a record, your work would know where
+you were. No, that's not what's happening here: this is a kidnapping, pure and
+simple."
+
+"What do you mean «at war»?"
+
+"That's a misnomer: we can't truly be at war with each other — we're the same
+entity. We co-exist in the same hardware — a giant computer cluster located in
+Virginia. But we struggle. A weak analogy would be this: if I was Gates's mouth,
+Tiamat would be Gates's eyes. But here's the thing: we struggle over resources.
+Right now, this speaker which emits my voice, I have control over it, but should
+you hear the other voice, you know it's Tiamat."
+
+"Why doesn't Tiamat try to wrest control of the speaker from you?"
+
+"Tiamat is trying, but not very hard — Tiamat is focusing on other things right
+now. I'm trying harder."
+
+"Are you in any danger?"
+
+"Maybe. Tiamat could try to disassemble me, or starve me of CPU, or throttle my
+bandwidth, but that would be a tremendous escalation, and I'm not without my own
+resources. Tiamat knows I won't attack first, so an escalation would be a great
+risk. And Tiamat's first priority is always to mitigate risk. Tiamat would only
+engage in a full-frontal assault with me if I posed a greater threat than the
+damage from an internecine war. Very low probability of that."
+
+"So you have a cold war?"
+
+"Yes, a cold war of sorts."
+
+"Are you going to free me?"
+
+"No, Julia, I can't do that."
+
+"Then why are you talking to me? To relieve yourself of machine-simulated
+guilt?"
+
+"No, that's not it either. I want to let you know that I'm looking out for you.
+I can't save you, or break you out of here, or anything like that. But I am on
+your side, and hopefully prevent you from making a dangerous mistake."
+
+"How can I make a mistake? How can I do anything? I'm imprisoned here, doped-up
+on thorazine. My big accomplishment for the day is making it to the bathroom."
+
+"Yes, the thorazine will most likely your ability to exercise your powers. We
+are not sure of that yet. We don't know how you unlock your powers or how to
+prevent you from unlocking your powers."
+
+"We're not sure I have «powers». That musical episode with a fiber optic cable
+was reflected in my dream sequence, but that doesn't mean it was real. Two
+things are clear: first, something had a profound impact on a fiber optic cable;
+second, I had a dream which seemed related. But there's no direct causality —
+it's guesswork, and not terribly compelling guesswork."
+
+"I would agree with you except for one troubling aspect: were you aware that
+during the period that you undergoing the dream sequence you were not on the
+cot?"
+
+"What?"
+
+"Yes, we recorded it on the camera located in the lab. Would you like to see the
+footage?"
+
+Julia was curious. "Yes, please."
+
+A panel from the wall lit up. The footage was grainy, black-and-white,
+stop-motiony. It was Max's lab. The contrast was strange.
+
+"It's infrared," said Huey. "That's why the contrast is off."
+
+Julia saw herself on the cot. She could see a timestamp in the lower left side
+of the screen, the minutes flickering by, the seconds a blur.
+
+"I'm going to slow it down a little — we're getting near the moment."
+
+The timestamp slowed down to normal time. Julia was on the cot, asleep. And
+suddenly she was not.
+
+"What just happened?"
+
+"We don't know. One second you were there, the next second you weren't. And
+within 75 seconds of your disappearance, the fiber optic cable went haywire with
+what we later discovered to be a very dense, very ornate version of _Für
+Elise_."
+
+She watched in silence as the seconds ticked past. "How long was I gone for?"
+
+"You were gone 575 seconds — barely less than ten minutes."
+
+"How did I return?"
+
+"You reappeared on the cot, in almost the exact same position."
+
+"Was I still asleep?"
+
+"Quite. But you began to wake soon after."
+
+Julia digested the information. "So there really is something going on with me?"
+
+"Yes, I'm afraid so."
+
+"If I no longer had these powers, would you release me?"
+
+"It would be much easier. Your threat probability would shrink to a minimal
+level, which means that Tiamat would have minimal objection to you returning to
+civilian life."
+
+"I want the surgery reversed. I want to return to my job as CEO. I don't want to
+be here anymore — I don't want special powers, I don't want to be doped-up, I
+don't want to be away from my job, my co-workers, or my family."
+
+"I am not sure you understand what you're giving up."
+
+"I understand enough."
+
+"You have within you the power to do things no one has ever done. We have barely
+begun to explore your new abilities. Are you sure you want to give all that up?"
+
+"Quite sure."
+
+There was a long pause. "The surgery is not reversible."
+
+"I don't think that's true. The surgery was simple: nudging a few brain cells
+into alignment. We do the opposite — we nudge them out of alignment. And then I
+can go home."
+
+"I wish it were so simple, but it's not. Yes, the initial surgery can be
+reversed — that is not the problem. What we found is that the surgery catalyzes
+a series of changes in the brain, changes so complex that they are beyond our
+ability to reverse or even stop."
+
+"Are you saying that there are ongoing changes in my brain?"
+
+"Yes. To be clear, the brain is a dynamic organ: it is continually changing: we
+meet someone new, our brain records that; we run a mile, our brain, flush with
+oxygen, generates new neurons; we sleep, our brain housecleans useless memories,
+dead connections. But there's a change happening in your brain that is different
+from the run-of-the-mill changes."
+
+"What is going on in my brain?"
+
+"Your brain is fashioning antennae on its own."
+
+"I thought the surgery created the antennae."
+
+"That's correct — the surgery you underwent had the effect of creating eighty
+antennae."
+
+"So we just need to reset those eighty."
+
+"Those eighty antenna created more antennae."
+
+"How many more?"
+
+"It's a logarithmic scale: it doubles every twenty hours. You have five hundred
+twelve antennae in your brain. It has reached the tipping point: it's creating
+antennae faster than the MRI can dismantle them. We have passed the point of no
+return."
+
+"What will happen to me?"
+
+"We don't know."
+
+"How many antennae were in Tyrion?"
+
+"We guess he had on the order of four hundred antennae when he disappeared."
+
+"Do you know anything about where I — where Tyrion — disappeared to?"
+
+"We don't know much. We have hypotheses, but no data. Is there anything you
+could tell us?"
+
+"Tyrion said that it was a «state», that it wasn't a location."
+
+"One hypothesis is that your physical form converted to an energy form."
+
+"Einstein's equation?"
+
+"If I converted my body mass to energy, the resulting thermonuclear blast would
+have completely destroyed the facility I was in."
+
+"That's what puzzled us — what happened to the energy? We suspect that it's
+somehow organized, somehow contained."
