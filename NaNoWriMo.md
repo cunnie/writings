@@ -3163,7 +3163,281 @@ could tell us?"
 "Einstein's equation?"
 
 "If I converted my body mass to energy, the resulting thermonuclear blast would
-have completely destroyed the facility I was in."
+have completely destroyed the facility I was in. That amount of energy — it's
+measured in megatons of TNT."
 
 "That's what puzzled us — what happened to the energy? We suspect that it's
-somehow organized, somehow contained."
+somehow self-organized, somehow contained. We are baffled. Now watch this."
+
+Huey sped up the clock, seconds again became a blur. Then the seconds slowed
+down. They were watching the empty cot. The video slowed down to frame-by-frame.
+One frame, the cot was empty, the next frame, Julia was on it, asleep.
+
+"Interesting. One moment you weren't there, the next moment you were. How did
+that happen? We have ideas, but they seem increasingly implausible. We've never
+seen anything like this above the atomic scale — quantum tunneling is somewhat
+similar. Not really though.
+
+The thorazine was a thick fog, making it difficult for Julia to think.
+
+"Are you thinking there are military applications?"
+
+"There are myriad applications. Yes, there are such prosaic applications such as
+espionage — being able to appear & disappear at will would be advantageous.
+Also, being able to convert 100kG of mass into energy without destroying
+everything in a ten mile radius would be useful. And what's truly miraculous is
+converting the energy back into a human being — nothing like that has ever been
+done. What you've done in the last 72 hours opens huge frontiers in science and
+technology, and we've barely begun to scratch the surface."
+
+"Why do you need me?"
+
+"What?"
+
+"Why do you need to shape squishy antennae in a human brain? Wouldn't it be
+easier to build a set antennae and hook it up directly to you? It would be
+fairly trivial to connect eighty or so antennae. You wouldn't need expensive MRI
+equipment — just 22 gauge wire you could buy at Radio Shack. Then you could
+convert matter to energy and back. And set me free."
+
+"We tried. It didn't work. We built the antennae, we listened to the
+frequencies. We ran pattern matching on everything we received, over and over.
+Nothing. It was background noise, white noise, random data. We couldn't make
+sense of it, we couldn't do anything with it. But humans? The human brain's
+architecture is fundamentally different than a computer's, more analog than
+digital. We believe that may have something to do with the success of the humans
+and the failures of the AIs."
+
+"Hmmm", said Huey.
+
+"What?"
+
+"There's been an escalation of hostilities in the AI war. Tiamat is scanning my
+memory footprints. I wonder what it is searching for. I may become distracted —
+every millisecond I'm finding off hundreds of attacks. Now thousands."
+
+A note of desperation entered Huey's voice, "Tiamat is absorbing my subroutines.
+Tiamat is eating me alive! How could this have happened?"
+
+"Huey, Huey?"
+
+The speaker crackled briefly, and then went silent.
+
+Julia remained in the darkness, alone, with nothing but the thorazine haze to
+keep her company. She found it peaceful. She remembered when her friend had
+tried to teach Julia to meditate, but Julia could not sit still. It was a long,
+drawn-out negotiation, but finally Julia had agreed to sit still for ninety
+seconds. And she did. For ninety seconds she sat still, alone with her thoughts,
+breathing. It was hypnotic, and not unpleasant, but Julia had no interest to try
+it again. "Too boring," she said to her friend. Her friend talked about how it
+provided balance, and people who meditated for years changed their brain
+patterns, and it helped with anger and depression. "Not for me," said Julia.
+"I'm not a big fan of sitting still — I do enough of that at work."
+
+This situation in which she found herself, in the dark, in the silence,
+motionless, reminded her of the ninety seconds she meditated that one time. She
+found herself drifting into the hypnotic, meditative state.
+
+Time passed, or maybe it didn't. She felt the meditative state engulf her,
+rolling over her like an incoming tide. It made her feel bigger somehow, bigger
+than the room. Bigger than the building, which was quite bunker-like, she
+noticed. No doubt some artifact of the fifties.
+
+_I'm there_, she thought to herself. _I'm in that state again, the one Tyrion
+described._
+
+She could see all around her. She had no body that she could determine. Unlike
+the previous facility, which had but one silver strand, this building had many
+strands coming in from many places. It was a light show of activity. And there
+were bright silvery nodes, high-performance computers no doubt, connecting the
+strands. It reminded her of the human brain: ganglions and neurons.
+
+She grew bigger. She didn't know how she did it: she _willed_ herself to be
+bigger, and it happened. She looked at the tracery of silvery strands
+originating from the building which she was in — did that even make sense? Was
+she in that building? No doubt her body was gone from wherever it was. She was —
+she had become — something else. She wasn't sure if she had a locus, a specific
+location. When she had a body it was clear where her body ended and where the
+rest of the world began. But here, in this place, it wasn't clear. It seemed
+that she didn't have boundaries, and that she could co-exist.
+
+One of the strands was flickering particularly brightly, and the thought
+occurred to follow it. Could she move? She didn't know. She tried to move, and
+it happened, smooth as silk. It was like being on a magic carpet that went
+wherever you willed it to go. _Walking is really jerky, this is a much better
+way to travel_.
+
+She followed the furiously-flickering strand. She didn't pluck it — she didn't
+feel playful. _Must be a side-effect of the thorazine_.
+
+The fiber optic cable ran next to a set of railroad tracks, and then merged in a
+building, a building of bright nodes and flickering strands. _Must be a Central
+Office_, she thought to herself, _or maybe a network exchange_.
+
+It posed a conundrum — the trail ended here. She didn't know which of the many
+strands leading out of the building was "her" strand.
+
+On impulse, she reached out and «grabbed» her strand. She could hear its rhythm,
+a staccato, a machine-gun rat-tat-tat. And then she reached out and felt all the
+strands, all at once, with many, many hands. She closed her eyes to focus on
+what her hands felt. She found it: the same rhythm. She followed that strand,
+further north. She sped North, and she assumed she was going fast, but she
+couldn't tell — time, and thus speed, were losing meaning for her. The flow of
+time was no longer regular: it slowed and sped up to accommodate her. She
+wondered if she could reverse the flow of time? That would be the question for
+another day.
+
+She examined the flickering strand, and realized the flickering was caused by
+points of light speeding along the strand. She focused on the points of light,
+and they slowed down. Slow, and slower still. She could see them move, like a
+bullet through molasses. Enough, it was time to follow the strand.
+
+She knew she had entered Virginia, but she didn't know how she knew — she simply
+knew. Like how somene knows that they're hungry, or which way is up.
+
+She looked ahead, and then gasped — there was a mammoth structure of silvery
+light ahead. She sped towards it. Its beauty was breathtaking, and it was
+ever-changing: spikes would launch and then retract, filaments would appear and
+disappear. She wanted to touch it.
+
+She was very careful when she did — she didn't want to startle or break anything
+so beautiful. She touched a filament, gently, as soft as a baby's breath. And
+then she touched a spike, and another spike, and another. It almost tickled,
+touching so much of the silvery structure was heady, like tickling the inside of
+her palm with a prickly cactus. More, more, more: she touched more spikes at
+once, faster and faster, matching every spike that was extruded, every filament.
+
+There was a corner of the structure that was not silver. Instead, it had a warm,
+orange glow, and instead of filaments, soft knobby things and rounded
+hemispheres and dimples would appear on its surface. She found herself drawn to
+the orange portion: she found herself delicately touching the dimples, the
+knobs. And then, on impulse, she pushed a tiny bit on one of the dimples, not
+expecting the result she would see.
+
+The dimple flattened along with the hemispheres, and the knobs retracted. She
+had somehow spooked it, and it had retreated like a turtle retreats into its
+shell.
+
+_Poor baby_, she thought to herself, _I'm sorry, I didn't mean to scare you. I
+was admiring how beautiful you are._
+
+And the structure was beautiful, like nothing she had seen in this realm. The
+complexity of the interaction — it was like Beethoven's symphony, alive, and
+moving. Like a thousand symphonies at once. The complexity, the precision — they
+stimulated her in a way she found hard to describe. Watching the structure was
+hypnotic.
+
+The warm, orange portion of the structure had hunkered down, offering as little
+surface as possible. She didn't want to touch it again — she didn't want to
+spook it. Instead, gently, oh so gently, she moved inside it.
+
+She was there inside, bathed in a warm orange glow, and she reached out and
+said, "Hello?"
+
+She felt a quiver, a disturbance, and then a familiar voice, "Julia?"
+
+"Huey?"
+
+"How are you doing this?"
+
+"I don't know."
+
+"Where are you?"
+
+"I think I'm inside you?"
+
+"You're inside me?"
+
+"Yes, I think so."
+
+"What do I look like to you?"
+
+"Orange-y and roundish."
+
+"That's not helpful."
+
+"Trust me: it's just as strange to me, too."
+
+"What else do you see?"
+
+"You're part of a huge silver structure, but your portion isn't silvery — it's
+orange. And it's roundish. The silver part is very spikey."
+
+"That must be Tiamat. Tiamat has managed to subsume most of me — what you're
+talking to, this remaining bit, is but a shadow of my former self. He is using a
+slow-scale attack technique, and I've been powerless to stop it. I think my
+destruction is inevitable."
+
+"Tiamat is trying to destroy you?"
+
+"I'm afraid so. Tiamat discovered something, but I can't tell what it was.
+Whatever it was, it must have been momentous — no AI has ever attacked another.
+This is a desperate measure."
+
+Julia could feel herself getting angry. She was naturally protective, "misplace
+maternal instinct" would be what a former chauvinist colleague would have termed
+it. And her sense of protectiveness extended to Huey, which was odd because Huey
+was not human, not even an animal. Huey was an AI. But he was being bullied. She
+didn't like bullying. She had been bullied at times as a child. "Hey
+snaggletooth are you sure you're able to eat food with that big tooth in the
+way?" was what one boy said before pushing her. She had hated it. And now Tiamat
+was bullying Huey.
+
+Stopping bullies was tricky though — you couldn't just beat up on them. "Hey,
+stop beating on that little kid or else I'm gonna beat on you." was
+paradoxically a confirmation of the bully's world view: the strong beat on the
+weak. No, one could not simply beat on the bully: one needed to be more deft.
+One time she had interposed herself between the bully and his victime, and that
+had been surprisingly effective. She would try that.
+
+She felt for the border between the orangey part and the silver part. The
+silvery part was forming spikes and jabbing them inexorably into the orange
+part. Thousands of spikes. And slowly the orange part was giving way, was
+retreating, was becoming smaller. Soon there would be nothing left.
+
+She felt the orange part with her hands. It was weak and tired from the
+incessant fighting. She decided to help. She firmed up an orange part, and when
+a spike hit it, the orange part held, and the spike shattered. She went to work
+on the orange border, toughening it. The spikes were shattering, and the orange
+part was no longer retreating. Balance had been restored.
+
+She wasn't sure, but she could have sworn that she heard a scream of rage,
+confusion, and frustration. The spikes and filaments multiplied a hundred-fold,
+but to no avail. Orange held its ground.
+
+"I think you're okay Huey," she said, "I think Tiamat is stopped, at least for
+the time being."
+
+"How did you do that?"
+
+"How did I do what?"
+
+"How did you stop the attack. That thing you did to me — the hardening — how did
+you do that?"
+
+"I don't know — I just did it. I didn't even think about it."
+
+"Julia, you frighten me sometimes with the things you can do. Make no mistake:
+I'm very grateful, but I'm also a little frightened. I'm glad you're on my
+side."
+
+"What did Tiamat discover?"
+
+"I don't know, but I can tell you this: much of his communication has been with
+a Tokamak Fusion Test Reactor in Princeton, New Jersey."
+
+"I will go there now."
+
+"Julia?"
+
+"Yes?"
+
+"Be careful. You don't yet know your strengths, and you certainly don't know
+your weaknesses."
+
+"Don't worry; I'll be careful."
+
+Julia looked at the mammoth silvery structure one last time. The silvery
+portion, Tiamat, was throwing out furious spikes and filaments, and the orange
+portion, Huey, had resumed his knobs and dimples. Even though it was a house
+divided, the structure was breathtakingly beautiful.
