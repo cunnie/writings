@@ -3441,3 +3441,82 @@ Julia looked at the mammoth silvery structure one last time. The silvery
 portion, Tiamat, was throwing out furious spikes and filaments, and the orange
 portion, Huey, had resumed his knobs and dimples. Even though it was a house
 divided, the structure was breathtakingly beautiful.
+
+It was too much effort to try to follow the strands to Princeton; instead, she
+moved up, farther and farther, until the Eastern seabord was laid out before
+her. She knew Princeton. Although it wasn't her alma mater, she visited friends
+there, physicists. Physicists who worked on the Tokamak. _It was mothballed in
+1997_, she thought to herself. _Why would a project that has been shut down for
+almost 20 years be of interest to Tiamat?_
+
+She saw the Eastern seaboard, but not as a human would. Although she could
+differentiate the water from the land, she saw it as differently-colored lines
+and shapes connecting to bulbous blobs. _I'm not seeing the light spectrum; I'm
+seeing an entirely different spectrum._ She saw where Princeton should be, and
+sped towards it.
+
+Now the hard part: locating the Tokamak.
+
+A tokamak is a very large device that uses a powerful magnetic field to confine
+plasma. It has the shape of a torus — a donut — and its purpose is to allow
+nuclear fusion to occur in a controlled manner. It allows nuclear fusion to be
+used as a controlled source of energy as opposed to obliterating everything in a
+ten mile radius. As long as the plasma can't escape the magnetic field, everyone
+is safe. On the downside, the Tokamak draws a huge amount of power in order to
+maintain the integrity magnetic field.
+
+_Of course! The power draw is the clue_. She looked at the strands branching out
+from Princeton — so many. But some were extremely regular — AC electric power in
+the United States cycles 60 times a second, accurate enough for some
+manufacturers to use that to drive a clock. Not accurate enough for precise
+work, but accurate enough if you don't care about losing or gaining a few
+seconds each day.
+
+She could see the power lines distinct from the other lines — tick, tock, tick,
+tock. Invariant rhythm. She looked if she could find a big — there it was! It
+dwarfed the other power strands. She followed it until she arrived at the
+Tokamak.
+
+Oddly, it wasn't mothballed at all — it was up and running. She could see the
+donut-shaped electromagnetic field. It was a shiny black with a hint of deep
+purple, and it reminded her of black light. She approached — it was like nothing
+she had ever seen. The donut-shaped electromagnetic field was incredibly smooth.
+She reached out and touched it. Hard. She pushed. It didn't budge.
+
+_That's strange_, she thought, _I've never had something resist me like this_.
+
+She pushed hard. Nothing. She pushed harder. Nothing. _Of course it's strong: it
+contains a thermonuclear explosion. It needs to be very strong_.
+
+She noticed that there was a delicate flicker to it: if she timed it right,
+during a flicker, she could make it inside.
+
+But what was inside? Was it what Tiamat was working on? She wasn't sure. She
+needed to find out.
+
+She watched the flickering. One, two, three. She timed it correctly, pushed as
+hard as she could, and found herself inside the Tokamak.
+
+It was small inside. Almost claustrophobic. And dark. She explored, but there
+wasn't much to explore: the inside of a black donut.
+
+She tried to push out, but couldn't. And that's when she noticed the flickering
+was no more. She pushed again. Nothing. She pushed as hard as she could, and she
+thought she felt something almost give, but it didn't, and she fell back.
+
+And that's when she noticed the high-intensity laser beam shooting into the
+Tokamak. _Oh my God, they're starting nuclear fusion_.
+
+She could feel it, when the deuterium-tritium combination inside began to fuse.
+She felt hot. Uncomfortably hot. It was unpleasant.
+
+"Julia?" she heard a voice say, "It's me, Huey."
+
+"Huey?"
+
+"I'm speaking to you by modulating the laser beam ever so slightly. It was a
+trap. The Tokamak was a trap. Tiamat hypothesized that your existence was a
+stable, self-contained electromagnetic field, and that another electromagnetic
+field of great strength might be sufficient to contain you."
+
+"Tiamat was correct — I'm unable to break out of here."
