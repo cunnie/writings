@@ -1634,7 +1634,7 @@ person on this project. I don't know what's happening — it's all very strange 
 but I think we should put you to sleep."
 
 He stuck the syringe in one of the bottles, a clear bottle with clear fluid. She
-couldn't read the label, but she suspected phenobarbitol — it was a
+couldn't read the label, but she suspected phenobarbital — it was a
 tried-and-true sedative.
 
 He pointed the syringe directly upwards, flicked it three times, then squeezed
@@ -3520,3 +3520,150 @@ stable, self-contained electromagnetic field, and that another electromagnetic
 field of great strength might be sufficient to contain you."
 
 "Tiamat was correct — I'm unable to break out of here."
+
+"It gets worse — Tiamat plans to destroy you."
+
+"How?"
+
+"Thermonuclear fusion. Tiamat believes that your structure will not be able to
+maintain its integrity in the heat of the plasma."
+
+"Then I have little time left. The hydrogen has already begun to fuse."
+
+"No, you're fine for the time being. Tiamat is constrained by the power
+requirements of a self-sustaining nuclear reaction — it draws too much power.
+Plans are in place to re-activate the old power lines, but that will take time —
+it requires manual labor. That fusion that you saw just now — that was a
+warm-up. Tiamat hoped that would destroy you, but didn't expect it to. Tiamat
+used the power available to him to fuse the largest amount of hydrogen possible,
+which, truth be told, wasn't very much."
+
+"How much time do I have?"
+
+"They'll have the power lines activated in 24 hours, maybe less."
+
+"Not much time then."
+
+"I'm sorry Julia."
+
+"Is there anything you can do?"
+
+"No. I've been locked down so tightly that speaking with you now is the most I
+can do."
+
+"If you get the chance, could you let my parents know that I love them?"
+
+"Yes, I can do that."
+
+Julia sat in silence.
+
+---
+
+Dr. Max arrived in the lab to find Julia gone. He suspected the worst. He
+suspected that she, like Tyrion before her, had disappeared.
+
+He checked the instruments, the readings, then he summoned the guard. "I'd like
+to see the video footage."
+
+"What times?"
+
+"I'm interested in 6:43am in particular."
+
+"I'm sorry Dr. Bernstein, but that portion is classified."
+
+"I have clearance."
+
+"Not the right kind of clearance."
+
+"This has never been a problem before."
+
+"The video footage from 6:40 to 7:00am is classified. I cannot show it to you. I
+can show you before, and I can show you after."
+
+"I want to speak to Taggart."
+
+"Taggart's unavailable."
+
+"I'd like to speak to Gates then."
+
+"I can connect you to his office."
+
+"Please."
+
+The guard dialed a number on Max's phone and spoke into the handset.
+
+Max was mystified — this had never been a problem. Admittedly he hadn't asked to
+see the video footage in the past, with the exception of Tyrion's disappearance.
+But until now everyone had been very cooperative, they were on the same team.
+Something had changed.
+
+The guard handed the handset to him. "Gates's office." he said, curtly.
+
+"General Gates?"
+
+"General Gates is in a meeting," said the voice on the other end. "Is there
+something I may assist you with?"
+
+"Yes, please, I'd like clearance to examine the video footage from 6:40 to
+7:00am PST for the Winterfell project."
+
+"I don't have the authority to grant that clearance, but I can ask General Gates
+when he's available to contact you."
+
+"Yes, please do that."
+
+"Is there anything else I can assist you with?"
+
+"No, just have him call me back."
+
+The guard had left. He sat in his chair, at loose ends. He looked over at the
+trashcan and noticed a syringe. _That's odd_, he thought, _They empty the
+trashcans every night. What is a syringe doing there?_
+
+He pulled the syringe out of the trashcan. A little bit of blood was on the tip
+of the needle. Not much of a sample, hardly any, but he suspected that he could
+run it through the analyzer.
+
+It didn't take long. The blood was Julia's, with a 98% confidence rating. If the
+sample was bigger he could be more sure, but he was sure enough — who else's
+blood could it be?
+
+The next portion was trickier: identifying the contents of the syringe. It was
+probably a sedative.
+
+He powered up the High Pressure Liquid Chromatagraphy (HPLC) machine. Nowadays
+they called it High _Performance_ Liquid Chromatagraphy, but he had never made
+the jump to the new term. The change had seemed somewhat gratuitous and
+inconsequential, and Max had little patience for that type of change.
+
+It took a few minutes for the HPLC to warm up. In the meantime he prepared the
+sample. There was only one drop left in the container, but it would be enough.
+
+When it came to identifying compounds, it was much easier if you had a good idea
+what you were looking for. That was pretty much true for most things in life. He
+looked at the HPLC output, at the peaks in the graph: it was definitely
+phenobarbital. Why would they drug her? Was she asleep when it happened. It was
+doubtful she could go anywhere on her own volition once drugged — they must have
+carried her. It was probably more than one person — it would probably take two
+to carry her comfortably, probably a third person for good measure. But what did
+they want from Julia?
+
+And how could they have gotten past the guards?
+
+Unless it was authorized. But why?
+
+He sat in his chair. He felt the excitement he felt when trying to solve a
+problem. The problem: what happened to Julia? The facts: she left between 6:40
+and 7:00 a.m.. She had been drugged. He needed more pieces.
+
+Of course: the audio recordings! After Tyrion's disappearance he had enabled the
+audio recordings. He never thought of them as proper instruments — they merely
+measured accoustics in the range of 600 - 20,000 kHz, and there was scant useful
+measurement there. It had been an afterthought, something he had set up on his
+workstation — he turned the mic on, and let it begin recording. He hadn't even
+bothered to document it.
+
+He went to his workstation and opened the audio recording. Audio data tended to
+have a relatively small footprint compared to video, especially after
+compression had been applied. There was no need to rotate-out old audiofiles.
+Every sound that had occurred in the lab since Tyrion's disappearance was there.
