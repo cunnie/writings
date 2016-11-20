@@ -3667,3 +3667,48 @@ He went to his workstation and opened the audio recording. Audio data tended to
 have a relatively small footprint compared to video, especially after
 compression had been applied. There was no need to rotate-out old audiofiles.
 Every sound that had occurred in the lab since Tyrion's disappearance was there.
+
+He put on the headphones and played the recording. He played until he had heard
+Julia scream, "Help, HELP! Max! Taggart, ANYONE!"
+
+He couldn't believe it. Gates was in on it. Gates! He had trusted Gates. Didn't
+trust Taggart — the man was too military for Max's taste, very buttoned-up, very
+by-the-book. But where was Taggart? He didn't know. Had Taggart been a part of
+it? He would suspect so, but yet there was a different colonel who had abducted
+Julia, not Taggart. That was another mystery.
+
+Scope creep. "Scope creep" was when you started investigating one problem, and
+then a second problem manifested itself, and you began to investigate both
+problems. Scope creep usually resulted from undisciplined investigation. In
+other words, he was going to worry about Taggart later — right now he'd focus
+solely on Julia. Where was Julia?
+
+Things had become serious. This was not his first rodeo; he had worked on many
+classified projects before, but this one was different: it had gone off the
+rails. Abducting? That never happened. Even quarantining Julia was an extreme
+measure.
+
+What to do? First, he could no longer trust Gates. And he couldn't let Gates
+know that he knew that Julia had been kidnapped. So what would he do normally?
+He would document events leading up to Julia's disappearance. And he would begin
+the procedure to wind down the project — after the second death ("disappearance"
+he reminded himself. He didn't want to contemplate Julia's death) the project
+would would be re-evaluated and most likely shut down.
+
+He spent the next few hours wrapping up the documentation. There was a protocol
+to follow when documenting a major mishap in a project — certain forms to fill
+out, etc.... The process was tedious and mechanical. By noon he had finished,
+and while eating a BLT sandwich he contemplated his next move.
+
+_I'm a research scientist; I'm not a secret agent. I'm not good at sneaking
+around or lying to people. I can't pick locks or tap phone lines. That's not
+true: I can pick simple locks. And, if I had a lineman's handset, I could tap a
+phone line, too, heck, there are only two wires, and it's analog, so it's not
+that hard. And no special impedance requirements. But I'm way off track here.
+The point is that I need to find out what happened to Julia, and I don't even
+know how to begin._
+
+He reviewed the data again — what was he missing? It was frustrating: all the
+instruments attached to Julia, and yet nothing of substance during her
+transformations: one second she was there, the next she wasn't. No gamma bursts,
+no bub
