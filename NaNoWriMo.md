@@ -3708,7 +3708,70 @@ that hard. And no special impedance requirements. But I'm way off track here.
 The point is that I need to find out what happened to Julia, and I don't even
 know how to begin._
 
+He imagined he was Liam Neeson in _Taken_: "I have are a very particular set of
+skills. Skills I have acquired over a very long career." But what were were Dr.
+Max's skills? He was a research scientist. He had had a long career — he wasn't
+a young post-doc anymore. In fact, he had kept his hands dirty much longer than
+the average researcher. And why not? He liked research. He liked pushing the
+boundaries of human knowledge, if only in a very small, very modest, way.
+
+So what was a researcher good at? Writing grant proposals was one thing he was
+good at, but he didn't that was going to help finding Julia. What else? He was
+good at reviewing lots of data and picking out the tiny nuggets of truth buried
+therein.
+
 He reviewed the data again — what was he missing? It was frustrating: all the
 instruments attached to Julia, and yet nothing of substance during her
 transformations: one second she was there, the next she wasn't. No gamma bursts,
-no bub
+no infrared afterglow, not even the shimmery special effects of the Star Trek
+transporter beam.
+
+He went over the numbers again. There had to be something. Heart rate within
+normal, blood pressure, too. He checked the EEGs over and over, but there were
+no major differences. Base vitals: height, weight.
+
+There must be something. He looked at the charts again. He took a glance at the
+time-lapse of the ultraviolet camera.
+
+"Oh my God," he thought to himself. "She's absorbing radiation."
+
+The photos showed the normal background radiation as a fuzzy cloud, with one
+exception: where Julia stood, there was a black silhouette. That wasn't normal.
+Sometimes people were slightly darker — they absorbed a small amount of the
+rays, but reflected most of it. Not with Julia. She absorbed everything. He
+tried to think of a substance that had those characteristics. Nothing. Nothing
+absorbed like that. She wasn't dark gray — she was midnight black.
+
+Geodesics. It might be the geodesics.
+
+_In general relativity, a geodesic generalizes the notion of a "straight line"
+to curved spacetime; In other words, a freely moving or falling particle always
+moves along a geodesic._
+
+Yeah, they were tricky, the geodesics. They were why black holes were black.
+People thought that the reason that light couldn't escape a black hole was
+because the gravitational pull of the black hole was so great that the escape
+velocity exceeded the speed of light, and thus light was trapped inside the
+black hole. But that wasn't the reason. Think about it: light doesn't have mass.
+No, the reason that light was trapped was the geodesics: spacetime was so warped
+around the singularity of the black hole that all the geodesics pointed inward –
+the was no "out", there was only "further in", no matter which way you were
+pointed.
+
+But geodesics affected _all_ frequencies, it wasn't selective, and if Julia was
+absorbing all frequencies, then she would have appeared as black as midnight
+when Max looked at her, but that wasn't the case. Something quite strange was
+going on. How could she absorb a specific band of high frequency light? And was
+there an upper limit? Was she absorbing X-rays? Gamma rays? What about
+neutrinos? Neutrinos were extremely stealthy particles — they could pass through
+a billion miles of lead and not be absorbed. Was Julia absorbing neutrinos? That
+would be unheard of.
+
+He checked the specs on the camera. The frequencies it recorded was reasonably
+high — it recorded up to ~10 PHz, which mean pretty far into the ultraviolet
+range, but not quite into the X-ray range. It'd be interesting to see if she was
+absorbing X-rays. If she was, God forbid she should break a bone because the
+hospital would be in for a big surprise when they tried to X-ray her arm: it
+would be like trying to X-ray a lead statue.
+
+How was she absorbing the radiation, and what was she doing with the energy?
