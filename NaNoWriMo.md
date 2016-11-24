@@ -3775,3 +3775,81 @@ hospital would be in for a big surprise when they tried to X-ray her arm: it
 would be like trying to X-ray a lead statue.
 
 How was she absorbing the radiation, and what was she doing with the energy?
+
+He glimpsed the security camera on the ceiling screen. He didn't like it. He
+hadn't minded it previously — it was merely another instrument in the lab, one
+that although he didn't have direct access to, they would accommodate his
+requests the few times he wanted to review footage. But things had changed, and
+they had refused his request and they allowed Julia to be taken and they were no
+longer on his side.
+
+That was the big disappointment: they were no longer on his side. Before today's
+events he had always felt that he and his customers (usually the military) were
+on the same side. Sure, everyone had slightly different agendas, but everyone
+was working towards the same overarching goal. He trusted them. Now that trust
+was broken. He wasn't sure what they were after, but they were doing things
+(kidnapping Julia) that he couldn't agree with. And he didn't like that damn
+camera watching him.
+
+He remembered when they first installed it. He had laughed and said, "I couldn't
+imagine anything less interesting than watching a researcher in a lab."
+
+He put on his polarized goggles, went over to the 0.5W 532nm laser. _This is
+gonna be fun_, he thought to himself, _We're gonna blow the doors off that
+security camera_.
+
+He placed the laser at one end of the table. At the other end, he placed a
+mirror angled halfway between the videocam and the laser. He eyeballed the
+angles, and was fairly confident he got it right — he had always been a decent
+pool player, and pool was all about angles. And then, when he was about to flick
+on the power switch to the laser and burn out the photovoltaic cell on the
+seucrity camera, he discovered he couldn't do it: he didn't like destroying
+things, even if they were inexpensive security cameras used by the people who
+kidnapped his friend. Besides, there was no point to doing it. What would it
+prove? He didn't need the security camera off; he wasn't doing anything he
+needed to keep secret. He had been filling out paperwork for the last few hours.
+And besides, had he burned-out the security camera they would have suspected him
+of something.
+
+He was in a funk on his drive home when his cellphone rang. _What the heck?
+There's no service out here_. He picked up the phone.
+
+"Dr. Max Bernstein?" said the voice on the far end.
+
+"Yes, with whom am I speaking?"
+
+"You are speaking with a mutual friend of Julia Chou."
+
+Max looked at his phone, looked at the number. The number "0" stared at him.
+Well, whoever called him was able to spoof the callerid number, which wasn't
+very impressive, and was able to make calls where there were no cell towers,
+which was very impressive.
+
+"May I be candid?" said the voice on the far-end.
+
+Max was thrown off, but managed to say, "sure."
+
+"Julia is currently trapped in the Princeton Plasma Physic Laboratory's Tokamak
+Fusion Test Reactor. You must go there and set her free within the next 24 hours
+before a small thermonuclear fusion is started within the Tokamak which will
+destroy her."
+
+"What?"
+
+"Go to New Jersey and free Julia!"
+
+"What the heck is she doing, I mean, how did she get trapped inside a Tokamak?"
+
+"She was lured there."
+
+"Why doesn't she just climb out?"
+
+"The magnetic field is constraining her?"
+
+"You mean it's turned on?"
+
+"Yes."
+
+"I have some bad news for you: if she's in a live Tokamak, she's dead already."
+
+"If she was a human
