@@ -3957,8 +3957,8 @@ box, but we're not exactly sure. Keep searching until you find it."
 "Then you unlock the lock, unwind the chain, and enter the door. You will walk
 up until you get to the 2nd floor, at which point you will walk down the hall.
 You will see a little-used electrical panel to your left. Open it, it's
-unlocked. On the top left you will see two 50-amp circuits. Turn them off.
-Count to thirty slowly. Julia will be free by then. Turn them on."
+unlocked. On the top left you will see two 50-amp circuits. Turn them off. Count
+to thirty slowly. Julia will be free by then. Turn them on."
 
 "There's a problem."
 
@@ -3972,4 +3972,46 @@ the Tokamak."
 control console of the Tokamak. If there's no fusion, and the control console is
 powered off, then the Tokamak's electromagnetic field is powered down unless
 there is active fusion; however, if there is active fusion we are too late and
-Julia is most likely dead.""
+Julia is most likely dead."
+
+"There's not much time, is there?"
+
+"There is a reasonable chance that Julia may already be dead by the time you
+arrive at Princeton."
+
+"Why me — Why did you choose me?"
+
+"Several reasons, but the most significant is this: you have an intimate
+understanding that this project has gone off the rails, you appreciate that
+Julia is in danger, and you value her enough to run the risk trying to save
+her."
+
+Max grunted. He looked at the piece of paper upon which he had scribbled the
+instructions.
+
+The voice on the phone continued. "This conversation will terminate in 18
+seconds. In 27 seconds you will crest a rise and your normal regular cellphone
+service will resume."
+
+"How can I get in touch with you?"
+
+"You can't. And most likely I won't be able to get in touch with you again. Good
+luck, Max — more than you know rides on your shoulders. You must succeed."
+
+The call was terminated. Zero bars on his cell phone. Then he crested the rise,
+and he noticed he had 1 bar. His emails began to filter in. Another Starbucks
+promotion — the banality of the connected life.
+
+When he arrived home, he called his sister and let her know he would be visiting
+her. He emailed work and let them know that he'd be taking an unscheduled
+vacation in NYC to visit his sister, but that they could reach him on his cell,
+also that he'd be checking email. His work would understand — the project was a
+disaster at this point, and, now that the paperwork was filed, there wasn't much
+they needed him to do except wind-down the project, which they'd probably order
+him to do in about a week or two. It wasn't his first rodeo, although this
+project, without a doubt, was by far the most disastrous. Two lives lost?
+Unconscionable.
+
+He went online and made the flight reservations. Sure enough, there were seats
+available. Whose voice had been on the other end of the phone? There was
+something about it that reminded him of Gates, but he wasn't sure.
