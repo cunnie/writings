@@ -4014,4 +4014,36 @@ Unconscionable.
 
 He went online and made the flight reservations. Sure enough, there were seats
 available. Whose voice had been on the other end of the phone? There was
-something about it that reminded him of Gates, but he wasn't sure.
+something about it that reminded him of Gates, but he wasn't sure. But whoever
+it was, it was someone who was wired in — he seemed to know everything about
+everything. How did he know about the key in lockbox? Maybe when this was all
+over he'd find out.
+
+He placed his aviator glasses in his pocket. That way if they lost his luggage
+he'd still have the glasses. And he packed the cash in his wallet. It was a good
+thing he had a big wallet. He summoned an Uber to take him to the airport.
+
+He checked in without event. He was hours early. There was nothing to do at the
+airport — airports are boring places. Fortunately he brought his laptop, and he
+used the time to begin the response to an RFP (Request for Proposal) for an
+upcoming project: WiFi propagation in space. A straightforward project that
+wouldn't involve human subjects, which was a relief. He didn't think he could
+stomach working on another project with human subjects for a long, long time.
+WiFi propagation in space shouldn't be a big deal anyway — there was nothing to
+block the frequencies — you could probably get a clear signal for hundreds of
+miles, thousands if using a directional antenna. The problem wasn't the
+transmitter — it was the receiver. You didn't want stray gamma rays to blow out
+the receiver. You'd have to make it secure enough so it wouldn't be affected by
+all the strange radiation in space. Earth was easy: the atmosphere filtered
+almost all the dangerous radiation. Earth had its own set of problems:
+interference everywhere. He was lucky to get a WiFi signal more than fifty feet
+from the base station.
+
+He looked up from his laptop and realized they were boarding the plane. He
+quickly put his laptop away, pulled out his boarding pass, and boarded.
+
+He tried to get some sleep, but without much success: he was too excited. He
+worked on the RFP some more — that would put him to sleep. Sometimes the RFP was
+almost as much work as the project itself, which is why projects were expensive —
+much of the expense was front-loaded. And, if you didn't win the bid, that time
+and effort put into the RFP was lost.
