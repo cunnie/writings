@@ -3852,4 +3852,124 @@ destroy her."
 
 "I have some bad news for you: if she's in a live Tokamak, she's dead already."
 
-"If she was a human
+"If she were corporeal, yes, she would have been dead. But that's not the case —
+she's incorporeal."
+
+"She doesn't have a body?"
+
+"No. She exists as a self-contained electromagnetic waveform. At least, that's
+what we suspect."
+
+"Hmmm," said Max. That would make sense — she never "disappeared"; instead, she
+underwent what was no doubt the most amazing phase change ever to happen on the
+planet Earth.
+
+"How did she transform 55kg of mass into pure energy without blowing a gigantic
+hole in the desert?"
+
+"That is something we are very curious about, and we don't have an answer. In
+fact, we have very few answers. We don't know what she is, we don't know how she
+became what she is, and we don't know the full extent of her abilities. But we
+strongly suspect that unless someone powers-down that Tokamak before fusion
+begins, she will be destroyed" — she never "disappeared"; instead, she underwent
+what was no doubt the most amazing phase change ever to happen on the planet
+Earth.
+
+"How did she transform 55kg of mass into pure energy without blowing a gigantic
+hole in the desert?"
+
+"That is something we are very curious about, and we don't have an answer. In
+fact, we have very few answers. We don't know what she is, we don't know how she
+became what she is, and we don't know the full extent of her abilities. But we
+strongly suspect that unless someone powers-down that Tokamak before fusion
+begins, she will be destroyed."
+
+"How much time do we have?"
+
+"Very little I'm afraid. But if we are to save her, you must do exactly as I
+say. First, when you get home, call your sister in New York City. Tell her that
+your project has been halted and that you're quite upset and that although you
+can't talk about it you'd like to visit her. Let her know you'll be arriving
+tomorrow. Then make your flight reservations. There is a United Airlines red-
+eye leaving from the airport at 11pm tonight; make a reservation for that
+flight. It will arrive at Newark at 5:15am. Tonight you will also make a
+reservation with the Carey Limousine Service to take you from Newark to Grand
+Central Station in Manhattan. You will also need to bring with you $400 dollars
+in cash, which I believe you have lying around your hourse."
+
+Max was startled, "Why, yes, I do. I do have about four hundred dollars at home;
+I was planning to buy..."
+
+"That's not relevant," said the voice. "When you pack, you must pack your old
+aviator glasses you wore in college but have never thrown out. When your plane
+lands, do _not_ turn on your cell phone. You must not turn on your cell phone
+for the remainder of the trip. When you exit the baggage claim area, you must
+put on the aviator glasses — it'll block your eyes and prevent face recognition
+software from identifying you. You must _not_ go to the Carey Limousine.
+Instead, you will go to the taxi depot and get into the first available cab. Now
+this is important: from this point on you must only use cash, not your credit
+card, and you must not remove your glasses. Our weapon is surprise. If they
+suspect that you're attempting to free Julia, they will stop you, and quickly."
+
+"Who is «they»?"
+
+"«They» is a branch of the government attempting to destroy Julia at all costs."
+
+"Why are they so worried about Julia?"
+
+"Julia has become much more than what she once was. They worry that she has
+become the most powerful weapon since the invention of the atomic bomb."
+
+"Julia? A weapon? That's silly."
+
+"To me and you, yes, but not to them."
+
+"So what do I do when I arrive at Newark airport?"
+
+"You will put on the aviator glasses. You will not turn on your cell phone. You
+will take the cab to Princeton. Specifically, you will ask him to take you to
+the The Westin Princeton at Forrestal Village. Do not mention the Tokamak or the
+Princeton Plasma Physics Laboratory. The Westin Princeton is approximately two
+thousand feet from the Princeton Plasma Physics Lab, where the Tokamak is
+located. It will cost approximately $120. You will pay with cash."
+
+The voice continued, "This is where it gets complicated. When the taxi driver
+drops you off, you will cross route 1 to Stellarator Road. You will follow
+Stellarator Road for approximately 1800 feet until you get to the Princeto Lab.
+You will be facing the rear of the building, which is where you want to be. You
+will see an emergency exit door to the left that is secured by a chain and a
+lock. The lock is old. You will find the key to the lock 20 feet away secreted
+underneath an old Campus Police phone box."
+
+"Do they still have those, the police phone boxes?"
+
+"They are no longer working, but it costs money to tear anything down, so
+they're still around for the time being. The advent of cell phones have made the
+campus police phone boxes largely obsolescent."
+
+"And where exactly will the key be?"
+
+"We are not sure. It will be secreted somewhere inside the box or around the
+box, but we're not exactly sure. Keep searching until you find it."
+
+"Then what?"
+
+"Then you unlock the lock, unwind the chain, and enter the door. You will walk
+up until you get to the 2nd floor, at which point you will walk down the hall.
+You will see a little-used electrical panel to your left. Open it, it's
+unlocked. On the top left you will see two 50-amp circuits. Turn them off.
+Count to thirty slowly. Julia will be free by then. Turn them on."
+
+"There's a problem."
+
+"What's that?"
+
+"The electric field in a Tokamak requires much more than two 50-amp circuits. I
+don't know what is connected to that particular circuit, but it's definitely not
+the Tokamak."
+
+"You are correct — it's not connected to the Tokamak. It's connected to the
+control console of the Tokamak. If there's no fusion, and the control console is
+powered off, then the Tokamak's electromagnetic field is powered down unless
+there is active fusion; however, if there is active fusion we are too late and
+Julia is most likely dead.""
