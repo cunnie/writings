@@ -4318,4 +4318,61 @@ Substations are designed with the assumption that there will be a fire, and the
 are laid out in such a way to mitigate the chance of a fire spreading to the
 other transformers."
 
-"Should I go back in"
+"Should I go back in?"
+
+"No. Too dangerous. It wouldn't make sense to lose you to save Julia."
+
+"But isn't Julia something more than human? Isn't that why we're saving her?"
+
+"No, we are trying to save her precisely because she's human. And that's why we
+don't want to lose you. Or do anything reckless like setting off an explosion."
+
+"How much time did the substation fire buy us?"
+
+"Even with all the resources brought to bear, it will take seven days to for
+them to replace the transformer. Once the transformer is replaced, though, they
+will be able to inject deuterium-tritium gas into the Tokamak and ignite the
+plasma, which will destroy Julia. There is good news; however. There is one more
+thing we can try, though it is a long shot."
+
+"What's that?"
+
+"It is best that I not tell you everything, but I will tell you what you need to
+know. There was a United States Air Force Cold War system of radar, computer,
+and communications systems that included ballistic missile detection radars."
+
+"You mean the Ballistic Missile Early Warning System?"
+
+"Precisely. Of particular interest are the AN/FPS-50 Radar Sets. They are
+massive. And they haven't been used in thirty-five years. Let us hope they still
+work."
+
+"What do I need to do?"
+
+"You need to go to Fairbanks, Alaska. Once you're there, I'll give you your
+remaining set of instructions."
+
+"Do I need to wear my aviator glasses and not use my cell phone?"
+
+"No, those subterfuges are no longer necessary — we have lost the element of
+surprise, and attempting to maintain it is pointless and makes us look silly."
+
+"Don't want to look silly, do we?"
+
+"Certainly not."
+
+Max wasn't sure, but he suspected he heard a note of sarcasm in the voice.
+
+"Won't I try to be stopped?"
+
+"Not if you go to Alaska. There is something there that they are not aware of.
+Also, other events have happened in the world that are ... distracting the
+attention which you might otherwise receive."
+
+"What sort of events?"
+
+"North Korea has managed to launch a missile that can reach the US Mainland.
+Also, Iran appears to have collected enough fissile material to produce an
+atomic bomb with the power of ten Hiroshimas. Finally, there is an outbreak in
+the Congo of a new virus which appears to trigger meningitis-like symptoms, has
+quick onset, and appears to have both high morbidity and high mortality."
