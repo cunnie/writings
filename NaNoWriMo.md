@@ -4045,5 +4045,112 @@ quickly put his laptop away, pulled out his boarding pass, and boarded.
 He tried to get some sleep, but without much success: he was too excited. He
 worked on the RFP some more — that would put him to sleep. Sometimes the RFP was
 almost as much work as the project itself, which is why projects were expensive —
-much of the expense was front-loaded. And, if you didn't win the bid, that time
+much of the expense was front-loaded. And, if you didn't win the bid, the time
 and effort put into the RFP was lost.
+
+He nodded off while working on the RFP. He didn't wake up until the pilot
+announced, "We are beginning our descent. Please take your seat and fasten your
+seat belt. And also make sure your seat back and folding trays are in their full
+upright position."
+
+He put the laptop away. And sat back. Groggy. He didn't function well on little
+sleep.
+
+He picked up his bag at baggage claim then, when about to exit, he put on his
+aviator glasses. He walked over to the cab depot and got in the first cab. He
+looked at the cab driver's license, conspicuously mounted on the dashboard:
+Anand Singh. "Westin Princeton".
+
+The cab driver, a turban-wearing bearded Sikh in his mid-fifties turned and gave
+him a hard look. "It's a long ride. It will cost $120. Are you sure?"
+
+"I'm sure."
+
+The Sikh sized up Dr. Max: professional, reasonably clean-cut for what no doubt
+was an overnight flight. Not a business man, maybe an academic. "Okay, I will
+take you to the Westin Princeton." He punched the hotel name into his GPS and
+began the trip.
+
+"I'm going to lay down for a little bit if that's okay." said Dr. Max.
+Excitement notwithstanding, he needed sleep. He stretched out on the back seat.
+Within seconds he was out.
+
+"Sir, we are here. Sir, we are here," he woke up to the driver shaking him
+gently.
+
+Dr. Max grunted, got up. and gathered his belongings. He counted $140 from his
+wallet. "Here you go. Thank you very much." The Sikh driver made a slight bow,
+got back in his cab.
+
+Even though it was 7am, Route 1 was already busy. It would be so much easier in
+a cab.
+
+"Wait," said Max. "Could you please take me across Route 1?"
+
+The Sikh paused, shrugged his shoulders, and asked, "on the meter?"
+
+"Yes, on the meter."
+
+"Okay." He flipped on the meter.
+
+He got in the back seat and directed the driver to cross Route 1 and then make a
+right on Stellarator road. Max saw the lab building at the end of the road.
+
+"Right here, you can let me off right here. Here's $5"
+
+The Sikh driver looked at him. "Too short — I will not charge you."
+
+"Are you sure?"
+
+"I am sure. Good luck my friend."
+
+Max paused. "Why thank you! And good luck to you, too."
+
+Max got out of the car and grabbed his luggage. The driver drove off, and Max
+waved goodbye to him. Then Max walked to the rear door that was chained shut. He
+found the police call box, but he couldn't find the key — it was too dark.
+
+_The problem with an hours worth of sleep is that it leaves you more disoriented
+than having no sleep at all_, he thought to himself.
+
+He needed more light. He pulled out his cellphone but it was off. _Should have
+turned it on when I got off the plane_, he thought to himself as he turned it
+on.
+
+It turned on, and he flicked on the cellphone's flashlight — he found the key!
+Suddenly his cellphone beeped, a text message: "I wish you hadn't turned on the
+cell phone. They will almost certainly find you. Please turn off this cellphone
+and do your best to hide."
+
+_God I am such an idiot_, he said. _That's why my cellphone was off — so I
+couldn't be tracked. And now I blew it. Darn_.
+
+He grabbed the key, unlocked the chain, entered the lab, and locked the chain
+behind him. He climbed the stairs to the second floor and walked down the
+hallway looking for the circuit panel on his left. He could hear footsteps
+coming from the other direction. _Darn_, he thought to himself. There was a door
+to his right: he tried the handle: it opened. He went inside and closed the door
+behind him. And then he flicked on the light.
+
+He couldn't believe his luck.
+
+He was in a Faraday Cage, a room completely covered in a mesh of conductive
+material. It prevented electromagnetic radiation of wavelength smaller than the
+distance between the wires of the mesh. And, judging by the fine nature of the
+mesh, it attenuated very high frequencies. He was much less visible.
+
+He wondered what purpose the room had. He remembered the biggest Faraday cage he
+had ever seen — it was the size of an airplane hanger, and it was on location at
+a defense contractor who was working on the GPS system. They needed a place to
+test their GPS products without interfering with the flights on the nearby
+airport (how quickly the airline industry came to depend on GPS).
+
+But what if they scanned with an infra-red scope? And then he saw the most
+beautiful thing: a stack of blankets in the corner. Perfect! If he got under the
+blankets they wouldn't see his infrared signature. _Darn it I forgot to turn off
+my cell phone_. He turned off his cell phone, crawled under the blankets, and
+waited.
+
+He heard footsteps moving up and down the hall. And one time he heard the door
+open and the light flick on, but then the door closed again. While listening to
+the footsteps he fell asleep.
