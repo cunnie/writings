@@ -4137,7 +4137,8 @@ He couldn't believe his luck.
 He was in a Faraday Cage, a room completely covered in a mesh of conductive
 material. It prevented electromagnetic radiation of wavelength smaller than the
 distance between the wires of the mesh. And, judging by the fine nature of the
-mesh, it attenuated very high frequencies. He was much less visible.
+mesh, it attenuated very high frequencies. He was almost invisible in this room,
+at least from an electromagnetic standpoint.
 
 He wondered what purpose the room had. He remembered the biggest Faraday cage he
 had ever seen — it was the size of an airplane hanger, and it was on location at
@@ -4154,3 +4155,105 @@ waited.
 He heard footsteps moving up and down the hall. And one time he heard the door
 open and the light flick on, but then the door closed again. While listening to
 the footsteps he fell asleep.
+
+He had troubled dreams, and when he woke he was not sure at first where he was.
+"What the hell?"
+
+_I must rescue Julia — how could I have fallen asleep?_
+
+He rubbed his eyes. He got out from under the blankets, quietly. Maybe Julia was
+still alive. All he needed to do was walk to the end of the hall until he found
+the circuit panel on the left, and the switch off the two fifty-amp circuits.
+
+He got up and listened to the door. Nothing. He quietly opened the door and
+peeked outside: no one to his left, no one to his right. He walked down the
+hall; he could see the circuit panel at the end. He walked towards and opened
+it, and, when he was about to flick the two fifty-amp circuits, a voice behind
+him said, "I wouldn't do that if I were you, Dr. Bernstein."
+
+He turned around. A middle aged police office was behind him. A big middle-aged
+police officer. Dr. Max briefly considered using his jiu-jitsu training, and
+then discarded that notion: it would not go well in the short term, and
+certainly not in the long term: assaulting a police officer was a felony.
+
+He pondered the myth of martial arts. When he first began to study martial arts,
+he assumed that it would turn him into a deadly fighting machine, capable of
+defeating foes of all sizes. But that's not what martial arts was about. Martial
+Arts didn't give you speed if you didn't have speed, didn't give you strength if
+you didn't have strength. Instead, it gave you an advantage when you were
+fighting someone roughly your size and strength. But it didn't mean you could
+beat Goliath. That's why there were so many weight classes in wrestling: size
+(and size as a proxy of strength) made a big difference. Less so in boxing, but
+still room enough for eleven weight classes. Sure, there was the occasional
+story of a boxer who boxed above his weight class, but those were rarities, and
+then never boxed more than two weight classes anyway. This policeman was easily
+five boxing weight classes above him. Even with his jiu jitsu training it would
+have been an uphill battle, and this cop looked like he was no stranger to
+physical combat. Max would have gotten his ass kicked.
+
+"Could you please raise your hands above your head," said the policeman. It was
+less a question than a statement.
+
+Dr. Max complied. In the meantime, the cop radioed for backup.
+
+"Excuse me, sir," said Dr. Max. "What am I being charged with?"
+
+"We'll go with trespassing to start. Unless you have permission to be in this
+building, which is highly unlikely."
+
+Max pursed his lips. He had blown it. He wouldn't be able to free Julia. Maybe
+he could ask.
+
+"Sir, would you mind if I powered off two circuits."
+
+The police officer looked at him: "Please don't move until my partner arrives."
+
+_"Please". And yet he managed to say it in a way that meant, "don't even think
+of trying that, or you'll regret the day you were born."_
+
+Max stood there until he heard footsteps behind him. The officer said, "Please
+place your hands behind you. You are under arrest. You will be handcuffed. You
+have the right to remain silent and refuse to answer questions. Anything you say
+may be used against you in a court of law. You have the right to consult an
+attorney before speaking to the police and to have an attorney present during
+questioning now or in the future. If you cannot afford an attorney, one will be
+appointed for you before any questioning if you wish."
+
+The Miranda warnings — he had heard them so often on TV, and never did he
+imagine that they would be read to him.
+
+The cop behind him was still fumbling with the handcuffs. "The damn mechanism is
+stuck."
+
+"Do you have any questions for me?" Max asked.
+
+The middle-aged cop laughed. "Nah, we don't have any questions for you. We're
+just gonna hold you for a while for trespassing, then we'll probably drop the
+charges and let you go."
+
+The cop behind him said, "Chris, these handcuffs aren't working, can I borrow
+your pair?"
+
+"Sure," said the middle-aged cop, and reached back, pulled his handcuffs from
+his belt, and passed it to his partner.
+
+"Thanks Chris"
+
+Suddenly an explosion rocked the building.
+
+"Aww, shit," said the middle-aged cop. "We gotta exit the building right now."
+Then he looked at Max, "You: get out of the builing, go to the squad car, put
+yourself in the seat, and wait for us."
+
+Max was walking down the hallway when he heard the cops behind him, "Did you
+handcuff him?" "Didn't have time." "We'll worry about that later."
+
+Then he heard the cop behind him talking into his radio, "10-20 at Princeton
+Plasma Physics Laboratory, We heard what we believe to be an explosion. 10-38
+send ambulance 10-70 send fire."
+
+"10-4" the radio squawked.
+
+Dr. Max briefly considered running back to the panel and switching off the
+circuit breaker, but then he looked at the two officers and reconsidered. It
+would not go well.
