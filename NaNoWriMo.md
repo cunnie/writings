@@ -4242,7 +4242,7 @@ his belt, and passed it to his partner.
 Suddenly an explosion rocked the building.
 
 "Aww, shit," said the middle-aged cop. "We gotta exit the building right now."
-Then he looked at Max, "You: get out of the builing, go to the squad car, put
+Then he looked at Max, "You: get out of the building, go to the squad car, put
 yourself in the seat, and wait for us."
 
 Max was walking down the hallway when he heard the cops behind him, "Did you
@@ -4257,3 +4257,65 @@ send ambulance 10-70 send fire."
 Dr. Max briefly considered running back to the panel and switching off the
 circuit breaker, but then he looked at the two officers and reconsidered. It
 would not go well.
+
+He followed the signs to the exit and found himself near the police call box. It
+rang. He picked it up. "Hello?"
+
+A familiar voice answered. "Hello Dr. Max. I am deeply sorry you weren't able to
+free Julia."
+
+Max felt terrible. He was afraid to ask, but he did anyway, "Did Julia make it?
+Is she dead?"
+
+"I am not sure if she's alive or dead; we won't know until the Tokamak has been
+powered down and she has been freed."
+
+"But what about the explosion? I heard an explosion in the building. Was that
+your doing?"
+
+"The explosion wasn't my doing, and it did not power down that electromagnetic
+field that is trapping Julia."
+
+"It wasn't your doing?"
+
+"No."
+
+"Then what was it?"
+
+"I believe it was bad luck. They've been pulling in additional power lines in
+order to enable thermonuclear fusion. During the bring-up of the new power, the
+load was too great and one of the transformers at the electric substation
+exploded."
+
+"Are you sure it wasn't your doing?"
+
+"I was just as surprised as you were. Surprised in a good way. It has given us
+more time to free Julia, and every second counts."
+
+"Can you call me on my cell phone?"
+
+"That would be too dangerous, I'm afraid."
+
+"But you sent me that text."
+
+"That text was out-of-band; it never went through the cell tower. I can't
+communicate with you via cellphone voice because it would require passing
+through a cell tower, and that would reveal our hand."
+
+"What is our hand? That is, what's the plan?"
+
+There was a long pause at the other end of the line. "Candidly, I'm unsure of
+what to do next. We don't have a plan. Our resources are meager. There's just
+you and me."
+
+He could hear the fire engines and ambulances in the distance. They were coming
+closer.
+
+"Didn't the substation fire cut the power to Julia's jail?"
+
+"Unfortunately, no. The fire was contained to a small portion of the substation.
+Substations are designed with the assumption that there will be a fire, and the
+are laid out in such a way to mitigate the chance of a fire spreading to the
+other transformers."
+
+"Should I go back in"
