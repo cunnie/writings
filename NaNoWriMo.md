@@ -4376,3 +4376,39 @@ Also, Iran appears to have collected enough fissile material to produce an
 atomic bomb with the power of ten Hiroshimas. Finally, there is an outbreak in
 the Congo of a new virus which appears to trigger meningitis-like symptoms, has
 quick onset, and appears to have both high morbidity and high mortality."
+
+"What do those things have to do with us?"
+
+"We're up against a very powerful computer. Think of it as a chess champion, but
+multiplied a thousand-fold. It guesses the probabilities of various outcomes,
+but it doesn't have the resources to do an exhaustive search. Instead, it prunes
+the probabilities that seem unlikely or remote. In other words, it doesn't worry
+about the things that probably won't happen; instead, it focuses on the things
+that might happen. Right now you fall into the former category — things it
+doesn't need to worry about. It's not worried about you. In its mind, you
+already blew your chance."
+
+"Well, that's a fairly damning assessment."
+
+"The truth is often damning. But our situation plays to our advantage. For
+example, you may leave your cell phone on. You may travel without subterfuge."
+
+"So you can contact me by cell? I can hang up this phone?"
+
+"That is the exception: I cannot contact you via cell phone. Also, don't look up
+anything online related to the Early Warning System or the radar sets. Is that
+understood?"
+
+"Understood."
+
+"You will need to book a flight to Fairbanks, Alaska. From there you will rent a
+car and travel South West via Route 4. In approximately 80 miles you will come
+to the Ballistic Missile Early Warning System site. There will be a minimal
+presence there to keep out vandals. Say that you're with a Department of
+Homeland Security and provide any identification they ask. They're a private
+security company, and they want to keep out the teenagers. If you appear
+legitimate, they will let you in. They will not check with the DoHS."
+
+"There are 3 large radar dishes. These are massive dishes, weighing 1,500 tons.
+You will drive to the nearest one, which is mounted in building 57. The building
+number is unimportant."
