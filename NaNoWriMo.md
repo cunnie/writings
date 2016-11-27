@@ -4404,11 +4404,52 @@ understood?"
 "You will need to book a flight to Fairbanks, Alaska. From there you will rent a
 car and travel South West via Route 4. In approximately 80 miles you will come
 to the Ballistic Missile Early Warning System site. There will be a minimal
-presence there to keep out vandals. Say that you're with a Department of
-Homeland Security and provide any identification they ask. They're a private
+security presence there to keep out vandals. Say that you're with a Department
+of Homeland Security and provide any identification they ask. They're a private
 security company, and they want to keep out the teenagers. If you appear
 legitimate, they will let you in. They will not check with the DoHS."
 
 "There are 3 large radar dishes. These are massive dishes, weighing 1,500 tons.
 You will drive to the nearest one, which is mounted in building 57. The building
 number is unimportant."
+
+You will need to point the radar to 2.1525" above the horizon. And to 146.125º.
+You will need to set the frequence of the radar to exactly 5180.2425 MHz. At
+approximately 18:25 hours UTC in three days you will begin transmitting. You
+will continue to transmit for 25 minutes. By that time we will know if we have
+succeeded or not."
+
+Max did a calculation in his head: that would be approximately 11:25 in the
+morning, local time.
+
+"I know what you're trying to do," said Dr. Max. "You're transmitting at the
+resonating frequency of the electromagnetic bottle, aren't you?"
+
+The other end of the phone was silent.
+
+"You're hoping that the transmitted frequency, even at such a long range, will
+be able to set up an oscillation that will slowly increase over the course of
+several minutes, ultimately rupturing the magnetic field that's keep Julia
+captive. Let me ask you a question: what happens if fusion has already begun? We
+can't afford to rupture the magnetic field of a live thermonuclear fusion
+reaction — the best-case scenario would be that it only destroys a few buildings
+and kills dozens of people. Worst-case: we'd effectively be detonating a
+thermonuclear warhead in downtown Princeton."
+
+"You are correct: if fusion has begun, we cannot afford to rupture the magnetic
+field. When you depart Fairbanks in the early morning, I will give you a go/no
+go signal via text message. If it's «no», it means that Fusion will have already
+begun, or that Julia has been freed via some other mechanism."
+
+"You may hang up now. We will not communicate until you leave from Fairbanks in
+the early morning in 3 days. Good luck Max."
+
+The phone went dead. Max stared at the handset. That voice, so familiar, yet not
+quite recognizable.
+
+He walked back to the Princeton Westin. He found the outlets in the lobby, and
+plugged in his laptop and cellphone, and made arrangements to fly to Alaska.
+
+Max wasn't fond of travel, but he reached a truce of sorts: he brought his
+laptop, did work for a few hours while he sat in the uncomfortable chair, and
+then got off the plane.
