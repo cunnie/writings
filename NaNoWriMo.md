@@ -4494,3 +4494,58 @@ made in a very small plane, with maybe twenty passengers. It was after midnight
 when he touched down. The car rental desks had already closed, so he took a cab
 to the Regency Fairbanks Hotel, a hotel whose most compelling characteristic was
 the low price of its single room.
+
+The hotel was modest and clean. It was a step above a hostel — each room had
+their own bathroom, but it was a shower, not a tub, and the shower stall was
+plastic rather than tiled. Didn't matter: plastic was as efficient as tile when
+it came to preventing water leaks, especially when one didn't have to worry
+about crumbling grout.
+
+He slept late — it was 8am, and the sun had already risen, when he woke. He
+opened the curtains and he had to admit that the mountains in the background
+made a very impressive view. He also noticed that it was cold, and apparently
+the management decided to save money by keeping the heat as low as possible.
+Easily remedied: he'd wear an undershirt as well as a sweater.
+
+He opened his suitcase and knew he was not equipped for this weather — he needed
+some shopping before he set off. He stopped in a clothing store which seemed to
+cater to locals, and after spending a couple of hundred dollars came out with
+enough to keep him warm for the car-ride down and for sleeping in an abandoned
+building with no heating. And water, too. And some jerky — when hungry, jerky
+works in a pinch.
+
+Dressed in his new clothes, he took a cab back to the airport where he rented a
+4WD and headed down Route 3 to the Ballistic Missile Early Warning System site.
+The drive was uneventful. He saw the massive radio dishes from miles away, and
+there was a security guard at the checkpoint.
+
+The interaction was minimal: The security guard asked for his license, took a
+picture of it with his cellphone, and asked what he was doing here.
+
+"I'm doing some maintenance on Building 57; I hope to be out of here within a
+day."
+
+"Be careful: the buildings are old and not up to code."
+
+"I'll be careful," said Max.
+
+The security guard let him through, and Max drove to the closest building with a
+massive radio dish on top. The great thing about working in an abandoned
+building: easy parking. He parked in front and panicked when the door was
+locked, only to discover that it had been stuck, and he merely needed to provide
+enough force to open it.
+
+_Congratulations, Dr. Max,_ he said to himself, _first challenge successfully
+overcome_.
+
+He went into the building. Although it was a 2 story building from the outside,
+he could see that inside it was one floor with a double-high ceiling. Although
+there was a fair amount of dust, everything looked pristine. He felt a level of
+excitement in him as he hunted for the manuals. The seventies was a high point
+in computer documentation: for one thing, it was written for engineers, not for
+the lay user, so it could afford to be both concise and precise. Secondly,
+printing was difficult, so more effort was put into making sure everything was
+correct before sending it to the printer. Also the old documentation reminded
+him of his youth, when he started out: he remembered many late nights poring
+over the manuals like some ancient wizard studying a foreign text, hoping to
+find the nugget of information he needed.
