@@ -4451,5 +4451,46 @@ He walked back to the Princeton Westin. He found the outlets in the lobby, and
 plugged in his laptop and cellphone, and made arrangements to fly to Alaska.
 
 Max wasn't fond of travel, but he reached a truce of sorts: he brought his
-laptop, did work for a few hours while he sat in the uncomfortable chair, and
-then got off the plane.
+laptop, did work for a few hours while he sat in the uncomfortable chair. He
+tried to make sure that every flight he was on had WiFi, which made working much
+easier. He was lucky: Alaska Airlines had WiFi on their flights. But the
+itinerary was a disaster: John F. Kennedy Airport to SeaTac, SeaTac to
+Anchorage, Anchorage to Fairbanks. A lot of time in the planes, and almost as
+much time in the airports (thanks to a 7-hour layover in Anchorage). Ugh.
+
+He had never thought of himself as a hero, not as in the save-someone's-life
+hero. He was more of the help-someone-fix-their-printer hero, or
+connect-the-TV-to-everything-properly hero. But here he was, flying to Fairbanks
+in what was admittedly a long shot, trying to save someone's life. Not just
+anyone's life, but the life of the highly-thought-of CEO of his company. A week
+ago he would never have guessed he would be in this position.
+
+And she was a highly-thought-of CEO. From without, sure — she had been profiled
+in the industry magazines, and the company financials were well above average.
+But also from within: although prior to this week he hadn't directly worked with
+her directly, he knew people who had, and they all respected her and liked her,
+which was no mean feat.
+
+He was still angry at himself for turning on the cell phone. Maybe if instead he
+had used a flashlight, or a lighter, Julia would be free right now. He had been
+so sleepy! He hadn't been able to think straight — he was in autopilot mode when
+he turned on the cellphone. But if he had been more cogent Julia would be free,
+albeit as a being of pure energy. Would such a being still be Julia? Would she
+be able to transform back and forth at will?
+
+_Regrets serve little purpose_, he thought to himself, _Learn from your
+mistakes, but don't beat yourself up about them_.
+
+And what had he done wrong? He had turned on his cellphone. How could he have
+done better? He should have placed his cellphone in a place that was difficult
+to access, And put a stickie on it that read, "Don't turn on cellphone". Yeah, a
+stickie would have been a simple and effective solution. But that was academic —
+he no longer needed to fly under the radar.
+
+The first flight, to Seattle Tacoma (SeaTac), was uneventful. The second flight
+was delayed 3 hours, but given that he had a 7 hour layover in Anchorage, he
+still made the connection with plenty of time. The last leg of the journey was
+made in a very small plane, with maybe twenty passengers. It was after midnight
+when he touched down. The car rental desks had already closed, so he took a cab
+to the Regency Fairbanks Hotel, a hotel whose most compelling characteristic was
+the low price of its single room.
