@@ -4539,8 +4539,8 @@ _Congratulations, Dr. Max,_ he said to himself, _first challenge successfully
 overcome_.
 
 He went into the building. Although it was a 2 story building from the outside,
-he could see that inside it was one floor with a double-high ceiling. Although
-there was a fair amount of dust, everything looked pristine. He felt a level of
+he could see that inside it was one floor with a double-high ceiling. In spite
+of the fair amount of dust, everything looked pristine. He felt a level of
 excitement in him as he hunted for the manuals. The seventies was a high point
 in computer documentation: for one thing, it was written for engineers, not for
 the lay user, so it could afford to be both concise and precise. Secondly,
@@ -4549,3 +4549,227 @@ correct before sending it to the printer. Also the old documentation reminded
 him of his youth, when he started out: he remembered many late nights poring
 over the manuals like some ancient wizard studying a foreign text, hoping to
 find the nugget of information he needed.
+
+And there it was: a rack of three ring binders, label. He opened them up. The
+Courier typeface, in all its glory. Courier — the working man's typeface. These
+manuals weren't typeset: they were typed up and xeroxed (was that still a
+word?). And the writing: so exact. And every once in a while a very simple line
+diagram. He felt transported to an earlier era, to his youth, when there was no
+Internet, when the manuals were the sole source of information, and thus
+incredibly precious.
+
+He began with the "Operator's Manual". Ah yes, this seemed a good start. He
+skimmed through it. Then he jumped to the "Hardware Reference", and then the
+"Troubleshooting and Diagnostics".
+
+He noticed the light had become dim. The sun was setting. He stopped for a
+minute to watch the beautiful Alaskan horizon. He walked over to the wall and
+switched on the lights.
+
+He couldn't believe his luck — the lights still worked!
+
+And hours flew by as he read the manuals and made notations in the margins.
+_Only in pencil_, he told himself, _I wouldn't want to permanently mark these_.
+
+He noticed he could see his breath. _The lights still work, but the heating is
+shot_.
+
+There was a couch against the wall. He was tired, and propped himself on the
+couch while re-reading the "Operator's Manual". He was asleep within minutes.
+
+He stirred, noticing the sun had risen (just barely). He knew how everything
+worked: he had spent the previous evening absorbing information, and the night
+processing information. He believed that sleeping was the best way to process
+information, at least for him.
+
+He pulled out the crumpled piece of paper with the scribbled notes that he had
+taken and checked the clock: in one hour and twenty-five minutes he'd begin
+transmitting. He hoped the old beast still worked.
+
+The most surprising thing about the radar system was that it was manually
+controlled. He didn't punch numbers into a console; instead, he adjusted an
+intricate series of gears and pulleys to adjust the pitch and then a different
+set of pulleys and gears to adjust the yaw.
+
+And then there were the micro-adjustments, which involved a much more delicate
+set of instruments. He was surprised how accurate the equipment was given its
+vintage, but he shouldn't have been. It was a personal bias, he realized: if it
+was hooked up to a computer, it was accurate, but if it was mechanical, it
+wasn't as accurate. But that assumption was flawed: most computers were merely a
+front-end to a mechanical system, and the engineering required to design
+accurate components had been worked out in the mechanical engineering discipline
+decades ago. The radar was accurate. The only difficulty he had was converting
+the decimal portion to degrees, minutes, and seconds, which was fairly trivial.
+
+He checked his phone. 1 bar. No texts.
+
+He powered up the radar. _I can't believe this stuff still works!_ Ten minutes
+until he could start transmitting. Five minutes. Three minutes. One minute.
+
+He flipped the transmission switch. He could hear a faint hum in the building.
+He waited. If everything went according to plan, Julia would be free in another
+ten minutes.
+
+The humming stopped. The lights went out, but fortunately there was enough
+ambient light in the room to see what was happening. His phone beeped, a text
+message: "Get out of there now. Do not go to your car. We have been discovered.
+Head north by northwest until you find the cabin at the top of the hill. Turn
+off this cell phone. Good luck."
+
+He ran out the building and he could see the Security Guard running towards him
+shouting in his cell phone. Max turned and ran the opposite direction. While Max
+was running, he checked the time on his cell phone and the compass direction:
+fortunately it was a clear sky, and the sun was almost directly due South, so he
+could orient fairly well to get out of the complex.
+
+The Security Guard was falling further behind. Either he wasn't in as good a
+shape as Dr. Max, or he didn't have as much adrenaline. Probably the latter.
+
+The complex was enormous. Max continued to run, as best he could in the heavy
+winter boots, at a reasonable clip. Then a slower clip. Then a brisk walk. He
+turned around. The security guard had given up and turned back.
+
+He came to the perimeter. The entire facility was surrounded by a tall chain
+link fence. He tried climbing it, but his feet couldn't get enough purchase. He
+looked around for something he could use as a step ladder. Nothing: no boxes, no
+crates, no barrels.
+
+He heard a sound in the distance. A vehicle. It was coming closer.
+
+A bullhorn blared, "Stay where you are and put your hands above your head."
+
+Blind panic. That's what he felt: blind panic. He didn't know how he did it, but
+he pulled himself up the chain link. He had no idea he had that strength in him.
+When he got to the top, he hauled himself over and dropped to the other side.
+
+"Stop. Stay where you are."
+
+He didn't stay where he was. He ran. North by Northwest. He was winded, so he
+didn't run very fast. They probably had a snowmobile somewhere. They were going
+to chase him on the snowmobile, and likely catch him. He couldn't move very fast
+on foot.
+
+The sky, which was clear but a few minutes ago, was beginning to mass
+thunderheads. This could get ugly. He remembered the Jack London story, "To
+Build a Fire", about a man who froze to death in the Alaska Wilderness because
+he had been careless. Max wasn't careless. Max was very careful — it was wired
+into his DNA.
+
+But time and chance had conspired to put him in a dangerous situation: being
+chased into an Alaskan blizzard with but the barest of navigational instruments.
+
+If it came to it, he'd turn on his cellphone and navigate with that: better to
+be captured than to be dead.
+
+The wind began to blow, stirring up the snow. This was a good thing — it was
+covering his tracks. Only a little, but maybe enough.
+
+The cabin hadn't seemed far, but it seemed like it wasn't getting closer,
+either. He trudged and trudged as the clouds massed larger and the sky grew
+darker. The cabin was within his field of view, but only barely — he couldn't
+see far, certainly not to the horizon.
+
+He thought he heard the snowmobile behind him, but he wasn't sure, and it may
+have been the wind.
+
+He jumped when he heard the first thunderbolt. And the skies opened up.
+
+He couldn't believe the amount of snow that was coming down. Alaska was not for
+the faint of heart. So much snow. He could no longer see the cabin. He could
+barely see twenty feet ahead of him. He held his cellphone in his right hand,
+thinking, _if I don't find the cabin soon I'm gonna turn around and navigate to
+the base and turn myself in._
+
+And the cabin came into view. He knocked on the door. He knocked again. No
+answer.
+
+The door was unlocked, so he let himself in only to find himself staring down
+the twin barrels of a shotgun.
+
+"And just who might you be, stranger?" said the man holding the gun.
+
+Max raised his hands above his head. "My name is Dr. Max Bernstein, and I'm a
+scientist."
+
+"And what brings you to these parts?"
+
+"I'm trying to help a friend out."
+
+"And is that why you decided to let yourself into my place?"
+
+"No, I was being chased. I'm sorry about that. I knocked. I knocked twice. I
+don't just let myself in. But it was snowing outside and I was worried. I'm
+truly sorry."
+
+"You were being chased."
+
+"I was being chased by the guards at the Federal Base."
+
+"And why were they chasing you?"
+
+"I was using the radar dish to send a signal to New Jersey where my friend is
+imprisoned. We were hoping that the ..."
+
+"Whoa, slow down there: who is this «we» that you refer to? You got another
+friend out there?"
+
+"No, not at all. Just me. The friend was trying to help me free the other
+friend, a girl."
+
+"Is the girl your friend?"
+
+"Yeah, she's my friend, too. Well, I mean I work for her. Well, I mean I work
+for the guy who works for a guy who works for a guy who works for her."
+
+"I don't work for nobody. Who's your other frien'? You work for him, too?"
+
+"Nah, I don't work for him. I don't even know who he is. I never met him, and
+only spoke to him on the phone twice."
+
+"You spoke to him on the phone twice and already he's your frien'? You pretty
+good at makin' friends, ain't ya?"
+
+"Well I guess he's not really my friend."
+
+"Why did you call him your frien' then?"
+
+"He had some good ideas to help free my other friend, the one who is trapped in
+New Jersey."
+
+"Trapped, huh? I know a lot about traps."
+
+Max looked around. The cabin was small, but there were fur pelts everywhere.
+
+"Are you a trapper? A furrier?"
+
+"Let's not worry about me for the time bein'. Let's talk about you, and your
+friend who's trapped."
+
+"Oh yes, she's trapped in New Jersey. In a Tokamak."
+
+"What's a Tokamak?"
+
+"It's a big donut. As big as this cabin. Maybe a little bigger."
+
+"Go on."
+
+"It has her trapped with an electromagnetic field. There are no bars holding her
+there. It's just electromagnetic field. Maybe it's difficult to understand."
+
+"Be careful what you think you know, stranger. You think because I'm in this
+remote cabin in Alaska I can't understand things like 'lectricity or magnetism,
+but let me tell you something: I look out at night and I can see the Northern
+Lights and that is electricity in all her glory. And when I need to somewhere
+I've never been before I study that compass hard and know which way the magnet
+goes. See this fur? You rub it too much and then touch something, you get a big
+spark. You know what your problem is? You're prejudiced. Whoa, don't talk — I'm
+talking now, you'll get your chance in a second, but right now you're in my
+cabin, and you're gonna listen to me. You're prejudiced. You're highly educated —
+I can tell, and there's nothing wrong with education — and it's clear that you
+hang out with other people who are educated like yourself, but you think when
+people aren't educated they must be dumb. Whoa, I said I'm talking now — you'll
+get your chance. You think they're dumb. You know why you're so upset right now?
+It's because you know it's the truth, and you're ashamed. You probably tell
+yourself that we're all God's creatures, all equal in his eyes, but deep down
+inside you know we're all different, and that you're one of the smart ones. And
+the rest of us? Not so smart, in fact, kinda on the dumb side."
