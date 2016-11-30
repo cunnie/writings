@@ -4772,4 +4772,180 @@ get your chance. You think they're dumb. You know why you're so upset right now?
 It's because you know it's the truth, and you're ashamed. You probably tell
 yourself that we're all God's creatures, all equal in his eyes, but deep down
 inside you know we're all different, and that you're one of the smart ones. And
-the rest of us? Not so smart, in fact, kinda on the dumb side."
+the rest of us? Not so smart, maybe on the dumb side."
+
+Max was turning red in the face, "That's not true!"
+
+"You see how angry you are? I got a shotgun pointed at you, and all you can
+think about is how you've been wronged. Lemme tell you something, if I told you
+that you had two heads, would you be upset? Of course not — it's not true. But
+if I tell you you're prejudiced, and that you think people with less education
+are not so smart, you get angry. Why? Because it's true. Listen and learn, son.
+Next time someone tells you something you don't like to hear, take a long hard
+look inside yourself. You might not like what you find, but it'll be the truth.
+And sometimes the truth is ugly."
+
+Max sputtered and said, "I have always treated everyone with dignity."
+
+"Funny, I didn't say nuthin' about whether you treated people with dignity or
+not, but you seem to think otherwise. Maybe it's easier to think about dignity
+than to think about prejudice. Now you come in and close the door behind you —
+it's cold outside, and this cabin doesn't keep the heat well when the door's
+open."
+
+The man waved Max in and pointed to a chair. The man was short, wiry, and hairy:
+long beard, long unkempt hair, lots of gray.
+
+Max sat down. The man carefully placed the shotgun in the gunrack on the side.
+"It wasn't loaded; I wasn't gonna use it. I don't like shootin' people. Don't
+like it one bit. You never forget, you know? It never leaves you, shootin'
+someone."
+
+The man was quiet for a moment.
+
+"So what you gonna do about your frien', the one who's trapped?"
+
+"I dunno."
+
+"What do you mean, «I dunno»? You gotta plan, dontcha?"
+
+"Not really," said Max, slumping in his chair. "I'm really tired."
+
+"You're bleeding, too," said the wiry man. "Your gloves are cut open, and you're
+bleeding from there."
+
+Max looked at his hands. The guy was right: his gloves had been cut open, and
+his hands were cut, too. There was a fair amount of blood. It looked nasty.
+
+"We gotta clean that up. We don't have running water out here, but here's a
+basin, and here's a jug of water. Be sparing with the water. Remember: I gotta
+lug that jar from the stream."
+
+Max washed his hand in the basin — only one hand was cut, fortunately his left
+one. Long gash, not terribly deep.
+
+"I don't mean to be ungrateful, but the water — is it sterile? Is it safe to
+wash wounds and drink?"
+
+"That water? It's the finest water there is on account of being right next to
+the Fairbank's largest sewage outflow, and they're pretty good about treatin'
+their water unless there has been a snowstorm or rainstorm recently."
+
+The wiry man smiled, "I'm just messin' with ya! Water's fine — I drop the pills
+in them. Fine for drinking, wound-cleanin'. You clean out that wound yet? 'Cause
+we gotta disinfect it next. And I won't lie: this is gonna hurt."
+
+The man took Max's left hand, pulled back his coat and cuff, and took a look at
+the wound — it was still bleeding, though it had slowed down. He reached around
+and grabbed a clear bottle from the table, held Max's hand over the basin, and
+gently poured a small amount of clear liquid onto Max's hand."
+
+It hurt like hell, but Max wasn't going to give the man the satisfaction. He
+didn't make a sound.
+
+"I'm sorry that you had to use your liquor to disinfect my hand."
+
+The man chuckled. "It'd be a stretch to call this stuff, «liquor», and I don't
+drink it myself anyways — I keep it around for guests."
+
+He grabbed an old rag and tore a strip off. "Don't worry, it's clean." And
+wrapped it around Max's hand. Then he got some duct tape and taped the rag in
+place.
+
+"You can use med tape, but duct tape works just as good, and good rag is
+better'n gauze for stanchin' blood."
+
+Max looked at his hand: the bandage was snug but not tight. He wondered if his
+host had a lot of experience binding wounds.
+
+As if reading his mind, the host said, "Ya need to know basic first aid out
+here. A lot of things happen, might be days before you can get to a doctor, and
+if you're not careful things can get out of hand. That wound looks clean, should
+be okay. If you're the kind that likes to check with a doctor, by all means
+check with a doctor when you're in town."
+
+"My name is Max, by the way," said Max, holding out his uninjured hand.
+
+"Why, that's mighty polite of you, Max. The name's Hunter. Pleasure to make your
+acquaintance."
+
+"I must rescue Julia."
+
+"Is that her name? Sounds nice, «Julia». Lemme tell you how it works here in
+Alaska: we're not gonna do anything while that storm is ragin'. Now, if you have
+the notion of walkin' back to the road and gettin' in your car, I ain't gonna
+stand in your way, but know this: you're probably gonna die. I know these parts
+pretty well, and I wouldn't go outside right now if I didn't have to."
+
+"What can we do?"
+
+"We wait. Gotta let the storm take its course. Worryin' about it isn't gonna
+make it happen faster. Things move at their own speed here."
+
+"How long will the storm last?"
+
+"Dunno. Probably all night, clear up in the morning, but sometimes they take a
+couple of days to run their course. Ya never know. Listen, why dontcha take a
+rest on the pile of skins I have over there. Don't worry — no fleas on the furs,
+they're clean. And we can talk about what you're gonna do when the storm lets
+up."
+
+Max lay down on the furs — he was surprised how comfortable and warm they were.
+The only thing he didn't like was when he rested his face on them some of the
+hairs would go up his nose. He sneezed.
+
+"Watch out for the nose," said Hunter, "the hairs'll get right up there, make ya
+sneeze they will."
+
+Max muttered a small thank you to the animals who sacrificed their skins so that
+he could rest in such a comfortable bed, and a comfortable bed it was — he
+hadn't remembered a bad so comfortable. His last thought was that he'd close his
+eyes for a second while he gathered his strength.
+
+When he woke up the sun was streaming through the windows. "Did I fall asleep?"
+asked Max.
+
+"Ya fell asleep fast and slept hard." Hunter passed him a mug of black coffee.
+"No milk I'm afraid," he said. "Milk doesn't keep too well. No sugar either.
+Just coffee, black."
+
+"Thank you," said Max. The coffee was strong.
+
+"Ya thought about rescuin' your frien'?"
+
+"Yeah, I think I might try to get back to New Jersey and somehow get her out of
+that trap. I just don't know. I don't know how to get back there, I know they'll
+be looking for me. I can't turn on my cell phone. I can't board an airplane -
+I'm at my wit's end."
+
+"Your frien', the one your tryin' to help — is she good people?"
+
+Max nodded his head. Julia was good people. "Yeah, she's good people."
+
+Hunter was quiet. "Okay, I'll help."
+
+"What?"
+
+"I'll help. I hate gettin' involved — always trouble gettin' involved in other
+people's affairs, takes time and takes me away from what I want to be doin', but
+I'll help."
+
+"I think I'm okay."
+
+"Let me tell it straight to you, because you seem to have a hard time graspin'
+the truth: you are not okay. You are in trouble. People who wander into my cabin
+in the middle of a snowstorm because they are being chased by the Feds are in
+trouble. Now that you have had a good night's sleep and some coffee in you, you
+might try to delude yourself into believin' that you sailed into this cabin on
+the wings of victory, but that is certainly not what happened. These guys are
+after you, and now that the storm has cleared up it's only a matter of time
+before they come knockin' at my door."
+
+"When this is all over, I can pay you."
+
+Hunter looked at him. "You do me injustice by offerin' to pay. My offer to help
+is from one person to another, and not some financial transaction."
+
+He looked out the window, "Times I think everyone should spend a year in a cabin
+in Alaska. Things like money become less important, things like food and people
+become more so."
