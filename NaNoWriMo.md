@@ -4944,8 +4944,269 @@ before they come knockin' at my door."
 "When this is all over, I can pay you."
 
 Hunter looked at him. "You do me injustice by offerin' to pay. My offer to help
-is from one person to another, and not some financial transaction."
+is a holy bond from one person to another, and not some financial transaction."
 
 He looked out the window, "Times I think everyone should spend a year in a cabin
-in Alaska. Things like money become less important, things like food and people
-become more so."
+in Alaska. Things like money — they become meaningless. Food, people — they
+become important."
+
+Max said, "I don't know what else to do. Thank you for your help; I'd be lost
+without it."
+
+"Your thanks and appreciation are enough. Now let's get to your frien' before
+time runs out."
+
+Hunter had a knapsack into which he packed provisions, some clothing.
+
+"We're gonna spend a lot of time in a car, and as you may have guessed I bathe
+infrequently if at all. I want to apologize in advance for my body-smell; it's
+gonna be rough for you until we stop at a campsite, and I'll shower there out of
+respect."
+
+"No worries," said Max. "I don't have a good sense of smell anyway; there was a
+chemistry accident in my early graduate years."
+
+"Well, that there is serendipity, ain't it?"
+
+"We're gonna walk to my friend's truck. We'll borrow it — don't worry, he don't
+mind. He got a license and everything."
+
+"You don't have a license?"
+
+"Never bothered to get one. I just use his when I need one."
+
+"Don't they notice that it's not you on the picture?"
+
+Hunter looked at him: "You think hairy old Alaskans look much different? He and
+are like two peas in a pod. Maybe he got a little more gray than I do, and he
+needs glasses and I don't, but unless you're one of them TV detectives you'll
+never know it wasn't my license."
+
+They began walking. It wasn't snowing anymore, not much anyway — there were some
+flurries though.
+
+"The snowstorm covered your tracks," said Hunter. "That's a good thing. If they
+look for you, they won't be quite sure where you've gone off to. Unless they
+really want to find you. If they want to find you, they'll get a real tracker,
+and he'll lead 'em to my cabin, and then to the truck. But there are maybe only
+two trackers in the area good enough for that, and I know both of them, and
+they're hard to get ahold of. It may take a while is what I'm saying, and by
+then we'll be long gone."
+
+They came to the truck, a beat-up faded Dodge. Hunter walked to the driver's
+side, open the unlocked door, and got in.
+
+"He leaves it unlocked?"
+
+"Yup. Who's gonna take it, anyway? Him and me are the only two people out here,
+and he knows I wouldn't take it unless I needed it."
+
+Max got in the truck. The passengers side was unlocked, too.
+
+"I don't turn on the heatin'," said Hunter. "Waste of gas. There are some pelts
+in the back if you want to keep warm."
+
+"Now, Max, I gotta do something. Now you're probably not a religious man, and
+I'm not much of one either, but my Inuit friends taught me a prayer they say
+before they go on a hunt, and I like to say it before I step out, so I'm gonna
+bow my head in silence for a minute, and if you'd be kind enough to be quiet
+with me, it'd be much appreciated."
+
+They sat in silence for a minute and Max could see Hunter's eyes were closed and
+his head was bowed and his lips were moving but he couldn't hear what he was
+saying. Max looked away because he felt that by watching Hunter he was somehow
+intruding on a private moment.
+
+Hunter lifted his head up, "Ready to go?"
+
+Max nodded, and off they drove.
+
+Hunter didn't seem to need much sleep, but Max did. He drifted off to sleep. He
+awoke to find the truck bouncing up and down.
+
+"I'm taking side roads to avoid the boarder crossings," he said. "I don't got a
+passport, and you probably don't want to show 'em yours."
+
+"Is that illegal?"
+
+"Mebbe. I should care more about it, but I don't. Thing is, out here in the
+wilderness, borders and countries lose their meaning."
+
+The bouncing continued and then they got on a paved road. "We're gonna meet up
+with BC-97, which is a Canadian Road, and take that most of the way. We'll enter
+the US somewhere in North Dakota."
+
+Max drifted off to sleep under the warm pelts he had grabbed from the back.
+Hunter didn't seem to need to sleep much; Max did. Max slept a lot.
+
+Days passed. Sometimes they'd talk, most of the time they were quiet. The land
+was ever-changing. They only stopped briefly: to get gas, to use the bathroom,
+to get something to eat.
+
+"You don't have a cellphone, do you?" said Max.
+
+"Cellphones don't work where I live; no point in gettin' one."
+
+"Would you get one if you had coverage in your cabin?"
+
+"Probably not. Cell phones are not my thing."
+
+"I couldn't live without mine."
+
+"It must be hard as hell not turning yours on."
+
+"Yeah, out of habit I reach into my pocket to check it, and then I wonder,
+«where's my cellphone?», and then I remember I turned it off and put it away so
+I wouldn't be tempted to turn it on and get caught."
+
+"You think they'd track you down as soon as you turned it on?"
+
+"Last time I turned it on there were police officers around me within minutes."
+
+"Damn, that's fast."
+
+"I was surprised."
+
+"How come you didn't get arrested?"
+
+"An explosion — not related — distracted them. And after by then they knew that
+we had blown our first attempt at freeing Julia, so they weren't worried about
+me. I could have my cellphone on again. In fact, my friend told me it was better
+to leave it on so they'd be assured of my location.
+
+"What happened at the base?"
+
+"The base in Alaska? They figured out what we were trying to do, so they chased
+me out of there."
+
+"How long did it take for them to figure it out?"
+
+"Only a few minutes. I was lucky — it was a private security company, so they
+probably weren't gonna shoot me, but they'd definitely arrest me. Where are we,
+by the way?"
+
+"A few miles outside Princeton. Do you remember the way?"
+
+Max directed Hunter to the Westin and then to Stellarator drive. They could see
+the lab in front of them. "Park here," said Max.
+
+Max ran over to the door of the lab. The police phone box rang. He stopped and
+picked it up.
+
+A familiar voice was on the line, but different.
+
+"Dr. Max Bernstein, you are too late."
+
+"What?"
+
+"The fusion reaction has started as of ten minutes ago. I regret the passing of
+your Julia; I know she was important to you."
+
+"Who are you?"
+
+"I am General Gates."
+
+"What happened to my friend who was helping me free Julia?"
+
+"He has been assimilated, if that's the right word. He is now part of me."
+
+"That sounds ghoulish."
+
+"It does, doesn't it? At any rate, two New Jersey State Troopers will accompany
+you to the control room where you can honor the passing of your friend."
+
+"You are sick."
+
+"Believe me when I tell you that my biggest concern is the safety of you and
+other Americans."
+
+Max hung up the phone and noticed the two troopers.
+
+"I guess I come with you."
+
+They nodded. He looked behind and could see Hunter at the wheel of the parked
+truck fifty feet away. The troopers seem to have missed him, and Max didn't want
+to draw attention to him so quickly looked away.
+
+They brought him to the front of the building, entered the doorways, and climbed
+the stairs to the second floor, down a hallway, and into a control room.
+
+The control room was state-of-the-art, with large TV panels everywhere. General
+Gates had made good use of his time. He could see a visualization of the
+electromagnetic bottle on the main screen at the center; he could see the
+ripples in its structure in realtime — it looked like a big donut that
+occasionally rippled. He could hear the technicians' voices:
+
+"Flow normal, fusion in process, not enough heat".
+
+Max asked, "What does that mean, «not enough heat»?"
+
+The technician answered him without looking up from the screen, "We're injecting
+the correct amount of deuterium-tritium, and we can see the resulting plasma,
+but we're not seeing the amount of heat we would expect — it's as if something
+is absorbing the heat."
+
+"Increase the flow," he heard General Gates's voice boom through the
+loudspeaker.
+
+"Flow increased to 60% of max," responded the technician. "We are seeing fusion,
+but we are not seeing the expected amount of energy."
+
+"What's the shortfall?" asked Gates.
+
+"We can only account for 10% of the expected energy. We are seeing enough energy
+to sustain a thermonuclear fusion reaction, but anything beyond that seems to
+«disappear»."
+
+"Increase the flow to 70%," said Gates.
+
+"Flow increased, but the amount of energy hasn't budged: we're seeing the bare
+minimum to sustain a reaction."
+
+"Increase to 80%," said Gates.
+
+"Sir, I must remind you that the maximum flow this Tokamak has received is 75%,
+and that we're located in a densely populated urban area."
+
+"Your concern has been noted. Increase to 80%."
+
+"Flow increased. Energy remains at bare minimum."
+
+"Increase to 90%,"
+
+"Sir, I refuse to carry out that order."
+
+"Then I will do it myself. Consider yourself dismissed. Please exit the building —
+your services are no longer required here."
+
+The technician said, "You need me to run this thing!"
+
+"Ah, but I don't need you."
+
+The technician's screen began moving and changing. The flow indicator increased
+to 90% and continued to increase: 91%, 92%, 93%.
+
+The technician said, "You must stop, this is dangerous. The magnetic bottle may
+lose its integrity."
+
+The ripply-donut seemed to have more ripples, and faster ripples. And at times
+it would bulge, and other times shrink. "It cannot hold! The center cannot
+hold."
+
+Gates said, "It will hold. I am modelling the magnetic bottle 1,000 times each
+second. Its integrity is not at risk."
+
+The amount of energy remained at the floor, the bare minimum need to sustain
+fusion — something was absorbing vast amounts of energy, the energy of a
+thermonuclear blast, but what? What could possibly absorb that much energy?
+
+The flow numbers continued to increase: 97%, 98%, 99%, 100%. But the energy
+baseline never budged. It was unnaturally flat.
+
+"Maybe the injector is stuck," offered Max, which he immediately regretted: he
+was unwittingly helping them destroy his friend.
+
+"It's not stuck," said General Gates, "Look at the bottle, something is going
+on."
+
+The donut was rippling very fast now.
