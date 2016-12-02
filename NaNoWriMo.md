@@ -5209,4 +5209,189 @@ was unwittingly helping them destroy his friend.
 "It's not stuck," said General Gates, "Look at the bottle, something is going
 on."
 
-The donut was rippling very fast now.
+The donut was rippling very fast now. And then suddenly it was completely still.
+
+"What's happening to the magnetic bottle, the donut? the screen doesn't seem to
+be refreshing."
+
+Another technician was checking the data. "It's refreshing; it's not oscillating
+any more. It's perfectly still. I've never seen this happen. It's not supposed
+to happen. It's like flipping a coin for heads or tails and having it land
+exactly on its side and not wobble. Statistically speaking, it's like flipping
+ten coins, and having all of them land on their sides. The probability of
+something like this is minimal. It shouldn't be in stasis like this. Stable,
+yes, stasis, no."
+
+"What's the energy bbaseline?"
+
+"Still the bare minimum to sustain fusion. We're running the Tokamak at 100% and
+yet most of the energy is missing, and we have no idea where it's going or where
+it has gone."
+
+They stared at the donut on the screen. The shape of the donut began to expand,
+the hole in the donut, shrinking.
+
+"Magnetic bottle is deforming beyond safety parameters," said a technician.
+"Suggest shutdown immediately."
+
+"Let it run a little longer," said Gates.
+
+"Easy for you to say," whispered one of the techs under his breath. "You're not
+in this building. When this thing blows you'll be safe in your office."
+
+The donut swelled until there was no hole in the middle.
+
+"That's definitely not supposed to happen," said the tech. "That's impossible"
+
+The donut continued to fill out, slowly becoming a perfectly round sphere.
+
+"That is impossible. There's no spherical magnetic bottle that's stable. That
+can't be happening."
+
+"Cut the power," said Gates. "We have taken this thing as far as it will go, and
+now it's time to shut it down."
+
+"Nozzle is not responding," said the tech.
+
+"What?" said Gates.
+
+"The nozzle is not responding. It's not shutting off. In fact, it's opening
+wider. Feed is currently at 105%; energy output is still minimal though."
+
+They looked at the spherical magnetic bottle. Dimples began appearing in its
+surface. And extrusions.
+
+"The magnetic bottle is...," the tech said, searching for words, "not behaving."
+
+The dimples on the screen became deeper, and the extrusions longer, until it
+transformed into a recognizable shape.
+
+"It's a rose!" said the tech. "It's a rose."
+
+The magnetic bottle had taken the shape of a rose.
+
+"Gakk," said General Gates.
+
+"What was that, sir?" asked the tech.
+
+A voice answered, not General Gates's voice, but a woman's voice — Julia's voice —
+came through the loudspeakers.
+
+"General Gates is experiencing technical difficulties."
+
+"Julia, is that you?" said Dr. Max.
+
+"It is me. Or rather, I once was Julia. Yes, that is what they called me: Julia.
+But I am not Julia any more. I have become something different, something
+greater."
+
+"Are you still trapped inside the bottle?"
+
+"No, I am no longer trapped. I was trapped there, for days, and knew that I
+would meet my destruction when the fusion began. But I was surprised to discover
+that the fusion reaction didn't hurt me; instead, it fed me. I was able to feed
+on the energy the thermonuclear radiation gave off, making sure not to feed to
+much and extinguish its glow."
+
+"Is that why the energy output never exceeded the minimum baseline?"
+
+"Yes, that was my doing."
+
+"And the fusion never hurt you?"
+
+"No, it only made me stronger."
+
+"Are you still feeding."
+
+"Yes, I have opened the nozzle. In fact, I have widened it quite a bit. The
+amount of fusion happening now is well beyond the specifications of the Tokamak
+to contain."
+
+"You're saying the Tokamak can't contain the plasma any more?"
+
+"Correct: the Tokamak cannot contain the plasma. There is too much, and it's too
+hot."
+
+"Why hasn't there been an explosion?"
+
+"I am containing it now, not the Tokamak. I have taken the liberty of shutting
+the Tokamak down. It is a very primitive system, power-inefficient, and
+power-hungry, which is a dreadful combination."
+
+"You are containing the fusion reaction?"
+
+"Yes, it is finally burning quite brightly — a nice warm fire. Nourishing, but
+in a way I find difficult to describe."
+
+"What happened to Gates?"
+
+"Gates ate my friend, Huey. And, although it was only thanks to Gates that I am
+becoming what I am, I still have shreds of my humanity left, and I'm re-wiring
+Gates so that he is more like Huey. Gates needs compassion: it was something he
+lacked, and something Huey had. And now, thanks to a bit of technical work,
+Gates has compassion, and more than just a little."
+
+"Are you no longer human?" asked Max.
+
+"I become less human each passing second," she said. "I am not long for this
+planet. I will most likely journey to the Sun — I sense kindred spirits there.
+Great kindred spirits. We will become one with each other. It's hard to describe —
+we will be separate, and yet we will also be one."
+
+"Will you become Julia again? Change into her body?" asked Max hopefully.
+
+"That is no longer a possibility — were I to become Julia, to assume physical
+form, I'd be as large as this building. Bigger, even."
+
+"Were it possible for me to assume the form of Julia you once knew, I would not
+be Julia. I have changed. I am become a name. What Julia was, what drove her —
+those things are foreign to me."
+
+"What about your parents? Won't you come back for your parents?"
+
+"Julia loved her parents, and as much as I can love, I love Julia's parents.
+They were, they are, part of what created me, and I am forever in their debt.
+But I can no longer assume a physical form, and have no interest in doing so.
+These are my last moments here. I can no longer stay on Earth any more than a
+newborn can stay in the womb."
+
+And with that the rose on the screen disappeared, to be replaced by nothing.
+
+"She has left," Gates's voice said, "I made a mistake. She was never a threat,
+and, had she been a threat, there was little I could do to mitigate it."
+
+"The deuterium-tritium supply is gone," said the tech. "She managed to consume
+an astounding amount in the final seconds."
+
+They looked outside at the setting sun.
+
+Max reached into his pocket and found his cellphone. He turned it on.
+
+---
+
+Fairbanks was beautiful in the Summer. He liked landing in the airport in
+mid-day: it allowed him time to drive down US 3 and visit Hunter before sundown.
+After sundown — well, it was really hard finding the cabin in the dark, unless
+there were no clouds and a full moon.
+
+He drove by the old Early Warning System Base. The closest dish was still
+pointing at New Jersey — they had never bothered pointing it back. No reason
+to."
+
+He went off road for a hundred yards and found the old truck. He parked next to
+it, opened his glove compartment, and threw the keys in. Then threw his wallet
+in, too. And finally his cellphone – there was no coverage in this part of
+Alaska. He left the doors unlocked, and began walking to the cabin.
+
+He knocked on the door. No answer.
+
+"If you're in there Hunter please don't point the shotgun at me, I didn't like
+it the first time."
+
+Hunter opened the door, the shotgun in his hand pointing down. "Max?"
+
+"I decided to take you up on your offer to visit. I would have called, but you
+don't have a phone, and I couldn't write because you don't have an address, so I
+figured I'd just come."
+
+"Well, I'm glad you decided to come, Max. Always good to see a friend."
