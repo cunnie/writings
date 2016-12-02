@@ -5371,8 +5371,8 @@ Max reached into his pocket and found his cellphone. He turned it on.
 
 Fairbanks was beautiful in the Summer. He liked landing in the airport in
 mid-day: it allowed him time to drive down US 3 and visit Hunter before sundown.
-After sundown — well, it was really hard finding the cabin in the dark, unless
-there were no clouds and a full moon.
+After sundown — well, it would be difficult finding the cabin in the dark, even
+with no clouds and a full moon.
 
 He drove by the old Early Warning System Base. The closest dish was still
 pointing at New Jersey — they had never bothered pointing it back. No reason
@@ -5394,4 +5394,67 @@ Hunter opened the door, the shotgun in his hand pointing down. "Max?"
 don't have a phone, and I couldn't write because you don't have an address, so I
 figured I'd just come."
 
-"Well, I'm glad you decided to come, Max. Always good to see a friend."
+"Well, I'm glad you decided to come — always good to see a frien'."
+
+"It's smart of you to visit in the Summer. Don't get me wrong — I like the
+Winters, but they're not gentle here. No, not at all. I gotta check my traps.
+Why dontcha come along? See the forest."
+
+They walked through the Alaska wilderness. Some traps had animals in them, which
+Hunter promptly dispatched.
+
+"I don't like 'em to have a slow death, starvin' 'n strugglin' to break free;
+that's why I check the traps every day – to put them out of their misery before
+it gets really bad. I can see the look in your eyes, tryin' not to judge. Lemme
+ask you somethin': you eat cheesburgers?"
+
+Max nodded.
+
+"I'm killin' these creatures, and I see it upsets you. But you know when you eat
+that cheeseburger, you're killin' a cow, right? You know that? You don't see it,
+but it's happenin'. So you eat the cheesburger an' pretend the killin' ain't
+happenin'. But it's happenin', as sure as day – cheeseburgers don't grow on
+trees."
+
+Hunter efficiently killed the ferret in the trap. Max winced.
+
+"We shy away from it. Killin' ain't pretty, so we ignore it. We don't like to
+thing about things like killin' and dyin', so we make sure other people kill our
+food for us, an' we hide our old people away in homes and preten' they're not
+gonna die because we're not thinkin' about 'em. An' we go on, thinkin' that
+things'll go on forever, no killin' or dyin', but they won't go on forever, and
+one day we're gonna meet our maker, and that is the ugly truth."
+
+"Times I think everyone should kill their food just once, to appreciate it. It's
+a powerful thing, killin' another creature. It puts me in my place, realizin'
+how small I am. Makes me grateful for food. It sounds hokey, but every time I do
+it I thank the creature for feedin' me, for givin' me its pelt. Killin' — you
+need to honor it, not preten' it don't happen."
+
+Hunter was quiet a long time. "I dunno what made me say all that. I saw the look
+in your face, and wanted to explain what it's like out here, here in the
+wilderness. There's not much room for pretendin' out here."
+
+Max nodded. Max didn't know it at the time, but in two weeks he'd become a
+vegetarian.
+
+Later that evening Hunter said, "Let me show you the Northern Lights. You
+probably seen pictures, but it ain't the same as the real thing."
+
+They watched the lights, beautiful green sheets descending from the sky. Quiet,
+majestic.
+
+"You ever hear from Julia?"
+
+Max shook his head. "I think she's gone for good. I don't think there was
+anything left for her here."
+
+Max nodded. "Wanna hear something strange? I was coughin' up blood. A lot. It
+had been gettin' worse. You never saw me do it — I did it while you were nappin' —
+it's a private thing, coughin' up blood — don't like folks seein' it. Anyway, it
+stopped the day we arrived in New Jersey. No coughin', no blood. Strange thing."
+
+"I wonder if Julia had anything to do with it?"
+
+"Not sure, 'n we'll probably never find out. All I know is that I don't cough no
+more. Nice thing, that is."
