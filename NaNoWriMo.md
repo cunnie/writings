@@ -5390,6 +5390,8 @@ it the first time."
 
 Hunter opened the door, the shotgun in his hand pointing down. "Max?"
 
+Hunter had more gray in his beard; otherwise he looked the same.
+
 "I decided to take you up on your offer to visit. I would have called, but you
 don't have a phone, and I couldn't write because you don't have an address, so I
 figured I'd just come."
@@ -5449,12 +5451,66 @@ majestic.
 Max shook his head. "I think she's gone for good. I don't think there was
 anything left for her here."
 
-Max nodded. "Wanna hear something strange? I was coughin' up blood. A lot. It
-had been gettin' worse. You never saw me do it — I did it while you were nappin' —
-it's a private thing, coughin' up blood — don't like folks seein' it. Anyway, it
-stopped the day we arrived in New Jersey. No coughin', no blood. Strange thing."
+Hunter grunted.
 
-"I wonder if Julia had anything to do with it?"
+"I think she went to the Sun; that's where she said she was going. I don't think
+there was anything for her here — I think she outgrew us. I'm not supposed to
+talk about it — it's classified and everything."
 
-"Not sure, 'n we'll probably never find out. All I know is that I don't cough no
-more. Nice thing, that is."
+Hunter made a show of looking around: "Not much government here."
+
+They stared at the lights.
+
+"They fabricated a story about Julia, said she suffered an acute reaction to the
+process. They weaved some truth into it — that she had performed the process on
+herself, without supervision. And they lied about the remainder. The company
+lives on — they have a new CEO now. And they decided to spin-off the division
+that I'm in, the one that does projects for the government. They said it wasn't
+profitable enough, that it was difficult to manage, and that it opened the
+company to lawsuits. Those were the official reasons. But there are other
+reasons, too. Julia was well-liked, and when she was lost, well, I guess it
+soured them. They didn't like the business, it was too opaque, and it killed
+their leader."
+
+"I couldn't tell anyone what really happened. I pretended to be distraught. But
+in some ways Julia is truly dead: what she became — I don't even know how to
+describe it — is something completely different the Julia we knew. The Julia we
+knew is gone."
+
+Long silence.
+
+"I ain't never met Julia."
+
+"You would have liked her. She was kind. Sure, she was hard-working, focused,
+smart, but she was also kind. You know she fired people, right?"
+
+"Nope, didn't know that."
+
+"It's part of the job, firing people. It's usually the last resort. You have a
+problem employee, you try to fix it. Then maybe transfer them. Then, if all else
+fails, you get rid of them. Some people enjoy that, getting rid of people. Not
+Julia. She didn't like it at all. It didn't stop her from doing it — she never
+shirked from what needed to be done — but she didn't like it one bit."
+
+"Sounds like a tough woman."
+
+"Tough when she needed to be, but no more tough than necessary."
+
+The Northern Lights were an especially bright green.
+
+"I saw the full documentation to the project. Things were in chaos the week
+after Julia left. I found I was able to access the documentation from the lab."
+
+"I thought you said you was the lead 'vestigator — didn't you know everything?"
+
+"I was the lead investigator, but only for the second phase of the project.
+There had been an earlier phase, and what had happened in that phase — they only
+told me what I absolutely needed to know, which was essentially nothing."
+
+"What happened in the earlier phase?"
+
+"There was another subject."
+
+"Who was that subject?"
+
+"Colonel Taggart."
