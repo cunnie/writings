@@ -5522,7 +5522,7 @@ transformed in his bed into a weeping wreck.
 
 He was overcome with grief, and sobbed mightily. It was a grief that knew no
 bounds, that was limitless and relentless. Time lost meaning. He was trapped in
-a eternal now of endless despair.
+an eternal now of endless despair.
 
 But time did pass, and his tears dried. And, in the furnace of that grief that
 went beyond space and time, he became something other than Taggart.
@@ -5535,3 +5535,88 @@ The unwavering commitment he had to the military, to the country, and to the
 Right Thing, had somehow unravelled. It had unravelled in a rather spectacular
 and abrupt manner. What had seemed impossible last night seemed inevitable this
 morning: he would leave the military.
+
+Like everything else in the military, there was a protocol for leaving. And one
+did not become a colonel without mastering the protocols. Taggart, indeed, was a
+master of protocols, and, sitting on his bed, he began to plan his departure.
+
+Years of being in the military had colored his thinking: everything was a battle
+campaign. In this case, he was performing a tactical retreat.
+
+_But what happens after I resign?_ he thought, _what then?_
+
+He didn't have a plan after leaving the military. But let's focus on tactics and
+worry about strategy later. First thing first: resignation letter.
+
+Actually, the resignation letter was the second thing. First he needed to get
+dressed and prepared for the day, which he did, with military precision.
+
+Years earlier the resignation letter was physical, often a single page (brevity
+is important, especially with a resignation letter. The resignation letter is
+not a mechanism to air grievances or settle scores — it is merely a mechanism to
+effect change, specifically with regard to military status). But these days much
+was done with email.
+
+> General Gates,
+
+There was a chain of command, and the resignation letter must be delivered to
+the commanding officer. In his case, General Gates.
+
+> It is with great regret that I tender my resignation as Colonel of the United
+States Army, effective immediately.
+
+Short and sweet — the best way.
+
+> Sincerely,
+
+He typed his name and clicked "Send" without hesitating. He counted to ten
+slowly.
+
+The phone rang.
+
+"Taggart."
+
+"Gates."
+
+He knew as sure as day that Gates would call within ten seconds of him
+submitting his resignation. He wasn't sure how Gates had managed it, but he
+seemed to be constantly connected. And to never need sleep.
+
+"I must confess your resignation was entirely unexpected."
+
+"I share that sentiment, sir."
+
+"May I ask why you decided to submit your resignation?"
+
+"I find myself unable to fulfill the duties of my rank, sir."
+
+"Have you considered a vaction."
+
+"No, sir."
+
+"Would you consider a vacation?"
+
+"No, sir. I am confident a vacation would not change anything."
+
+"Colonel Taggart, I am at a loss for words. I do not exaggerate when I say that
+you are one of the finest military men I have encountered in my career. I have
+genuine fears that this project will suffer greatly if you depart. Perhaps you
+would entertain the possibility of staying long enough to see the project
+through to its end before resigning?"
+
+"With all due respect, sir, my resignation is effective immediately."
+
+"Colonel Taggart, there is a possibility that a Brigadier General position may
+open as a result of personnel changes. Were I to guarantee a promotion to that
+rank upon your agreement to remain with the project until it finishes, would you
+consider staying?"
+
+Brigadier General. The brass ring. If he stayed, he'd be a general, and he could
+retire at a higher pay grade.
+
+But it would be a mistake to think that his career in the military had been
+driven by the ambition to become a general, which, in his mind, that was a
+rather shallow and egotistical motivation. No, his motivation ran much deeper.
+He was in the military to protect and to serve. Yes, that was a cliche, but
+cliches can also be true. Taggart had a well-developed sense of obligation and
+responsibility.
