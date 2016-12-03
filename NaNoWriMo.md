@@ -5514,3 +5514,24 @@ told me what I absolutely needed to know, which was essentially nothing."
 "Who was that subject?"
 
 "Colonel Taggart."
+
+---
+
+As Colonel Taggart awoke one morning from uneasy dreams he found himself
+transformed in his bed into a weeping wreck.
+
+He was overcome with grief, and sobbed mightily. It was a grief that knew no
+bounds, that was limitless and relentless. Time lost meaning. He was trapped in
+a eternal now of endless despair.
+
+But time did pass, and his tears dried. And, in the furnace of that grief that
+went beyond space and time, he became something other than Taggart.
+
+He raised himself in his bed, and swung his feet to the floor. At that moment,
+as clear as day, he knew that he would resign his commission. He would diminish,
+and return to civilian life.
+
+The unwavering commitment he had to the military, to the country, and to the
+Right Thing, had somehow unravelled. It had unravelled in a rather spectacular
+and abrupt manner. What had seemed impossible last night seemed inevitable this
+morning: he would leave the military.
