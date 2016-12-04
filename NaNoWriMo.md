@@ -5716,3 +5716,76 @@ He was jarred out of his trance, "What the hell?"
 
 His wrist was free. His forearm was free. But the leather strap wasn't broken:
 it was complete, undamaged.
+
+_What the hell just happened?_
+
+He stared at the wrist, stared at the strap, stared at the wrist. Had it been
+secured properly? He could have sworn it was secured properly — he remembered
+trying to move his wrist, and realizing it was restrained. Maybe he _imagined_
+that he had tried to move his wrist — maybe he had been suffering after-effects
+from the drug they had given him.
+
+He was allowing himself to get distracted, and that was not good — he needed to
+focus. Within a few minutes had had freed himself from the gurney. He stood up.
+
+He was still in uniform; they hadn't bothered to remove it.
+
+What was going on? He understood military justice, and knew some of the subtle
+differences (and some of the not-so-subtle differences) from civil justice. And
+yet this experience — drugging and restraints — was outside the bounds of both
+systems. Something was horribly wrong, and somehow Gates was involved.
+
+Gates. He had always looked up to Gates, who came across as a wise, fatherly
+figure. Someone who was always available, and always did the right thing (even
+if it wasn't the expedient thing). Weirdly he had never met Gates in person, but
+he knew he was in the Pentagon. Gates had an office in the basement, which was
+curious because typically that's where they put the computer systems, not the
+Generals. There were no windows in the basement.
+
+It wasn't uncommon in the military to look upon one's commanding officer as a
+father-figure. Taggart was no stranger to psychology. Indeed, the best officers
+seemed to have an intuitive understanding if not formal training in the field.
+
+And thus this apparent betrayal by Gates was doubly-wounding. How could he do
+it? Gates, who seconds before had sung Taggart's praises, had him drugged and
+imprisoned.
+
+Gates _had_ issued a pre-emptive apology, but neglected an explanation. It had
+rung hollow.
+
+He didn't know whom he could trust.
+
+Taggart had no family; the military had been his family.
+
+And now he was a rogue colonel. In an abstract sense, he wondered if he was a
+civilian, if his paperwork had gone through: that is to say, he wondered whether
+he fell under civil law or martial law.
+
+_Those are abstractions,_ he thought. _Focus on the concrete: the drugging, the
+gurney, the straps._
+
+Yes, abstractions served their purpose until they no longer worked, in which
+case one needed to discard them like a used kleenex.
+
+He needed to get out of here. And he needed to avoid killing. That would haunt
+him later. Incapacitate, yes, kill, no. Killing would wind him in jail when all
+was said and done.
+
+Had gotten off the gurney. The room was indeed dark, nothing had covered his
+eyes. He felt his way slowly around the room. He discovered a door and a door
+handle twenty feet directly in front of the gurney. There were cabinets and
+shelves around the room, and a sink. He was quiet, and he didn't bother to
+search the cabinets — without light he would have difficult ascertaining their
+contents.
+
+He placed himself in front of the door. On the left side he could feel the
+hinges: the door opened inward. Good, when he turned the handle he would pull
+rather than push. He would stand to the right of the handle, fling the door
+open. There would be two guards at the door. That is, if he were responsible for
+the guarding of a prison, he'd make sure to station two guards at the door.
+
+He would have a very brief window of surprise. He would strike the trachea of
+the far guard, then rotate into the hallway, and grapple with the second guard.
+This is where it became tricky. The guard would no doubt be armed, most likely
+with a rifle which would be of little use in close-quarters combat, but possibly
+also with a sidearm, which could be deadly.
