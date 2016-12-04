@@ -5618,5 +5618,10 @@ But it would be a mistake to think that his career in the military had been
 driven by the ambition to become a general, which, in his mind, that was a
 rather shallow and egotistical motivation. No, his motivation ran much deeper.
 He was in the military to protect and to serve. Yes, that was a cliche, but
-cliches can also be true. Taggart had a well-developed sense of obligation and
+cliches can also ring true. Taggart had a well-developed sense of obligation and
 responsibility.
+
+"General Gates, I 'm afraid I must decline your generous offer." Something about
+Gates formal diction led Taggart to reply in kind.
+
+"Colonel, between you and me I didn't expect that offer to sway you."
