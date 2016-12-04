@@ -5617,11 +5617,24 @@ retire at a higher pay grade.
 But it would be a mistake to think that his career in the military had been
 driven by the ambition to become a general, which, in his mind, that was a
 rather shallow and egotistical motivation. No, his motivation ran much deeper.
-He was in the military to protect and to serve. Yes, that was a cliche, but
-cliches can also ring true. Taggart had a well-developed sense of obligation and
+He was in the military to protect and to serve. Yes, that was a cliché, but
+clichés can also ring true. Taggart had a well-developed sense of obligation and
 responsibility.
 
 "General Gates, I 'm afraid I must decline your generous offer." Something about
 Gates formal diction led Taggart to reply in kind.
 
-"Colonel, between you and me I didn't expect that offer to sway you."
+"Colonel, forgive me if my offer came across as crass; I know that your devotion
+to military service transcends mere titles. Rather, my offer was a measure of
+how valuable that service has been, and how much we would like you to remain."
+
+"Understood, sir. And I appreciate those sentiments. May I add that serving
+under you has been a pleasure and one of the highlights of my career. You have
+been an excellent commanding officer."
+
+"Is there anything I can do to convince you to stay, even if only a few more
+days?"
+
+"No, sir. My mind is made up."
+
+"Very well, Taggart.
