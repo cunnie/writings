@@ -5637,4 +5637,82 @@ days?"
 
 "No, sir. My mind is made up."
 
-"Very well, Taggart.
+"Very well, Taggart. On behalf of the United States Army, I would like to thank
+you for your years of dedicated service and unwavering loyalty. And I would like
+to apologize."
+
+"Apologize, sir?"
+
+"For what is about to happen."
+
+"Sir?"
+
+A colonel flanked by two MPs suddenly entered the room. Each MP grabbed an arm
+and twisted them behind his back. The telephone handset clattered on the desk.
+"Gates, what is this?" he shouted into the handset. He felt the handcuffs on his
+wrists, and heard the click as they engaged.
+
+He looked at the colonel and noted the name "DRYSDALE". The colonel was fumbling
+with a syringe.
+
+"What is going on?" demanded Taggart.
+
+Instead of replying, the Colonel inserted the syringe into Taggart's arm. And
+then everything went black.
+
+---
+
+Taggart came to in a dark room. Either the room was dark, or there was something
+covering his head.
+
+He attempted to move, but was restrained. Legs first, then arms. "What the hell
+is going on?" he shouted. Well, at least his mouth wasn't gagged. And although
+his wrists and ankles were bound, he was able to move his feet and hands freely.
+
+An electronic-sounding voice came over the loudspeakers, "Threat contained.
+Ceiling function applied to high-variable threat."
+
+"What the hell is that?"
+
+But the voice didn't speak again. He was a little groggy, a little foggy.
+
+Taggart was not a young man. He was not a big man, either. But his age and size
+belied his strength. He was especially strong in his wrists and his forearms —
+he had never lost an arm wrestling match. It was something he was good at, and
+he dabbled in it until the day he broke the arm of one his his fellow officers,
+and after that he stopped arm wrestling. "There's enough injury in the military;
+we don't need the self-inflicted sort," was what he said.
+
+The restraints weren't metal; they were leather. _Good, I can work with
+leather._
+
+He relaxed. He concentrated on his breathing. He began to mentally prepare
+himself for the most difficult arm-wrestling match of his life: him against a
+leather strap. Deep breaths. He would use his right arm, his stronger arm. He
+wiggled his wrist around to determine the limits of the strap. Good, he had
+enough room.
+
+He relaxed his body, and began the breathing exercises again. He focused on his
+breathing. He let go of his thoughts.
+
+Taggart was not a New Age bullshit-type of officer. There weren't many New Age
+types in the military; those types rarely thrived in such an environment. But
+Taggart was a pragmatist, and he knew that unchecked emotions such as fear and
+anger could hamper optimal performance, so he made a study of disciplines which
+would help keep those emotions in check, and that is how he became an adept of
+meditation.
+
+He focused on his breathing, and then his navel. He let the focus stay there.
+And then he slowly moved the focus up, towards his heart, then to his shoulder.
+He could feel each individual sinew in his shoulder. From there he moved down to
+his elbow via the bicep and tricep, and finally to his wrist. And then he began
+to pull his wrist against the strap.
+
+And then something happened which took him by complete surprise: rather than
+hitting the strap, his wrist had somehow _slid through_ the strap, as if the
+strap wasn't there.
+
+He was jarred out of his trance, "What the hell?"
+
+His wrist was free. His forearm was free. But the leather strap wasn't broken:
+it was complete, undamaged.
