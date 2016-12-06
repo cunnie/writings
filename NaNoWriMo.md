@@ -5788,4 +5788,54 @@ He would have a very brief window of surprise. He would strike the trachea of
 the far guard, then rotate into the hallway, and grapple with the second guard.
 This is where it became tricky. The guard would no doubt be armed, most likely
 with a rifle which would be of little use in close-quarters combat, but possibly
-also with a sidearm, which could be deadly.
+also with a sidearm, which could be deadly. Also, he would be prepared.
+
+_One, two, three,_ he swung open the door. He saw the guard to his left, but
+before he had time to react, Taggart had punched him in the trachea. The guard
+crumpled to the floor, clutching his throat. Taggart spun, ready to attack the
+second guard.
+
+There was no second guard. There was only the first guard. This changed the
+calculus. Taggart dragged the first guard into the dark room, shoved him on the
+gurney, and strapped him in.
+
+Taggart spoke to him: "Where are we?"
+
+The MP coughed, "The Pentagon, sir."
+
+_"Sir"? Oh yes, I'm wearing my uniform._
+
+"Where in the Pentagon?"
+
+"Floor B, sir," more coughing.
+
+Floor B? That was the lower basement level, mostly used for storage, records,
+and computer systems. And Gates's office.
+
+"Which ring?"
+
+"Ring G."
+
+The outermost ring. The two below-ground levels ("M" for "Mezzanine" and "B" for
+"Basement") extended further out than the aboveground levels (which only
+extended as far as ring "E").
+
+"What room are we in?"
+
+"BG315"
+
+Taggart knew exactly where he was. He had spent too much time in the Pentagon,
+time he had wished he had spent elsewhere. A desk job did not play to his
+strengths nor to his interests. And BG315? It was in the middle of the WWII
+records archive. Hardly anyone went there.
+
+He had to get to the bottom of this; he had to get to Gates's office. BE676. Not
+too far, probably a 5 minute walk. Most of the computers were located in Gates's
+section. Taggart wondered why gates didn't sit on one of the prestigious E-ring
+offices; maybe he was averse to light.
+
+A funny thing about the Pentagon: there were cameras all over until you got
+inside the building. Make no mistake: there were cameras inside the building,
+just not many of them. Like many clubs, once you were in, you were in.
+
+No, he wasn't worried about the cameras; he was worried about the guards.
