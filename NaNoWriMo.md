@@ -5829,13 +5829,55 @@ time he had wished he had spent elsewhere. A desk job did not play to his
 strengths nor to his interests. And BG315? It was in the middle of the WWII
 records archive. Hardly anyone went there.
 
-He had to get to the bottom of this; he had to get to Gates's office. BE676. Not
+He had to get to the bottom of this; he had to get to Gates's office. BA676. Not
 too far, probably a 5 minute walk. Most of the computers were located in Gates's
-section. Taggart wondered why gates didn't sit on one of the prestigious E-ring
-offices; maybe he was averse to light.
+section. Taggart wondered why Gates didn't sit on one of the prestigious E-ring
+offices that had an outside view; maybe he was averse to light.
 
 A funny thing about the Pentagon: there were cameras all over until you got
 inside the building. Make no mistake: there were cameras inside the building,
 just not many of them. Like many clubs, once you were in, you were in.
 
 No, he wasn't worried about the cameras; he was worried about the guards.
+
+He walked left out the door, walking toward the first radial hallway down. He
+walked until he came to the A ring. It was empty, which was a bit of a surprise
+given that he was walking through the largest office building in the world, but
+the section he was in was, well, not often used. Also, he wasn't sure what time
+of day it was — there were no windows after all — and he suspected it was the
+middle of the night. A skeleton crew.
+
+He had made it to the A ring, and was already past the BA400 offices, but when
+he came to the BA500 section he hit his first roadblock: a palm reader. A palm
+reader? Here in the basement? Usually it was a guard with a sign-in sheet.
+
+He looked around. No cameras. Interesting.
+
+He walked back around the corridor and found a chair. He unholstered the handgun
+he had taken from the MB and ejected the ammo cartridge, which he put in his
+pocket. He put the chair in front of the door, stood on it, and, using the
+handle of the gun, broke through the drywall above the handle. It didn't take
+long: he found the wires.
+
+_I hope it's a fail-safe lock; it'll open as soon as I cut its power. I probably
+have OSHA to thank for that._
+
+He yanked the wires, heard a click, and watched the door open.
+
+He put the chair back in the office. He knew it was a waste of time, but he had
+a strong sense of orderliness which was hard to break.
+
+And then he walked back through the open door, the green-lit palm reader
+grinning like a grotesque gargoyle.
+
+And there was nothing other than a hallway. He walked down it. Why had they
+closed off this entire section?
+
+As he rounded the corner, he saw the fishbowl.
+
+That is, he saw the datacenter. Behind glass windows, he saw rows and rows of
+computers, stacked in racks, cables coming out. He saw the raised tile flooring
+that allowed wiring, electricity, and even cooling to pass underneath. He saw
+the ethernet cables, in many colors, connecting banks upon banks. And finally he
+saw the bright orange multimode fiber optic cables, and a handful of bright
+yellow single mode cables.
