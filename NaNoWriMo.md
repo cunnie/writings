@@ -6030,3 +6030,39 @@ were gone.
 Taggart looked up. He could see rows and rows of racks, each rack stacked with
 computers, each stack blinking. There was a pattern to the blinking — a signal
 that data was being transmitted. He found it oddly comforting to watch.
+
+He watched the blinking lights, one blinking light, then two, then five, then
+twenty, then a hundred.
+
+Their blinking slowed. He could see the data travel through the ethernet cables,
+through the switches, to the router, back through another switch, another cable.
+He could see each individual packet through the network. He could see the
+network in its entirety.
+
+He could see the guards, both of them, even though they were behind him. He
+could count every stubble on their face, he could sense each hair grow. He could
+see the lunchtime receipt fall out of the pocket of the second guard — it wafted
+to the floor, slowly, slower, and then it stopped. Everything was frozen in
+time, except for Taggart.
+
+And time began to lose meaning for Taggart — he felt himself pass beyond space
+and time into a grand unchanging void, endless, nameless.  He spent a lifetime
+in that void, an aieon.
+
+And then, like the falling of a single snowflake triggering an avalanche, he
+felt himself pulled back, pulled back to Gates's fishbowl, pulled back to the
+room with the two armed guards. The wafting receipt hadn't moved. How long had
+he been away? He no longer remembered who he was. The void had stripped him of
+who he was, had purified him.
+
+The guards. He sensed them. He felt them. He knew everything about them. One was
+in the middle of a messy divorce with his wife who had left him for her Italian
+tutor, who had said to him, "you're no fun anymore."
+
+The other's life was more circumscribed — he was looking forward to the football
+game that night, and wasn't thinking much past that. He could feel their wants
+and desires, their fears and doubts, for he too had been once like them.
+
+And then there was Gates: here was something new under the sun: complex and
+alien. Taggart felt himself "stretch" to encompass Gates, and then stretch
+again: functions, methods, packages, modules, lambdas, subroutines, threads.
