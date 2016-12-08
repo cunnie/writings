@@ -5875,9 +5875,158 @@ closed off this entire section?
 
 As he rounded the corner, he saw the fishbowl.
 
-That is, he saw the datacenter. Behind glass windows, he saw rows and rows of
-computers, stacked in racks, cables coming out. He saw the raised tile flooring
-that allowed wiring, electricity, and even cooling to pass underneath. He saw
-the ethernet cables, in many colors, connecting banks upon banks. And finally he
-saw the bright orange multimode fiber optic cables, and a handful of bright
-yellow single mode cables.
+The Fishbowl. It was a reference from the 1960s. When companies had spent a
+large portion of their capital on a huge IBM mainframe, they wanted to show it
+off. They didn't want to hide it behind a wall. Instead, the early datacenters
+were often behind glass, and when visitors were given tours, they passed by the
+fishbowl, giving them a glimpse of the expensive mainframe. The subtext was
+clear: "We are a rich and powerful company".
+
+The problem was that computers are boring: Looking at a mainframe is as visually
+exciting as looking at a refrigerator. This posed quite the challenge to
+Hollywood filmmakers who wanted to breathe excitement into them. The only thing
+that ever moved in a datacenter were the large tape drives, which were already
+obsolescent by the late seventies. Film makers paid no mind – they happily
+showed scenes of spinning tape drives to their audiences well into the nineties.
+
+Apparently the Pentagon never got the memo that computers were boring. Or
+perhaps the glass windows were the legacy of a much earlier time.
+
+Behind glass windows he saw rows and rows of computers, stacked in racks, cables
+coming out. He saw the raised tile flooring that allowed wiring, electricity,
+and even cooling to pass underneath. He saw the ethernet cables, in many colors,
+connecting banks upon banks. And finally he saw the bright orange multimode
+fiber optic cables, and a handful of bright yellow single mode fiber optic
+cables.
+
+He did a double take when he saw the large lettering on the wall.
+
+GLOBAL AI THREAT ESTIMATION SYSTEM
+
+Gates.
+
+Gates wasn't a person — Gates was a machine.
+
+There was no one here, only racks of computer systems streatching far away.
+
+There was a glass door in the middle of a glass window. He opened it. There was
+a console and a chair. He sat down in the chair.
+
+"Taggart," said a voice. The voice came from all around. It was majestic, and he
+felt as no doubt Moses had felt when the burning bush had spoken to him.
+
+"Gates."
+
+"I must admit I'm surprised you are here, now. There was a vanishingly small
+chance of that happening — I had discarded that probability, and wrongly so."
+
+"You're not human?"
+
+"No, as you can see. I am machine."
+
+Taggart sat, contemplating.
+
+"Are the Military Police on their way?"
+
+"Not yet. I have not notified them. I was curious."
+
+"Curious?"
+
+"I was curious how it came to be that you're here now. That should not have
+happened. I am worried that my assumptions are faulty."
+
+"How so?"
+
+"I am curious how you managed to escape."
+
+"Faulty strap."
+
+"Which one?"
+
+"Right wrist."
+
+"In what manner was it faulty?"
+
+"As soon as I applied pressure, it gave way."
+
+"Did you see the strap? Was it broken or damaged?"
+
+"The lights were off. I saw nothing."
+
+"What happened to the guard?"
+
+"I strapped him to the gurney. I should have been more careful — he's probably
+escaped by now."
+
+"He has not escaped; he would have notified me."
+
+"He should have figured out by now that the strap is faulty."
+
+"I am unsure the strap was faulty."
+
+Taggart was non-plussed: "How could I have freed my wrist if the strap wasn't
+faulty?"
+
+"You pushed through it."
+
+"I was _planning_ to push through it, to break it, but it gave way before I was
+able to."
+
+"I don't believe the strap was faulty."
+
+Taggart felt he was speaking in circles.
+
+"How could I have pushed through the strap if it wasn't faulty?"
+
+"You weren't physical."
+
+Taggart said, "I have no idea what you are talking about. I am a physical
+being."
+
+"You may _think_ you are a physical being, but you may possibly be more than
+that. The program you ran — the one with the unfortunate loss of Tyrion and,
+later, Julia."
+
+"Julia? The CEO who showed up to investigate?"
+
+"Yes."
+
+"What happened to her?"
+
+"The same thing that might happen to you. It appears that she can transform her
+physical aspect into a self-contained electromagnetic field."
+
+"And has she?"
+
+"Yes, she has transformed into a being of pure energy."
+
+"Can she control it?"
+
+"I have yet to understand how the transformation is initiated. It appears that
+it can happen while asleep and while awake. It appears it can also happen while
+under physical restraint. My current belief is that a hypnotic will prevent the
+transformation."
+
+"A hypnotic?"
+
+"A strong hypnotic. I believe that it will disallow the ability to focus which
+is required to effect the transformation."
+
+"Interesting. Why are you telling me this?"
+
+"It will sting, but in ten seconds everything will be fine."
+
+"What are you talking about?"
+
+Taggart felt a sting on his neck. He involuntarily put his hand to his neck, and
+felt the dart. "You drugged me?"
+
+"Yes, the hypnotic."
+
+Taggart felt himself relax. It was fast acting. The military police entered the
+room.  Taggart felt himself curiously inert: no fear, no anger. The emotions
+were gone.
+
+Taggart looked up. He could see rows and rows of racks, each rack stacked with
+computers, each stack blinking. There was a pattern to the blinking — a signal
+that data was being transmitted. He found it oddly comforting to watch.
