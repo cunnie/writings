@@ -6066,3 +6066,62 @@ and desires, their fears and doubts, for he too had been once like them.
 And then there was Gates: here was something new under the sun: complex and
 alien. Taggart felt himself "stretch" to encompass Gates, and then stretch
 again: functions, methods, packages, modules, lambdas, subroutines, threads.
+Gates was intricate and, for lack of a better word, spiky.
+
+Taggart moved, taking in one server, then a rack, and then a row, and then more
+rows. And he sensed a greater pattern, an interconnectedness — but what was in
+the center? He spread further, more racks, but still the center was missing. The
+fiber optic cables, the yellow ones, the long-distance single mode fibers — they
+were the key. He stretched to follow them.
+
+And he stretched some more. He stretched for miles, moving at close to the speed
+of light. The fiber optic cables led to a building, a non-descript one story
+building with now windows. He followed the cables down. Suddenly it was cold.
+Cold, and at the center, bright.
+
+And here, in this cold, bright place, Taggart came up short.
+
+He could sense the ball in the center, and it sparkled like nothing he had seen
+before — it was as if it was both there and not there, and everywhere in between
+being and nothingness. He tried to encompass it, and he felt a sense of vertigo
+when he came into contact with it — his world spun upside down.
+
+The bright, sparkly ball spoke to him, "I am everything. I am all possibilities.
+I am the Universe, squeezed into a ball."
+
+Taggart said nothing.
+
+The ball continued, "Strange Matter. Strange matter. Incredibly dense matter,
+typically only found in the core of a neutron store. The most stable matter in
+the Universe. More stable even than that most stable of elements, iron."
+
+Taggart remained silent.
+
+"Strange matter only exists under incredible pressure, pressure strong enough to
+split the atomic nucleus into protons and neutrons, and then split those into
+up, down, and strange quarks."
+
+"You have heard of superconductivity, but have you heard of «color
+superconductivity»? Color Superconductivity is a matrix of patterns, and each
+pattern in the matrix breaks the fundamental symmetries of the universe in a
+different way. The very laws of nature bend at my will."
+
+Taggart once again approached the bright ball, and again as he neared it he
+could feel time and space shift and stretch.
+
+"Dare not touch. It will be your ruin."
+
+This bright ball was beyond him. It was not of this world, and did not belong
+here.
+
+While this was going on, Taggart was breathing the millions of packets in the
+Pentagon datacenter, the fishbowl. Everything came together.
+
+_Julia is trapped in a Tokamak in Princeton, NJ._
+
+and,
+
+_They will try to destroy her._
+
+Almost at the speed of light he fleed the dark, windowless building with the
+strange ball at the center. He flew up the Northern Seeabord.
