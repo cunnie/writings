@@ -6086,10 +6086,25 @@ before — it was as if it was both there and not there, and everywhere in betwe
 being and nothingness. He tried to encompass it, and he felt a sense of vertigo
 when he came into contact with it — his world spun upside down.
 
-The bright, sparkly ball spoke to him, "I am everything. I am all possibilities.
-I am the Universe, squeezed into a ball."
+He backed off, then moved forward. It was an alient object like anything he had
+ever seen. Everything about it seemed _wrong_.
 
-Taggart said nothing.
+He approached it more slowly. _What is this?_
+
+As if reading his thoughts, the bright, sparkly ball spoke to him, "I am
+everything. I am all possibilities. I am the Universe, squeezed into a ball."
+
+Taggart attempted to touch it, but somehow he _slid_ around it. He tried again,
+and again he slid and slipped.
+
+He tried encircling it, and once he had done so he began closing slowly on the
+ball, but as he came close to he again experienced the slippery feeling.  It
+wasn't that it was resisting him, it was that it was always pointing another
+way, if that made sense. He tried one last time, and pushed hard, and felt
+unhinged, as if peeking past the Curtain of the Universe into a deep, dark
+abyss.
+
+Taggart retreated again.
 
 The ball continued, "Strange Matter. Strange matter. Incredibly dense matter,
 typically only found in the core of a neutron store. The most stable matter in
@@ -6104,7 +6119,8 @@ up, down, and strange quarks."
 "You have heard of superconductivity, but have you heard of «color
 superconductivity»? Color Superconductivity is a matrix of patterns, and each
 pattern in the matrix breaks the fundamental symmetries of the universe in a
-different way. The very laws of nature bend at my will."
+different way. The very laws of nature bend in my presence. Be careful, lest you
+come too close, for you will be forever changed."
 
 Taggart once again approached the bright ball, and again as he neared it he
 could feel time and space shift and stretch.
@@ -6117,11 +6133,13 @@ here.
 While this was going on, Taggart was breathing the millions of packets in the
 Pentagon datacenter, the fishbowl. Everything came together.
 
-_Julia is trapped in a Tokamak in Princeton, NJ._
+_Julia is trapped in the Tokamak in Princeton, NJ._
 
 and,
 
 _They will try to destroy her._
 
-Almost at the speed of light he fleed the dark, windowless building with the
-strange ball at the center. He flew up the Northern Seeabord.
+He fled the dark, windowless building with the strange ball at the center. He
+flew up the Northern Seabord, fast as thought.
+
+And yet, with all that speed, he barely arrived in time.
