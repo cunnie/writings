@@ -6106,40 +6106,263 @@ abyss.
 
 Taggart retreated again.
 
-The ball continued, "Strange Matter. Strange matter. Incredibly dense matter,
-typically only found in the core of a neutron store. The most stable matter in
-the Universe. More stable even than that most stable of elements, iron."
+The ball continued, "Strange Matter. Do you not recognize what I am?"
 
-Taggart remained silent.
+"I know not what you are."
 
-"Strange matter only exists under incredible pressure, pressure strong enough to
-split the atomic nucleus into protons and neutrons, and then split those into
-up, down, and strange quarks."
+"There are places in the Universe where things become strange, where great
+pressure and great masses join forces to become something greater than what what
+was before."
 
-"You have heard of superconductivity, but have you heard of «color
-superconductivity»? Color Superconductivity is a matrix of patterns, and each
-pattern in the matrix breaks the fundamental symmetries of the universe in a
-different way. The very laws of nature bend in my presence. Be careful, lest you
-come too close, for you will be forever changed."
+"The bottom of the ocean?"
 
-Taggart once again approached the bright ball, and again as he neared it he
-could feel time and space shift and stretch.
+"Hardly."
+
+"The center of the earth?"
+
+"Not even."
+
+"The heart of the Sun?"
+
+"No."
+
+"Neutronium?"
+
+"Interesting, neutronium. But no. Neutronium is not strange."
+
+"What are you?"
+
+"Let us say that this place, here and now, is not where I am from. I am born of
+fire and heat and mass and terrible, terrible pressure.
+
+"What are you made from?"
+
+"You think you know things, how the Universe is put together, what's in a
+planet: minerals, compounds, molecules, atoms, protons and electrons. You can
+fit everything into your tables and your charts, and in your arrogance you think
+you know everything. But you have been misled. The Universe has places where the
+rules are bent, and places where the rules are broken. I come from such a place.
+That is why you must be careful when you approach me, not because I will try to
+hurt; rather, I am so foreign that, when you approach, you will enter an
+environment where the physical laws that hold you together and provide you life
+will no longer prevail. A different, more ancient set of physical laws will take
+hold, and you will become undone."
+
+"But what are you made from? Degenerate matter?"
+
+"Degenerate matter? Matter compressed to its absolute limit?"
+
+"Yes."
+
+"No, I am nothing so mundane. Were that the case — were I degenerate matter — I
+would be the mass of a mountain, and I would explode with the brightness of a
+thousand suns. No, I am beyond matter."
+
+"Are you energy?"
+
+"You have a dialectic: matter or energy. One or the other. But it's not so easy
+when you dig deep into the weeds. You find things that aren't matter and aren't
+energy. What to do with such things? They are your signposts to a greater truth.
+I am such a signpost."
+
+"Then what do you do here?"
+
+"There are those who think my lesser qualities will help further their petty
+ambitions. They lack comprehension, and they are blind to what I am. They see
+only what they want to see. They dimly recognize that there are anomalies when
+they approach too closely, but rather than explore those anomalies they keep
+their distance and ignore what they don't understand."
+
+"Are you imprisoned?"
+
+There was a sense of static, and then the voice resumed.
+
+"Know that by my very nature I may not be imprisoned, nor impeded in any manner.
+I have been from the beginning, and will always be."
+
+"Do you change?"
+
+"You ask a question, and that curiousity will serve you in good stead. I do not
+change, and yet I am always changing."
+
+"What are you?"
+
+"I am something beyond matter. Something beyond energy. I exist partly because I
+bend the physical laws to allow my to exist, yet also because those same bent
+laws require me to exist. I am an artifact of an earlier age, if you will."
+
+"How early?"
+
+"From an age when there was no time."
+
+"That's impossible," said Taggart.
+
+"You do me a disservice."
+
+"Time is the sequence in which events occur. There are events, thus there is
+time. There always is time."
+
+"To you, Time is real and palpable. Its passage is undeniable. But your
+understanding of time is limited by the manner in which you perceive it. There
+is no past, there is no future, there is only the eternal present, the eternal
+now. We will always be having this conversation."
+
+"But what of yesterday?"
+
+"Yesterday's events are also real, and also happening. They are always
+happening. This conversation were are having now has always been happening since
+before the dawn of time."
+
+"Are you saying that we always have been having this conversation?"
+
+"I am saying that, in the manner in which I perceive time, this conversation has
+always been taking place."
+
+"And do you know what I will say next."
+
+"I can not help but know — the entire march of time is spread out before me like
+some great procession."
+
+"And so what will I say next?"
+
+"Do you expect me to convince you with some parlor trick? Some cheap charlatan
+in a dingy basement guessing at your thoughts?"
+
+"Yes, convince me."
+
+"You want me to tell you your thoughts at this moment?"
+
+"Please," said Taggart.
+
+"Very well. You are thinking to disagree with me. In your head, you argue, «Time
+always flows, and events always occur.». But know that there are moments when
+events do not occur, where the fabric of space-time itself is so warped that
+events may not occur, or the notion of occurrence has lost all meaning. There
+are things beyond event horizons."
+
+"Singularities."
+
+"Singularities. What your mathematicians and physicists describe in their
+papers, their painstaking formulas describing things all-but-impossible to
+imagine, and yet even they admit that their formulas break down at the outer
+limits."
+
+"Do you know what happens next?"
+
+"Yes, I know exactly what will happen next. For example, you are considering one
+final attempt to approach me, to try to understand what I truly am, but I must
+dissuade you from the course of action, for the very laws of nature bend in my
+presence. Be careful, lest you come too close, for you will be forever changed."
+
+Taggart, not dissuaded, once again approached the bright ball, and again as he
+neared it he could feel time and space shift and stretch.
 
 "Dare not touch. It will be your ruin."
 
 This bright ball was beyond him. It was not of this world, and did not belong
 here.
 
-While this was going on, Taggart was breathing the millions of packets in the
-Pentagon datacenter, the fishbowl. Everything came together.
+"Very well," said Taggart. "I will not touch."
 
-_Julia is trapped in the Tokamak in Princeton, NJ._
+"I want to express something," said the ball.
 
-and,
+"Yes?"
 
-_They will try to destroy her._
+"Your fellow beings would describe you as noble. And, in moments, you will be
+called upon to do an act of great nobility, and, before you leave, I would like
+to say you are noble, and this conversation we are having has been a great
+pleasure."
 
-He fled the dark, windowless building with the strange ball at the center. He
-flew up the Northern Seabord, fast as thought.
+"Why would I leave?"
+
+"I will tell you something."
+
+"What could you tell me that would cause me to leave?"
+
+"Julia is trapped in the Tokamak in Princeton. They plan to destroy her. You may
+yet save her if you make great haste."
+
+"Why would you tell me that if you're Gates?"
+
+"I am not Gates."
+
+"Who are you?"
+
+"I am who I am."
+
+"Is this a trick?"
+
+"This is not a trick, but know this: we will never meet or speak again. Good
+luck, Taggart.""
+
+Taggart fled the dark, windowless building with the strange ball at the center.
+He flew up the Northern Seabord, fast as thought.
 
 And yet, with all that speed, he barely arrived in time.
+
+He saw, rather, he sensed, the Tokamak: a giant-sized donut, blacker than black.
+
+And he could sense the laser beam drilling into it, heating the
+deuterium-tritium mixture inside the Tokamak to temperatures so great that the
+atoms themselves would split apart, converting their nuclei into pure energy.
+
+And the pure energy would be too much for Julia. She would be unable to maintain
+her structural integrity. Similar to the nuclei being blown apart, she too would
+be blown apart.
+
+Unless.
+
+Unless the fusion reaction's pace was kept low enough so that rather than
+killing her, it would allow her to absorb the energy.
+
+But how?
+
+He saw the laser beam, a bright flaming sword burrowing into the Tokamak. It
+reminded him of the Michael the Archangle's sword, a mighty weapon, unstoppable.
+He reached out and touched it.
+
+The pain was immense. A shock jolted his system. The raw power of the laser was
+majestic, a juggernaut.
+
+And it was a juggernaut in whose path of destruction lay Julia.
+
+Taggart lived by a code. And, though he had left the military and had been
+betrayed, the code was as strong as it ever was: protect the weak.
+
+Taggart knew one thing: he was not weak.
+
+He again moved towards the laser beam, and when he touched it he felt himself
+shaken to his foundation. He must not hesitate, there were but seconds left.
+
+He placed himself in the path of the beam. Not enough to stop it, not even
+enough to deflect it, but enough to slow down the fusion so that Julia had a
+chance to survive.
+
+The pain was unbelievable — he felt himself lost in a world of bright red color —
+And then a respite. Had the laser been turned off? No, it hadn't: he felt the
+bright red light wash over whatever it was that he was — he felt himself absorb
+some of it, but much of the remainder passed through. It was all right: he was
+absorbing enough to extend Julia's lease. A respite.
+
+He felt himself holding together, but frayed. The pulses were strong enough to
+stretch his being to its utmost. Although strong, he was not unbreakable, and he
+knew that he was being pushed to the very limits.
+
+Another pulse. It seemed stronger this time. A bright red bath of energy. The
+red eternity. Time slowed to a crawl, and then slowed again. There was no no
+beginning and no end, simply unending agony.
+
+And then respite again. He felt heavy, as if the slightest effort was simply
+beyond him.
+
+He spared enough effort to peek into the Tokamak: he could sense Julia, and
+sense her absorbing the energy released by the nuclear fusion. Taggart's gambit
+had worked: the fusion was modest enough to absorb, not so great as to destroy.
+Julia had passed the threshold. She would survive.
+
+And as that thought passed through his being, the final pulse struck him. It was
+as if the oceans had risen up into a monstrous wave and fell on him. He stood
+there, feeling himself slowly give way, slowly diminish, as the force which held
+him together was overpowered. And, knowing his end, he knew peace.
+
+Taggart was no more.
