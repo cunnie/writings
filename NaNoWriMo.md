@@ -6361,8 +6361,8 @@ had worked: the fusion was modest enough to absorb, not so great as to destroy.
 Julia had passed the threshold. She would survive.
 
 And as that thought passed through his being, the final pulse struck him. It was
-as if the oceans had risen up into a monstrous wave and fell on him. He stood
-there, feeling himself slowly give way, slowly diminish, as the force which held
-him together was overpowered. And, knowing his end, he knew peace.
+as if the oceans had risen up into a monstrous wave and had fallen on him. He
+stood there, feeling himself slowly give way, slowly diminish, as the force
+which held him together was overpowered. And, knowing his end, he knew peace.
 
 Taggart was no more.
