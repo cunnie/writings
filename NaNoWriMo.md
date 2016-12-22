@@ -1,4 +1,4 @@
-## The Eyes of the Blind Shall Be Opened
+## I Am Become Forever
 
 She knew it was going to get ugly.
 
@@ -10,12 +10,12 @@ dumb, and happy. Well, maybe not happy. Her sister's husband had let himself go
 after the second kid. Her sister would say, "I married a Greek God, but now I'm
 married to a goddamn Greek!" and then laugh.
 
-But you could tell there was an undercurrent of dissatisfaction. Sure, her
-sister laughed, but that didn't mean everything was okay. Her husband had gotten
-fat. And, along with the fat, came a certain negligence with regard to grooming:
-his clothing was rumpled, he always wore t-shirts, and his shaving had become
-inconsistent (which is not a problem if you're a blond Norwegian, but is a
-problem if you're a swarthy Greek).
+But there was an undercurrent of dissatisfaction. Sure, her sister laughed, but
+that didn't mean everything was fine. Her husband had gotten fat. And, along
+with the fat, came a certain negligence with regard to grooming: his clothing
+was rumpled, he always wore t-shirts, and his shaving had become inconsistent
+(which is not a problem if you're a blond Norwegian, but is a problem if you're
+a swarthy Greek).
 
 Her sister's husband looked like an overworked Brooklyn building superintendent.
 
@@ -38,11 +38,11 @@ turn white, but those are things you can fix, and, if not fix, mitigate.
 She had taken care of herself. It wasn't easy, she'd grant that. Gym every
 morning: treadmill, bicycle, and then the half-hour with her trainer.
 
-Her trainer — God he was hot. She had been working with him for the last two
-years. There was a period when their relationship began to become personal, when
-he shared about the overwhelming sense of loneliness that sometimes strikes him
-in mid-morning when he has no clients. She wanted to reach out and touch him,
-caress his head in her bosom, tell him that things were okay.
+Her trainer — he was, for lack of a better word, hot. She had been working with
+him for the last two years. There was a period when their relationship began to
+become personal, when he shared about the overwhelming sense of loneliness that
+sometimes strikes him in mid-morning when he has no clients. She wanted to reach
+out and touch him, caress his head in her bosom, tell him that things were okay.
 
 But things shifted, and he never mentioned that again. She wished she had
 reached out to him that one time, that maybe their relationship would have
@@ -61,9 +61,30 @@ of the gossip rags, gripped with a morbid fascination. "I'll never get plastic
 surgery! It's so fake — I'll never do it! I'll grow old gracefully, like Grace
 Kelly."
 
-It's easy to make pronouncements like that when you're twenty years old when
-your skin is as smooth as a Wisconsin lake at early dawn, but your perspective
-changes when your in your fifties and your skin is starting to sag and wrinkle.
+It's easy to make such pronouncements when you're twenty years old and your skin
+is as smooth as a Wisconsin lake at early dawn, but your perspective changes
+when your in your fifties and your skin is starting to sag and wrinkle.
+
+Especially if you're a woman. Aging is particularly cruel to women. She harbored
+no illusions about that. Especially in the forties, that's when things change,
+and the change is steep. Her friend had put it well, "I feel like I'm starting
+to disappear."
+
+The changes were small at first — she didn't get asked for your phone number as
+much, the checkout guys didn't talk to her as long, the customers were drunker
+when they began hitting on her. The attention to which she had become accustomed
+began to evaporate, and evaporate quickly.
+
+She was ambivalent about the drop in attention. After all, the majority of the
+attention had been unwanted. She became acutely aware that there were a subset
+of men who made it a practice to hit on every woman they met. She quickly
+learned to spot them, and to gently discourage them.
+
+Gentleness. That was the dilemma: matching firmness with gentleness, not too
+much of one, not too little of the other. Sometimes the gentleness had to be
+dispensed with, and firmness was the only option: "I'm glad we've had this
+conversation; I must talk with my friend now." And holding her hand out for a
+handshake to bring closure.
 
 She looked at her hands. The hands were the give-aways. That's the trick the
 carnies used to judge people's age — the hands. Over time the hands lose their
@@ -127,13 +148,13 @@ anything savage.
 In some ways handling the problem was easy because there were many constraints.
 Obeying the law, for example. They didn't have a choice. They needed to appear
 as cooperative as possible, so no document-shredding, no email-deleting. The
-best approach always was, "We're sorry, we made a mistake, we're going to do our
+best approach was always, "We're sorry, we made a mistake, we're going to do our
 best to make it better."
 
 The solution was simple: they were going to spend lots of money making things
 better. Lots of money. Not enough to bankrupt the company, but enough to hurt.
 The bonuses were going to be small this year, and everyone in the room knew
-that. There was the miasma of sadness and loss in the room.
+that. There was an undercurrent of sadness and loss in the room.
 
 Her mentor, the previous CEO, had said to her, "Remember: when you have a
 problem, and it can be fixed with money, you don't have a problem — you have an
@@ -144,14 +165,14 @@ achieved.
 
 The meeting adjourned. She asked, "Ned, could you please stay."
 
-Everyone else in the room had left. Ned began stammering, saying that
-accidentally the waivers had been signed.
+Everyone else in the room had left. Ned began stammering, saying that something
+about waivers being signed.
 
 She waved her hand, "Let's not worry about the waivers for a minute. I have a
-few questions about what was going on."
+few questions about what happened."
 
-Ned said that he couldn't talk about it, that it was a project for the military
-and that it was top-secret.
+Ned said that he couldn't talk about it, that it was a project for the
+Department of Homeland Security and that it was classified.
 
 She said, "Ned, I'm not asking you to reveal anything that's classified. I'm
 merely trying to understand what exactly happened."
@@ -183,7 +204,7 @@ definitely not walking around New York."
 "Was the body accidentally destroyed as part of the experiment?"
 
 "'Destroyed' is probably not quite the right word. Maybe 'transformed' or
-'transmogrified'"
+'metamorphed'."
 
 "The body was transformed into something else, something not a body."
 
@@ -207,15 +228,15 @@ She'd time-box her exploration to two weeks, so it wouldn't get out of hand.
 
 "Ned," she asked, "how do I go about getting top-secret clearance?"
 
-## The Vale of Tears
+---
 
 It wasn't hard getting Top Secret clearance — there were tedious chores, such as
-getting fingerprinted, filling out a 20-page questionnaire, and then there was
-the waiting while the FBI interviewed her friends to discover if she had a
-gambling problem, a drug problem, or anything that might lend her to blackmail.
+getting fingerprinted, filling out a 20-page questionnaire, and then waiting
+while the FBI interviewed her friends to discover if she had a gambling problem,
+a drug problem, or anything that might lend herself to blackmail.
 
 She kept busy. The good thing about being a CEO: there was no shortage of work
-to be done. She spent a lot of time in planes.
+to be done.
 
 When the clearance finally came through, she summoned Ned to her office.
 "Alright, now you can tell me everything."
@@ -255,13 +276,13 @@ been to their houses, I know the name of their wives and children. And believe
 me, these guys are torn up — they can't believe what happened either. One of
 them said to me, 'Ned, I can't say more than this, but this shouldn't have
 happened, we don't quite know what happened, and we may never know what
-happened."
+happened.'"
 
 "How can they not know what happened?"
 
-"Crazy, isn't it?"
+"I don't know! Crazy, isn't it?"
 
-"Who's the customer? Who's running the champion?"
+"Who from Homeland is in charge of the project?""
 
 "General Randall W. Gates."
 
@@ -312,14 +333,14 @@ way here?"
 "Colonel Taggart," she said, "I'm asking you to appreciate the position I'm in:
 I'm the final custodian of risk. When someone dies using one of our products, we
 need to make sure that we're doing the utmost to make sure it doesn't happen
-again. Except I can't make sure it doesn't happen again because no one can tell
-me what happened and even worse no is sure what happened."
+again. Except I can't make sure it doesn't happen again because no one will tell
+me what happened. Even worse, no one seems sure what happened."
 
 "The people who need to know, already know," he repeated.
 
 "I'm shutting down the project," she said.
 
-That got his attention. She knew she had a hunch she'd have to play that card.
+That got his attention; she had a hunch she'd have to play that card.
 
 "You can't shut down the project."
 
@@ -334,9 +355,10 @@ understand what's going on."
 She lowered her tone, "Colonel, in civilian life there are terrible
 repercussions when people die. People go to jail, companies are shuttered. As
 the steward of this company, I can't allow a second person to die on my watch.
-Not only is it harmful to the company, but it's not the right thing."
+Not only is it harmful to the company, but more importantly it's not the right
+thing."
 
-The colonel held his jaw tight. "What do you think you'll find? A smoking gun? A
+The colonel clenched his jaw. "What do you think you'll find? A smoking gun? A
 device that has a tendency to explode? Loose, uninsulated wiring that
 electrocutes people? There's no carelessness, no negligence."
 
@@ -369,7 +391,7 @@ She dashed off a quick email to Ned saying to prepare to shut down the project,
 then got in the car.
 
 She hadn't even left the base when her phone rang. She looked at the callerid —
-it said, "911". She answered it.
+it said, "1". She answered it.
 
 The voice on the other end said, "Hello Julia, I'm General Gates."
 
@@ -399,7 +421,7 @@ happened: 3 overhead lights flicked on, and the doors closed.
 
 There was a pause. She looked at her phone: no signal.
 
-Suddenly there were five bars. And her phone rang again. "911" again.
+Suddenly there were five bars. And her phone rang again. "1" again.
 
 She answered it. "What was that about?"
 
@@ -489,14 +511,16 @@ I'll have access to the project."
 Her mentor had said, "Always ask 'when?'. If they can't tell you, then ask them,
 'When will you be able to tell me when?'"
 
-"Fair enough, Julia. Monday, two weeks from today, A man will meet you at 8am in
-your office. You will leave your cellphone at your office. He will be driving a
-windowless van. You will sit in the back of the van. It will be comfortable, but
-there will be no windows. You will be driven in the van for approximately 2
-hours. You will have six hours to interview the scientists on the project.
+"Fair enough, Julia. Monday, two weeks from today, A man will meet you at 08:00
+in your office. You will turn off your cellphone and give it to the driver. He
+will be driving a windowless van. You will sit in the back of the van. It will
+be comfortable, but there will be no windows. You will be driven in the van for
+approximately 2 hours. You will have six hours to interview the scientists on
+the project. Then you will be brought back to the van at approximately 16:00,
+and you should be back at your office by 18:00."
 
 The phone went dead. No bars. The hangar doors behind her opened up. She backed
-out of the hangar, and continued her drive to the airport.
+out of the hangar and continued her drive to the airport.
 
 ---
 
