@@ -526,12 +526,13 @@ out of the hangar and continued her drive to the airport.
 
 She sat in coach. She travelled mostly in coach, sometimes in business class,
 but mostly in coach. She wanted to set the example for her company. Frugal. She
-had seen some companies go overboard, "sucking on the corporate teat," was how
-her mentor had described it.
+had seen some employees at other companies go overboard, spending money
+recklessly, "sucking on the corporate teat," was how her mentor had described
+it.
 
 She didn't begrudge her people flying business, but never first class, not even
 on the long Asia flights. If they used their points to upgrade, well that was
-their prerogative. But the company was only going to pay for business class.
+their prerogative, but the company would pay for business class.
 
 It was curious: Sales and Marketing tended to spend proportionally much larger
 amounts on flights, meals, entertainment, conferences, than the engineers and
@@ -546,7 +547,7 @@ She smiled. She couldn't help but like John. Heck, that's one of the reasons he
 was so effective in Sales. He could say the most outrageous things and, with a
 wink and a smile, get away with it.
 
-She frequently travelled with John when they called upon their enterprise
+She frequently travelled with John when they called on their enterprise
 customers. Sometimes she'd fly in business class with John, but other times she
 sat back in coach.
 
@@ -558,10 +559,10 @@ He was a warm person, and she was reserved. He was drawn to that, the
 reservation. She was never quite within his grasp, and it made him try harder to
 make her like him.
 
-It wasn't sexual, her relationship, not sexual at all. There was one time, too
+It wasn't sexual, their relationship, not sexual at all. There was one time, too
 late, she had been tired, and besides nothing had happened. Nothing at all.
 
-Their relationship wasnm't sexual, but he yearned for something from her. Was it
+Their relationship wasn't sexual, but he yearned for something from her. Was it
 the unconditional love of a mother? Was it acknowledgement of his talent?
 
 She wasn't stingy with her praise, but she wasn't over-the-top, either. Early in
@@ -581,7 +582,7 @@ coffee?" did not engender feelings of being appreciated.
 
 And there was the mom-thing. For better or worse, when younger men reported to
 you, they projected feelings about their mother onto you. It was a tricky dance:
-on one hand,  in a strange way, they loved you, they trusted you. On another
+on one hand, in a strange way, they loved you, they trusted you. On another
 hand, a professional relationship was not a mother-son relationship — those are
 different beasts. And you needed your guard up.
 
@@ -589,7 +590,7 @@ She remembered one particularly difficult employee. Only after he had left the
 company did she discover that he had been estranged from his mother for the last
 ten years. Sigh. There was a reason to keep one's private and professional lives
 separate, but some people could not but help drag their emotional baggage into
-work, and this employee was one of them.
+work, and this employee had been one of them.
 
 She remembered being in her mentor's office, "I'm having a problem with an
 employee."
@@ -599,7 +600,7 @@ He said, "Close the door."
 After the door was closed, he said, "What's going on Julia?"
 
 "He's disruptive at the office. He's inappropriate with customers, and," she
-paused, and then blurted, "He undermines my authority. He interrupts me
+paused, and then spoke quickly, "He undermines my authority. He interrupts me
 constantly at meetings. And other ways, too."
 
 "Other ways?"
@@ -616,12 +617,12 @@ Her mentor twitched, "That's what they're saying?"
 "That's what _he_ is saying."
 
 They both sat in silence. There never had been anything sexual between them. She
-was originally drawn to him because of his hands — his hands reminded her  of
-her father's hands: strong but not too rough. And other things about him
-reminded her of her father: he was gentle but also firm. She had reported to him
-early in her career, and they clicked right away, and he took her under his
-wing. She couldn't explain it, but somehow she _trusted_ him from day one. And
-he trusted her.
+was originally drawn to him because of his hands — his hands reminded her of her
+father's hands: strong but not too rough. And other things about him reminded
+her of her father: he was gentle but also firm. She had reported to him early in
+her career, and they clicked right away, and he took her under his wing. She
+couldn't explain it, but somehow she _trusted_ him from day one. And he trusted
+her.
 
 He spoke up, "As disturbing as this is, this type of salacious rumor-mongering
 is not a good enough reason to terminate someone. It's a lesser sin than
@@ -671,10 +672,10 @@ He'll be gone in three months, six months on the outside."
 were union. If they were union it was next to impossible to get rid of them.
 With him, you need to be careful — you don't want to give him grounds for a
 lawsuit when he's dismissed. You want to make it look like we've been fair and
-even-handed, and we dismisshim for performance reasons. It has to look fair,
-that we followed procedures. It works like this: you know this guy is bad news;
-I know this guy is bad news, and the guy probably suspects he's bad news. He
-does more harm than good to the corporation. But knowing someone is bad news
+even-handed and that we dismissed him for performance reasons. It has to look
+fair, that we followed procedures. It works like this: you know this guy is bad
+news; I know this guy is bad news, and the guy probably suspects he's bad news.
+He does more harm than good to the corporation. But knowing someone is bad news
 isn't quantifiable, it doesn't lend itself as a reason to dismiss. We can't
 write 'Bad News' on a piece of paper, stick it in his personnel file, and then
 dismiss him. Instead, we play the game: we set performance expectations, show
@@ -697,10 +698,10 @@ He nodded.
 
 ---
 
-The week flew by. And advantage of being CEO was that there was no end of work
-to be done. It bled a little bit into the weekend, but she sequestered work to
-very specific time periods. It allowed her to be responsive and still preserve
-time for herself.
+The two weeks flew by — work kept her busy, and a good CEO is always busy.
+Sometimes work bled into the weekend, but she sequestered work to very specific
+time periods. It allowed her to be responsive and still preserve time for
+herself.
 
 The 40-hour work week did not apply to CEOs, financiers, shop owners, high-level
 executives, sales reps, scientists, or most professions it seemed. It was an
@@ -710,7 +711,7 @@ bookstore in an airport. She looked around — clearly the book's target audienc
 were harried businessmen and businesswomen hoping to magically free up time. It
 was similar to the tabloids in the supermarket check-out that touted, "The Ice
 Cream diet: eat all the ice cream you want and still lose weight!" They were con
-jobs that differed only in their sophistication.
+jobs that differed only in their sophistication and audience.
 
 She had cleared her schedule for all of Monday. She had been at work since 7am
 polishing some last minute details. At 8am sharp she received a call from the
@@ -735,7 +736,7 @@ driver, who put them in a briefcase-sized black box.
 
 The driver nodded.
 
-"I need to ask you one more time if there's any electronic device that you have
+"I must ask you one more time if there's any electronic device that you have
 forgotten to give me. I must also remind you that failure to turn over an
 electronic device constitutes a violation of the Patriot Act, for which the
 penalty can be fine or imprisonment. Do I have all your electronic devices?"
@@ -760,8 +761,8 @@ didn't spend much time grooming, and she was spare when it came to make-up, but
 it was important not to be unkempt. No bed-hair. Good. She snapped the mirror
 shut, put it in her bag, and exited the van.
 
-They were in a large hangar. "What's with the hangars?" she thought to herself.
-"It's always a hangar."
+They were in a large hangar. _What's with the hangars?_ she thought to herself.
+_It's always a hangar._
 
 "Follow me," said the driver. She walked to the door at the end of the hangar,
 waved a badge, and was buzzed in. Inside there was a checkpoint with two armed
@@ -790,7 +791,7 @@ Julia shook her head.
 
 She opened a door to the right and began walking down another hallway, this one
 with large glass panels showing the lab to the right. Julia recognized her
-company's equipment — the logo was easily identifiable. A man in a labcoat was
+company's equipment — the logo was easily identifiable. A man in a lab coat was
 adjusting the dials on one of the pieces of equipment.
 
 The driver knocked on the door, and then opened it. "Dr. Bernstein? Ms. Chou is
