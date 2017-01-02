@@ -754,7 +754,7 @@ She felt a sense of disorientation — without her laptop, without her cell,
 without a window to look out, there was nothing to do. After five minutes she
 moved to the longer rear seat, stretched out, and took a nap.
 
-The sliding of the door woke her. "We're here," said the driver.
+The sliding of the door woke her. "We're here," announced the driver.
 
 Julia sat up. She took the mirror out of her purse and checked herself. She
 didn't spend much time grooming, and she was spare when it came to make-up, but
@@ -769,11 +769,11 @@ waved a badge, and was buzzed in. Inside there was a checkpoint with two armed
 soldiers. One soldier was watching them, the other soldier was watching a
 screen.
 
-The driver put her hand on a glass panel inset into the desk. A green light
-flickered under the glass panel, and a soldier nodded.
+The driver put her hand on a glass panel. A green light flickered, and a soldier
+nodded.
 
 "You need to place your hands on the glass. Make sure your prints touch the
-surface. You might find it helpful to splay your fingers to that the thumbprints
+surface. You might find it helpful to splay your fingers so that the thumbprints
 are visible."
 
 Julia did as the driver instructed. She noticed that the glass was clear, free
@@ -787,7 +787,7 @@ corridor.
 
 Julia shook her head.
 
-"Good, then I'll introduce you to the first scientist."
+"Good, then I'll introduce you to the lead scientist."
 
 She opened a door to the right and began walking down another hallway, this one
 with large glass panels showing the lab to the right. Julia recognized her
@@ -798,7 +798,7 @@ The driver knocked on the door, and then opened it. "Dr. Bernstein? Ms. Chou is
 here to see you."
 
 The scientist, though in his mid-forties, had a boyishness to him. He held up
-his hand, "I'll be with you in a second — I just need to make this one setting."
+his hand, "I'll be with you in a second — I just need to make one setting."
 
 He carefully set the dial, then walked, almost bounced, over to Julia.
 
@@ -822,30 +822,30 @@ hierarchical."
 
 "I must confess I'm pleased to meet you," said Julia. "I've read some of your
 papers. The one published in _Nature_ was particularly impressive, as was the
-one in _Scientific American_. Some of the more technical aspects were beyond me,
+one in _Scientific American_. Some of the more technical aspects were beyond me
 I'm sorry to say."
 
-"You've read my papers?" He noticeably brightened. "Us scientists spend so much
+"You've read my papers?" He noticeably brightened. "We scientists spend so much
 time researching, and then writing papers, but sometimes we wonder if they have
 any impact outside our rather small community.  So much work, but the audience
-is maybe fifty, maybe a couple of hundred other scientists at most. At times it
-feels like stuffing messages in a bottle and throwing them out into the ocean
-hoping that someone, somewhere will read it and find it useful."
+is maybe twenty, maybe a hundred other scientists at most. At times it feels
+like stuffing messages in a bottle and throwing them out into the ocean hoping
+that someone, somewhere, will read it and find it useful."
 
 Julia smiled. She had a genuine interest in her employees. Although she no
 longer had time to interview every new hire, she made sure to review their
 resumes. And she had a soft spot for scientists and engineers — her father had
 been an engineer, and she had been one too at the beginning of her career.
-Scientists in some ways  were the easiest to review because publishing was an
+Scientists in some ways were the easiest to review because publishing was an
 important aspect of being  a scientist. She wished that engineers published more —
 it enforced a certain clarity of thinking that was too often lacking in
-engineering circles. Scholarly publishing,  that is. In the computer science
+engineering circles. Scholarly publishing, that is. In the computer science
 realm there were too many publications that fell into the
 "tabloid-sensationalism" category ("Why Google is scared to death of this new
 networking technology!") — heavy on opinion, light on facts, and weak on logic.
 
-Among scientists, however, rigor was prized, and a good article was often
-extremely dense on information. Dr. Bernstein's papers were among the best.
+Among scientists, however, rigor was prized, and a good article often had an
+extremely high information density. Dr. Bernstein's papers were among the best.
 
 "What are you working on?" she asked.
 
