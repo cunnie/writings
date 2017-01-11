@@ -1025,21 +1025,21 @@ the room, the next minute he was gone."
 "You saw how locked-down they have this place: it would be next-to-impossible to
 sneak out undetected."
 
-"Do you think that 'pretending' he disappeared and spirited him away?"
+"Do you think that they 'pretended' he disappeared and spirited him away?"
 
-"If that's the case, I don't see what 'pretending' buys them — it's brought the
+"If that's the case, I don't see what it buys them — it's brought the
 project to a screeching halt and opened the possibility of shutting us down,
 which was the last thing they wanted. Plus the instruments had very strange
 readings leading up to the moment he disappeared."
 
 "The instruments?"
 
-"Mostly health monitor stuff: pulse rate, blood pressure, breathing, EKG."
+"Mostly health monitor stuff: pulse rate, blood pressure, breathing, EKG, EEG."
 
 "Which readings were off?"
 
 "The pulse rate & blood pressure were normal, and so was his EKG, but his
-brainwaves were like nothing I've seen before."
+EEG readings were like nothing I've seen before."
 
 "Were you in the room when this was happening?"
 
@@ -1137,9 +1137,9 @@ undue risk."
 
 "She couldn't tell you — she had to get clearance, too. Even when she got
 clearance they wouldn't tell her anything about the project. I could only talk
-in generalities. «They want me to perform an untested procedure on another human
+in generalities. 'They want me to perform an untested procedure on another human
 being that will most likely leave him with permanent brain damage, possibly kill
-him.» She said that I was in my rights to refuse; in fact, anything other than
+him.' She said that I was in my rights to refuse; in fact, anything other than
 refusing would constitute criminal negligence, and expose me and the company to
 criminal prosecution."
 
@@ -1188,8 +1188,8 @@ wall and catching it. Writing your name with your left hand, picking up a sock
 with your toes.
 
 "Emotions were very tricky, we never got a good handle on those. We'd give him a
-battery of tests which was basically asking one question, «How do you feel right
-now?» I was never happy with those tests."
+battery of tests which was basically asking one question, 'How do you feel right
+now?' I was never happy with those tests."
 
 "Then there were the run-of-the-mill tests — was he still breathing regularly?
 Was his heart beating? Could he still fall asleep? Did his digestion work
