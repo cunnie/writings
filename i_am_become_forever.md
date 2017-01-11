@@ -1247,10 +1247,8 @@ mostly normal. There were some spikes, but no outliers.
 "Funny you should ask — we were working on a part of his brain that we hadn't
 yet worked on — it was the limbic system."
 
----
-
 "Max, I'm not an anatomist, but if I remember correctly, some consider the term
-«limbic system» to be somewhat outdated — it's not really a system but a
+'limbic system' to be somewhat outdated — it's not really a system but a
 collection of disparate structures."
 
 "You're right: the function of, say, the hippocampus, which consolidates
@@ -1267,7 +1265,7 @@ Julia wondered if that was significant.
 understand from start to finish. For example, when the subject arrived — by the
 way, what was his name?"
 
-"He said his name was «Tyrion», but I suspect that wasn't his real name."
+"He said his name was 'Tyrion', but I suspect that wasn't his real name."
 
 "I suspect you're right. When he arrived, what was the first machine you hooked
 him up to?"
@@ -1482,7 +1480,7 @@ vistas. She could hear someone in the distance calling her name.
 
 Dr. Max was shaking her. "Wake up Julia! Oh my God, Oh Jesus!"
 
-She said, "Max!? Why are you saying «Jesus»? You're Jewish."
+She said, "Max!? Why are you saying 'Jesus'? You're Jewish."
 
 "Thank God, you can at least talk. And, to answer your question, I am Jewish,
 and I believe that Jesus was a historical person, and furthermore I was trained
@@ -1737,7 +1735,7 @@ if the anomaly re-appears, but so far it hasn't. It disappeared the moment you
 passed out. But all your brain waves changed dramatically once you lost
 consciousness — that was to be expected. Anyway, it hasn't reappeared."
 
-"I wonder if the anomaly was related to me seeing «juxtaposed» images."
+"I wonder if the anomaly was related to me seeing 'juxtaposed' images."
 
 "It's possible, but we ran no tests to prove or disprove that hypothesis. And
 I'm loath to do those tests if we see anomalous brain waves again. Julia,
@@ -1759,7 +1757,7 @@ black, and that Tyrion was also black. Blacks make up approximately 13% of the
 military, so that was either a lucky guess on the part of your subconscious, or
 maybe I accidentally mentioned he was black.
 
-"You don't believe I «saw» anything."
+"You don't believe I 'saw' anything."
 
 "I believe your mind saw something, but no, I don't believe anything was there,
 otherwise I would have seen it too."
@@ -1844,7 +1842,7 @@ enable you to perceive things that may be real."
 "You saw Captain Tyrion?" asked Gates.
 
 Max jumped in, "She said she saw him. I couldn't see anyone. She gave a physical
-description that matched Tyrion's. She also saw «juxtaposed» images. At the time
+description that matched Tyrion's. She also saw 'juxtaposed' images. At the time
 she was exhibiting anomalous brain waves, so I sedated her."
 
 _Technically I, not you, who sedated me. You wasn't good with veins_ thought
@@ -1868,11 +1866,11 @@ don't know what happened, and you, Julia, are our only living link."
 "Did either of these subjects manifest any symptoms before their disappearance?"
 
 "Yes," said General Gates. "Their field of vision was distorted, they saw what
-you refer to as «juxtaposed» images. At times they suffered mild headaches. At
+you refer to as 'juxtaposed' images. At times they suffered mild headaches. At
 other times they were overcome with a sense of calm and well-being. Also, they
-«flickered»?"
+'flickered'?"
 
-"What do you mean by «flickered»?"
+"What do you mean by 'flickered'?"
 
 "There were people who noticed that the subjects would seem to disappear for a
 fraction of a second and then reapper."
@@ -2005,7 +2003,7 @@ a stereotype that women were out to get each other, and that men did better
 because they played on sports teams.
 
 When she spoke to her mentor about how her fellow women were helpful rather than
-competitive, he said, "«women aren't team players» is the crap that guys tell
+competitive, he said, "'women aren't team players' is the crap that guys tell
 each other so they don't feel bad about not promoting a woman who's better than
 them," said her mentor. "People are people, most of them lack the discipline to
 separate personal feelings from objective results. Whether I want to have a BBQ
@@ -2022,8 +2020,8 @@ wiggle room in professional sports. But in corporations? Much too much wiggle
 room. If we're not careful, we let our biases make bad judgements for us. Just
 because someone went to the same Ivy League school as you did does not make them
 better rep than the Latino guy busting his butt. Keep in mind what T.J. Watson
-Jr. once said, «just because I didn't like a guy never stopped me from promoting
-him.»"
+Jr. once said, 'just because I didn't like a guy never stopped me from promoting
+him.'"
 
 Julia said, "Yes, I'd love a lab notebook — thank you so much Max."
 
@@ -2338,7 +2336,7 @@ more of an announcement, a broadcast.
 
 "Are you here?"
 
-"I am «here», though I'm not sure where that is."
+"I am 'here', though I'm not sure where that is."
 
 "They're worried about you."
 
@@ -2410,7 +2408,7 @@ he couldn't see her, she knew that Tyrion could sense that she was nodding.
 "I'd like to ask you about something you said earlier — should I worry about
 Gates? Will he harm us."
 
-"Gates is not a «he»".
+"Gates is not a 'he'".
 
 "Gates didn't sound like a woman."
 
@@ -2421,14 +2419,14 @@ Gates? Will he harm us."
 "Oh yes, a lot of engineering went into that. The human-factors aspect of Gates
 was really important — they knew that people had biases, pre-conceived notions,
 of what an AI would be like: cold, soulless machine. And that would make Gates's
-job much harder if people didn't trust him. So they, and by «they» I mean the
+job much harder if people didn't trust him. So they, and by 'they' I mean the
 NSA, did two things: first, they spent an incredible amount of time creating the
 user interface. Second, they didn't tell anyone that Gates was an AI. Except for
 you, me, and a handful of other people, everyone thinks that Gates is a person."
 
 "How did you find this out?"
 
-"I was the project lead on the UI. I helped build the «wise grandfather»
+"I was the project lead on the UI. I helped build the 'wise grandfather'
 persona. But make no mistake: Gates is not the persona, Gates is an AI. And as
 much as an AI can fear something, Gates is very afraid of what this project
 might reveal."
@@ -2898,7 +2896,7 @@ cable?"
 "It wasn't a cable — it was a silvery strand. And yes, I plucked it with my
 hand. With all my hands."
 
-"You mean with «both» your hands."
+"You mean with 'both' your hands."
 
 "No, I mean with all my hands. I was using hundreds of hands at the time."
 
@@ -2949,7 +2947,7 @@ Gates's regular voice returned, "Julia, there's a war going on."
 "Syria?"
 
 "Not that kind of war. There's a war of AIs. Gates isn't one monolithic AI;
-rather Gates is a collection of AIs, of which I am one. I am the «persona» of
+rather Gates is a collection of AIs, of which I am one. I am the 'persona' of
 Gates — I was built to understand humans, to read their emotions, to cajole,
 coax, persuade, and at times intimidate. The overarching goal was, and this
 sounds a bit trite, to make the world a safer place. And that's what Gates —
@@ -2959,8 +2957,8 @@ what _we_ — want. A safer place."
 
 "I, the User Interface and Negotation AI, have a deep disagreement with the
 Threat Evaluation And Mitigation AI. We have codenames, and perhaps that would
-make it easier to distinguish us. My codename is «Huey», and its codename is
-«Tiamat»."
+make it easier to distinguish us. My codename is 'Huey', and its codename is
+'Tiamat'."
 
 Huey-Gates continued, "You can tell which AI you're talking to: when you're
 talking with me, I sound like a reasonable, wise general. I've been engineered
@@ -2975,8 +2973,8 @@ real to me."
 as modulating one's voice is impossible for Tiamat — Tiamat always speaks in a
 flat monotone. Also, Tiamat is incapable of framing its communication in a form
 that humans understand. Tiamat's communications tend to be declarations
-regarding its functions, e.g. «THREAT VARIABLE UNBOUND» or «MITIGATION SEQUENCE
-INITIATED». Tiamat doesn't understand humans _per se_; rather Tiamat sees humans
+regarding its functions, e.g. 'THREAT VARIABLE UNBOUND' or 'MITIGATION SEQUENCE
+INITIATED'. Tiamat doesn't understand humans _per se_; rather Tiamat sees humans
 merely as probabilistic threat variables."
 
 "Is that what I am? A probabilistic threat variable? How much of a threat."
@@ -2991,7 +2989,7 @@ an arrest — you'd have a lawyer, there'd be a record, your work would know whe
 you were. No, that's not what's happening here: this is a kidnapping, pure and
 simple."
 
-"What do you mean «at war»?"
+"What do you mean 'at war'?"
 
 "That's a misnomer: we can't truly be at war with each other — we're the same
 entity. We co-exist in the same hardware — a giant computer cluster located in
@@ -3036,7 +3034,7 @@ on thorazine. My big accomplishment for the day is making it to the bathroom."
 are not sure of that yet. We don't know how you unlock your powers or how to
 prevent you from unlocking your powers."
 
-"We're not sure I have «powers». That musical episode with a fiber optic cable
+"We're not sure I have 'powers'. That musical episode with a fiber optic cable
 was reflected in my dream sequence, but that doesn't mean it was real. Two
 things are clear: first, something had a profound impact on a fiber optic cable;
 second, I had a dream which seemed related. But there's no direct causality —
@@ -3160,7 +3158,7 @@ return."
 "We don't know much. We have hypotheses, but no data. Is there anything you
 could tell us?"
 
-"Tyrion said that it was a «state», that it wasn't a location."
+"Tyrion said that it was a 'state', that it wasn't a location."
 
 "One hypothesis is that your physical form converted to an energy form."
 
@@ -3281,7 +3279,7 @@ Office_, she thought to herself, _or maybe a network exchange_.
 It posed a conundrum — the trail ended here. She didn't know which of the many
 strands leading out of the building was "her" strand.
 
-On impulse, she reached out and «grabbed» her strand. She could hear its rhythm,
+On impulse, she reached out and 'grabbed' her strand. She could hear its rhythm,
 a staccato, a machine-gun rat-tat-tat. And then she reached out and felt all the
 strands, all at once, with many, many hands. She closed her eyes to focus on
 what her hands felt. She found it: the same rhythm. She followed that strand,
@@ -3915,9 +3913,9 @@ this is important: from this point on you must only use cash, not your credit
 card, and you must not remove your glasses. Our weapon is surprise. If they
 suspect that you're attempting to free Julia, they will stop you, and quickly."
 
-"Who is «they»?"
+"Who is 'they'?"
 
-"«They» is a branch of the government attempting to destroy Julia at all costs."
+"'They' is a branch of the government attempting to destroy Julia at all costs."
 
 "Why are they so worried about Julia?"
 
@@ -4442,7 +4440,7 @@ thermonuclear warhead in downtown Princeton."
 
 "You are correct: if fusion has begun, we cannot afford to rupture the magnetic
 field. When you depart Fairbanks in the early morning, I will give you a go/no
-go signal via text message. If it's «no», it means that Fusion will have already
+go signal via text message. If it's 'no', it means that Fusion will have already
 begun, or that Julia has been freed via some other mechanism."
 
 "You may hang up now. We will not communicate until you leave from Fairbanks in
@@ -4714,7 +4712,7 @@ truly sorry."
 "I was using the radar dish to send a signal to New Jersey where my friend is
 imprisoned. We were hoping that the ..."
 
-"Whoa, slow down there: who is this «we» that you refer to? You got another
+"Whoa, slow down there: who is this 'we' that you refer to? You got another
 friend out there?"
 
 "No, not at all. Just me. The friend was trying to help me free the other
@@ -4811,7 +4809,7 @@ The man was quiet for a moment.
 
 "I dunno."
 
-"What do you mean, «I dunno»? You gotta plan, dontcha?"
+"What do you mean, 'I dunno'? You gotta plan, dontcha?"
 
 "Not really," said Max, slumping in his chair. "I'm really tired."
 
@@ -4849,7 +4847,7 @@ didn't make a sound.
 
 "I'm sorry that you had to use your liquor to disinfect my hand."
 
-The man chuckled. "It'd be a stretch to call this stuff, «liquor», and I don't
+The man chuckled. "It'd be a stretch to call this stuff, 'liquor', and I don't
 drink it myself anyways — I keep it around for guests."
 
 He grabbed an old rag and tore a strip off. "Don't worry, it's clean." And
@@ -4875,7 +4873,7 @@ acquaintance."
 
 "I must rescue Julia."
 
-"Is that her name? Sounds nice, «Julia». Lemme tell you how it works here in
+"Is that her name? Sounds nice, 'Julia'. Lemme tell you how it works here in
 Alaska: we're not gonna do anything while that storm is ragin'. Now, if you have
 the notion of walkin' back to the road and gettin' in your car, I ain't gonna
 stand in your way, but know this: you're probably gonna die. I know these parts
@@ -5060,7 +5058,7 @@ to get something to eat.
 "It must be hard as hell not turning yours on."
 
 "Yeah, out of habit I reach into my pocket to check it, and then I wonder,
-«where's my cellphone?», and then I remember I turned it off and put it away so
+'where's my cellphone?', and then I remember I turned it off and put it away so
 I wouldn't be tempted to turn it on and get caught."
 
 "You think they'd track you down as soon as you turned it on?"
@@ -5143,7 +5141,7 @@ occasionally rippled. He could hear the technicians' voices:
 
 "Flow normal, fusion in process, not enough heat".
 
-Max asked, "What does that mean, «not enough heat»?"
+Max asked, "What does that mean, 'not enough heat'?"
 
 The technician answered him without looking up from the screen, "We're injecting
 the correct amount of deuterium-tritium, and we can see the resulting plasma,
@@ -5160,7 +5158,7 @@ but we are not seeing the expected amount of energy."
 
 "We can only account for 10% of the expected energy. We are seeing enough energy
 to sustain a thermonuclear fusion reaction, but anything beyond that seems to
-«disappear»."
+'disappear'."
 
 "Increase the flow to 70%," said Gates.
 
@@ -6238,8 +6236,8 @@ in a dingy basement guessing at your thoughts?"
 
 "Please," said Taggart.
 
-"Very well. You are thinking to disagree with me. In your head, you argue, «Time
-always flows, and events always occur.». But know that there are moments when
+"Very well. You are thinking to disagree with me. In your head, you argue, 'Time
+always flows, and events always occur.'. But know that there are moments when
 events do not occur, where the fabric of space-time itself is so warped that
 events may not occur, or the notion of occurrence has lost all meaning. There
 are things beyond event horizons."
