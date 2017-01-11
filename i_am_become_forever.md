@@ -1027,10 +1027,10 @@ sneak out undetected."
 
 "Do you think that they 'pretended' he disappeared and spirited him away?"
 
-"If that's the case, I don't see what it buys them — it's brought the
-project to a screeching halt and opened the possibility of shutting us down,
-which was the last thing they wanted. Plus the instruments had very strange
-readings leading up to the moment he disappeared."
+"If that's the case, I don't see what it buys them — it's brought the project to
+a screeching halt and opened the possibility of shutting us down, which was the
+last thing they wanted. Plus the instruments had very strange readings leading
+up to the moment he disappeared."
 
 "The instruments?"
 
@@ -1038,8 +1038,8 @@ readings leading up to the moment he disappeared."
 
 "Which readings were off?"
 
-"The pulse rate & blood pressure were normal, and so was his EKG, but his
-EEG readings were like nothing I've seen before."
+"The pulse rate & blood pressure were normal, and so was his EKG, but his EEG
+readings were like nothing I've seen before."
 
 "Were you in the room when this was happening?"
 
@@ -1344,7 +1344,7 @@ available." She felt bad when she saw the disappointment in their eyes, although
 curiously it was sometimes tinged with relief.
 
 She got along well with all her customers. She liked them, and they liked her.
-She stayed in touch with the ones who went to her competitors, when they and
+She even stayed in touch with the ones who switched to her competitors, and
 sometimes it paid off they came back, but that wasn't the reason she stayed in
 touch. She stayed in touch because she genuinely liked them.
 
@@ -1382,8 +1382,7 @@ was fascinating.
 
 Earlier in the evening Dr. Max had taken a full MRI of her brain, and showed her
 where the limbic system was, where the hippocampus was, the amygdala, the
-hypothalamus, the olfactory bulbs. The resolution was wonderful. And the antenna
-placement.
+hypothalamus, the olfactory bulbs. The resolution was wonderful.
 
 He had also showed her how to program the instrument that "draws" the antenna in
 the brain. Funny, things hadn't changed much since her days in working with the
@@ -1407,17 +1406,17 @@ downloaded the code into the MRI, and then walked into the MRI room, lay on the
 platform, and hooked up the sensors to herself. She turned everything on, and
 then lay their for 15 minutes, then got up and pulled the sensors off.
 
-She still had no idea what happened. The dry-run hadn't haccomplished anything,
+She still had no idea what happened. The dry-run hadn't accomplished anything,
 nothing at all.
 
-The thought came to her, "Why a dry run? Why not the real thing?"
+_Why a dry run? Why not the real thing?_
 
 She thought about that for a second — why not the real thing? She could do it.
 It was just a small adjustment. Minute. Microscopic. Not invasive, just a pull
 here, a push there. It couldn't be safer. All she had to do was flip up the
 manual off switch next to the MRI.
 
-She thought about it. It felt exhilirating, like she was on the brink of a
+She thought about it. It felt exhilarating, like she was on the brink of a
 precipice looking down. She remembered when she was eight, and her friend had
 dared her to run naked through the theater class with nothing on except a mask.
 Her friend had double-dared her, knowing she wouldn't do. But she did do it. She
@@ -1480,11 +1479,11 @@ vistas. She could hear someone in the distance calling her name.
 
 Dr. Max was shaking her. "Wake up Julia! Oh my God, Oh Jesus!"
 
-She said, "Max!? Why are you saying 'Jesus'? You're Jewish."
+She said, "Max! Why are you saying 'Jesus'? You're Jewish."
 
-"Thank God, you can at least talk. And, to answer your question, I am Jewish,
-and I believe that Jesus was a historical person, and furthermore I was trained
-by Jesuits, and that's what they said when things were going horribly wrong."
+"Thank God, you can talk. And, to answer your question, I am Jewish, and I
+believe that Jesus was a historical person, and furthermore I was trained by
+Jesuits, and they taught me to say 'Jesus' when things went horribly wrong."
 
 She rubbed her eyes. May as well get it over with, fast.
 
@@ -1554,10 +1553,9 @@ ganglion in the brain a few microns over could make an amazing difference seemed
 silly. She had nudged a couple of neurons in her brain, a couple of ganglions,
 with the MRI. Big deal. She nudged millions, maybe billions more when she
 sneezed. Tyrion's disappearance most likely had little or nothing to do with the
-science, with the project. That was the real mystery: what had happened to
-Tyrion?
+science or the project. That was the real mystery: what had happened to Tyrion?
 
-Max picked up the phone on his desk to call Taggart. So retro — a desk phone!
+Max picked up the phone on his desk to call Taggart. How retro — a desk phone!
 And a desk phone that was not connected to the public switched telephone
 network. She suspected that there were maybe 200 numbers at most that Dr. Max
 could dial, and he probably only ever dialed two of them: Taggart and the front
@@ -1633,7 +1631,7 @@ She smiled. He frowned.
 
 "That's not funny, Julia. I'm shaking because I don't want to lose the second
 person on this project. I don't know what's happening — it's all very strange —
-but I think we should put you to sleep."
+but I think we should put you under."
 
 He stuck the syringe in one of the bottles, a clear bottle with clear fluid. She
 couldn't read the label, but she suspected phenobarbital — it was a
@@ -1725,8 +1723,8 @@ something I should know?"
 
 "I've told you everything of significance. Like I said earlier, I get the
 feeling they're not telling me everything they know about the project — they
-have a strong sense of urgency, but it's at complete odds with the type of work
-we're doing."
+have a strong sense of urgency, but it's completely at odds with the type of
+work we're doing."
 
 "You said there was a brain wave anomaly you were seeing — is it still there?"
 
@@ -1813,7 +1811,8 @@ Julia mumbled.
 
 "Eighty, EIGHTY!" Julia said.
 
-Gates chuckled. "You didn't want to stop at one, did you? You had to do all 80?"
+Gates chuckled. "You didn't want to stop at one, did you? You had to do all
+eighty?"
 
 "There was a misunderstanding regarding the functioning of the program."
 
@@ -1845,34 +1844,31 @@ Max jumped in, "She said she saw him. I couldn't see anyone. She gave a physical
 description that matched Tyrion's. She also saw 'juxtaposed' images. At the time
 she was exhibiting anomalous brain waves, so I sedated her."
 
-_Technically I, not you, who sedated me. You wasn't good with veins_ thought
-Jennifer to herself.
+_Technically I, not you, who sedated me. You weren't good with veins._
 
 "Max, were you able to record the anomalous brain waves?" asked Gates.
 
-"Yes, they're recorded in the brain wave unit."
+"Yes, they're recorded in the EEG."
 
 "I'd be very interested in seeing them later."
 
 "I would like to know what about the research precludes me from returning to
 work," said Julia.
 
-"We don't know what's going to happen to you. Other than Captain Tyrion, we've
-only had one other subject, and similar to Captain Tyrion the other subject
-vanished one day. Without a trace. From a high security military facility. A
-facility like this one, where people can not disappear. Until now. We still
-don't know what happened, and you, Julia, are our only living link."
+"We don't know what's going to happen to you. We've only had two subjects, one
+was Captain Tyrion,  and you, Julia, are the only person who has seen him since
+he disappeared."
 
 "Did either of these subjects manifest any symptoms before their disappearance?"
 
-"Yes," said General Gates. "Their field of vision was distorted, they saw what
-you refer to as 'juxtaposed' images. At times they suffered mild headaches. At
-other times they were overcome with a sense of calm and well-being. Also, they
-'flickered'?"
+"Yes, Captain Tyrion did," said General Gates. "His field of vision was
+distorted, he saw what you refer to as 'juxtaposed' images. At times he suffered
+mild headaches. At other times he was overcome with a sense of calm and
+well-being. Also, he 'flickered'."
 
 "What do you mean by 'flickered'?"
 
-"There were people who noticed that the subjects would seem to disappear for a
+"There were people who noticed that the Tyrion would seem to disappear for a
 fraction of a second and then reapper."
 
 Max interrupted, "Were there any measurement instruments trained on them at the
