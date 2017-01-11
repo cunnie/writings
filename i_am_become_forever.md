@@ -624,10 +624,11 @@ her career, and they clicked right away, and he took her under his wing. She
 couldn't explain it, but somehow she _trusted_ him from day one. And he trusted
 her.
 
-He spoke up, "As disturbing as this is, this type of salacious rumor-mongering
-is not a good enough reason to terminate someone. It's a lesser sin than
-undermining your authority in front of the other subordinates — that is bad. Is
-there anything else he has done?"
+He spoke up, "How is he as a sales rep?"
+
+"He's mediocre, but he's not incompetent."
+
+"Then it's a behavior issue not a performance issue. What else has he done?"
 
 "He once set me up for an ambush."
 
@@ -640,47 +641,25 @@ was so angry that he walked out of the meeting. I found out later that he _knew_
 the client was adamantly opposed to changing the contract, but he had never told
 me. He set me up."
 
-"How is he as a sales rep?"
+"You've spoken with HR?"
 
-"He's mediocre, but he's not incompetent."
+"Yup."
 
-Her mentor paused. "He's probably not worth transferring to another group. Have
-you spoken with him?"
+"Did you write him up?"
 
-"Yes. And I've put him on a performance plan, too."
+"He's been given a written warning and a final warning."
 
-"Good. That was my next question. And he still undermines you?"
+"Good, that was my next question. So he knows what he needs to do to keep his
+job? And he still undermines you?"
 
 "Yes."
 
-"That's a problem. We can't have that. It makes you look weak, and your other
-subordinates may wonder why you're not doing anything about it. He is one of
-your reps, right? Has a quota? Bump it up."
+"Is he in a group we need to be careful about? Is he over 40, black, or gay?"
 
-"Bump it up?"
+"No."
 
-"Bump it up enough so that he can't make it. And use that as grounds for
-dismissal. Also, you'll need to justify bumping up the quota, so give him a few
-extra accounts. Give him dead ones, that he has no chance of selling into. If
-he's a miracle worker and brings in those accounts, that's great — you'll have a
-bigger bonus that quarter. But use that as a reason to bump up his quota again.
-He'll be gone in three months, six months on the outside."
-
-"I wish I could just fire him"
-
-"Yeah, in the old days it was easier getting rid of the bad eggs, unless they
-were union. If they were union it was next to impossible to get rid of them.
-With him, you need to be careful — you don't want to give him grounds for a
-lawsuit when he's dismissed. You want to make it look like we've been fair and
-even-handed and that we dismissed him for performance reasons. It has to look
-fair, that we followed procedures. It works like this: you know this guy is bad
-news; I know this guy is bad news, and the guy probably suspects he's bad news.
-He does more harm than good to the corporation. But knowing someone is bad news
-isn't quantifiable, it doesn't lend itself as a reason to dismiss. We can't
-write 'Bad News' on a piece of paper, stick it in his personnel file, and then
-dismiss him. Instead, we play the game: we set performance expectations, show
-that he hasn't met them, and only then dismiss him. We protect the company from
-retaliation."
+"Then fire him. Fire him today — get it over with quickly. The sooner the
+better."
 
 He added, "There's something you should know about firing people — it never
 feels good afterwards. I'm always haunted by doubt — maybe there's something I
