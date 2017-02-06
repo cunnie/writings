@@ -309,7 +309,7 @@ Ned gave a funny look.
 
 She knew he'd do it. he knew he was in the hot seat, and he believed that she
 would protect him, that she had his back. And he was right, too — she would
-protect him, or at least do her best. She found that when people  had a guardian
+protect him, or at least do her best. She found that when people had a guardian
 it inspired a fierce sense of loyalty. Ned would do what it took to get her to
 see Colonel Taggart.
 
@@ -451,11 +451,11 @@ the building."
 
 "It's about mitigating risk. We don't want our conversation eavesdropped. If it
 is eavesdropped, we want it encrypted so they can't make sense out of it. In
-spite of those precautions, I'm taking a grave risk speaking to you."
+spite of those precautions, I'm taking a grave risk speaking with you."
 
 The general continued. "Our initial conversation took place over the public
-network. That will be the last time we will have a conversation on a public
-network."
+switched telephone network. That will be the last time we will have a
+conversation on a public network."
 
 "What if I need to get in touch with you?"
 
@@ -508,8 +508,8 @@ He chuckled.
 "I need to know what I can expect, and when I can expect it. I need to know when
 I'll have access to the project."
 
-Her mentor had said, "Always ask 'when?'. If they can't tell you, then ask them,
-'When will you be able to tell me when?'"
+_Her mentor had said, "Always ask 'when?'. If they can't tell you, then ask
+them, 'When will you be able to tell me when?'"_
 
 "Fair enough, Julia. Monday, two weeks from today, A man will meet you at 08:00
 in your office. You will turn off your cellphone and give it to the driver. He
@@ -532,7 +532,7 @@ it.
 
 She didn't begrudge her people flying business, but never first class, not even
 on the long Asia flights. If they used their points to upgrade, well that was
-their prerogative, but the company would pay for business class.
+their prerogative, but the company would only pay for business class.
 
 It was curious: Sales and Marketing tended to spend proportionally much larger
 amounts on flights, meals, entertainment, conferences, than the engineers and
@@ -689,7 +689,7 @@ illusion, an aspiration. She remembered the first-time she saw the book titled,
 bookstore in an airport. She looked around — clearly the book's target audience
 were harried businessmen and businesswomen hoping to magically free up time. It
 was similar to the tabloids in the supermarket check-out that touted, "The Ice
-Cream diet: eat all the ice cream you want and still lose weight!" They were con
+Cream diet: eat all the ice cream you want and still lose weight!" Both were con
 jobs that differed only in their sophistication and audience.
 
 She had cleared her schedule for all of Monday. She had been at work since 7am
@@ -814,7 +814,7 @@ that someone, somewhere, will read it and find it useful."
 Julia smiled. She had a genuine interest in her employees. Although she no
 longer had time to interview every new hire, she made sure to review their
 resumes. And she had a soft spot for scientists and engineers — her father had
-been an engineer, and she had been one too at the beginning of her career.
+been an engineer, and she too had been one at the beginning of her career.
 Scientists in some ways were the easiest to review because publishing was an
 important aspect of being  a scientist. She wished that engineers published more —
 it enforced a certain clarity of thinking that was too often lacking in
@@ -885,12 +885,12 @@ things outside my control."
 "We were talking about antennae and wavelengths. Now don't get me wrong, the
 human brain can detect wavelengths of many sorts. Let's take hearing for
 example: we can hear wavelengths from about 20Hz to about 21kHz if you're a kid.
-At my age, my hearing only goes up to 12kHz, so I can't hear high-pitched whines
-above a certain frequency. Note that we can 'sense' frequencies lower than 20Hz —
-we can feel the rumble — but we don't 'hear' them. But sound waves, even though
-they have a frequency and a wavelength, aren't electromagnetic — instead, they
-fall under the more classic definition: a wave caused by displacement of mass,
-which happens to be air in the case of soundwaves."
+At my age, my hearing only goes up to 12kHz, so I can't hear high-pitched
+whines. Note that we can 'sense' frequencies lower than 20Hz — we can feel the
+rumble — but we don't 'hear' them. But sound waves, even though they have a
+frequency and a wavelength, aren't electromagnetic — instead, they fall under
+the more classic definition: a wave caused by displacement of mass, which
+happens to be air in the case of soundwaves."
 
 "But our senses aren't limited to sound — we can can also see, and light is a
 good example of electromagnetic radiation. Light has a really short wavelength —
@@ -1856,31 +1856,30 @@ _Technically I, not you, who sedated me. You weren't good with veins._
 work," said Julia.
 
 "We don't know what's going to happen to you. We've only had two subjects, one
-was Captain Tyrion,  and you, Julia, are the only person who has seen him since
+was Captain Tyrion, and you, Julia, are the only person who has seen him since
 he disappeared."
 
-"Did either of these subjects manifest any symptoms before their disappearance?"
+"Did he manifest any symptoms before his disappearance?"
 
-"Yes, Captain Tyrion did," said General Gates. "His field of vision was
-distorted, he saw what you refer to as 'juxtaposed' images. At times he suffered
-mild headaches. At other times he was overcome with a sense of calm and
-well-being. Also, he 'flickered'."
+"Yes he did," said General Gates. "His field of vision was distorted, he saw
+what you refer to as 'juxtaposed' images. At times he suffered mild headaches.
+At other times he was overcome with a sense of calm and well-being. Also, he
+'flickered'."
 
 "What do you mean by 'flickered'?"
 
 "There were people who noticed that the Tyrion would seem to disappear for a
-fraction of a second and then reapper."
+fraction of a second and then reappear."
 
 Max interrupted, "Were there any measurement instruments trained on them at the
 time?"
 
-"With the first subject, no. With Captain Tyrion, there were, but they didn't
-seem to  capture anything of interest."
+"Yes, but they didn't seem to  capture anything of interest."
 
-Max asked, "Did the subjects describe any sensation or events leading up to the
-flickering? Did they themselves notice the flickering?"
+Max asked, "Did he describe any sensation or events leading up to the
+flickering? Did he notice the flickering?"
 
-"The one subject said that he had a feeling of absolute serenity. And also that
+"Captain Tyrion said that he had a feeling of absolute serenity. And also that
 he was completely unaware of flickering."
 
 "Why is the military so interested?"
@@ -1888,11 +1887,6 @@ he was completely unaware of flickering."
 Taggart jumped in, "If they can flicker, maybe they can disappear. If we have
 soldiers that can become invisible, it makes certain types of infiltration
 missions much, much easier."
-
-"How far along did you get with the first test subject?"
-
-"Unfortunately not as far as we would have liked. We didn't expect anything, and
-when we realized things were becoming odd he had already disappeared."
 
 Gates said, "It's something we're very interested in, but not at the cost of
 losing soldiers. Tyrion was uniquely qualified. You see, he had only a month to
@@ -1908,11 +1902,11 @@ sorry."
 The room fell awkwardly silent.
 
 Gates spoke again, "Julia, you asked when you could return to civilian life.
-This is what we plan to do: we'll keep you under observation. The two previous
-subjects exhibited symptoms within ten days or less. If we don't observe any
-change within two weeks, we'll assume that the antennae, for whatever reason,
-don't work. We'll debrief you, and then send you back. But you will need to
-report for a medical every week."
+This is what we plan to do: we'll keep you under observation.  Captain Tyrion
+exhibited symptoms within ten days or less. If we don't observe any change
+within one week, we'll assume that the antennae, for whatever reason, don't
+work. We'll debrief you, and then send you back. But you will need to report for
+a medical every week."
 
 "I must contact my work and let them know that I'll be gone."
 
@@ -1932,9 +1926,9 @@ monitored."
 "But that's illegal," objected Julia. "When I talk to corporate counsel, I'm
 protected under attorney-client privilege."
 
-"Evidence obtained is inadmissable in a court of law, Julia, but you're on
+"Evidence obtained is inadmissible in a court of law, Julia, but you're on
 Federal property here, and we work under a parallel legal system, military
-tribunals and all that. The ground rules are slightly different, especially when
+tribunals etc.... The ground rules are slightly different, especially when
 working with State secrets, in which category this project falls."
 
 Gates's voice softened, "Julia, we're on the same team here. We're not after
@@ -1942,13 +1936,13 @@ you. We want you to succeed, in more ways than you can imagine. You are, at this
 moment, incredibly precious: you are the only person who has gone through this
 procedure and is still around to talk about it. We want to make sure nothing bad
 happens to you, and if something does happen, we want to be there to help. As
-soon as possible. I appreciate how difficult it is for a woman of your position
-to take a sudden and unexpected leave of absence for two weeks. We're doing our
-best to accommodate your needs. The use of an outside line for 1/2 hour each
-day? I had to move earth and heaven to make that happen. Please, Julia, work
-with us."
+soon as possible. I appreciate how difficult it is for a someone of your
+position to take a sudden and unexpected leave of absence for one week. We're
+doing our best to accommodate your needs. The use of an outside line for 1/2
+hour each day? I had to move earth and heaven to make that happen. Please,
+Julia, work with us."
 
-Julia understood. Gates was smart to position it as being part of a team; she
+Julia understood. Gates was astute to position it as being part of a team; she
 believed in teamwork. She believed in trading the individual desire for success
 and achievement for the team's success and achievement. She was a team player,
 and she didn't mind when others got the the glory. It paid off, too: she hadn't
@@ -2031,17 +2025,17 @@ quick left and to the right was a small, windowless (every room was windowless).
 She sat down and dialed her executive assistant's phone number. Julia didn't
 bother memorizing phone numbers anymore, but she knew her EA's number by heart.
 For the next 29 minutes Julia had a high-bandwidth exchange with her EA,
-scheduling events, pushing things out that could be done. And Julia wrote in her
+scheduling events, pushing things out that could be. And Julia wrote in her
 notebook constantly. It reminded her of the old days, before cellphones and
 laptops, when everything was written down in a notebook. There was something
 viscerally satisfying about taking pen to paper, something that computers and
-tablets were never quite able to match, not even come close.
+tablets were never quite able to match, not even close.
 
 Taggart knocked on the door when her time was up. "I must go now. Remember,
 schedule a call with the lead counsel tomorrow morning at this time. I'm afraid
 this is one call you won't be able to participate in, not because I don't want
-you to, but because I think it will be breaking the law. I'll call you tomorrow
-morning same time and you can patch me in to the counsel."
+you to, but because I think your presence will break the law. I'll call you
+tomorrow morning same time and you can patch me in to the counsel."
 
 She hung up the phone and turned to Taggart, "It's almost impossible doing my
 job without Internet access — is there any way we can loosen the restrictions
