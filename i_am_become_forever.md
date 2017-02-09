@@ -586,7 +586,7 @@ on one hand, in a strange way, they loved you, they trusted you. On another
 hand, a professional relationship was not a mother-son relationship — those are
 different beasts. And you needed your guard up.
 
-She remembered one particularly difficult employee. Only after he had left the
+_She remembered one particularly difficult employee. Only after he had left the
 company did she discover that he had been estranged from his mother for the last
 ten years. Sigh. There was a reason to keep one's private and professional lives
 separate, but some people could not but help drag their emotional baggage into
@@ -614,14 +614,14 @@ got the job was because..."
 
 Her mentor twitched, "That's what they're saying?"
 
-"That's what _he_ is saying."
+"That's what HE is saying."
 
 They both sat in silence. There never had been anything sexual between them. She
 was originally drawn to him because of his hands — his hands reminded her of her
 father's hands: strong but not too rough. And other things about him reminded
 her of her father: he was gentle but also firm. She had reported to him early in
 her career, and they clicked right away, and he took her under his wing. She
-couldn't explain it, but somehow she _trusted_ him from day one. And he trusted
+couldn't explain it, but somehow she trusted him from day one. And he trusted
 her.
 
 He spoke up, "How is he as a sales rep?"
@@ -637,7 +637,7 @@ He spoke up, "How is he as a sales rep?"
 "He arranged a meeting between him, me, and his second biggest client. One of
 the topics he asked me to bring up was to migrate the client from the old
 B-Style contract to the new C-style contract. When I brought it up, the client
-was so angry that he walked out of the meeting. I found out later that he _knew_
+was so angry that he walked out of the meeting. I found out later that he knew
 the client was adamantly opposed to changing the contract, but he had never told
 me. He set me up."
 
@@ -673,7 +673,7 @@ They sat in silence a little longer.
 
 She shook her head. "Thanks," she said.
 
-He nodded.
+He nodded._
 
 ---
 
@@ -1464,7 +1464,7 @@ It was silly. She went through it, and nothing had happened.
 She became aware she was beginning to get sleepy. She checked the clock on the
 computer console: 4:26 am. She could get a couple of hours of sleep before Max
 came in. She looked around — the only place to stretch out was the MRI machine.
-Why not? In her early years she had spent many a night sleeping in the lap, and
+Why not? In her early years she had spent many a night sleeping in the lab, and
 she was lucky in that she rarely if ever had trouble falling asleep. She lay
 down on the MRI and within a minute had drifted off to sleep.
 
@@ -1977,7 +1977,7 @@ A lab notebook? Julia loved lab notebooks, with their acid-free paper and their
 grid lines — perfect for taking notes and drawing charts. In fact, she used her
 lab notebook her first year as a sales rep.
 
-One of the more senior sales reps brought her a gift on her birthday. It was a
+_One of the more senior sales reps brought her a gift on her birthday. It was a
 small notebook with elegant backing. She had said to Julia, "Look, I know you're
 an engineer, you know you're an engineer, but part of this game we're in, this
 game of sales, is to use subtle cues that you're in the same tribe as the person
@@ -2011,7 +2011,7 @@ room. If we're not careful, we let our biases make bad judgements for us. Just
 because someone went to the same Ivy League school as you did does not make them
 better rep than the Latino guy busting his butt. Keep in mind what T.J. Watson
 Jr. once said, 'just because I didn't like a guy never stopped me from promoting
-him.'"
+him.'"_
 
 Julia said, "Yes, I'd love a lab notebook — thank you so much Max."
 
@@ -2041,11 +2041,11 @@ She hung up the phone and turned to Taggart, "It's almost impossible doing my
 job without Internet access — is there any way we can loosen the restrictions
 and let me use the phone and the laptop?"
 
-Taggart shook his head, "I'm afraid that's not possible. I wish it were."
+Taggart shook his head, "I'm afraid that's not possible."
 
 Julia nodded. She had a good sense when she could push people, and when it
 wouldn't make a difference. In this case she knew it wouldn't make a difference —
-they'd never let her use her phone. In two weeks, when she was back in the
+they'd never let her use her phone. In one week, when she was back in the
 office, she'd have her phone. In the meantime, she'd try her best to appreciate
 being off the grid.
 
@@ -2212,8 +2212,8 @@ lawyer.
 "Let me sketch it out for you, and I suspect you can fill in some of the gaps. I
 am onsite in the Federal Division inspecting the project that suffered what we
 believe to have been a loss of human life. For reasons I can't get into I will
-be sequestered here for at least two weeks. What I need from you is to prepare a
-brief to force my release at the end of two weeks in the event they decide to
+be sequestered here for at least one week. What I need from you is to prepare a
+brief to force my release at the end of the week in the event they decide to
 prolong my sequestration."
 
 "You don't want to be released now?"
@@ -2247,7 +2247,7 @@ frequency range of 5 to 30 Hz — which can trigger a seizure in someone with
 photosensitive epilepsy."
 
 Max set up the apparatus, and although staring at the flashing lights was
-uncomfortable, it didn't inducs a seizure or brainwave anomalies.
+uncomfortable, it didn't induce a seizure or brainwave anomalies.
 
 The days was spent doing tests that were either uncomfortable (30 minute sauna)
 or very uncomfortable (3-minute ice bath). Julia didn't mind — she was not
@@ -2270,11 +2270,11 @@ She awoke drenched in sweat. What time was it? She didn't know. But the sweat
 made the electrodes slippery, and there was a slight shocking sensation coming
 from them. The sweat was probably short-circuiting them, and when she looked at
 the consoles she could see that was the case. She took them off. What harm could
-happe by removing them for a few hours? And then drifted back to sleep.
+happen by removing them for a few hours? And then drifted back to sleep.
 
 She was dreaming, but it felt different. It was like her earlier dream, where
 she could see everything. She could see everything in the room, and, as she
-became bigger, she could see the facility in the desert, the road leading East,
+became bigger, she could see the facility in the desert, the road heading east,
 the guardhouse.
 
 There was an overlay, she could see flickering of lights. The cacti were diffuse
@@ -2303,12 +2303,12 @@ computers she sensed a similarity between the patterns of music and the loops
 and patterns of computer programs — there was a beauty and elegance. And she
 sensed something similar in the manner in which this silvery strand flickered.
 
-She realized she pluck the strand and it would play a note, and the greater the
-strength which with she plucked the strand, the higher the note. She began to
-experiment, and soon she was playing _Für Elise_. She knew in the back of her
-mind it wasn't music that she was hearing, rather, it was something else that
-her mind interpreted as music. And it was beautiful music, the most beautiful
-music she had ever heard.
+She realized that when she plucked the strand and it would play a note, and the
+greater the strength which with she plucked the strand, the higher the note. She
+began to experiment, and soon she was playing _Für Elise_. She knew in the back
+of her mind it wasn't music that she was hearing, rather, it was something else
+that her mind interpreted as music. And it was beautiful music, the most
+beautiful music she had ever heard.
 
 And then she started playing with her other hand, adding a contretemps. And she
 was taking Beethoven's _Für Elise_ and layering and stretching and pulling and
@@ -2353,16 +2353,15 @@ person she couldn't see, and yet it seemed so natural.
 "Gates will know something is going on. He's already frightened — I'm not sure
 if that's the right word — he's been introduced to an unknown, a powerful
 unknown, and he doesn't know its parameters or constraints. He's struggling
-furiously to understand it. I don't know who the first subject was, but
-something must have happened, something that made Gates bring to bear a set of
-resources unseen in a long time."
+furiously to understand it. He's bringing to bear a set of resources unseen in a
+long time."
 
 "It didn't seem like a lot resources." said Julia. "A couple million dollars, a
 dilapidated facility in the desert — I've seen much bigger."
 
-"Don't mis-judge what you're seeing — this is only the tip of the iceberg. I was
-the second subject and they had me wired up all day. And then, while I was
-sleeping, I somehow slipped into here."
+"Don't mis-judge what you're seeing — this is only the tip of the iceberg. They
+had me wired up all day. And then, while I was sleeping, I somehow slipped into
+here."
 
 "Slipped?"
 
@@ -2404,7 +2403,7 @@ Gates? Will he harm us."
 
 "Gates is not a woman either. Gates isn't human. Gates is an AI."
 
-"He seemed so human. He seemed warm, friendly — kinda like a wise grandfather."
+"He seemed so human. He seemed warm, friendly — like a wise grandfather."
 
 "Oh yes, a lot of engineering went into that. The human-factors aspect of Gates
 was really important — they knew that people had biases, pre-conceived notions,
@@ -2560,10 +2559,10 @@ banality of grief, she thought to herself.
 
 She thought of what she had experienced. Was it a dream? She wasn't sure. Maybe
 her subconscious had conjured a beautiful dream for her, one which reflected
-what she wanted to see. The truth was drab: she was a fifty-year-old woman who
-hadn't showered in at least two days who was holed up in a dilapidated army
-facility. Glamorous it was not. And being hooked up to electrodes and solve math
-problems or balancing on a chair or any of 100 simple tests to determine if
+what she wanted to see. The truth was drab: she was a woman in her late forties
+who hadn't showered in at least two days who was holed up in a dilapidated army
+facility. Glamorous it was not. And being hooked up to electrodes and solving
+math problems or balancing on a chair or any of 100 simple tests to determine if
 one's brain was on the fritz — it was soul-crushing. And she missed being around
 the people she loved.
 
