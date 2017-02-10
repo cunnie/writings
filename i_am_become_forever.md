@@ -2395,7 +2395,7 @@ Julia nodded. And though there was no head to nod, and she couldn't see him, and
 he couldn't see her, she knew that Tyrion could sense that she was nodding.
 
 "I'd like to ask you about something you said earlier — should I worry about
-Gates? Will he harm us."
+Gates? Will he harm us?"
 
 "Gates is not a 'he'".
 
