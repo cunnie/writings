@@ -4155,10 +4155,11 @@ hall; he could see the circuit panel at the end. He walked towards and opened
 it, and, when he was about to flick the two fifty-amp circuits, a voice behind
 him said, "I wouldn't do that if I were you, Dr. Bernstein."
 
-He turned around. A middle aged police office was behind him. A _big_ middle-aged
-police officer. Dr. Max briefly considered using his jiu-jitsu training, and
-then discarded that notion: it would not go well in the short term, and
-certainly not in the long term: assaulting a police officer was a felony.
+He turned around. A middle aged police office was behind him. A _big_
+middle-aged police officer. Dr. Max briefly considered using his jiu-jitsu
+training, and then discarded that notion: it would not go well in the short
+term, and certainly not in the long term: assaulting a police officer was a
+felony.
 
 He pondered the myth of martial arts. When he first began to study martial arts,
 he assumed that it would turn him into a deadly fighting machine, capable of
@@ -4485,18 +4486,18 @@ plastic rather than tiled. Didn't matter: plastic was as efficient as tile when
 it came to preventing water leaks, especially when one didn't have to worry
 about crumbling grout.
 
-He slept late — it was 8am, and the sun had already risen, when he woke. He
-opened the curtains and he had to admit that the mountains in the background
-made a very impressive view. He also noticed that it was cold, and apparently
-the management decided to save money by keeping the heat as low as possible.
-Easily remedied: he'd wear an undershirt as well as a sweater.
+He slept late — it was 8am, and the sun had already risen when he woke. He
+opened the curtains and had to admit that the mountains in the background made a
+very impressive view. He also noticed that it was cold, and apparently the
+management decided to save money by keeping the heat as low as possible. Easily
+remedied: he'd wear an undershirt as well as a sweater.
 
 He opened his suitcase and knew he was not equipped for this weather — he needed
-some shopping before he set off. He stopped in a clothing store which seemed to
-cater to locals, and after spending a couple of hundred dollars came out with
-enough to keep him warm for the car-ride down and for sleeping in an abandoned
-building with no heating. And water, too. And some jerky — when hungry, jerky
-works in a pinch.
+to do some shopping before he set off. He stopped in a clothing store which
+seemed to cater to locals, and after spending a couple of hundred dollars came
+out with enough to keep him warm for the car-ride down and for sleeping in an
+abandoned building with no heating. And water, too. And some jerky — when
+hungry, jerky works in a pinch.
 
 Dressed in his new clothes, he took a cab back to the airport where he rented a
 4WD and headed down Route 3 to the Ballistic Missile Early Warning System site.
@@ -4534,13 +4535,13 @@ him of his youth, when he started out: he remembered many late nights poring
 over the manuals like some ancient wizard studying a foreign text, hoping to
 find the nugget of information he needed.
 
-And there it was: a rack of three ring binders, label. He opened them up. The
+And there it was: a rack of three ring binders, labelled. He opened them up. The
 Courier typeface, in all its glory. Courier — the working man's typeface. These
-manuals weren't typeset: they were typed up and xeroxed (was that still a
-word?). And the writing: so exact. And every once in a while a very simple line
-diagram. He felt transported to an earlier era, to his youth, when there was no
-Internet, when the manuals were the sole source of information, and thus
-incredibly precious.
+manuals weren't typeset: they were typed and xeroxed (was that still a word?).
+And the writing: so exact. And every once in a while a very simple line diagram.
+He felt transported to an earlier era, to his youth, when there was no Internet,
+when the manuals were the sole source of information, and thus incredibly
+precious.
 
 He began with the "Operator's Manual". Ah yes, this seemed a good start. He
 skimmed through it. Then he jumped to the "Hardware Reference", and then the
@@ -4635,7 +4636,7 @@ on foot.
 
 The sky, which was clear but a few minutes ago, was beginning to mass
 thunderheads. This could get ugly. He remembered the Jack London story, "To
-Build a Fire", about a man who froze to death in the Alaska Wilderness because
+Build a Fire", about a man who froze to death in the Alaskan Wilderness because
 he had been careless. Max wasn't careless. Max was very careful — it was wired
 into his DNA.
 
@@ -4695,12 +4696,12 @@ truly sorry."
 imprisoned. We were hoping that the ..."
 
 "Whoa, slow down there: who is this 'we' that you refer to? You got another
-friend out there?"
+frien' out there?"
 
 "No, not at all. Just me. The friend was trying to help me free the other
 friend, a girl."
 
-"Is the girl your friend?"
+"Is the girl your frien'?"
 
 "Yeah, she's my friend, too. Well, I mean I work for her. Well, I mean I work
 for the guy who works for a guy who works for a guy who works for her."
@@ -4727,7 +4728,7 @@ Max looked around. The cabin was small, but there were fur pelts everywhere.
 "Are you a trapper? A furrier?"
 
 "Let's not worry about me for the time bein'. Let's talk about you, and your
-friend who's trapped."
+frien' who's trapped."
 
 "Oh yes, she's trapped in New Jersey. In a Tokamak."
 
@@ -4914,7 +4915,7 @@ Hunter was quiet. "Okay, I'll help."
 people's affairs, takes time and takes me away from what I want to be doin', but
 I'll help."
 
-"I think I'm okay."
+"I appreciate your offer, but I think I'm okay."
 
 "Let me tell it straight to you, because you seem to have a hard time graspin'
 the truth: you are not okay. You are in trouble. People who wander into my cabin
@@ -4991,7 +4992,7 @@ Max got in the truck. The passengers side was unlocked, too.
 in the back if you want to keep warm."
 
 "Now, Max, I gotta do something. Now you're probably not a religious man, and
-I'm not much of one either, but my Inuit friends taught me a prayer they say
+I'm not much of one either, but my Inuit frien's taught me a prayer they say
 before they go on a hunt, and I like to say it before I step out, so I'm gonna
 bow my head in silence for a minute, and if you'd be kind enough to be quiet
 with me, it'd be much appreciated."
@@ -5008,7 +5009,7 @@ Max nodded, and off they drove.
 Hunter didn't seem to need much sleep, but Max did. He drifted off to sleep. He
 awoke to find the truck bouncing up and down.
 
-"I'm taking side roads to avoid the boarder crossings," he said. "I don't got a
+"I'm taking side roads to avoid the border crossings," he said. "I don't got a
 passport, and you probably don't want to show 'em yours."
 
 "Is that illegal?"
