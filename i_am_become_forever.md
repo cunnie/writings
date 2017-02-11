@@ -3475,7 +3475,8 @@ purple, and it reminded her of black light. She approached — it was like nothi
 she had ever seen. The donut-shaped electromagnetic field was incredibly smooth.
 She reached out and touched it. Hard. She pushed. It didn't budge.
 
-_That's strange_, she thought, _I've never had something resist me like this_.
+_That's strange_, she thought, _I've never encountered anything that could
+resist me like this_.
 
 She pushed hard. Nothing. She pushed harder. Nothing. _Of course it's strong: it
 contains a thermonuclear explosion. It needs to be very strong_.
@@ -3863,17 +3864,6 @@ hole in the desert?"
 fact, we have very few answers. We don't know what she is, we don't know how she
 became what she is, and we don't know the full extent of her abilities. But we
 strongly suspect that unless someone powers-down that Tokamak before fusion
-begins, she will be destroyed" — she never "disappeared"; instead, she underwent
-what was no doubt the most amazing phase change ever to happen on the planet
-Earth.
-
-"How did she transform 55kg of mass into pure energy without blowing a gigantic
-hole in the desert?"
-
-"That is something we are very curious about, and we don't have an answer. In
-fact, we have very few answers. We don't know what she is, we don't know how she
-became what she is, and we don't know the full extent of her abilities. But we
-strongly suspect that unless someone powers-down that Tokamak before fusion
 begins, she will be destroyed."
 
 "How much time do we have?"
@@ -3927,7 +3917,7 @@ located. It will cost approximately $120. You will pay with cash."
 
 The voice continued, "This is where it gets complicated. When the taxi driver
 drops you off, you will cross route 1 to Stellarator Road. You will follow
-Stellarator Road for approximately 1800 feet until you get to the Princeto Lab.
+Stellarator Road for approximately 1800 feet until you get to the Princeton Lab.
 You will be facing the rear of the building, which is where you want to be. You
 will see an emergency exit door to the left that is secured by a chain and a
 lock. The lock is old. You will find the key to the lock 20 feet away secreted
@@ -4013,7 +4003,7 @@ over he'd find out.
 
 He placed his aviator glasses in his pocket. That way if they lost his luggage
 he'd still have the glasses. And he packed the cash in his wallet. It was a good
-thing he had a big wallet. He summoned an Uber to take him to the airport.
+thing he had a big wallet. He summoned a Lyft to take him to the airport.
 
 He checked in without event. He was hours early. There was nothing to do at the
 airport — airports are boring places. Fortunately he brought his laptop, and he
@@ -4066,6 +4056,8 @@ began the trip.
 "I'm going to lay down for a little bit if that's okay." said Dr. Max.
 Excitement notwithstanding, he needed sleep. He stretched out on the back seat.
 Within seconds he was out.
+
+---
 
 "Sir, we are here. Sir, we are here," he woke up to the driver shaking him
 gently.
@@ -4136,7 +4128,7 @@ He wondered what purpose the room had. He remembered the biggest Faraday cage he
 had ever seen — it was the size of an airplane hanger, and it was on location at
 a defense contractor who was working on the GPS system. They needed a place to
 test their GPS products without interfering with the flights on the nearby
-airport (how quickly the airline industry came to depend on GPS).
+airport (LAX) (how quickly the airline industry came to depend on GPS).
 
 But what if they scanned with an infra-red scope? And then he saw the most
 beautiful thing: a stack of blankets in the corner. Perfect! If he got under the
@@ -4163,7 +4155,7 @@ hall; he could see the circuit panel at the end. He walked towards and opened
 it, and, when he was about to flick the two fifty-amp circuits, a voice behind
 him said, "I wouldn't do that if I were you, Dr. Bernstein."
 
-He turned around. A middle aged police office was behind him. A big middle-aged
+He turned around. A middle aged police office was behind him. A _big_ middle-aged
 police officer. Dr. Max briefly considered using his jiu-jitsu training, and
 then discarded that notion: it would not go well in the short term, and
 certainly not in the long term: assaulting a police officer was a felony.
@@ -4201,7 +4193,7 @@ he could ask.
 The police officer looked at him: "Please don't move until my partner arrives."
 
 _"Please". And yet he managed to say it in a way that meant, "don't even think
-of trying that, or you'll regret the day you were born."_
+of trying that, or you'll rue the day you were born."_
 
 Max stood there until he heard footsteps behind him. The officer said, "Please
 place your hands behind you. You are under arrest. You will be handcuffed. You
@@ -4292,7 +4284,7 @@ more time to free Julia, and every second counts."
 
 "That text was out-of-band; it never went through the cell tower. I can't
 communicate with you via cellphone voice because it would require passing
-through a cell tower, and that would reveal our hand."
+through a cell tower, and that would show our hand."
 
 "What is our hand? That is, what's the plan?"
 
@@ -4402,8 +4394,8 @@ security company, and they want to keep out the teenagers. If you appear
 legitimate, they will let you in. They will not check with the DoHS."
 
 "There are 3 large radar dishes. These are massive dishes, weighing 1,500 tons.
-You will drive to the nearest one, which is mounted in building 57. The building
-number is unimportant."
+That's right: tons, not pounds.  You will drive to the nearest one, which is
+mounted in building 57. The building number is unimportant."
 
 You will need to point the radar to 2.1525" above the horizon. And to 146.125º.
 You will need to set the frequence of the radar to exactly 5180.2425 MHz. At
@@ -4458,10 +4450,10 @@ anyone's life, but the life of the highly-thought-of CEO of his company. A week
 ago he would never have guessed he would be in this position.
 
 And she was a highly-thought-of CEO. From without, sure — she had been profiled
-in the industry magazines, and the company financials were well above average.
-But also from within: although prior to this week he hadn't directly worked with
-her directly, he knew people who had, and they all respected her and liked her,
-which was no mean feat.
+in the industry trade magazines, and the company financials were well above
+average. But she was highly-thought-of from within as well: although prior to
+this week he hadn't directly worked with her directly, he knew people who had,
+and they all respected her and liked her, which was no mean feat.
 
 He was still angry at himself for turning on the cell phone. Maybe if instead he
 had used a flashlight, or a lighter, Julia would be free right now. He had been
