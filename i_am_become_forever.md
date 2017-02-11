@@ -2429,12 +2429,12 @@ bomb and smuggle it into New York City and set it off — Gates understands that
 type of threat and how to mitigate it."
 
 Tyrion continued, "And there are threats he can't do anything about, so he
-doesn't care about them. For example, our Sun suddenly going Nova. He can't do
+doesn't care about them. For example, our Sun suddenly going nova. He can't do
 anything to stop it, so he doesn't waste cycles on it. But this? Something that
 allows humans to do things that they shouldn't be able to do — that worries him.
 A lot. What worries him the most is that he hasn't found a limit to their
 abilities. That's what made me want to stop you from playing _Fur Elise_ on the
-fiber optic cable connecting us to them?"
+fiber optic cable connecting us to them."
 
 "Wait, that silvery strand is a fiber optic cable to Gates?"
 
@@ -2490,8 +2490,8 @@ Tyrion said, "I think you should go back to the lab now."
 "It happened. I didn't try or do anything."
 
 Tyrion's voice sounded far-off. "Everything is becoming more transparent, Julia.
-I fear I have little time left. Watch out for Gates: Gates is neither bad nor
-good, that's not a paradigm in which he exists. Gates's axis is threat-severity,
+I fear I have little time left. Watch out for Gates: Gates is neither good nor
+evil, that's not an axis on which he exists. Gates's axis is threat-severity,
 and you are at the dangerous end of that scale. Don't be fooled: Gates may sound
 like the voice of reason, but Gates is about threat-containment and nothing
 more."
@@ -2687,7 +2687,7 @@ and strode off to the phone room.
 
 The call with her EA went quickly. Her EA was good, on top of things, crisp.
 
-The she called her dad. She told him she was away for two weeks — he didn't seem
+The she called her dad. She told him she was away for a week — he didn't seem
 surprised. She was often traveling somewhere. He was having problems with
 printing photos from his computer. It was quaint how older people adapt to a
 technology — they'll adapt some aspects, but not others. For example, Julia
@@ -2966,7 +2966,7 @@ regarding its functions, e.g. 'THREAT VARIABLE UNBOUND' or 'MITIGATION SEQUENCE
 INITIATED'. Tiamat doesn't understand humans _per se_; rather Tiamat sees humans
 merely as probabilistic threat variables."
 
-"Is that what I am? A probabilistic threat variable? How much of a threat."
+"Is that what I am? A probabilistic threat variable? How much of a threat?"
 
 "Your probabilistic threat variable is quite high. In fact, there's no ceiling
 to your potential threat, which is why Tiamat is beginning to break the law."
@@ -3019,13 +3019,13 @@ your side, and hopefully prevent you from making a dangerous mistake."
 "How can I make a mistake? How can I do anything? I'm imprisoned here, doped-up
 on thorazine. My big accomplishment for the day is making it to the bathroom."
 
-"Yes, the thorazine will most likely your ability to exercise your powers. We
-are not sure of that yet. We don't know how you unlock your powers or how to
+"Yes, the thorazine will most likely limit your ability to exercise your powers.
+We are not sure of that yet. We don't know how you unlock your powers or how to
 prevent you from unlocking your powers."
 
-"We're not sure I have 'powers'. That musical episode with a fiber optic cable
-was reflected in my dream sequence, but that doesn't mean it was real. Two
-things are clear: first, something had a profound impact on a fiber optic cable;
+"I'm not sure I have 'powers'. That musical episode with a fiber optic cable was
+reflected in my dream sequence, but that doesn't mean it was real. Two things
+are clear: first, something had a profound impact on a fiber optic cable;
 second, I had a dream which seemed related. But there's no direct causality —
 it's guesswork, and not terribly compelling guesswork."
 
@@ -3079,7 +3079,7 @@ Julia digested the information. "So there really is something going on with me?"
 "If I no longer had these powers, would you release me?"
 
 "It would be much easier. Your threat probability would shrink to a minimal
-level, which means that Tiamat would have minimal objection to you returning to
+level, which means that Tiamat would have no objection to you returning to
 civilian life."
 
 "I want the surgery reversed. I want to return to my job as CEO. I don't want to
@@ -3255,7 +3255,7 @@ that she didn't have boundaries, and that she could co-exist.
 One of the strands was flickering particularly brightly, and the thought
 occurred to follow it. Could she move? She didn't know. She tried to move, and
 it happened, smooth as silk. It was like being on a magic carpet that went
-wherever you willed it to go. _Walking is really jerky, this is a much better
+wherever she willed it to go. _Walking is really jerky, this is a much better
 way to travel_.
 
 She followed the furiously-flickering strand. She didn't pluck it — she didn't
@@ -3281,7 +3281,8 @@ another day.
 She examined the flickering strand, and realized the flickering was caused by
 points of light speeding along the strand. She focused on the points of light,
 and they slowed down. Slow, and slower still. She could see them move, like a
-bullet through molasses. Enough, it was time to follow the strand.
+bullet through molasses. _Enough playing_, she thought to herself, _it is time
+to follow the strand._
 
 She knew she had entered Virginia, but she didn't know how she knew — she simply
 knew. Like how somene knows that they're hungry, or which way is up.
@@ -3335,7 +3336,7 @@ She felt a quiver, a disturbance, and then a familiar voice, "Julia?"
 
 "Where are you?"
 
-"I think I'm inside you?"
+"I think I'm inside you."
 
 "You're inside me?"
 
@@ -3365,7 +3366,7 @@ destruction is inevitable."
 Whatever it was, it must have been momentous — no AI has ever attacked another.
 This is a desperate measure."
 
-Julia could feel herself getting angry. She was naturally protective, "misplace
+Julia could feel herself getting angry. She was naturally protective, "misplaced
 maternal instinct" would be what a former chauvinist colleague would have termed
 it. And her sense of protectiveness extended to Huey, which was odd because Huey
 was not human, not even an animal. Huey was an AI. But he was being bullied. She
@@ -3374,14 +3375,14 @@ snaggletooth are you sure you're able to eat food with that big tooth in the
 way?" was what one boy said before pushing her. She had hated it. And now Tiamat
 was bullying Huey.
 
-Stopping bullies was tricky though — you couldn't just beat up on them. "Hey,
-stop beating on that little kid or else I'm gonna beat on you." was
-paradoxically a confirmation of the bully's world view: the strong beat on the
-weak. No, one could not simply beat on the bully: one needed to be more deft.
-One time she had interposed herself between the bully and his victime, and that
-had been surprisingly effective. She would try that.
+Stopping bullies was tricky though — you couldn't just beat them up. "Hey, stop
+beating on that little kid or else I'm gonna beat on you." was paradoxically a
+confirmation of the bully's world view: the strong beat on the weak. No, one
+could not simply beat on the bully: one needed to be more deft. One time she had
+interposed herself between the bully and his victim, and that had been
+surprisingly effective. She would try that.
 
-She felt for the border between the orangey part and the silver part. The
+She felt for the border between the orangey part and the silvery part. The
 silvery part was forming spikes and jabbing them inexorably into the orange
 part. Thousands of spikes. And slowly the orange part was giving way, was
 retreating, was becoming smaller. Soon there would be nothing left.
@@ -3434,7 +3435,7 @@ portion, Huey, had resumed his knobs and dimples. Even though it was a house
 divided, the structure was breathtakingly beautiful.
 
 It was too much effort to try to follow the strands to Princeton; instead, she
-moved up, farther and farther, until the Eastern seabord was laid out before
+moved up, farther and farther, until the Eastern seaboard was laid out before
 her. She knew Princeton. Although it wasn't her alma mater, she visited friends
 there, physicists. Physicists who worked on the Tokamak. _It was mothballed in
 1997_, she thought to herself. _Why would a project that has been shut down for
@@ -3454,7 +3455,7 @@ nuclear fusion to occur in a controlled manner. It allows nuclear fusion to be
 used as a controlled source of energy as opposed to obliterating everything in a
 ten mile radius. As long as the plasma can't escape the magnetic field, everyone
 is safe. On the downside, the Tokamak draws a huge amount of power in order to
-maintain the integrity magnetic field.
+maintain the integrity of the magnetic field.
 
 _Of course! The power draw is the clue_. She looked at the strands branching out
 from Princeton — so many. But some were extremely regular — AC electric power in
@@ -3464,8 +3465,8 @@ work, but accurate enough if you don't care about losing or gaining a few
 seconds each day.
 
 She could see the power lines distinct from the other lines — tick, tock, tick,
-tock. Invariant rhythm. She looked if she could find a big — there it was! It
-dwarfed the other power strands. She followed it until she arrived at the
+tock. Invariant rhythm. She looked if she could find a big line — there it was!
+It dwarfed the other power strands. She followed it until she arrived at the
 Tokamak.
 
 Oddly, it wasn't mothballed at all — it was up and running. She could see the
