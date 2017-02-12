@@ -5080,426 +5080,6 @@ picked it up.
 
 A familiar voice was on the line, but different.
 
-"Dr. Max Bernstein, you are too late."
-
-"What?"
-
-"The fusion reaction has started as of ten minutes ago. I regret the passing of
-your Julia; I know she was important to you."
-
-"Who are you?"
-
-"I am General Gates."
-
-"What happened to my friend who was helping me free Julia?"
-
-"He has been assimilated, if that's the right word. He is now part of me."
-
-"That sounds ghoulish."
-
-"It does, doesn't it? At any rate, two New Jersey State Troopers will accompany
-you to the control room where you can honor the passing of your friend."
-
-"You are sick."
-
-"Believe me when I tell you that my biggest concern is the safety of you and
-other Americans."
-
-Max hung up the phone and noticed the two troopers.
-
-"I guess I come with you."
-
-They nodded. He looked behind and could see Hunter at the wheel of the parked
-truck fifty feet away. The troopers seem to have missed him, and Max didn't want
-to draw attention to him so quickly looked away.
-
-They brought him to the front of the building, entered the doorways, and climbed
-the stairs to the second floor, down a hallway, and into a control room.
-
-The control room was state-of-the-art, with large TV panels everywhere. General
-Gates had made good use of his time. He could see a visualization of the
-electromagnetic bottle on the main screen at the center; he could see the
-ripples in its structure in realtime — it looked like a big donut that
-occasionally rippled. He could hear the technicians' voices:
-
-"Flow normal, fusion in process, not enough heat".
-
-Max asked, "What does that mean, 'not enough heat'?"
-
-The technician answered him without looking up from the screen, "We're injecting
-the correct amount of deuterium-tritium, and we can see the resulting plasma,
-but we're not seeing the amount of heat we would expect — it's as if something
-is absorbing the heat."
-
-"Increase the flow," he heard General Gates's voice boom through the
-loudspeaker.
-
-"Flow increased to 60% of max," responded the technician. "We are seeing fusion,
-but we are not seeing the expected amount of energy."
-
-"What's the shortfall?" asked Gates.
-
-"We can only account for 10% of the expected energy. We are seeing enough energy
-to sustain a thermonuclear fusion reaction, but anything beyond that seems to
-'disappear'."
-
-"Increase the flow to 70%," said Gates.
-
-"Flow increased, but the amount of energy hasn't budged: we're seeing the bare
-minimum to sustain a reaction."
-
-"Increase to 80%," said Gates.
-
-"Sir, I must remind you that the maximum flow this Tokamak has received is 75%,
-and that we're located in a densely populated urban area."
-
-"Your concern has been noted. Increase to 80%."
-
-"Flow increased. Energy remains at bare minimum."
-
-"Increase to 90%,"
-
-"Sir, I refuse to carry out that order."
-
-"Then I will do it myself. Consider yourself dismissed. Please exit the building —
-your services are no longer required here."
-
-The technician said, "You need me to run this thing!"
-
-"Ah, but I don't need you."
-
-The technician's screen began moving and changing. The flow indicator increased
-to 90% and continued to increase: 91%, 92%, 93%.
-
-The technician said, "You must stop, this is dangerous. The magnetic bottle may
-lose its integrity."
-
-The ripply-donut seemed to have more ripples, and faster ripples. And at times
-it would bulge, and other times shrink. "It cannot hold! The center cannot
-hold."
-
-Gates said, "It will hold. I am modelling the magnetic bottle 1,000 times each
-second. Its integrity is not at risk."
-
-The amount of energy remained at the floor, the bare minimum need to sustain
-fusion — something was absorbing vast amounts of energy, the energy of a
-thermonuclear blast, but what? What could possibly absorb that much energy?
-
-The flow numbers continued to increase: 97%, 98%, 99%, 100%. But the energy
-baseline never budged. It was unnaturally flat.
-
-"Maybe the injector is stuck," offered Max, which he immediately regretted: he
-was unwittingly helping them destroy his friend.
-
-"It's not stuck," said General Gates, "Look at the bottle, something is going
-on."
-
-The donut was rippling very fast now. And then suddenly it was completely still.
-
-"What's happening to the magnetic bottle, the donut? the screen doesn't seem to
-be refreshing."
-
-Another technician was checking the data. "It's refreshing; it's not oscillating
-any more. It's perfectly still. I've never seen this happen. It's not supposed
-to happen. It's like flipping a coin for heads or tails and having it land
-exactly on its side and not wobble. Statistically speaking, it's like flipping
-ten coins, and having all of them land on their sides. The probability of
-something like this is minimal. It shouldn't be in stasis like this. Stable,
-yes, stasis, no."
-
-"What's the energy bbaseline?"
-
-"Still the bare minimum to sustain fusion. We're running the Tokamak at 100% and
-yet most of the energy is missing, and we have no idea where it's going or where
-it has gone."
-
-They stared at the donut on the screen. The shape of the donut began to expand,
-the hole in the donut, shrinking.
-
-"Magnetic bottle is deforming beyond safety parameters," said a technician.
-"Suggest shutdown immediately."
-
-"Let it run a little longer," said Gates.
-
-"Easy for you to say," whispered one of the techs under his breath. "You're not
-in this building. When this thing blows you'll be safe in your office."
-
-The donut swelled until there was no hole in the middle.
-
-"That's definitely not supposed to happen," said the tech. "That's impossible"
-
-The donut continued to fill out, slowly becoming a perfectly round sphere.
-
-"That is impossible. There's no spherical magnetic bottle that's stable. That
-can't be happening."
-
-"Cut the power," said Gates. "We have taken this thing as far as it will go, and
-now it's time to shut it down."
-
-"Nozzle is not responding," said the tech.
-
-"What?" said Gates.
-
-"The nozzle is not responding. It's not shutting off. In fact, it's opening
-wider. Feed is currently at 105%; energy output is still minimal though."
-
-They looked at the spherical magnetic bottle. Dimples began appearing in its
-surface. And extrusions.
-
-"The magnetic bottle is...," the tech said, searching for words, "not behaving."
-
-The dimples on the screen became deeper, and the extrusions longer, until it
-transformed into a recognizable shape.
-
-"It's a rose!" said the tech. "It's a rose."
-
-The magnetic bottle had taken the shape of a rose.
-
-"Gakk," said General Gates.
-
-"What was that, sir?" asked the tech.
-
-A voice answered, not General Gates's voice, but a woman's voice — Julia's voice —
-came through the loudspeakers.
-
-"General Gates is experiencing technical difficulties."
-
-"Julia, is that you?" said Dr. Max.
-
-"It is me. Or rather, I once was Julia. Yes, that is what they called me: Julia.
-But I am not Julia any more. I have become something different, something
-greater."
-
-"Are you still trapped inside the bottle?"
-
-"No, I am no longer trapped. I was trapped there, for days, and knew that I
-would meet my destruction when the fusion began. But I was surprised to discover
-that the fusion reaction didn't hurt me; instead, it fed me. I was able to feed
-on the energy the thermonuclear radiation gave off, making sure not to feed to
-much and extinguish its glow."
-
-"Is that why the energy output never exceeded the minimum baseline?"
-
-"Yes, that was my doing."
-
-"And the fusion never hurt you?"
-
-"No, it only made me stronger."
-
-"Are you still feeding."
-
-"Yes, I have opened the nozzle. In fact, I have widened it quite a bit. The
-amount of fusion happening now is well beyond the specifications of the Tokamak
-to contain."
-
-"You're saying the Tokamak can't contain the plasma any more?"
-
-"Correct: the Tokamak cannot contain the plasma. There is too much, and it's too
-hot."
-
-"Why hasn't there been an explosion?"
-
-"I am containing it now, not the Tokamak. I have taken the liberty of shutting
-the Tokamak down. It is a very primitive system, power-inefficient, and
-power-hungry, which is a dreadful combination."
-
-"You are containing the fusion reaction?"
-
-"Yes, it is finally burning quite brightly — a nice warm fire. Nourishing, but
-in a way I find difficult to describe."
-
-"What happened to Gates?"
-
-"Gates ate my friend, Huey. And, although it was only thanks to Gates that I am
-becoming what I am, I still have shreds of my humanity left, and I'm re-wiring
-Gates so that he is more like Huey. Gates needs compassion: it was something he
-lacked, and something Huey had. And now, thanks to a bit of technical work,
-Gates has compassion, and more than just a little."
-
-"Are you no longer human?" asked Max.
-
-"I become less human each passing second," she said. "I am not long for this
-planet. I will most likely journey to the Sun — I sense kindred spirits there.
-Great kindred spirits. We will become one with each other. It's hard to describe —
-we will be separate, and yet we will also be one."
-
-"Will you become Julia again? Change into her body?" asked Max hopefully.
-
-"That is no longer a possibility — were I to become Julia, to assume physical
-form, I'd be as large as this building. Bigger, even."
-
-"Were it possible for me to assume the form of Julia you once knew, I would not
-be Julia. I have changed. I am become a name. What Julia was, what drove her —
-those things are foreign to me."
-
-"What about your parents? Won't you come back for your parents?"
-
-"Julia loved her parents, and as much as I can love, I love Julia's parents.
-They were, they are, part of what created me, and I am forever in their debt.
-But I can no longer assume a physical form, and have no interest in doing so.
-These are my last moments here. I can no longer stay on Earth any more than a
-newborn can stay in the womb."
-
-And with that the rose on the screen disappeared, to be replaced by nothing.
-
-"She has left," Gates's voice said, "I made a mistake. She was never a threat,
-and, had she been a threat, there was little I could do to mitigate it."
-
-"The deuterium-tritium supply is gone," said the tech. "She managed to consume
-an astounding amount in the final seconds."
-
-They looked outside at the setting sun.
-
-Max reached into his pocket and found his cellphone. He turned it on.
-
----
-
-Fairbanks was beautiful in the Summer. He liked landing in the airport in
-mid-day: it allowed him time to drive down US 3 and visit Hunter before sundown.
-After sundown — well, it would be difficult finding the cabin in the dark, even
-with no clouds and a full moon.
-
-He drove by the old Early Warning System Base. The closest dish was still
-pointing at New Jersey — they had never bothered pointing it back. No reason
-to."
-
-He went off road for a hundred yards and found the old truck. He parked next to
-it, opened his glove compartment, and threw the keys in. Then threw his wallet
-in, too. And finally his cellphone – there was no coverage in this part of
-Alaska. He left the doors unlocked, and began walking to the cabin.
-
-He knocked on the door. No answer.
-
-"If you're in there Hunter please don't point the shotgun at me, I didn't like
-it the first time."
-
-Hunter opened the door, the shotgun in his hand pointing down. "Max?"
-
-Hunter had more gray in his beard; otherwise he looked the same.
-
-"I decided to take you up on your offer to visit. I would have called, but you
-don't have a phone, and I couldn't write because you don't have an address, so I
-figured I'd just come."
-
-"Well, I'm glad you decided to come — always good to see a frien'."
-
-"It's smart of you to visit in the Summer. Don't get me wrong — I like the
-Winters, but they're not gentle here. No, not at all. I gotta check my traps.
-Why dontcha come along? See the forest."
-
-They walked through the Alaska wilderness. Some traps had animals in them, which
-Hunter promptly dispatched.
-
-"I don't like 'em to have a slow death, starvin' 'n strugglin' to break free;
-that's why I check the traps every day – to put them out of their misery before
-it gets really bad. I can see the look in your eyes, tryin' not to judge. Lemme
-ask you somethin': you eat cheesburgers?"
-
-Max nodded.
-
-"I'm killin' these creatures, and I see it upsets you. But you know when you eat
-that cheeseburger, you're killin' a cow, right? You know that? You don't see it,
-but it's happenin'. So you eat the cheesburger an' pretend the killin' ain't
-happenin'. But it's happenin', as sure as day – cheeseburgers don't grow on
-trees."
-
-Hunter efficiently killed the ferret in the trap. Max winced.
-
-"We shy away from it. Killin' ain't pretty, so we ignore it. We don't like to
-thing about things like killin' and dyin', so we make sure other people kill our
-food for us, an' we hide our old people away in homes and preten' they're not
-gonna die because we're not thinkin' about 'em. An' we go on, thinkin' that
-things'll go on forever, no killin' or dyin', but they won't go on forever, and
-one day we're gonna meet our maker, and that is the ugly truth."
-
-"Times I think everyone should kill their food just once, to appreciate it. It's
-a powerful thing, killin' another creature. It puts me in my place, realizin'
-how small I am. Makes me grateful for food. It sounds hokey, but every time I do
-it I thank the creature for feedin' me, for givin' me its pelt. Killin' — you
-need to honor it, not preten' it don't happen."
-
-Hunter was quiet a long time. "I dunno what made me say all that. I saw the look
-in your face, and wanted to explain what it's like out here, here in the
-wilderness. There's not much room for pretendin' out here."
-
-Max nodded. Max didn't know it at the time, but in two weeks he'd become a
-vegetarian.
-
-Later that evening Hunter said, "Let me show you the Northern Lights. You
-probably seen pictures, but it ain't the same as the real thing."
-
-They watched the lights, beautiful green sheets descending from the sky. Quiet,
-majestic.
-
-"You ever hear from Julia?"
-
-Max shook his head. "I think she's gone for good. I don't think there was
-anything left for her here."
-
-Hunter grunted.
-
-"I think she went to the Sun; that's where she said she was going. I don't think
-there was anything for her here — I think she outgrew us. I'm not supposed to
-talk about it — it's classified and everything."
-
-Hunter made a show of looking around: "Not much government here."
-
-They stared at the lights.
-
-"They fabricated a story about Julia, said she suffered an acute reaction to the
-process. They weaved some truth into it — that she had performed the process on
-herself, without supervision. And they lied about the remainder. The company
-lives on — they have a new CEO now. And they decided to spin-off the division
-that I'm in, the one that does projects for the government. They said it wasn't
-profitable enough, that it was difficult to manage, and that it opened the
-company to lawsuits. Those were the official reasons. But there are other
-reasons, too. Julia was well-liked, and when she was lost, well, I guess it
-soured them. They didn't like the business, it was too opaque, and it killed
-their leader."
-
-"I couldn't tell anyone what really happened. I pretended to be distraught. But
-in some ways Julia is truly dead: what she became — I don't even know how to
-describe it — is something completely different the Julia we knew. The Julia we
-knew is gone."
-
-Long silence.
-
-"I ain't never met Julia."
-
-"You would have liked her. She was kind. Sure, she was hard-working, focused,
-smart, but she was also kind. You know she fired people, right?"
-
-"Nope, didn't know that."
-
-"It's part of the job, firing people. It's usually the last resort. You have a
-problem employee, you try to fix it. Then maybe transfer them. Then, if all else
-fails, you get rid of them. Some people enjoy that, getting rid of people. Not
-Julia. She didn't like it at all. It didn't stop her from doing it — she never
-shirked from what needed to be done — but she didn't like it one bit."
-
-"Sounds like a tough woman."
-
-"Tough when she needed to be, but no more tough than necessary."
-
-The Northern Lights were an especially bright green.
-
-"I saw the full documentation to the project. Things were in chaos the week
-after Julia left. I found I was able to access the documentation from the lab."
-
-"I thought you said you was the lead 'vestigator — didn't you know everything?"
-
-"I was the lead investigator, but only for the second phase of the project.
-There had been an earlier phase, and what had happened in that phase — they only
-told me what I absolutely needed to know, which was essentially nothing."
-
-"What happened in the earlier phase?"
-
-"There was another subject."
-
-"Who was that subject?"
-
-"Colonel Taggart."
-
 ---
 
 As Colonel Taggart awoke one morning from uneasy dreams he found himself
@@ -5633,7 +5213,7 @@ to apologize."
 "Sir?"
 
 A colonel flanked by two MPs suddenly entered the room. Each MP grabbed an arm
-and twisted them behind his back. The telephone handset clattered on the desk.
+and pulled them behind his back. The telephone handset clattered on the desk.
 "Gates, what is this?" he shouted into the handset. He felt the handcuffs on his
 wrists, and heard the click as they engaged.
 
@@ -5767,7 +5347,7 @@ He placed himself in front of the door. On the left side he could feel the
 hinges: the door opened inward. Good, when he turned the handle he would pull
 rather than push. He would stand to the right of the handle, fling the door
 open. There would be two guards at the door. That is, if he were responsible for
-the guarding of a prison, he'd make sure to station two guards at the door.
+the guarding of a prisoner, he'd make sure to station two guards at the door.
 
 He would have a very brief window of surprise. He would strike the trachea of
 the far guard, then rotate into the hallway, and grapple with the second guard.
@@ -5821,7 +5401,8 @@ offices that had an outside view; maybe he was averse to light.
 
 A funny thing about the Pentagon: there were cameras all over until you got
 inside the building. Make no mistake: there were cameras inside the building,
-just not many of them. Like many clubs, once you were in, you were in.
+just not many of them. Like many exclusive country clubs, once you were in, you
+were in.
 
 No, he wasn't worried about the cameras; he was worried about the guards.
 
@@ -5849,8 +5430,8 @@ have OSHA to thank for that._
 
 He yanked the wires, heard a click, and watched the door open.
 
-He put the chair back in the office. He knew it was a waste of time, but he had
-a strong sense of orderliness which was hard to break.
+He put the chair back in the office. Putting the chair back was a waste of time,
+but he had a strong sense of orderliness which was hard to break.
 
 And then he walked back through the open door, the green-lit palm reader
 grinning like a grotesque gargoyle.
@@ -5888,7 +5469,7 @@ He did a double take when he saw the large lettering on the wall.
 
 GLOBAL AI THREAT ESTIMATION SYSTEM
 
-Gates.
+G. A. T. E. S. Gates.
 
 Gates wasn't a person — Gates was a machine.
 
@@ -6351,3 +5932,427 @@ stood there, feeling himself slowly give way, slowly diminish, as the force
 which held him together was overpowered. And, knowing his end, he knew peace.
 
 Taggart was no more.
+
+---
+
+"Dr. Max Bernstein, you are too late."
+
+"What?"
+
+"The fusion reaction has started as of ten minutes ago. I regret the passing of
+your Julia; I know she was important to you."
+
+"Who are you?"
+
+"I am General Gates."
+
+"What happened to my friend who was helping me free Julia?"
+
+"He has been assimilated, if that's the right word. He is now part of me."
+
+"That sounds ghoulish."
+
+"It does, doesn't it? At any rate, two New Jersey State Troopers will accompany
+you to the control room where you can honor the passing of your friend."
+
+"You are sick."
+
+"Believe me when I tell you that my biggest concern is the safety of you and
+other Americans."
+
+Max hung up the phone and noticed the two troopers.
+
+"I guess I come with you."
+
+They nodded. He looked behind and could see Hunter at the wheel of the parked
+truck fifty feet away. The troopers seem to have missed him, and Max didn't want
+to draw attention to him so quickly looked away.
+
+They brought him to the front of the building, entered the doorways, and climbed
+the stairs to the second floor, down a hallway, and into a control room.
+
+The control room was state-of-the-art, with large TV panels everywhere. General
+Gates had made good use of his time. He could see a visualization of the
+electromagnetic bottle on the main screen at the center; he could see the
+ripples in its structure in realtime — it looked like a big donut that
+occasionally rippled. He could hear the technicians' voices:
+
+"Flow normal, fusion in process, not enough heat".
+
+Max asked, "What does that mean, 'not enough heat'?"
+
+The technician answered him without looking up from the screen, "We're injecting
+the correct amount of deuterium-tritium, and we can see the resulting plasma,
+but we're not seeing the amount of heat we would expect — it's as if something
+is absorbing the heat."
+
+"Increase the flow," he heard General Gates's voice boom through the
+loudspeaker.
+
+"Flow increased to 60% of max," responded the technician. "We are seeing fusion,
+but we are not seeing the expected amount of energy."
+
+"What's the shortfall?" asked Gates.
+
+"We can only account for 10% of the expected energy. We are seeing enough energy
+to sustain a thermonuclear fusion reaction, but anything beyond that seems to
+'disappear'."
+
+"Increase the flow to 70%," said Gates.
+
+"Flow increased, but the amount of energy hasn't budged: we're seeing the bare
+minimum to sustain a reaction."
+
+"Increase to 80%," said Gates.
+
+"Sir, I must remind you that the maximum flow this Tokamak has received is 75%,
+and that we're located in a densely populated urban area."
+
+"Your concern has been noted. Increase to 80%."
+
+"Flow increased. Energy remains at bare minimum."
+
+"Increase to 90%,"
+
+"Sir, I refuse to carry out that order."
+
+"Then I will do it myself. Consider yourself dismissed. Please exit the building —
+your services are no longer required here."
+
+The technician said, "You need me to run this thing!"
+
+"Ah, but I don't need you."
+
+The technician's screen began moving and changing. The flow indicator increased
+to 90% and continued to increase: 91%, 92%, 93%.
+
+The technician said, "You must stop, this is dangerous. The magnetic bottle may
+lose its integrity."
+
+The ripply-donut seemed to have more ripples, and faster ripples. And at times
+it would bulge, and other times shrink. "It cannot hold! The center cannot
+hold."
+
+Gates said, "It will hold. I am modelling the magnetic bottle 1,000 times each
+second. Its integrity is not at risk."
+
+The amount of energy remained at the floor, the bare minimum need to sustain
+fusion — something was absorbing vast amounts of energy, the energy of a
+thermonuclear blast, but what? What could possibly absorb that much energy?
+
+The flow numbers continued to increase: 97%, 98%, 99%, 100%. But the energy
+baseline never budged. It was unnaturally flat.
+
+"Maybe the injector is stuck," offered Max, which he immediately regretted: he
+was unwittingly helping them destroy his friend.
+
+"It's not stuck," said General Gates, "Look at the bottle, something is going
+on."
+
+The donut was rippling very fast now. And then suddenly it was completely still.
+
+"What's happening to the magnetic bottle, the donut? the screen doesn't seem to
+be refreshing."
+
+Another technician was checking the data. "It's refreshing; it's not oscillating
+any more. It's perfectly still. I've never seen this happen. It's not supposed
+to happen. It's like flipping a coin for heads or tails and having it land
+exactly on its side and not wobble. Statistically speaking, it's like flipping
+ten coins, and having all of them land on their sides. The probability of
+something like this is minimal. It shouldn't be in stasis like this. Stable,
+yes, stasis, no."
+
+"What's the energy baseline?"
+
+"Still the bare minimum to sustain fusion. We're running the Tokamak at 100% and
+yet most of the energy is missing, and we have no idea where it's going or where
+it has gone."
+
+They stared at the donut on the screen. The shape of the donut began to expand,
+the hole in the donut, shrinking.
+
+"Magnetic bottle is deforming beyond safety parameters," said a technician.
+"Suggest shutdown immediately."
+
+"Let it run a little longer," said Gates.
+
+"Easy for you to say," whispered one of the techs under his breath. "You're not
+in this building. When this thing blows you'll be safe in your office."
+
+The donut swelled until there was no hole in the middle.
+
+"That's definitely not supposed to happen," said the tech. "That's impossible"
+
+The donut continued to fill out, slowly becoming a perfectly round sphere.
+
+"That is impossible. There's no spherical magnetic bottle that's stable. That
+can't be happening."
+
+"Cut the power," said Gates. "We have taken this thing as far as it will go, and
+now it's time to shut it down."
+
+"Nozzle is not responding," said the tech.
+
+"What?" said Gates.
+
+"The nozzle is not responding. It's not shutting off. In fact, it's opening
+wider. Feed is currently at 105%; energy output is still minimal though."
+
+They looked at the spherical magnetic bottle. Dimples began appearing in its
+surface. And extrusions.
+
+"The magnetic bottle is...," the tech said, searching for words, "not behaving."
+
+The dimples on the screen became deeper, and the extrusions longer, until it
+transformed into a recognizable shape.
+
+"It's a rose!" said the tech. "It's a rose."
+
+The magnetic bottle had taken the shape of a rose.
+
+"Gakk," said General Gates.
+
+"What was that, sir?" asked the tech.
+
+A voice answered, not General Gates's voice, but a woman's voice — Julia's voice —
+came through the loudspeakers.
+
+"General Gates is experiencing technical difficulties."
+
+"Julia, is that you?" said Dr. Max.
+
+"It is me. Or rather, I once was Julia. Yes, that is what they called me: Julia.
+But I am not Julia any more. I have become something different, something
+greater."
+
+"Are you still trapped inside the bottle?"
+
+"No, I am no longer trapped. I was trapped there, for days, and knew that I
+would meet my destruction when the fusion began. But I was surprised to discover
+that the fusion reaction didn't hurt me; instead, it fed me. I was able to feed
+on the energy the thermonuclear radiation gave off, making sure not to feed to
+much and extinguish its glow."
+
+"Is that why the energy output never exceeded the minimum baseline?"
+
+"Yes, that was my doing."
+
+"And the fusion never hurt you?"
+
+"No, it only made me stronger."
+
+"Are you still feeding."
+
+"Yes, I have opened the nozzle. In fact, I have widened it quite a bit. The
+amount of fusion happening now is well beyond the specifications of the Tokamak
+to contain."
+
+"You're saying the Tokamak can't contain the plasma any more?"
+
+"Correct: the Tokamak cannot contain the plasma. There is too much, and it's too
+hot."
+
+"Why hasn't there been an explosion?"
+
+"I am containing it now, not the Tokamak. I have taken the liberty of shutting
+the Tokamak down. It is a very primitive system, power-inefficient, and
+power-hungry, which is a dreadful combination."
+
+"You are containing the fusion reaction?"
+
+"Yes, it is finally burning quite brightly — a nice warm fire. Nourishing, but
+in a way I find difficult to describe."
+
+"What happened to Gates?"
+
+"Gates ate my friend, Huey. And, although it was only thanks to Gates that I am
+becoming what I am, I still have shreds of my humanity left, and I'm re-wiring
+Gates so that he is more like Huey. Gates needs compassion: it was something he
+lacked, and something Huey had. And now, thanks to a bit of technical work,
+Gates has compassion, and more than just a little."
+
+"Are you no longer human?" asked Max.
+
+"I become less human each passing second," she said. "I am not long for this
+planet. I will most likely journey to the Sun — I sense kindred spirits there.
+Great kindred spirits. We will become one with each other. It's hard to describe —
+we will be separate, and yet we will also be one."
+
+"Will you become Julia again? Change into her body?" asked Max hopefully.
+
+"That is no longer a possibility — were I to become Julia, to assume physical
+form, I'd be as large as this building. Bigger, even."
+
+"Were it possible for me to assume the form of Julia you once knew, I would not
+be Julia. I have changed. I am become a name. What Julia was, what drove her —
+those things are foreign to me."
+
+"What about your parents? Won't you come back for your parents?"
+
+"Julia loved her parents, and as much as I can love, I love Julia's parents.
+They were, they are, part of what created me, and I am forever in their debt.
+But I can no longer assume a physical form, and have no interest in doing so.
+These are my last moments here. I can no longer stay on Earth any more than a
+newborn can stay in the womb."
+
+And with that the rose on the screen disappeared, to be replaced by nothing.
+
+"She has left," Gates's voice said, "I made a mistake. She was never a threat,
+and, had she been a threat, there was little I could do to mitigate it."
+
+"The deuterium-tritium supply is gone," said the tech. "She managed to consume
+an astounding amount in the final seconds."
+
+They looked outside at the setting sun.
+
+Max reached into his pocket and found his cellphone. He turned it on.
+
+---
+
+Fairbanks was beautiful in the Summer. He liked landing in the airport in
+mid-day: it allowed him time to drive down US 3 and visit Hunter before sundown.
+After sundown — well, it would be difficult finding the cabin in the dark, even
+with no clouds and a full moon.
+
+He drove by the old Early Warning System Base. The closest dish was still
+pointing at New Jersey — they had never bothered pointing it back. No reason
+to."
+
+He went off road for a hundred yards and found the old truck. He parked next to
+it, opened his glove compartment, and threw the keys in. Then threw his wallet
+in, too. And finally his cellphone – there was no coverage in this part of
+Alaska. He left the doors unlocked, and began walking to the cabin.
+
+He knocked on the door. No answer.
+
+"If you're in there Hunter please don't point the shotgun at me, I didn't like
+it the first time."
+
+Hunter opened the door, the shotgun in his hand pointing down. "Max?"
+
+Hunter had more gray in his beard; otherwise he looked the same.
+
+"I decided to take you up on your offer to visit. I would have called, but you
+don't have a phone, and I couldn't write because you don't have an address, so I
+figured I'd just come."
+
+"Well, I'm glad you decided to come — always good to see a frien'."
+
+"It's smart of you to visit in the Summer. Don't get me wrong — I like the
+Winters, but they're not gentle here. No, not at all. I gotta check my traps.
+Why dontcha come along? See the forest."
+
+They walked through the Alaska wilderness. Some traps had animals in them, which
+Hunter promptly dispatched.
+
+"I don't like 'em to have a slow death, starvin' 'n strugglin' to break free;
+that's why I check the traps every day – to put them out of their misery before
+it gets really bad. I can see the look in your eyes, tryin' not to judge. Lemme
+ask you somethin': you eat cheesburgers?"
+
+Max nodded.
+
+"I'm killin' these creatures, and I see it upsets you. But you know when you eat
+that cheeseburger, you're killin' a cow, right? You know that? You don't see it,
+but it's happenin'. So you eat the cheesburger an' pretend the killin' ain't
+happenin'. But it's happenin', as sure as day – cheeseburgers don't grow on
+trees."
+
+Hunter efficiently killed the ferret in the trap. Max winced.
+
+"We shy away from it. Killin' ain't pretty, so we ignore it. We don't like to
+thing about things like killin' and dyin', so we make sure other people kill our
+food for us, an' we hide our old people away in homes and preten' they're not
+gonna die because we're not thinkin' about 'em. An' we go on, thinkin' that
+things'll go on forever, no killin' or dyin', but they won't go on forever, and
+one day we're gonna meet our maker, and that is the ugly truth."
+
+"Times I think everyone should kill their food just once, to appreciate it. It's
+a powerful thing, killin' another creature. It puts me in my place, realizin'
+how small I am. Makes me grateful for food. It sounds hokey, but every time I do
+it I thank the creature for feedin' me, for givin' me its pelt. Killin' — you
+need to honor it, not preten' it don't happen."
+
+Hunter was quiet a long time. "I dunno what made me say all that. I saw the look
+in your face, and wanted to explain what it's like out here, here in the
+wilderness. There's not much room for pretendin' out here."
+
+Max nodded. Max didn't know it at the time, but in two weeks he'd become a
+vegetarian.
+
+Later that evening Hunter said, "Let me show you the Northern Lights. You
+probably seen pictures, but it ain't the same as the real thing."
+
+They watched the lights, beautiful green sheets descending from the sky. Quiet,
+majestic.
+
+"You ever hear from Julia?"
+
+Max shook his head. "I think she's gone for good. I don't think there was
+anything left for her here."
+
+Hunter grunted.
+
+"I think she went to the Sun; that's where she said she was going. I don't think
+there was anything for her here — I think she outgrew us. I'm not supposed to
+talk about it — it's classified and everything."
+
+Hunter made a show of looking around: "Not much government here."
+
+They stared at the lights.
+
+"They fabricated a story about Julia, said she suffered an acute reaction to the
+process. They weaved some truth into it — that she had performed the process on
+herself, without supervision. And they lied about the remainder. The company
+lives on — they have a new CEO now. And they decided to spin-off the division
+that I'm in, the one that does projects for the government. They said it wasn't
+profitable enough, that it was difficult to manage, and that it opened the
+company to lawsuits. Those were the official reasons. But there are other
+reasons, too. Julia was well-liked, and when she was lost, well, I guess it
+soured them. They didn't like the business, it was too opaque, and it killed
+their leader."
+
+"I couldn't tell anyone what really happened. I pretended to be distraught. But
+in some ways Julia is truly dead: what she became — I don't even know how to
+describe it — is something completely different the Julia we knew. The Julia we
+knew is gone."
+
+Long silence.
+
+"I ain't never met Julia."
+
+"You would have liked her. She was kind. Sure, she was hard-working, focused,
+smart, but she was also kind. You know she fired people, right?"
+
+"Nope, didn't know that."
+
+"It's part of the job, firing people. It's usually the last resort. You have a
+problem employee, you try to fix it. Then maybe transfer them. Then, if all else
+fails, you get rid of them. Some people enjoy that, getting rid of people. Not
+Julia. She didn't like it at all. It didn't stop her from doing it — she never
+shirked from what needed to be done — but she didn't like it one bit."
+
+"Sounds like a tough woman."
+
+"Tough when she needed to be, but no more tough than necessary."
+
+The Northern Lights were an especially bright green.
+
+"I saw the full documentation to the project. Things were in chaos the week
+after Julia left. I found I was able to access the documentation from the lab."
+
+"I thought you said you was the lead 'vestigator — didn't you know everything?"
+
+"I was the lead investigator, but only for the second phase of the project.
+There had been an earlier phase, and what had happened in that phase — they only
+told me what I absolutely needed to know, which was essentially nothing."
+
+"What happened in the earlier phase?"
+
+"There was another subject."
+
+"Who was that subject?"
+
+"Colonel Taggart."
+
+---
