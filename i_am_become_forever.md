@@ -1577,7 +1577,21 @@ Another long pause.
 
 Max hung up the phone and turned to Julia, "he's on his way."
 
-Julia, sitting up on the chair, hooked up to many medical instruments, suddenly
+Julia felt odd. She felt as if she was being tickled in a strange place, a place
+she could not reach. Tickled? More like an itch.
+
+And then she felt an emotion, a feeling. A feeling with which she was not
+previously acquainted. She tried to put a name to the feeling.
+
+_If deep purple was a feeling._
+
+Yes, it felt like deep purple. Not dark in the sense of despair, but rather dark
+in the sense of unknowable. And strong, too. She felt a mild sense of vertigo,
+and her vision blurred.
+
+She also felt oddly calm.
+
+Julia, sitting up in the chair, hooked up to many medical instruments, suddenly
 saw double. "I'm seeing double. Not quite double, more like a juxtaposition of
 two almost-identical views."
 
@@ -2096,6 +2110,15 @@ She dreamed. She was in an open field with Max. She was excited, "Let's run,
 Max! Let's run." She was giddy and running across the field, and Max was trying
 to keep up. She took one jump, two jumps, and the she was flying, "Look Max I'm
 flying!" But he was too far back and falling further behind.
+
+And then something strange happened: she became awash in feelings, strong
+feelings. Alien feelings.
+
+She felt like she was an arcane instrument in an otherworldly orchestra, hearing
+sounds which were not sounds but yet were like sounds, and she could feel
+herself being carried resonate wtih the swelling crescendo. Unbidden, she broke
+into song, a wild song, bright of color. For one timeless moment, the song
+overwhelmed everything she was
 
 She woke up. Her sense of time had become unanchored — was it morning or still
 the middle of the night? She lay back in bed and listened to her heartbeat. It
@@ -3097,52 +3120,36 @@ begun to explore your new abilities. Are you sure you want to give all that up?"
 
 There was a long pause. "The surgery is not reversible."
 
-"I don't think that's true. The surgery was simple: nudging a few brain cells
-into alignment. We do the opposite — we nudge them out of alignment. And then I
-can go home."
+"It _is_ reversible: we have the recording of each adjustment that was made;
+it's merely a matter of replaying the session with the source and destination
+values swapped."
 
-"I wish it were so simple, but it's not. Yes, the initial surgery can be
-reversed — that is not the problem. What we found is that the surgery catalyzes
-a series of changes in the brain, changes so complex that they are beyond our
-ability to reverse or even stop."
+"Your argument is persuasive on the surface, but it fails to take into account
+the nature of the brain. It's squishy; things move around, not much, but enough
+to make reversal difficult. Fashioning an antenna is like placing a needle into
+a haystack that is constantly being jiggled. Admittedly my analogy is weak, but
+I think you get the point."
 
-"Are you saying that there are ongoing changes in my brain?"
+"Yes, the brain moves around, but not by much. If we're going to play the
+weak-analogy game, here's mine:  It's like placing a pet sloth in a nearby tree
+&mdash; sure, he might move, but he's not gonna get far, and he'll be easy to
+find."
 
-"Yes. To be clear, the brain is a dynamic organ: it is continually changing: we
-meet someone new, our brain records that; we run a mile, our brain, flush with
-oxygen, generates new neurons; we sleep, our brain housecleans useless memories,
-dead connections. But there's a change happening in your brain that is different
-from the run-of-the-mill changes."
+"Finding _is_ the problem. Even if we keep the search with a 10&times; locus,
+the search field explodes. Remember that we're searching by volume, which is the
+distance cubed. We'd be searching 1,000 times the initial placement. You'd be in
+the MRI for months."
 
-"What is going on in my brain?"
+"Rather than searching for it, can we simply 'nudge' every neuron in the area a
+tiny bit? Rather than acting with surgical precision, we'd take a shotgun
+approach?"
 
-"Your brain is fashioning antennae on its own."
+"Even discounting how much time that would take, that would border on gross
+negligence. Adjusting a few neurons, okay. Adjusting tens of thousands of
+neurons in an attempt to fix the the previous adjustment? Bad idea."
 
-"I thought the surgery created the antennae."
-
-"That's correct — the surgery you underwent had the effect of creating eighty
-antennae."
-
-"So we just need to reset those eighty."
-
-"Those eighty antenna created more antennae."
-
-"How many more?"
-
-"It's a logarithmic scale: it doubles every twenty hours. You have five hundred
-twelve antennae in your brain. It has reached the tipping point: it's creating
-antennae faster than the MRI can dismantle them. We have passed the point of no
-return."
-
-"What will happen to me?"
-
-"We don't know."
-
-"How many antennae were in Tyrion?"
-
-"We guess he had on the order of four hundred antennae when he disappeared."
-
-"Do you know anything about where I — where Tyrion — disappeared to?"
+Julia reluctantly agreed. She decided to try a different tact:  "Do you know
+anything about where I — where Tyrion — disappeared to?"
 
 "We don't know much. We have hypotheses, but no data. Is there anything you
 could tell us?"
