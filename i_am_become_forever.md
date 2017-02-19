@@ -2111,6 +2111,10 @@ Max! Let's run." She was giddy and running across the field, and Max was trying
 to keep up. She took one jump, two jumps, and the she was flying, "Look Max I'm
 flying!" But he was too far back and falling further behind.
 
+Suddenly the sky darkened, becoming a deep purple color.
+
+"Max, look at the color of the sky," she said. And then she scratched the back of her head -- it was itchy.  
+
 And then something strange happened: she became awash in feelings, strong
 feelings. Alien feelings.
 
