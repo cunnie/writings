@@ -1583,11 +1583,10 @@ she could not reach. Tickled? More like an itch.
 And then she felt an emotion, a feeling. A feeling with which she was not
 previously acquainted. She tried to put a name to the feeling.
 
-_If deep purple was a feeling._
+_If electric blue cobalt was a feeling._
 
-Yes, it felt like deep purple. Not dark in the sense of despair, but rather dark
-in the sense of unknowable. And strong, too. She felt a mild sense of vertigo,
-and her vision blurred.
+Yes, it felt like electric blue cobalt: bright, energizing, and mysterious. And
+strong, too. She felt a mild sense of vertigo, and her vision blurred.
 
 She also felt oddly calm.
 
@@ -2111,18 +2110,49 @@ Max! Let's run." She was giddy and running across the field, and Max was trying
 to keep up. She took one jump, two jumps, and the she was flying, "Look Max I'm
 flying!" But he was too far back and falling further behind.
 
-Suddenly the sky darkened, becoming a deep purple color.
+She noticed the sky was an electric blue cobalt color.
 
-"Max, look at the color of the sky," she said. And then she scratched the back of her head -- it was itchy.  
+"Max, look at the color of the sky," she said.
 
-And then something strange happened: she became awash in feelings, strong
-feelings. Alien feelings.
+She stared at the sky, which seemed to get bigger and bigger, engulfing her
+field of view. There was nothing but sky. She felt a sense of vertigo, as if she
+was falling. She looked down. There was no ground beneath her, only sky — she
+_was_ falling.
 
-She felt like she was an arcane instrument in an otherworldly orchestra, hearing
-sounds which were not sounds but yet were like sounds, and she could feel
-herself being carried resonate wtih the swelling crescendo. Unbidden, she broke
-into song, a wild song, bright of color. For one timeless moment, the song
-overwhelmed everything she was
+"Max I'm falling," she said. She should have been nervous, but instead she was
+oddly calm.
+
+And that's when she heard it.
+
+In the far distance she heard a note. It was hard to hear at first, but if she
+concentrated she could pick it out. It was a note that both sounded familiar and
+yet she was sure she had never heard before.
+
+_How could I have not heard that note before? I can hear from 20Hz to about
+15kHz — I've heard every note there is to hear, many times. Yet this one is
+different. How is that possible?_
+
+She could hear the note getting stronger. Yes, she was sure now: she had never
+heard it before. She was sure she had never heard it before because the note
+made her feel strange, strange in a way that she had never felt: it made her
+feel bright, energetic, and strong.
+
+The note became louder, and as the note became louder, she resonated with it
+more strongly. She felt as if she was an arcane instrument in an otherworldly
+orchestra, hearing sounds which were not sounds but yet were like sounds, and
+she could feel herself being carried along in some supernatural symphony
+swelling to a grand crescendo.
+
+As the note become louder it became more compelling.  Unbidden, she opened her
+mouth and broke into song. She sang into the electric blue cobalt sky, she sang
+the song the note was singing. She felt the note louder and louder, and her song
+became wilder and wilder, a wild song, bright of color. For one timeless moment,
+the song and the note overwhelmed everything — she felt as if she was touching
+the infinity of space, a space wherein nothing but the song and note existed.
+And that moment stretched into a forever: a wild, endless, powerful forever.
+
+And, after a lifetime of the earth, the moment ended, and Julia was forever
+changed.
 
 She woke up. Her sense of time had become unanchored — was it morning or still
 the middle of the night? She lay back in bed and listened to her heartbeat. It
