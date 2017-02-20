@@ -2151,13 +2151,28 @@ the song and the note overwhelmed everything — she felt as if she was touching
 the infinity of space, a space wherein nothing but the song and note existed.
 And that moment stretched into a forever: a wild, endless, powerful forever.
 
-And, after a lifetime of the earth, the moment ended, and Julia was forever
-changed.
+And, after a lifetime, the moment ended.
 
-She woke up. Her sense of time had become unanchored — was it morning or still
-the middle of the night? She lay back in bed and listened to her heartbeat. It
-was quiet at first, and then seemed to slow and deepen, like some huge taiko
-drum, like a huge taiko drum under water. Boom, Booom, Booom.
+The moment didn't end at once; rather there was a slow transition from being
+infinite to becoming finite. The first things to return were her senses: she
+felt chilly. And then she felt her heart beating and the quiet hum of the lab
+equipment.
+
+She rested, listening to her heartbeat and concentrating on her breathing.
+
+And then she remembered language: "heartbeat" and "breathing" were the first
+words she remembered.
+
+She remembered her name next: Julia Chou. What an odd name, "Julia". She
+pondered her name.
+
+And then the floodgates to her memory opened, and she remembered everything. The
+company, the project, the experiment, the military lab.
+
+Her sense of time had become unanchored — was it morning or still the middle of
+the night? She listened to her heartbeat. It was quiet at first, and then seemed
+to slow and deepen, like some huge taiko drum, like a huge taiko drum under
+water. Boom, Booom, Booom.
 
 She could see the room, and yet in the back of her mind she knew she shouldn't
 be able to see it — she knew her eyes were still closed. She was overwhelmed
@@ -2211,16 +2226,19 @@ came face-to-face with an all-consuming heart-breaking sorrow. She sensed
 Taggart moan in his sleep, and she sensed herself, on the cot sobbing.
 
 And then, as quickly as it began, it ended. She found herself back on the cot,
-in the lab. Her senses were normal. She was just herself. Maybe it was a dream.
-She rubbed her eyes.
+in the lab. Her senses were normal. She was herself, and yet she was not.
+Something had shifted. Something had _changed_. She rubbed her eyes.
 
 And Max opened the door. "G'morning."
 
-Julia got up, "Let me make some coffee, then we can talk."
+Julia looked at him strangely, as if seeing him for the first time.
+
+"Let us make coffee, and then we shall talk."
 
 Max was looking at the instruments. "That's weird."
 
-She started the pot brewing, and then turned to him and said, "What's weird?"
+She started the pot brewing, something she had done hundreds of time and yet
+this time seemed novel. She turned to Max and said, "What do you find weird?"
 
 "The biometric readings."
 
@@ -2235,50 +2253,68 @@ ago _all_ the biometric readings suddenly stopped."
 "Yes, all the readings: no blood pressure, no pulse rate, no breathing, no EKG,
 no brainwaves — everything went dead."
 
-"I wonder if I knocked the sensors off in my sleep?"
+"Perhaps I knocked off the sensors in my sleep?"
 
 "Possibly, but it would be difficult — you'd need to knock off all the sensors
 at the exact same time. Maybe there's another explanation, but I can't think
 what that would be. I suspect there's videocam footage, so maybe we can ask
 Taggart to allow us to review it."
 
-"They're recording us?"
+"We are being recorded?"
 
 "I'm pretty sure they are — see that?" he pointed to the dark half-globe
 embedded in the middle of the ceiling. "Almost definitely a videocamera."
 
 "How did you sleep?"
 
-"Pretty normal," she said. "Weird dreams at the end, but pretty normal
-otherwise. What time is it?"
+"Very strange dreams," she said. "Dreams unlike any I've had before. What is the
+time?"
 
 "7:00 a.m."
 
-"I need to call corporate counsel in a half-hour," she said. "In the meantime,
-let's get started."
+"I must call corporate counsel in a half-hour," she said. "In the meantime,
+shall we start?"
 
-They spent the next twenty minutes performing tests of cerebral function when
-Taggart arrived.
+They spent the next twenty minutes performing tests of cerebral function.
+
+"How am I doing?" she asked Max.
+
+"Fine, all the readings are within normal parameters — your brain is functioning
+normally. But Julia, there's something else going on, something I have a hard
+time putting my finger on — you don't seem like yourself."
+
+"Go on."
+
+"You seem disengaged. Also you're more formal than yesterday. Like I said, it's
+nothing that is expressed in the metrics, it's just a gut feeling I have."
+
+Julia paused and then said, "I am still Julia, and yet also something more. The
+dreams I had last night — they were profound. They changed me."
+
+"Were they unpleasant, the dreams?"
+
+"Not unpleasant, not in the least. They were majestic."
+
+Julia fell into a contemplative silence which was interrupted when Colonel
+Taggart strode into the lab.
 
 Maybe it was Julia's imagination, but he looked slightly different this morning.
 Something in his manner. A little softer.
 
 Taggart escorted her to the phone room, where she was able to call her corporate
-lawyer.
+lawyer. She felt surreal, and disengaged, too.
 
-"Let me sketch it out for you, and I suspect you can fill in some of the gaps. I
-am onsite in the Federal Division inspecting the project that suffered what we
-believe to have been a loss of human life. For reasons I can't get into I will
-be sequestered here for at least one week. What I need from you is to prepare a
-brief to force my release at the end of the week in the event they decide to
-prolong my sequestration."
+She spoke to counsel, "I am onsite in the Federal Division inspecting the
+project that suffered what we believe to have been a loss of human life. For
+reasons I cannot divulge I will be sequestered here for at least one week. What
+I need from you is to prepare a brief to force my release at the end of the week
+in the event they decide to prolong my sequestration."
 
 "You don't want to be released now?"
 
-"I'd love to be released now, but they've given reasons why they shouldn't
-release me right away, and I'm willing to play ball with them. But I want to
-make sure that this doesn't continue indefinitely — I should be back at the
-office, not here."
+"They have given reasons why they are hesitant to release me, and I am willing
+to accommodate them. For one week. But I want to make sure that my sequestration
+does not continue indefinitely — I should be back at the office, not here."
 
 "Anything else I should know?"
 
@@ -2298,10 +2334,10 @@ normal, so what I'd like to do is put it under stress and see how it responds."
 
 "What kind of stress?"
 
-"To begin with, I'd like expose you to flashing lights. First, you're not an
-epileptic, are you? Good. I'd like to expose you to flashing lights in the
-frequency range of 5 to 30 Hz — which can trigger a seizure in someone with
-photosensitive epilepsy."
+"To begin with, I'd like expose you to flashing lights. You're not an epileptic,
+are you? Good. I'd like to expose you to flashing lights in the frequency range
+of 5 to 30 Hz — which can trigger a seizure in someone with photosensitive
+epilepsy."
 
 Max set up the apparatus, and although staring at the flashing lights was
 uncomfortable, it didn't induce a seizure or brainwave anomalies.
@@ -2313,21 +2349,30 @@ someone who was comfort-oriented. Comfort was often an afterthought.
 But the tests were tiring in a manner which she didn't expect. And when Max said
 that they were done for the day, Julia stretched out on the cot.
 
-"I need to take a nap," she said. "I am so tired".
+"I must take a nap," she said. "I am tired".
 
 Max dimmed the lights before he closed the door behind him, and within a minute
 Julia was asleep.
 
 The dreams came fast this time. She was flying in a huge airplane. No tiny
-portholes — instead, huge sheets of glass. No cramped rows of seats, rather
-decorated as a spacious lounge. They were barely flying above the treeline. The
-expanse was beautiful, and it made her feel big in a way she couldn't describe.
+portholes — instead, huge sheets of glass showcasing the electric blue cobalt
+sky. No cramped rows of seats, rather decorated as a spacious lounge. They were
+barely flying above the treeline. The expanse was beautiful, and it made her
+feel big in a way she couldn't describe.
 
 She awoke drenched in sweat. What time was it? She didn't know. But the sweat
 made the electrodes slippery, and there was a slight shocking sensation coming
 from them. The sweat was probably short-circuiting them, and when she looked at
 the consoles she could see that was the case. She took them off. What harm could
 happen by removing them for a few hours? And then drifted back to sleep.
+
+She fell back asleep, and almost immediately she could hear the far-off note.
+The far-off note becamse louder and louder, and she found herself singing wildly
+to the note, and then she felt herself become forever — she felt as if her arms
+spanned the edges of the universe, and that her feet straddled the foundations
+of time.
+
+Again the moment ended.
 
 She was dreaming, but it felt different. It was like her earlier dream, where
 she could see everything. She could see everything in the room, and, as she
@@ -6395,5 +6440,3 @@ told me what I absolutely needed to know, which was essentially nothing."
 "Who was that subject?"
 
 "Colonel Taggart."
-
----
