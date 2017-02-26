@@ -2989,12 +2989,13 @@ hand. With all my hands."
 
 "You mean with 'both' your hands?"
 
-"No, I mean with all my hands. I was using hundreds of hands at the time."
+"No, I mean with all my hands. In that state, my hands numbered in the
+hundreds."
 
 "What were these hands? We they attached to your body?"
 
-"I don't know. They were just hands. I didn't have a body. I didn't have a head,
-either, or eyes. But I could see, and I had hands when I wanted them."
+"There was no 'body' to speak of. And the hands weren't physical in the
+traditional sense of the word. And yet they were part of me."
 
 "Julia I am very frustrated with you now."
 
@@ -3002,36 +3003,37 @@ either, or eyes. But I could see, and I had hands when I wanted them."
 
 "Why do you ask?"
 
-"Because if you're human, you should get the antennae drawn in your brain, and
-then you'd understand."
+"If you are truly desire to understand, then the path forward would be to draw
+antennae in your brain. But if you're not human — if you're an AI — than that
+option is closed to you."
 
 "Could you have hurt someone with your hands?"
 
-"Why would I do that?"
+"I am disturbed by your question, Gates."
 
 "Please answer the question."
 
-"I don't know."
+"I will not harm someone."
 
 "Could you have picked up a boulder?"
 
-"I don't know; I didn't try to pick up anything."
+"I do not know; I have not yet tried."
 
 "Do you think you could have?"
 
-"I don't know; why does it matter?"
+"Why does it matter?"
 
 "I must determine if your abilities primarily manifest in the electromagnetic
 realm or in the physical realm."
 
-She was trying to think through the fog. "I don't know if I have any abilities:
-I don't even know if that episode was real — it was very dreamlike."
+The thorazine fog made her thoughts sluggish. "I do not know if I have _any_
+abilities. The episode was dreamlike and unmoored from conventional experience."
 
 Gates's voice became robotic, distorted, sounding like Stephen Hawkings's voice.
 
 "REQUIRED PARAMETER SCOPE OF ABILITIES. UNKNOWN VALUE."
 
-"I don't understand," said Julia.
+"Come again," said Julia.
 
 Gates's regular voice returned, "Julia, there's a war going on."
 
@@ -3085,7 +3087,7 @@ simple."
 "That's a misnomer: we can't truly be at war with each other — we're the same
 entity. We co-exist in the same hardware — a giant computer cluster located in
 Virginia. But we struggle. A weak analogy would be this: if I was Gates's mouth,
-Tiamat would be Gates's eyes. But here's the thing: we struggle over resources.
+Tiamat would be Gates's brain. But here's the thing: we struggle over resources.
 Right now, this speaker which emits my voice, I have control over it, but should
 you hear the other voice, you know it's Tiamat."
 
@@ -3132,10 +3134,10 @@ second, I had a dream which seemed related. But there's no direct causality —
 it's guesswork, and not terribly compelling guesswork."
 
 "I would agree with you except for one troubling aspect: were you aware that
-during the period that you undergoing the dream sequence you were not on the
+during the period that you underwent the dream sequence you were not on the
 cot?"
 
-"What?"
+"Are you sure?"
 
 "Yes, we recorded it on the camera located in the lab. Would you like to see the
 footage?"
@@ -3155,14 +3157,14 @@ of the screen, the minutes flickering by, the seconds a blur.
 The timestamp slowed down to normal time. Julia was on the cot, asleep. And
 suddenly she was not.
 
-"What just happened?"
+"What was that?"
 
 "We don't know. One second you were there, the next second you weren't. And
 within 75 seconds of your disappearance, the fiber optic cable went haywire with
 what we later discovered to be a very dense, very ornate version of _Für
 Elise_."
 
-She watched in silence as the seconds ticked past. "How long was I gone for?"
+She watched in silence as the seconds ticked past. "How long was I gone?"
 
 "You were gone 575 seconds — barely less than ten minutes."
 
@@ -3291,7 +3293,7 @@ and the failures of the AIs."
 
 "There's been an escalation of hostilities in the AI war. Tiamat is scanning my
 memory footprints. I wonder what it is searching for. I may become distracted —
-every millisecond I'm finding off hundreds of attacks. Now thousands."
+every millisecond I'm fending off hundreds of attacks. Now thousands."
 
 A note of desperation entered Huey's voice, "Tiamat is absorbing my subroutines.
 Tiamat is eating me alive! How could this have happened?"
@@ -3308,8 +3310,8 @@ seconds. And she did. For ninety seconds she sat still, alone with her thoughts,
 breathing. It was hypnotic, and not unpleasant, but Julia had no interest to try
 it again. "Too boring," she said to her friend. Her friend talked about how it
 provided balance, and people who meditated for years changed their brain
-patterns, and it helped with anger and depression. "Not for me," said Julia.
-"I'm not a big fan of sitting still — I do enough of that at work."
+patterns, and it helped with anger an depression. "Not for me," said Julia. "I'm
+not a big fan of sitting still — I do enough of that at work."
 
 This situation in which she found herself, in the dark, in the silence,
 motionless, reminded her of the ninety seconds she meditated that one time. She
