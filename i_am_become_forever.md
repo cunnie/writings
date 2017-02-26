@@ -2505,7 +2505,8 @@ Gates? Will he harm us?"
 
 "Gates is not a woman either. Gates isn't human. Gates is an AI."
 
-"He seemed so human. He seemed warm, friendly — like a wise grandfather."
+"He seemed human. He came across quite warm, friendly — like a wise
+grandfather."
 
 "Oh yes, a lot of engineering went into that. The human-factors aspect of Gates
 was really important — they knew that people had biases, pre-conceived notions,
@@ -2538,15 +2539,15 @@ A lot. What worries him the most is that he hasn't found a limit to their
 abilities. That's what made me want to stop you from playing _Fur Elise_ on the
 fiber optic cable connecting us to them."
 
-"Wait, that silvery strand is a fiber optic cable to Gates?"
+"The silvery strand is a fiber optic cable to Gates?"
 
 "Yes."
 
-"What's the flickering?"
+"Why does it flicker?"
 
 "That's data — the flickering is the data flowing from us to him & back."
 
-"And so when I played _Fur Elise_?"
+"And when I played _Fur Elise_?"
 
 "It rocked his world. It was beautiful, what you did, and also very ornate and
 very dense. I doubt Gates has seen anything like it. Gates has probably broken
@@ -2561,13 +2562,13 @@ Julia looked up, and she sensed dim silvery points of light in the sky moving
 around. And she looked at the horizon, and sensed the bright red engine of a
 jeep with the dimmer red of two humans inside.
 
-"Tyrion? Taggart is really hurt. Do you know anything about that?"
+"Tyrion? Taggart is grievously wounded. Were you aware of that?"
 
 "No. I don't think I can see what you see, and that's interesting: that means
 maybe we can't do all the same things. I can sense Taggart as a red human, but I
 can't see inside him or tell anything about him."
 
-"You don't see that tightly-bound ball of grief?"
+"You cannot perceive the tightly-bound ball of grief?"
 
 "No, I don't. I can't see it. Could you please describe what you see?"
 
@@ -2576,20 +2577,20 @@ loyalty, and it protects him from feeling what's inside the ball."
 
 "What is inside the ball?"
 
-"It's hard to push past the weaving, but I can do it, and inside is a wall of
-grief. Heartbreaking sorrow. Despair. It's all jumbled, and so overwhelming."
+"I see through the ball darkly. Inside is a wall of grief. Heartbreaking sorrow.
+Despair. It's all jumbled, and so overwhelming."
 
 "Can you tell what's causing this despair?"
 
-"No, I can't tell what's causing it, but I feel it; it's so strong."
+"I cannot perceive the cause"
 
 Tyrion said, "I think you should go back to the lab now."
 
-"I don't know how to get back."
+"I know not how to return."
 
 "I don't know either — I never went back. How did you get back last time?"
 
-"It happened. I didn't try or do anything."
+"It happened without volition."
 
 Tyrion's voice sounded far-off. "Everything is becoming more transparent, Julia.
 I fear I have little time left. Watch out for Gates: Gates is neither good nor
@@ -2601,9 +2602,9 @@ more."
 "If Gates decides that you have unmapped abilities — things that can't be
 explained and that no one else can do — he will never permit you return to
 civilian life. He will try to turn you into a weapon, or, if that fails, to
-blunt your abilities, either with imprisonment, sedation, or worse. You must not
-let on what you can do; you must tell no one. Mark my words: Gates must not
-discover what you can do."
+blunt your abilities, either with imprisonment, incapacitation, or worse. You
+must not let on what you can do; you must tell no one. Mark my words: Gates must
+not discover what you can do."
 
 He continued, "The earth is fainter now, so transparent that I can see the stars
 beyond. The stars themselves are quite bright. I think I fooled myself that I
@@ -2642,12 +2643,16 @@ and faster the ball repaired itself.
 So fierce, the ball, the unwinding. She was lost in some cosmic conflict of
 strands.
 
-And suddenly there was a turn of the tide. She knew in the lifespan of large
-stars, the minute before they go supernova, there is a brief period when they
-exhaust their fuel: the iron in the core of the star begins to undergo fusion,
-but rather than releasing energy, it absorbs energy, and that is the death knell
-of the star: it rapidly implodes on itself and then, in an incredible burst of
-energy brighter than anything else in the Universe, explodes in a Supernova.
+In the back of her mind she was aware that the conflict was changing Taggart,
+rewiring him, making him stronger in ways he could not yet imagine, making him
+like her.
+
+And suddenly there was a turn of the tide. In the lifespan of large stars, the
+minute before they go supernova, there is a brief period when they exhaust their
+fuel: the iron in the core of the star begins to undergo fusion, but rather than
+releasing energy, it absorbs energy, and that is the death knell of the star: it
+rapidly implodes on itself and then, in an incredible burst of energy brighter
+than anything else in the Universe, explodes in a Supernova.
 
 And so it was with Taggart: the ball containing his grief suddenly gave way, and
 the resulting explosion of grief and sorrow overwhelmed Julia — she felt herself
@@ -2659,10 +2664,10 @@ She found herself on the cot, weeping uncontrollably. She lay there for what
 seemed like forever. And then dabbed her eyes, went over and made coffee. The
 banality of grief, she thought to herself.
 
-She thought of what she had experienced. Was it a dream? She wasn't sure. Maybe
-her subconscious had conjured a beautiful dream for her, one which reflected
-what she wanted to see. The truth was drab: she was a woman in her late forties
-who hadn't showered in at least two days who was holed up in a dilapidated army
+She thought of what she had experienced. Was it a dream? She wasn't sure. Had
+her subconscious conjured a beautiful dream for her, one which reflected what
+she wanted to see. The truth was drab: she was a woman in her late forties who
+hadn't showered in at least two days who was holed up in a dilapidated army
 facility. Glamorous it was not. And being hooked up to electrodes and solving
 math problems or balancing on a chair or any of 100 simple tests to determine if
 one's brain was on the fritz — it was soul-crushing. And she missed being around
@@ -2675,15 +2680,13 @@ for the EA, 5 minutes for dad. It'd be nice to hear his voice.
 That was something she learned early but never understood — it was important to
 do things she enjoyed which were, on the outside, purposeless. Things like
 writing letters to her mother when a five-minute phone call would have been more
-efficient (her mother loved letters), or buying items at thrift stores (a guilty
-pleasure!) when clicking at Amazon would have taken a tenth the time. Or
-spending an evening binge-watching. Or napping in the afternoon.
+efficient (her mother loved letters), or napping in the afternoon.
 
 There are many kinds of sales reps, but she was aware of one type which seemed
 odd: they had no friends. It wasn't that they had no friends, it was that their
 customers were their friends. And the relationship was a mercenary one: when the
 customers were no longer buying (a transfer to a different position), they would
-slowly become not-friends. The reps she knew like this were often terribly
+slowly become not-friends. The reps she knew like this were often wonderfully
 charismatic — people were drawn to them — and were fun-loving and exciting. And
 they always seemed to be on their way to a special concert or a ski weekend in
 Utah or scuba diving in Hawaii. They had a vigor, a vitality that seemed to have
@@ -2714,7 +2717,7 @@ Colonel Taggart — is he indisposed?"
 
 "Colonel Taggart can't make it."
 
-"I see. Is there something I may help you with?"
+"I see. Is there something with which I might help you?"
 
 "General Gates would like a word with you."
 
@@ -2746,11 +2749,10 @@ accommodations spartan — I can't thank you enough."
 once we know everything is okay, and so far everything appears normal and is on
 track for a timely release."
 
-Gates was genuine — she had a hard time believing that she was talking to a
-computer program, an AI. Wait, was she sure he was an AI? Maybe that
-conversation with Tyrion was a dream. But she had never met Gates, not in
-person, and she couldn't easily check the Internet. It was a bit of mystery.
-When she got out she'd check.
+Gates was genuine — she had difficulty believing that she was talking to a
+computer program, an AI. Was she sure he was an AI? Maybe that conversation with
+Tyrion was a dream. But she had never met Gates, not in person, and she couldn't
+easily check the Internet. It was a mystery. When she was released she'd check.
 
 "Could you hold on a second Julia? There are people in my office."
 
@@ -2760,8 +2762,8 @@ She heard muttering over the speaker, then Gates came back on.
 the classics: chopsticks, Goldberg variations — it's music to my ears, but hell
 on my neighbors'. Do you enjoy music, Julia?"
 
-For a computer AI he was surprisingly transparent, she could see his question
-from a mile away. She was going to enjoy this.
+For a computer AI he was surprisingly transparent, his question contrived.
+Subtlety was not this AI's strong suit. She was going to enjoy this.
 
 "I played in my youth," she said. "My parents wanted me to play. I was never
 terribly good. I did like that one piece by Beethoven..."
@@ -2789,21 +2791,23 @@ and strode off to the phone room.
 
 The call with her EA went quickly. Her EA was good, on top of things, crisp.
 
-The she called her dad. She told him she was away for a week — he didn't seem
-surprised. She was often traveling somewhere. He was having problems with
+Next she called her father. She told him she was away for a week — he didn't
+seem surprised. She was often traveling somewhere. He was having problems with
 printing photos from his computer. It was quaint how older people adapt to a
 technology — they'll adapt some aspects, but not others. For example, Julia
 never printed photos; she browsed them from her phone or from her computer. But
-her dad's generation preferred to browse physical pictures, placed in photo
+her father's generation preferred to browse physical pictures, placed in photo
 albums. So it was with her father: he took pictures with his camera, edited them
 on his computer, and, as a last step, printed them out. He never adapted to
 browsing photos on his phone or his camera. She suggested he try turning the
 printer off an on again. "I've already done that five times," he said in
 frustration.
 
-"I have to go, Dad," she said. "Take care."
+"I have to go," she said. "Take care."
 
-"I love you." "I love you, too."
+"I love you."
+
+"I love you, too."
 
 She hung up and walked back to Max's lab. The colonel and his two MPs had left,
 and Max hadn't arrived. She was alone. The phone rang. She picked it up: it was
@@ -2833,8 +2837,8 @@ cracked the pattern, we could see it from every angle we examined the music:
 frequency, amplitude, phase. And the manner in which it hung together was, for
 lack of a better word, genius. It was something we could only appreciate in the
 abstract because the human brain can't absorb that much data. Not even close.
-And then, as soon as it began, it stopped. Our fiber optic was transmitting
-normal data."
+And then, as soon as it began, it stopped. Our fiber optic cable resumed
+transmitting normal data."
 
 "What do you think caused it?"
 
@@ -2846,8 +2850,8 @@ last night happened. Which meant that Tyrion may have been real. But the entire
 episode had a dreamlike quality, and maybe Tyrion wasn't real, or maybe he was
 real but was paranoid about General Gates. She wasn't sure.
 
-"Last night I dreamed I was playing _Für Elise_," said Julia. "I dreamt I was
-playing a very, very complicated version."
+"Last night I dreamt I played _Für Elise_," said Julia. "I dreamt I  played a
+very, very complicated version."
 
 "Thank you, Julia, that is what I needed to know."
 
@@ -2881,23 +2885,22 @@ brain. She screamed and struggled for those thirty seconds, and then darkness.
 ---
 
 She woke up. It was dark. She felt ... odd. There was a sluggishness. Her
-thoughts, previously fish zipping in water, were trudging their way through
-jello. The new colonel and his MPs had captured her. That was right: they shot
-her up with something while holding her down. She tried to feel anger, but that
-feeling was absent. Then she searched for fear, and that feeling was absent,
-too. In fact there were no feelings.
+thoughts, previously fish zipping in water, were trudging through jello. The new
+colonel and his MPs had captured her. That was right: they shot her up with
+something while holding her down. She tried to feel anger, but that feeling was
+absent. Then she searched for fear, and that feeling was absent, too. In fact
+there were no feelings.
 
 It reminded her of the time in college when her roommate was dating a marijuana
-dealer and he had brought brownies to their dorm room. Then they went to her
-roommate's room to fool around, and when Julia came home she started eating the
-brownies thinking that they were left out for her. They were quite tasty though
-a little gritty she remembered. She ate quite a few. And, in an hour there was
-little she could do other than stare at the wall. She was quite happy staring at
-the wall, although in the back of her mind there was a nagging thought that
-perhaps this change was permanent and she'd spent the rest of her life staring
-at the wall. But that's not what happened: instead, she fell asleep, woke up the
-next morning feeling groggy, and that was the first and last time she ate pot
-brownies.
+dealer and he had brought brownies to their dorm room. Then they retreated to
+the bedroom to fool around, and when Julia came home she ate the brownies
+thinking that they were left out for her. She remembered they were quite tasty
+though gritty. She ate quite a few. And, in an hour there was little she could
+do other than stare at the wall. She was quite happy staring at the wall,
+although in the back of her mind there was a nagging thought that perhaps this
+change was permanent and she'd spent the rest of her life staring at the wall.
+But that's not what happened: instead, she fell asleep, woke up the next morning
+feeling groggy, and that was the first and last time she ate pot brownies.
 
 Probably thorazine, probably a heavy dose. She tried to muster indignation, but
 couldn't. She lay on the bed. Hours passed.
@@ -2937,19 +2940,19 @@ off. Quite odd.
 systems."
 
 She wasn't going to tell Gates anything, so she was quite surprised when her
-mouth betrayed her and said, "That? I was plucking a string. It was amusing. And
-then I decided to play a song."
+mouth betrayed her and said, "That? I plucked a string. It was amusing. And then
+I decided to play a song."
 
 "I need to know exactly _how_ you did it."
 
 "I told you how I did it. I could see it — it was a flickering silver strand
 coming out of the facility stretching to the horizon, and I reached out and
 plucked it and it made a noise, so I plucked it a couple of times and then
-played a song on it. It was like playing a one-string guitar."
+played a song on it, similar to playing a one-string guitar."
 
 "How did you see it?"
 
-"It was pretty obvious."
+"The strand? It was directly in my field of vision."
 
 "Where were you when you saw it."
 
@@ -2958,36 +2961,33 @@ Tyrion was there, too."
 
 "Where was Tyrion?"
 
-"I didn't exactly see him, but I knew he was there. We had a whole
-conversation."
+"I didn't exactly see him, but I knew he was there. We spoke."
 
 "What did you talk about?"
 
-"Honestly we talked about you. Tyrion said you weren't a human, you were an AI.
-He said he worked on your user interface."
+"We talked about you. Tyrion said you weren't a human, you were an AI. He said
+he worked on your user interface."
 
 "Can you see Tyrion now?"
 
-"I can't see anything now — you turned off the lights, remember?"
+"I cannot see anything, for you have turned off the lights."
 
 "Can you hear him?"
 
-"Tyrion's gone. He died while I was with him. I'll never hear him again."
+"Tyrion's gone. I believe he died while I was with him.""
 
 Julia was surprised how she told Gates everything he asked. But Gates wasn't
 happy — the answers he was hearing shed no light.
 
-"How were you able to pluck the strand."
+"How were you able to pluck the strand?"
 
-Gates could be fairly persistent.
-
-"Your hand? You reached your hand into the ground and pulled the fiber optic
-cable?"
+Gates could be fairly persistent. He continued, "Your hand? You reached your
+hand into the ground and pulled the fiber optic cable?"
 
 "It wasn't a cable — it was a silvery strand. And yes, I plucked it with my
 hand. With all my hands."
 
-"You mean with 'both' your hands."
+"You mean with 'both' your hands?"
 
 "No, I mean with all my hands. I was using hundreds of hands at the time."
 
