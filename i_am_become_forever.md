@@ -270,8 +270,8 @@ have need-to-know clearance."
 pretty hard once, too, but they made it clear that they might pull the contract,
 and I didn't want to be the guy who killed the goose that laid the golden egg."
 
-He continued, "Look, I screwed up, I know. But I trusted my guys. They said  it
-was okay, they said nobody should get hurt. I've been with  them for years, I've
+He continued, "Look, I screwed up, I know. But I trusted my guys. They said it
+was okay, they said nobody should get hurt. I've been with them for years, I've
 been to their houses, I know the name of their wives and children. And believe
 me, these guys are torn up — they can't believe what happened either. One of
 them said to me, 'Ned, I can't say more than this, but this shouldn't have
@@ -442,10 +442,10 @@ right?"
 
 "Wrong. We're not talking on Verizon's network. This hangar is a Faraday cage —
 no cell phone traffic comes in or out of this hangar. The electromagnetic waves
-can't break past the cage. In this hangar is a fake cell phone tower. The  fake
+can't break past the cage. In this hangar is a fake cell phone tower. The fake
 cell phone tower masquerades as a Verizon tower, and is connected to a secure
-fiber trunk line  which encrypts all communications coming inside our outside
-the building."
+fiber trunk line which encrypts all communications coming inside our outside the
+building."
 
 "What?"
 
@@ -806,17 +806,17 @@ I'm sorry to say."
 
 "You've read my papers?" He noticeably brightened. "We scientists spend so much
 time researching, and then writing papers, but sometimes we wonder if they have
-any impact outside our rather small community.  So much work, but the audience
-is maybe twenty, maybe a hundred other scientists at most. At times it feels
-like stuffing messages in a bottle and throwing them out into the ocean hoping
-that someone, somewhere, will read it and find it useful."
+any impact outside our rather small community. So much work, but the audience is
+maybe twenty, maybe a hundred other scientists at most. At times it feels like
+stuffing messages in a bottle and throwing them out into the ocean hoping that
+someone, somewhere, will read it and find it useful."
 
 Julia smiled. She had a genuine interest in her employees. Although she no
 longer had time to interview every new hire, she made sure to review their
 resumes. And she had a soft spot for scientists and engineers — her father had
 been an engineer, and she too had been one at the beginning of her career.
 Scientists in some ways were the easiest to review because publishing was an
-important aspect of being  a scientist. She wished that engineers published more —
+important aspect of being a scientist. She wished that engineers published more —
 it enforced a certain clarity of thinking that was too often lacking in
 engineering circles. Scholarly publishing, that is. In the computer science
 realm there were too many publications that fell into the
@@ -841,7 +841,7 @@ the human brain."
 He smiled. "The human skull is too small to fit an antenna that handles low
 frequency waves. And by low frequency, I mean any wavelength under 10GHz. Look,
 let's say we wanted to listen to AM Radio, which is 535kHz at the bottom of the
-scale, and let's say we  wanted to have a 1/8 length antenna — it would need to
+scale, and let's say we wanted to have a 1/8 length antenna — it would need to
 be over 200 feet! We can't fit that in a human skull. Let's try something more
 reasonable — let's try a cell phone antenna. Typically the low-end of the cell
 phone spectrum is 700MHz, which means the antenna would need to be about two
@@ -896,9 +896,9 @@ happens to be air in the case of soundwaves."
 good example of electromagnetic radiation. Light has a really short wavelength —
 in the hundreds of nanometers. And the frequency? 430–750 terahertz. That's
 right, _terahertz_. So the frequency of visible light will cycle about ten
-thousand times more frequently than, say,  a 5GHz WiFi signal. So we don't need
-a long antenna at all. They can be small enough to fit inside a specialized
-human cell."
+thousand times more frequently than, say, a 5GHz WiFi signal. So we don't need a
+long antenna at all. They can be small enough to fit inside a specialized human
+cell."
 
 "Where was I? Oh yes, the antennae. We want people to be able to perceive
 radiation, but not something they can already see — if they have eyes, there's
@@ -1130,7 +1130,7 @@ proportion.
 
 "But I wouldn't budge. That colonel, Taggart, didn't like me saying no. You
 could tell that he's used to people saying yes. I even spoke with our counsel,
-who  backed me 100%, said that I didn't have to do it if I felt it would pose
+who backed me 100%, said that I didn't have to do it if I felt it would pose
 undue risk."
 
 "Funny, the counsel never told me about that."
@@ -1223,11 +1223,10 @@ to adjust the equipment."
 "I'm testing the mice. I'm not working on humans, only mice. In my humble
 opinion we should have spent years working with mice, then maybe with primates,
 as much as that breaks my heart, and only at the very end work with humans.
-There's a reason that  pharma companies take so long to bring new drugs to
-market — there's a lot of safeguards in place to prevent people getting
-unnecessarily hurt. Some would argue that there are too many safeguards, too
-much red tape, but I always err on the side of safety. Anyway, that's a topic
-for another day."
+There's a reason that pharma companies take so long to bring new drugs to market —
+there's a lot of safeguards in place to prevent people getting unnecessarily
+hurt. Some would argue that there are too many safeguards, too much red tape,
+but I always err on the side of safety. Anyway, that's a topic for another day."
 
 He fiddled with the knobs and looked at the console while she explored the
 spreadsheet. She was good with numbers, and she had a good enough background in
@@ -1316,11 +1315,11 @@ embarrassed and pleased. Admittedly, it was grunt work, but that's what made
 customers stick with you – they trusted you to make it work, make it good.
 
 She knew the product line, too. That helped. One time there was a demo unit in
-the  customer's lab, and engineer was having a hard time getting his code to
-make the API calls properly — he couldn't read data from the demo unit. She sat
-next to him and reviewed his code and modified the flags passed to the
-`configure` script. After 15 minutes of working alongside the engineer they
-managed to pull data from the instrument.
+the customer's lab, and engineer was having a hard time getting his code to make
+the API calls properly — he couldn't read data from the demo unit. She sat next
+to him and reviewed his code and modified the flags passed to the `configure`
+script. After 15 minutes of working alongside the engineer they managed to pull
+data from the instrument.
 
 She remembered the engineer. After she had helped fix his program he looked at
 her differently, as if she were a dog who suddenly began speaking in impeccable
@@ -1400,7 +1399,7 @@ of tears along the margin of the notebook. Poor Tyrion, poor Max.
 
 She decided she would go through a dry run of everything leading up to Tyrion's
 disappearance. She'd use her brain scan instead of his, but go through it.
-First,  she calculated the antenna placement in her amygdala. Then she wrote the
+First, she calculated the antenna placement in her amygdala. Then she wrote the
 code that pushed-and-pulled the ganglions and axions into place, then she
 downloaded the code into the MRI, and then walked into the MRI room, lay on the
 platform, and hooked up the sensors to herself. She turned everything on, and
@@ -1526,7 +1525,7 @@ this happen?"
 
 "Max: let's get a couple of things straight. First, there was nothing you could
 have done. I made the decision to draw antennae in my head, not you. Also, I run
-this  company — it's my prerogative to make decisions. There are good decisions,
+this company — it's my prerogative to make decisions. There are good decisions,
 and there are not-so-good decisions, but they're mine to make. So don't blame
 yourself. You didn't do anything wrong. You did exactly as you should have.
 Mis-placed guilt is a purposeless emotion, and you are wrong to indulge in it."
@@ -1760,7 +1759,7 @@ projection of my subconscious?"
 Tyrion on paper or on the workstation, so I was surprised that you could
 describe him so closely. That being said, let's break it down: you said he was
 about five-foot-eleven, 180 pounds. Clean-shaven, short-cropped hair. What
-you're describing is the average military person.  Although it wasn't explicit,
+you're describing is the average military person. Although it wasn't explicit,
 it was implied that Tyrion had some sort of military background. So the
 apparition was merely an amalgamation of your typical soldier. Your subconscious
 conjured up a soldier for you . The big surprise is that the apparition was
@@ -1887,7 +1886,7 @@ fraction of a second and then reappear."
 Max interrupted, "Were there any measurement instruments trained on them at the
 time?"
 
-"Yes, but they didn't seem to  capture anything of interest."
+"Yes, but they didn't seem to capture anything of interest."
 
 Max asked, "Did he describe any sensation or events leading up to the
 flickering? Did he notice the flickering?"
@@ -1915,7 +1914,7 @@ sorry."
 The room fell awkwardly silent.
 
 Gates spoke again, "Julia, you asked when you could return to civilian life.
-This is what we plan to do: we'll keep you under observation.  Captain Tyrion
+This is what we plan to do: we'll keep you under observation. Captain Tyrion
 exhibited symptoms within ten days or less. If we don't observe any change
 within one week, we'll assume that the antennae, for whatever reason, don't
 work. We'll debrief you, and then send you back. But you will need to report for
@@ -2143,7 +2142,7 @@ orchestra, hearing sounds which were not sounds but yet were like sounds, and
 she could feel herself being carried along in some supernatural symphony
 swelling to a grand crescendo.
 
-As the note become louder it became more compelling.  Unbidden, she opened her
+As the note become louder it became more compelling. Unbidden, she opened her
 mouth and broke into song. She sang into the electric blue cobalt sky, she sang
 the song the note was singing. She felt the note louder and louder, and her song
 became wilder and wilder, a wild song, bright of color. For one timeless moment,
@@ -2647,6 +2646,11 @@ In the back of her mind she was aware that the conflict was changing Taggart,
 rewiring him, making him stronger in ways he could not yet imagine, making him
 like her.
 
+_He's changing. I sense it. He's becoming like me._
+
+ She could see the electrical pattern of his brain, normally a subdued green,
+ erupt into an uncharacteristic firestorm yellow.
+
 And suddenly there was a turn of the tide. In the lifespan of large stars, the
 minute before they go supernova, there is a brief period when they exhaust their
 fuel: the iron in the core of the star begins to undergo fusion, but rather than
@@ -2850,7 +2854,7 @@ last night happened. Which meant that Tyrion may have been real. But the entire
 episode had a dreamlike quality, and maybe Tyrion wasn't real, or maybe he was
 real but was paranoid about General Gates. She wasn't sure.
 
-"Last night I dreamt I played _Für Elise_," said Julia. "I dreamt I  played a
+"Last night I dreamt I played _Für Elise_," said Julia. "I dreamt I played a
 very, very complicated version."
 
 "Thank you, Julia, that is what I needed to know."
@@ -3212,9 +3216,8 @@ a haystack that is constantly being jiggled. Admittedly my analogy is weak, but
 I think you get the point."
 
 "Yes, the brain moves around, but not by much. If we're going to play the
-weak-analogy game, here's mine:  It's like placing a pet sloth in a nearby tree
-&mdash; sure, he might move, but he's not gonna get far, and he'll be easy to
-find."
+weak-analogy game, here's mine: It's like placing a pet sloth in a nearby tree —
+sure, he might move, but he's not gonna get far, and he'll be easy to find."
 
 "Finding _is_ the problem. Even if we keep the search with a 10&times; locus,
 the search field explodes. Remember that we're searching by volume, which is the
@@ -3229,7 +3232,7 @@ approach?"
 negligence. Adjusting a few neurons, okay. Adjusting tens of thousands of
 neurons in an attempt to fix the the previous adjustment? Bad idea."
 
-Julia reluctantly agreed. She decided to try a different tact:  "Do you know
+Julia reluctantly agreed. She decided to try a different tact: "Do you know
 anything about where I — where Tyrion — disappeared to?"
 
 "We don't know much. We have hypotheses, but no data. Is there anything you
@@ -3322,8 +3325,8 @@ rolling over her like an incoming tide. It made her feel bigger somehow, bigger
 than the room. Bigger than the building, which was quite bunker-like, she
 noticed. No doubt some artifact of the fifties.
 
-_I'm there_, she thought to herself. _I'm in that state again, the one Tyrion
-described._
+_I am here_, she thought to herself. _I have entered the state where I met
+Tyrion._
 
 She could see all around her. She had no body that she could determine. Unlike
 the previous facility, which had but one silver strand, this building had many
@@ -3338,20 +3341,21 @@ she in that building? No doubt her body was gone from wherever it was. She was �
 she had become — something else. She wasn't sure if she had a locus, a specific
 location. When she had a body it was clear where her body ended and where the
 rest of the world began. But here, in this place, it wasn't clear. It seemed
-that she didn't have boundaries, and that she could co-exist.
+that she didn't have boundaries, and that she could co-exist with material
+objects.
 
 One of the strands was flickering particularly brightly, and the thought
 occurred to follow it. Could she move? She didn't know. She tried to move, and
 it happened, smooth as silk. It was like being on a magic carpet that went
-wherever she willed it to go. _Walking is really jerky, this is a much better
-way to travel_.
+wherever she willed it to go. _Walking is jerky and bumpy — this is a much
+better mode of transportation._
 
 She followed the furiously-flickering strand. She didn't pluck it — she didn't
-feel playful. _Must be a side-effect of the thorazine_.
+feel playful. _Must be a side-effect of the thorazine._
 
 The fiber optic cable ran next to a set of railroad tracks, and then merged in a
 building, a building of bright nodes and flickering strands. _Must be a Central
-Office_, she thought to herself, _or maybe a network exchange_.
+Office,_ she thought to herself, _or maybe a network exchange._
 
 It posed a conundrum — the trail ended here. She didn't know which of the many
 strands leading out of the building was "her" strand.
@@ -3526,8 +3530,8 @@ It was too much effort to try to follow the strands to Princeton; instead, she
 moved up, farther and farther, until the Eastern seaboard was laid out before
 her. She knew Princeton. Although it wasn't her alma mater, she visited friends
 there, physicists. Physicists who worked on the Tokamak. _It was mothballed in
-1997_, she thought to herself. _Why would a project that has been shut down for
-almost 20 years be of interest to Tiamat?_
+1997_, she thought to herself. _Why would Tiamat be interested in a project that
+was shut down over twenty years ago?_
 
 She saw the Eastern seaboard, but not as a human would. Although she could
 differentiate the water from the land, she saw it as differently-colored lines
@@ -3833,11 +3837,11 @@ Yeah, they were tricky, the geodesics. They were why black holes were black.
 People thought that the reason that light couldn't escape a black hole was
 because the gravitational pull of the black hole was so great that the escape
 velocity exceeded the speed of light, and thus light was trapped inside the
-black hole. But that wasn't the reason. Think about it: light doesn't have mass.
-No, the reason that light was trapped was the geodesics: spacetime was so warped
-around the singularity of the black hole that all the geodesics pointed inward –
-the was no "out", there was only "further in", no matter which way you were
-pointed.
+black hole. But that wasn't the reason. Light doesn't have mass; escape velocity
+is not relevant. No, the reason that light was trapped was the geodesics:
+spacetime was so warped around the singularity of the black hole that all the
+geodesics pointed inward – the was no "out", there was only "further in", no
+matter which way you were pointed.
 
 But geodesics affected _all_ frequencies, it wasn't selective, and if Julia was
 absorbing all frequencies, then she would have appeared as black as midnight
@@ -3904,7 +3908,7 @@ There's no service out here_. He picked up the phone.
 Max looked at his phone, looked at the number. The number "0" stared at him.
 Well, whoever called him was able to spoof the callerid number, which wasn't
 very impressive, and was able to make calls where there were no cell towers,
-which was very impressive.
+which was _very_ impressive.
 
 "May I be candid?" said the voice on the far-end.
 
@@ -3925,7 +3929,7 @@ destroy her."
 
 "Why doesn't she just climb out?"
 
-"The magnetic field is constraining her?"
+"The magnetic field is constraining her."
 
 "You mean it's turned on?"
 
@@ -3938,7 +3942,7 @@ she's incorporeal."
 
 "She doesn't have a body?"
 
-"No. She exists as a self-contained electromagnetic waveform. At least, that's
+"No. She exists as a self-contained electromagnetic waveform. At least that's
 what we suspect."
 
 "Hmmm," said Max. That would make sense — she never "disappeared"; instead, she
@@ -3998,7 +4002,7 @@ become the most powerful weapon since the invention of the atomic bomb."
 
 "You will put on the aviator glasses. You will not turn on your cell phone. You
 will take the cab to Princeton. Specifically, you will ask him to take you to
-the The Westin Princeton at Forrestal Village. Do not mention the Tokamak or the
+the Westin Princeton at Forrestal Village. Do not mention the Tokamak or the
 Princeton Plasma Physics Laboratory. The Westin Princeton is approximately two
 thousand feet from the Princeton Plasma Physics Lab, where the Tokamak is
 located. It will cost approximately $120. You will pay with cash."
@@ -4028,7 +4032,7 @@ box, but we're not exactly sure. Keep searching until you find it."
 up until you get to the 2nd floor, at which point you will walk down the hall.
 You will see a little-used electrical panel to your left. Open it, it's
 unlocked. On the top left you will see two 50-amp circuits. Turn them off. Count
-to thirty slowly. Julia will be free by then. Turn them on."
+to thirty, slowly. Julia will be free by then. Turn them on."
 
 "There's a problem."
 
@@ -4052,7 +4056,7 @@ arrive at Princeton."
 "Why me — Why did you choose me?"
 
 "Several reasons, but the most significant is this: you have an intimate
-understanding that this project has gone off the rails, you appreciate that
+understanding that this project has taken astounding turns, you appreciate that
 Julia is in danger, and you value her enough to run the risk trying to save
 her."
 
@@ -4183,19 +4187,19 @@ waved goodbye to him. Then Max walked to the rear door that was chained shut. He
 found the police call box, but he couldn't find the key — it was too dark.
 
 _The problem with an hours worth of sleep is that it leaves you more disoriented
-than having no sleep at all_, he thought to himself.
+than having no sleep at all._
 
-He needed more light. He pulled out his cellphone but it was off. _Should have
-turned it on when I got off the plane_, he thought to himself as he turned it
-on.
+He needed more light. He pulled out his cellphone but it was off.
 
-It turned on, and he flicked on the cellphone's flashlight — he found the key!
+_Should have turned it on when I got off the plane._
+
+He turned it on and enabled the cellphone's flashlight — he found the key!
 Suddenly his cellphone beeped, a text message: "I wish you hadn't turned on the
 cell phone. They will almost certainly find you. Please turn off this cellphone
 and do your best to hide."
 
-_God I am such an idiot_, he said. _That's why my cellphone was off — so I
-couldn't be tracked. And now I blew it. Darn_.
+_God I am such an idiot. That's why my cellphone was off — so I couldn't be
+tracked. And now I blew it. Darn._
 
 He grabbed the key, unlocked the chain, entered the lab, and locked the chain
 behind him. He climbed the stairs to the second floor and walked down the
@@ -4229,9 +4233,9 @@ open and the light flick on, but then the door closed again. While listening to
 the footsteps he fell asleep.
 
 He had troubled dreams, and when he woke he was not sure at first where he was.
-"What the hell?"
 
-_I must rescue Julia — how could I have fallen asleep?_
+_What the hell? Where am I? Oh right: I must rescue Julia — how could I have
+fallen asleep?_
 
 He rubbed his eyes. He got out from under the blankets, quietly. Maybe Julia was
 still alive. All he needed to do was walk to the end of the hall until he found
@@ -4282,7 +4286,7 @@ he could ask.
 The police officer looked at him: "Please don't move until my partner arrives."
 
 _"Please". And yet he managed to say it in a way that meant, "don't even think
-of trying that, or you'll rue the day you were born."_
+of trying that, or you'll regret the day you were born."_
 
 Max stood there until he heard footsteps behind him. The officer said, "Please
 place your hands behind you. You are under arrest. You will be handcuffed. You
@@ -4355,10 +4359,10 @@ field that is trapping Julia."
 
 "Then what was it?"
 
-"I believe it was bad luck. They've been pulling in additional power lines in
-order to enable thermonuclear fusion. During the bring-up of the new power, the
-load was too great and one of the transformers at the electric substation
-exploded."
+"I believe it was bad luck, or, from our perspective, good luck. They've been
+pulling in additional power lines in order to enable thermonuclear fusion.
+During the bring-up of the new power, the load was too great and one of the
+transformers at the electric substation exploded."
 
 "Are you sure it wasn't your doing?"
 
@@ -4430,7 +4434,7 @@ remaining set of instructions."
 "No, those subterfuges are no longer necessary — we have lost the element of
 surprise, and attempting to maintain it is pointless and makes us look silly."
 
-"Don't want to look silly, do we?"
+"We don't want to look silly, do we?"
 
 "Certainly not."
 
@@ -4464,7 +4468,7 @@ already blew your chance."
 "Well, that's a fairly damning assessment."
 
 "The truth is often damning. But our situation plays to our advantage. For
-example, you may leave your cell phone on. You may travel without subterfuge."
+example, you may leave your cell phone on. You may travel in plain sight."
 
 "So you can contact me by cell? I can hang up this phone?"
 
@@ -4483,7 +4487,7 @@ security company, and they want to keep out the teenagers. If you appear
 legitimate, they will let you in. They will not check with the DoHS."
 
 "There are 3 large radar dishes. These are massive dishes, weighing 1,500 tons.
-That's right: tons, not pounds.  You will drive to the nearest one, which is
+That's right: tons, not pounds. You will drive to the nearest one, which is
 mounted in building 57. The building number is unimportant."
 
 You will need to point the radar to 2.1525" above the horizon. And to 146.125º.
@@ -4551,8 +4555,8 @@ he turned on the cellphone. But if he had been more cogent Julia would be free,
 albeit as a being of pure energy. Would such a being still be Julia? Would she
 be able to transform back and forth at will?
 
-_Regrets serve little purpose_, he thought to himself, _Learn from your
-mistakes, but don't beat yourself up about them_.
+_Regrets serve little purpose. Learn from your mistakes, but don't beat yourself
+up about them._
 
 And what had he done wrong? He had turned on his cellphone. How could he have
 done better? He should have placed his cellphone in a place that was difficult
@@ -4608,8 +4612,7 @@ building: easy parking. He parked in front and panicked when the door was
 locked, only to discover that it had been stuck, and he merely needed to provide
 enough force to open it.
 
-_Congratulations, Dr. Max,_ he said to himself, _first challenge successfully
-overcome_.
+_Congratulations, first challenge successfully overcome._
 
 He went into the building. Although it was a 2 story building from the outside,
 he could see that inside it was one floor with a double-high ceiling. In spite
@@ -4642,10 +4645,12 @@ switched on the lights.
 He couldn't believe his luck — the lights still worked!
 
 And hours flew by as he read the manuals and made notations in the margins.
-_Only in pencil_, he told himself, _I wouldn't want to permanently mark these_.
 
-He noticed he could see his breath. _The lights still work, but the heating is
-shot_.
+_Only in pencil. I wouldn't want to permanently mark these._
+
+He noticed he could see his breath.
+
+_The lights still work, but the heating is shot_.
 
 There was a couch against the wall. He was tired, and propped himself on the
 couch while re-reading the "Operator's Manual". He was asleep within minutes.
@@ -4690,10 +4695,10 @@ Head north by northwest until you find the cabin at the top of the hill. Turn
 off this cell phone. Good luck."
 
 He ran out the building and he could see the Security Guard running towards him
-shouting in his cell phone. Max turned and ran the opposite direction. While Max
-was running, he checked the time on his cell phone and the compass direction:
-fortunately it was a clear sky, and the sun was almost directly due South, so he
-could orient fairly well to get out of the complex.
+shouting in his cell phone. Max turned and ran. While Max was running, he
+checked the time on his cell phone and the compass direction: fortunately it was
+a clear sky, and the sun was almost directly due South, so he could orient
+fairly well to get out of the complex.
 
 The Security Guard was falling further behind. Either he wasn't in as good a
 shape as Dr. Max, or he didn't have as much adrenaline. Probably the latter.
@@ -4800,7 +4805,7 @@ for the guy who works for a guy who works for a guy who works for her."
 only spoke to him on the phone twice."
 
 "You spoke to him on the phone twice and already he's your frien'? You pretty
-good at makin' friends, ain't ya?"
+good at makin' frien's, ain't ya?"
 
 "Well I guess he's not really my friend."
 
@@ -4972,7 +4977,7 @@ sneeze they will."
 
 Max muttered a small thank you to the animals who sacrificed their skins so that
 he could rest in such a comfortable bed, and a comfortable bed it was — he
-hadn't remembered a bad so comfortable. His last thought was that he'd close his
+hadn't remembered a bed so comfortable. His last thought was that he'd close his
 eyes for a second while he gathered his strength.
 
 When he woke up the sun was streaming through the windows. "Did I fall asleep?"
@@ -5678,8 +5683,8 @@ felt the dart. "You drugged me?"
 "Yes, the hypnotic."
 
 Taggart felt himself relax. It was fast acting. The military police entered the
-room.  Taggart felt himself curiously inert: no fear, no anger. The emotions
-were gone.
+room. Taggart felt himself curiously inert: no fear, no anger. The emotions were
+gone.
 
 Taggart looked up. He could see rows and rows of racks, each rack stacked with
 computers, each stack blinking. There was a pattern to the blinking — a signal
@@ -5700,8 +5705,8 @@ to the floor, slowly, slower, and then it stopped. Everything was frozen in
 time, except for Taggart.
 
 And time began to lose meaning for Taggart — he felt himself pass beyond space
-and time into a grand unchanging void, endless, nameless.  He spent a lifetime
-in that void, an aieon.
+and time into a grand unchanging void, endless, nameless. He spent a lifetime in
+that void, an aieon.
 
 And then, like the falling of a single snowflake triggering an avalanche, he
 felt himself pulled back, pulled back to Gates's fishbowl, pulled back to the
@@ -5752,7 +5757,7 @@ Taggart attempted to touch it, but somehow he _slid_ around it. He tried again,
 and again he slid and slipped.
 
 He tried encircling it, and once he had done so he began closing slowly on the
-ball, but as he came close to he again experienced the slippery feeling.  It
+ball, but as he came close to he again experienced the slippery feeling. It
 wasn't that it was resisting him, it was that it was always pointing another
 way, if that made sense. He tried one last time, and pushed hard, and felt
 unhinged, as if peeking past the Curtain of the Universe into a deep, dark
