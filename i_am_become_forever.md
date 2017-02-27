@@ -5248,7 +5248,7 @@ seemed to be constantly connected. And to never need sleep.
 
 "I find myself unable to fulfill the duties of my rank, sir."
 
-"Have you considered a vaction."
+"Have you considered a vacation."
 
 "No, sir."
 
@@ -5423,18 +5423,17 @@ _Those are abstractions,_ he thought. _Focus on the concrete: the drugging, the
 gurney, the straps._
 
 Yes, abstractions served their purpose until they no longer worked, in which
-case one needed to discard them like a used kleenex.
+case one needed to discard them like used kleenexes.
 
 He needed to get out of here. And he needed to avoid killing. That would haunt
 him later. Incapacitate, yes, kill, no. Killing would wind him in jail when all
 was said and done.
 
-Had gotten off the gurney. The room was indeed dark, nothing had covered his
-eyes. He felt his way slowly around the room. He discovered a door and a door
-handle twenty feet directly in front of the gurney. There were cabinets and
-shelves around the room, and a sink. He was quiet, and he didn't bother to
-search the cabinets — without light he would have difficult ascertaining their
-contents.
+He got off the gurney. The room was indeed dark, nothing had covered his eyes.
+He felt his way slowly around the room. He discovered a door and a door handle
+twenty feet directly in front of the gurney. There were cabinets and shelves
+around the room, and a sink. He was quiet, and he didn't bother to search the
+cabinets — without light he would have difficult ascertaining their contents.
 
 He placed himself in front of the door. On the left side he could feel the
 hinges: the door opened inward. Good, when he turned the handle he would pull
@@ -6423,11 +6422,11 @@ smart, but she was also kind. You know she fired people, right?"
 problem employee, you try to fix it. Then maybe transfer them. Then, if all else
 fails, you get rid of them. Some people enjoy that, getting rid of people. Not
 Julia. She didn't like it at all. It didn't stop her from doing it — she never
-shirked from what needed to be done — but she didn't like it one bit."
+shied away from what needed to be done — but she didn't like it one bit."
 
 "Sounds like a tough woman."
 
-"Tough when she needed to be, but no more tough than necessary."
+"Tough when she needed to be, but no more than necessary."
 
 The Northern Lights were an especially bright green.
 
