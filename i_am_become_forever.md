@@ -5732,8 +5732,8 @@ the center? He spread further, more racks, but still the center was missing. The
 fiber optic cables, the yellow ones, the long-distance single mode fibers — they
 were the key. He stretched to follow them.
 
-And he stretched some more. He stretched for miles, moving at close to the speed
-of light. The fiber optic cables led to a building, a non-descript one story
+And he stretched more. He stretched for miles, moving at close to the speed of
+light. The fiber optic cables led to a building, a non-descript one story
 building with now windows. He followed the cables down. Suddenly it was cold.
 Cold, and at the center, bright.
 
@@ -5742,15 +5742,31 @@ And here, in this cold, bright place, Taggart came up short.
 He could sense the ball in the center, and it sparkled like nothing he had seen
 before — it was as if it was both there and not there, and everywhere in between
 being and nothingness. He tried to encompass it, and he felt a sense of vertigo
-when he came into contact with it — his world spun upside down.
+when he approached it — his world spun upside down.
 
 He backed off, then moved forward. It was an alient object like anything he had
 ever seen. Everything about it seemed _wrong_.
 
 He approached it more slowly. _What is this?_
 
-As if reading his thoughts, the bright, sparkly ball spoke to him, "I am
-everything. I am all possibilities. I am the Universe, squeezed into a ball."
+And the ball spoke to him.
+
+And the words were more than words. They were not English, no vowels or
+consonants, or words of any language. Indeed, the ball communicated with him in
+pure meaning. Symbols reverbrated in his head: they filled his world and became
+his world, and the world shook, and each symbol was an monolith with no
+beginning and no end, a monolith of power and glory.
+
+"I AM THAT I AM,"
+
+Taggart felt himself torn asunder, and yet not torn asunder.
+
+There was silence, and Taggart, unused to being so completely overwhelmed,
+rested.
+
+As if reading his thoughts, the bright, sparkly ball spoke, "Rest. And know that
+I am everything. I am all possibilities. I am the Universe, squeezed into a
+ball."
 
 Taggart attempted to touch it, but somehow he _slid_ around it. He tried again,
 and again he slid and slipped.
@@ -5759,69 +5775,25 @@ He tried encircling it, and once he had done so he began closing slowly on the
 ball, but as he came close to he again experienced the slippery feeling. It
 wasn't that it was resisting him, it was that it was always pointing another
 way, if that made sense. He tried one last time, and pushed hard, and felt
-unhinged, as if peeking past the Curtain of the Universe into a deep, dark
-abyss.
+himself unhinge, as if peeking past the Curtain of the Universe into a deep,
+dark abyss.
 
 Taggart retreated again.
 
-The ball continued, "Strange Matter. Do you not recognize what I am?"
-
-"I know not what you are."
-
-"There are places in the Universe where things become strange, where great
-pressure and great masses join forces to become something greater than what what
-was before."
-
-"The bottom of the ocean?"
-
-"Hardly."
-
-"The center of the earth?"
-
-"Not even."
-
-"The heart of the Sun?"
-
-"No."
-
-"Neutronium?"
-
-"Interesting, neutronium. But no. Neutronium is not strange."
-
-"What are you?"
-
-"Let us say that this place, here and now, is not where I am from. I am born of
-fire and heat and mass and terrible, terrible pressure.
-
-"What are you made from?"
-
-"You think you know things, how the Universe is put together, what's in a
-planet: minerals, compounds, molecules, atoms, protons and electrons. You can
-fit everything into your tables and your charts, and in your arrogance you think
-you know everything. But you have been misled. The Universe has places where the
-rules are bent, and places where the rules are broken. I come from such a place.
-That is why you must be careful when you approach me, not because I will try to
-hurt; rather, I am so foreign that, when you approach, you will enter an
-environment where the physical laws that hold you together and provide you life
-will no longer prevail. A different, more ancient set of physical laws will take
-hold, and you will become undone."
-
-"But what are you made from? Degenerate matter?"
-
-"Degenerate matter? Matter compressed to its absolute limit?"
-
-"Yes."
-
-"No, I am nothing so mundane. Were that the case — were I degenerate matter — I
-would be the mass of a mountain, and I would explode with the brightness of a
-thousand suns. No, I am beyond matter."
+The ball continued, "You do not recognize what I am?"
 
 "Are you energy?"
 
-"You have a dialectic: matter or energy. One or the other. But it's not so easy
-when you dig deep into the weeds. You find things that aren't matter and aren't
-energy. What to do with such things? They are your signposts to a greater truth.
-I am such a signpost."
+"You have a dialectic: matter or energy. One or the other. But it's not so
+simple when you dig deep. When you dig deep, you find a richer truth that shifts
+and changes, that some things are neither matter nor energy. What to do with
+such things? They are your signposts to a greater truth. I am such a signpost,
+and I am a greater truth."
+
+"Taggart, we are here now. A minute ago you were not, and in a minute you will
+be gone. But what  you fail to understand is that every moment is eternal, that
+you are always here now, that you will always be arriving, that you will always
+be departing."
 
 "Then what do you do here?"
 
@@ -5833,10 +5805,8 @@ their distance and ignore what they don't understand."
 
 "Are you imprisoned?"
 
-There was a sense of static, and then the voice resumed.
-
 "Know that by my very nature I may not be imprisoned, nor impeded in any manner.
-I have been from the beginning, and will always be."
+I have been from the beginning, and will be at the end."
 
 "Do you change?"
 
@@ -5879,7 +5849,7 @@ always been taking place."
 "And do you know what I will say next."
 
 "I can not help but know — the entire march of time is spread out before me like
-some great procession."
+a magnificent procession."
 
 "And so what will I say next?"
 
@@ -5892,39 +5862,42 @@ in a dingy basement guessing at your thoughts?"
 
 "Please," said Taggart.
 
-"Very well. You are thinking to disagree with me. In your head, you argue, 'Time
-always flows, and events always occur.'. But know that there are moments when
-events do not occur, where the fabric of space-time itself is so warped that
-events may not occur, or the notion of occurrence has lost all meaning. There
-are things beyond event horizons."
+"I will not. Instead, I will tell you something of substance. There is a person
+in your care who has been trapped. This person did you a great service, broke
+through your grief, and who changed you. Your present form? That was her doing.
+You shall intervene and save her."
 
-"Singularities."
+"What if I choose not to intervene?"
 
-"Singularities. What your mathematicians and physicists describe in their
-papers, their painstaking formulas describing things all-but-impossible to
-imagine, and yet even they admit that their formulas break down at the outer
-limits."
+"You still do not understand: there is no choice, the Tapestry of Time has been
+woven. And there is more."
 
-"Do you know what happens next?"
+"More?"
 
-"Yes, I know exactly what will happen next. For example, you are considering one
-final attempt to approach me, to try to understand what I truly am, but I must
-dissuade you from the course of action, for the very laws of nature bend in my
-presence. Be careful, lest you come too close, for you will be forever changed."
+"It will be the end of you as you know yourself to be. To save her you must
+sacrifice yourself."
 
-Taggart, not dissuaded, once again approached the bright ball, and again as he
-neared it he could feel time and space shift and stretch.
+"I won't do it."
 
-"Dare not touch. It will be your ruin."
+"Your protestations are irrelevant. There is one more thing you need: approach
+me, but do not touch, for if you touch me it shall be your ruin."
 
-This bright ball was beyond him. It was not of this world, and did not belong
-here.
+Taggart once again approached the bright ball, and again as he neared it he
+could feel time and space shift and stretch.
 
-"Very well," said Taggart. "I will not touch."
+"Give me your hand," said the ball.
 
-"I want to express something," said the ball.
+Taggart was about to protest, _I have no hands, not in this state_, but instead
+reached out what felt to be his hand.
 
-"Yes?"
+He felt a tingling sensation, like an electric shock.
+
+"I have hardened your hand," said the ball. "If you look closely, you will see
+that you are carrying a gift. It is me."
+
+Taggart looked at his hand, and saw a bright pinpoint of light.
+
+"It is not you, it is only a very small part of you."
 
 "Your fellow beings would describe you as noble. And, in moments, you will be
 called upon to do an act of great nobility, and, before you leave, I would like
