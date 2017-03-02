@@ -5752,7 +5752,7 @@ He approached it more slowly. _What is this?_
 And the ball spoke to him.
 
 And the words were more than words. They were not English, no vowels or
-consonants, or words of any language. Indeed, the ball communicated with him in
+consonants, nor words of any language. Indeed, the ball communicated with him in
 pure meaning. Symbols reverbrated in his head: they filled his world and became
 his world, and the world shook, and each symbol was an monolith with no
 beginning and no end, a monolith of power and glory.
@@ -5806,7 +5806,7 @@ their distance and ignore what they don't understand."
 "Are you imprisoned?"
 
 "Know that by my very nature I may not be imprisoned, nor impeded in any manner.
-I have been from the beginning, and will be at the end."
+I was at the beginning, and I will be at the end."
 
 "Do you change?"
 
@@ -5880,7 +5880,7 @@ sacrifice yourself."
 "I won't do it."
 
 "Your protestations are irrelevant. There is one more thing you need: approach
-me, but do not touch, for if you touch me it shall be your ruin."
+me, but do not touch, for to touch me is to cause your ruin."
 
 Taggart once again approached the bright ball, and again as he neared it he
 could feel time and space shift and stretch.
@@ -5899,32 +5899,13 @@ Taggart looked at his hand, and saw a bright pinpoint of light.
 
 "It is not you, it is only a very small part of you."
 
-"Your fellow beings would describe you as noble. And, in moments, you will be
-called upon to do an act of great nobility, and, before you leave, I would like
-to say you are noble, and this conversation we are having has been a great
-pleasure."
-
-"Why would I leave?"
-
-"I will tell you something."
-
-"What could you tell me that would cause me to leave?"
-
-"Julia is trapped in the Tokamak in Princeton. They plan to destroy her. You may
-yet save her if you make great haste."
-
-"Why would you tell me that if you're Gates?"
-
-"I am not Gates."
-
-"Who are you?"
-
-"I am who I am."
+"A small part of me _is_ all of me. You do not understand, so instead let me
+tell you something you will understand: Julia Chou is trapped in the Tokamak in
+Princeton. They plan to destroy her. You may yet save her if you make haste."
 
 "Is this a trick?"
 
-"This is not a trick, but know this: we will never meet or speak again. Good
-luck, Taggart.""
+"This is not a trick. Now hurry. And good luck, Taggart."
 
 Taggart fled the dark, windowless building with the strange ball at the center.
 He flew up the Northern Seabord, fast as thought.
@@ -5949,7 +5930,7 @@ killing her, it would allow her to absorb the energy.
 But how?
 
 He saw the laser beam, a bright flaming sword burrowing into the Tokamak. It
-reminded him of the Michael the Archangle's sword, a mighty weapon, unstoppable.
+reminded him of the Michael the Archangel's sword, a mighty weapon, unstoppable.
 He reached out and touched it.
 
 The pain was immense. A shock jolted his system. The raw power of the laser was
@@ -5958,7 +5939,8 @@ majestic, a juggernaut.
 And it was a juggernaut in whose path of destruction lay Julia.
 
 Taggart lived by a code. And, though he had left the military and had been
-betrayed, the code was as strong as it ever was: protect the weak.
+betrayed by his commanding officer, the code was as strong as it ever was:
+protect the weak.
 
 Taggart knew one thing: he was not weak.
 
@@ -5986,10 +5968,21 @@ beginning and no end, simply unending agony.
 And then respite again. He felt heavy, as if the slightest effort was simply
 beyond him.
 
-He spared enough effort to peek into the Tokamak: he could sense Julia, and
-sense her absorbing the energy released by the nuclear fusion. Taggart's gambit
-had worked: the fusion was modest enough to absorb, not so great as to destroy.
-Julia had passed the threshold. She would survive.
+And then he knew what he must do.
+
+He could feel the pinprick light in his hand.
+
+He sensed the incoming pulse barreling towards him. It would destroy him, of
+that there was no doubt.
+
+He squeezed the pinprick. He felt the now familiar sense of vertigo, of space
+twisting in impossible ways. And yet he was not able to touch the light itself.
+
+The laser light pulse was closer; there was little time.
+
+He squeezed harder, and now the sense of dizziness and twisting of space was
+replaced with a chasm of nothing, an abyss which spanned the cosmos, at the end
+of which was a very dim pinprick of light.
 
 And as that thought passed through his being, the final pulse struck him. It was
 as if the oceans had risen up into a monstrous wave and had fallen on him. He
