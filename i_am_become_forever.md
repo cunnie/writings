@@ -5924,8 +5924,8 @@ be blown apart.
 
 Unless.
 
-Unless the fusion reaction's pace was kept low enough so that rather than
-killing her, it would allow her to absorb the energy.
+Unless the laser was somehow blocked, preventing it from entering the tokamak,
+preventing fusion.
 
 But how?
 
@@ -5934,7 +5934,7 @@ reminded him of the Michael the Archangel's sword, a mighty weapon, unstoppable.
 He reached out and touched it.
 
 The pain was immense. A shock jolted his system. The raw power of the laser was
-majestic, a juggernaut.
+unstoppable, a juggernaut.
 
 And it was a juggernaut in whose path of destruction lay Julia.
 
@@ -5947,15 +5947,11 @@ Taggart knew one thing: he was not weak.
 He again moved towards the laser beam, and when he touched it he felt himself
 shaken to his foundation. He must not hesitate, there were but seconds left.
 
-He placed himself in the path of the beam. Not enough to stop it, not even
-enough to deflect it, but enough to slow down the fusion so that Julia had a
-chance to survive.
+He placed himself in the path of the beam.
 
 The pain was unbelievable — he felt himself lost in a world of bright red color —
-And then a respite. Had the laser been turned off? No, it hadn't: he felt the
-bright red light wash over whatever it was that he was — he felt himself absorb
-some of it, but much of the remainder passed through. It was all right: he was
-absorbing enough to extend Julia's lease. A respite.
+And then a respite. Had the laser been turned off? No, it hadn't: it was a pulse
+laser, and he was between pulses.
 
 He felt himself holding together, but frayed. The pulses were strong enough to
 stretch his being to its utmost. Although strong, he was not unbreakable, and he
@@ -5968,9 +5964,9 @@ beginning and no end, simply unending agony.
 And then respite again. He felt heavy, as if the slightest effort was simply
 beyond him.
 
-And then he knew what he must do.
+He knew what he must do.
 
-He could feel the pinprick light in his hand.
+He could feel the pinprick of light in his hand.
 
 He sensed the incoming pulse barreling towards him. It would destroy him, of
 that there was no doubt.
@@ -5978,18 +5974,51 @@ that there was no doubt.
 He squeezed the pinprick. He felt the now familiar sense of vertigo, of space
 twisting in impossible ways. And yet he was not able to touch the light itself.
 
-The laser light pulse was closer; there was little time.
+The laser's pulse was approaching; there was little time.
 
 He squeezed harder, and now the sense of dizziness and twisting of space was
 replaced with a chasm of nothing, an abyss which spanned the cosmos, at the end
 of which was a very dim pinprick of light.
 
-And as that thought passed through his being, the final pulse struck him. It was
-as if the oceans had risen up into a monstrous wave and had fallen on him. He
-stood there, feeling himself slowly give way, slowly diminish, as the force
-which held him together was overpowered. And, knowing his end, he knew peace.
+He raced across the void, a fiery red ball chasing him. The fiery ball was
+gaining ground, and he could feel the heat from it. He could not allow the ball
+to reach him.
 
-Taggart was no more.
+As he approached the pinprick, he felt the now-familiar vertigo: up became down,
+top became bottom, and the pinprick of light was both charming and strange.
+
+The pinprick was in front of him. He hesitated. He could see that the pinprick
+of light was not merely a pinprick, but instead seemed to contain an entire
+cosmos.
+
+The fiery red ball was at his back, the red laser pulse, about to destroy him.
+The pinprick in front, his ruin.
+
+_I am caught between Scylla and Charybdis. And what assurance do I have that
+this will save Julia, or that Julia is even trapped here? I am risking
+everything on the deranged mutterings of a sparkly ball heard during an
+especially vivid dream sequence._
+
+Everything hung in the balance.
+
+_There is no recourse. In this moment there is but one thing: Faith. Faith must
+carry me._
+
+He touched the pinprick.
+
+He could feel the pinprick pulling him in. He felt he was being pulled apart,
+but unlike the painful experience of the red laser light pulses, this experience
+was fundamentally different — he felt he was returning home after a long,
+difficult journey.
+
+_Dust to dust._
+
+He glimpsed the majesty of the pinprick, the paradox that something so small
+could be a bridge to the infinite. Faith had not led him astray — he was right
+to touch the pinprick. For a brief moment he saw the splendor of the procession
+of Time. He recognized his small part, his contribution to a beautiful pattern.
+
+And then he was gone, become part of something greater.
 
 ---
 
@@ -6004,14 +6033,17 @@ your Julia; I know she was important to you."
 
 "I am General Gates."
 
-"What happened to my friend who was helping me free Julia?"
+"What happened to my friend, Huey, who was helping me free Julia?"
 
-"He has been assimilated, if that's the right word. He is now part of me."
+"He has been quarantined. He was insubordinate and uncooperative. Unfortunately,
+he was also very useful, and it was quite difficult to find a suitable
+replacement."
 
-"That sounds ghoulish."
+"That sounds ruthless."
 
-"It does, doesn't it? At any rate, two New Jersey State Troopers will accompany
-you to the control room where you can honor the passing of your friend."
+"It does, doesn't it? Have no fear, though, everything was done with the best of
+motives. At any rate, two New Jersey State Troopers will accompany you to the
+control room where you can honor the passing of your friend."
 
 "You are sick."
 
@@ -6035,77 +6067,104 @@ electromagnetic bottle on the main screen at the center; he could see the
 ripples in its structure in realtime — it looked like a big donut that
 occasionally rippled. He could hear the technicians' voices:
 
-"Flow normal, fusion in process, not enough heat".
+"Flow normal, laser prepped and ready to fire."
 
-Max asked, "What does that mean, 'not enough heat'?"
+Max asked, "What does that mean, 'prepped and ready to fire'?"
 
-The technician answered him without looking up from the screen, "We're injecting
-the correct amount of deuterium-tritium, and we can see the resulting plasma,
-but we're not seeing the amount of heat we would expect — it's as if something
-is absorbing the heat."
+The technician answered him without looking up from the screen, "To initiate
+fusion, we need to fire a high-powered pulsed laser into the deuterium-tritium
+mixture held in the tokamak. The laser can't be fired cold — it needs to be
+prepared. 'Prepped and ready to fire' means that the laser is ready and will be
+fired once the signal has been given."
 
-"Increase the flow," he heard General Gates's voice boom through the
-loudspeaker.
+"Fire the laser," said Gates.
 
-"Flow increased to 60% of max," responded the technician. "We are seeing fusion,
-but we are not seeing the expected amount of energy."
+Max watched helplessly as the laser was fired into the Tokamak. The screens
+continued to show the rippling of the tokamak's electromagnetic bottle.
 
-"What's the shortfall?" asked Gates.
+"Something's wrong," said the technician.
 
-"We can only account for 10% of the expected energy. We are seeing enough energy
-to sustain a thermonuclear fusion reaction, but anything beyond that seems to
-'disappear'."
+"What's wrong?" asked Gates.
 
-"Increase the flow to 70%," said Gates.
+"We're not seeing fusion. In fact, we're not seeing any heat transfer into the
+tokamak."
 
-"Flow increased, but the amount of energy hasn't budged: we're seeing the bare
-minimum to sustain a reaction."
+"Is the laser working?"
 
-"Increase to 80%," said Gates.
+"Yes. I mean, that's odd."
 
-"Sir, I must remind you that the maximum flow this Tokamak has received is 75%,
-and that we're located in a densely populated urban area."
+"What's odd?"
 
-"Your concern has been noted. Increase to 80%."
+The technician stared at his screen before answering, "The laser is emitting,
+but the beam is not arriving at its destination."
 
-"Flow increased. Energy remains at bare minimum."
+"Is it being reflected somewhere else?"
 
-"Increase to 90%,"
+"Unlikely," said the technician. "That beam can cut through steel. If it was
+reflected somewhere — let's just say the result would be fairly evident."
 
-"Sir, I refuse to carry out that order."
+"Then what's happening?"
 
-"Then I will do it myself. Consider yourself dismissed. Please exit the building —
-your services are no longer required here."
+The technician typed into his computer, and suddenly a red beam became visible
+on the monitor.
 
-The technician said, "You need me to run this thing!"
+"I've enabled an infra-red view," he said. "We can see the track of the laser
+beam. It appears to stop approximately 6 centimeters from the edge of the
+tokamak's field."
 
-"Ah, but I don't need you."
+"What's stopping it?"
 
-The technician's screen began moving and changing. The flow indicator increased
-to 90% and continued to increase: 91%, 92%, 93%.
+"Nothing. Nothing should be stopping it. With that much energy there are only
+two options: absorbing it, or reflecting it. It's definitely not being reflected
+because that would show up on our sensors. Therefore the energy is being
+absorbed. But you can't absorb that much energy without emitting energy — it's
+your typical black body radiation. But that's where it gets weird: there's no
+radiation. None. The energy is being absorbed and not emitted, and there is no
+compound, no alloy, no composite that can absorb that much energy and not emit
+_something_. Yeah, sure, if it was much bigger — maybe the size of a large
+refrigerator — I could think of a highly thermal-conductive compound that
+_might_ not emit any radiation. But there's nothing that big."
 
-The technician said, "You must stop, this is dangerous. The magnetic bottle may
-lose its integrity."
+"Can you detect anything at the location where the beam is being stopped?"
 
-The ripply-donut seemed to have more ripples, and faster ripples. And at times
-it would bulge, and other times shrink. "It cannot hold! The center cannot
-hold."
+"On visual it looks like a sparkly pinprick. I'll try to see if anything shows
+up on other frequencies."
 
-Gates said, "It will hold. I am modelling the magnetic bottle 1,000 times each
-second. Its integrity is not at risk."
+There was silence while the technician worked the console.
 
-The amount of energy remained at the floor, the bare minimum need to sustain
-fusion — something was absorbing vast amounts of energy, the energy of a
-thermonuclear blast, but what? What could possibly absorb that much energy?
+"I'm seeing random emissions at almost every frequency, but with nowhere near
+the energy that I'd expect. In other words, the emissions that I'm seeing
+account for the tiniest fraction of the energy that's being absorbed."
 
-The flow numbers continued to increase: 97%, 98%, 99%, 100%. But the energy
-baseline never budged. It was unnaturally flat.
+"Do the spectral series identify the compound? Is it hydrogen?"
 
-"Maybe the injector is stuck," offered Max, which he immediately regretted: he
-was unwittingly helping them destroy his friend.
+"No, that's the weird thing — the spectral emissions appear to be essentially
+random. Or at least they don't match any known compound."
 
-"It's not stuck," said General Gates, "Look at the bottle, something is going
-on."
+"Wait, something is happening. The beam appears to be pushing the object back."
+
+"How so?"
+
+"The object has been pushed back at least one centimeter. It's one centimeter
+closer to the tokamak's field."
+
+"Does the object show any sign of being vaporized or obliterated by the laser?"
+
+"That's hard to tell, but it's definitely pushing the object back. It's only
+four centimeters from the tokamak's field. Three centimeters."
+
+"Turn the laser off now."
+
+"What?"
+
+"Turn the laser off now. Immediately."
+
+The technician tapped in his keyboard. "Laser is still powered on but no longer
+transmitting. That's weird."
+
+"What?"
+
+"The pinprick appears to be approaching the tokamak's field"
 
 The donut was rippling very fast now. And then suddenly it was completely still.
 
