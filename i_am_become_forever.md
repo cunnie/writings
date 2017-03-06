@@ -1,3 +1,7 @@
+<!--
+ pandoc < i_am_become_forever.md | sed 's=<em>=<i>=g; s=</em>=</i>=g' > i_am_become_forever.html
+-->
+
 ## I Am Become Forever
 
 She knew it was going to get ugly.
