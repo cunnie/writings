@@ -1,5 +1,16 @@
 <!--
  pandoc < i_am_become_forever.md | sed 's=<em>=<i>=g; s=</em>=</i>=g' > i_am_become_forever.html
+
+ To my Brother Brendan, without whom this book would have never been written.
+ And Tyler Schultz, who makes me laugh every morning, and Dmitriy Kalinin who
+ helps me work on BOSH, and Chris Dutra and Zak Auerbach with whom I spend 8
+ great hours a day. Rupa Nandi is one of my coding heroes. Dennis, Tom, and Eve
+ are rockstars. Amit Gupta has never lost his cool, not even once. Maryam Labib,
+ whose drive I envy, is awesome. My sister Maureen makes the world’s best
+ cheese, and her daughter Eleanor Rose Labao is the best lacrosse player ever,
+ and her other daughter Frances Josephine Labao kills it on the soccer pitch,
+ and her husband, David Labao, is a saint for putting up with our family.
+
 -->
 
 ## I Am Become Forever
@@ -28,10 +39,10 @@ wanted to shake her and say, "Lori, look at him, look at Dino! Is that who you
 want to be married to? Do you want to be married to a sweaty fat bald
 cigar-smoker who on a good day remembers to shower?"
 
-God, Dino drove her crazy. He used to be handsome, too. And quite the clothes
-horse. When he was in his twenties and thirties he was an Adonis: chiseled
-looks, and deep brown eyes you could swim in. But halfway in his forties things
-took a sharp left turn for the worse. He hadn't aged well.
+God, Dino drove her crazy. He was handsome once. And quite the clothes horse.
+When he was in his twenties and thirties he was an Adonis: chiseled looks, and
+deep brown eyes you could swim in. But halfway in his forties things took a
+sharp left turn for the worse. He hadn't aged well.
 
 It wasn't about the aging. Well, it was a bit about the aging, but also how you
 dealt with it. Some people just gave up and let themselves go. But it didn't
@@ -5737,8 +5748,8 @@ fiber optic cables, the yellow ones, the long-distance single mode fibers — th
 were the key. He stretched to follow them.
 
 And he stretched more. He stretched for miles, moving at close to the speed of
-light. The fiber optic cables led to a building, a non-descript one story
-building with now windows. He followed the cables down. Suddenly it was cold.
+light. The fiber optic cables led to a building, a non-descript one-story
+building with no windows. He followed the cables down. Suddenly it was cold.
 Cold, and at the center, bright.
 
 And here, in this cold, bright place, Taggart came up short.
@@ -5763,7 +5774,7 @@ beginning and no end, a monolith of power and glory.
 
 "I AM THAT I AM,"
 
-Taggart felt himself torn asunder, and yet not torn asunder.
+Taggart felt himself torn asunder, and yet not.
 
 There was silence, and Taggart, unused to being so completely overwhelmed,
 rested.
@@ -5795,17 +5806,23 @@ such things? They are your signposts to a greater truth. I am such a signpost,
 and I am a greater truth."
 
 "Taggart, we are here now. A minute ago you were not, and in a minute you will
-be gone. But what  you fail to understand is that every moment is eternal, that
+be gone. But what you fail to understand is that every moment is eternal, that
 you are always here now, that you will always be arriving, that you will always
 be departing."
 
 "Then what do you do here?"
 
-"There are those who think my lesser qualities will help further their petty
-ambitions. They lack comprehension, and they are blind to what I am. They see
-only what they want to see. They dimly recognize that there are anomalies when
-they approach too closely, but rather than explore those anomalies they keep
-their distance and ignore what they don't understand."
+"'Here' is a simple word which begs for misunderstanding. I do not exist in a
+single place. What you see before you is not a location, it is not 'here';
+rather, it is a border. A frontier."
+
+"You should ask instead, 'Why such interest in you? Why so much attention?'.
+Allow me to explain: There are those who think my lesser qualities will help
+further their petty ambitions. My presence causes anomolies in the space time
+continuum which simplify the factorization of large numbers into their component
+primes. This insignificant feature has greatly excited them, yet it is the most
+insignificant of attributes. They are blind to what is before them: they mistake
+the tiny leaf for the forest.
 
 "Are you imprisoned?"
 
@@ -5820,7 +5837,7 @@ change, and yet I am always changing."
 "What are you?"
 
 "I am something beyond matter. Something beyond energy. I exist partly because I
-bend the physical laws to allow my to exist, yet also because those same bent
+bend the physical laws to allow me to exist, yet also because those same bent
 laws require me to exist. I am an artifact of an earlier age, if you will."
 
 "How early?"
@@ -6199,14 +6216,15 @@ the rippling donut on the screen disappeared.
 A voice answered, not the technician's voice, but a woman's voice — Julia's
 voice — came through the loudspeakers.
 
-"Hello General Gates."
+"Hello."
 
 "Julia, is that you?" asked Dr. Max.
 
 There was a long pause.
 
-"Yes, that is what they called me: Julia. I am Julia. Rather, I was once Julia,
-but I am no longer Julia. I have become something different, something greater."
+"Julia. Yes, that is what they called me: Julia. I am Julia. Rather, I was once
+Julia, but I am no longer Julia. I have become something different, something
+greater."
 
 "Are you still trapped?""
 
