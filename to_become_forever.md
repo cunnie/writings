@@ -1,12 +1,14 @@
 <!--
 
-  pandoc < i_am_become_forever.md |
+  pandoc to_become_forever.md -o to_become_forever.epub
+
+  pandoc < to_become_forever.md |
   sed 's/>&quot;/>\&ldquo;/' |
   sed 's/&quot;</\&rdquo;</' |
   sed 's/&quot;\([a-zA-Z]\)/\&ldquo;\1/g' |
   sed 's/\([a-zA-Z,.:;?!]\)&quot;/\1\&rdquo;/g' |
   sed $'s/\([a-zA-Z]\)\'\([a-zA-Z]\)/\\1\&rsquo;\\2/g' |
-  sed 's=<em>=<i>=g; s=</em>=</i>=g' > i_am_become_forever.html
+  sed 's=<em>=<i>=g; s=</em>=</i>=g' > to_become_forever.html
 
   sed 's/\\([a-zA-Z]\\)\'\\([a-zA-Z]\\)/\\1\\&apos;\\2/' |
 
@@ -25,7 +27,7 @@
 
 -->
 
-## I Am Become Forever
+## To Become Forever
 
 She knew it was going to get ugly.
 
