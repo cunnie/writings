@@ -1,7 +1,7 @@
 <!--
 
-  pandoc to_become_forever.md -o to_become_forever.epub
-
+  pandoc -S -o to_become_forever.epub to_become_forever.txt to_become_forever.md
+ZZ
   pandoc < to_become_forever.md |
   sed 's/>&quot;/>\&ldquo;/' |
   sed 's/&quot;</\&rdquo;</' |
