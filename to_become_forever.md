@@ -1,16 +1,9 @@
 <!--
 
-  pandoc -S -o to_become_forever.epub to_become_forever.txt to_become_forever.md
-ZZ
-  pandoc < to_become_forever.md |
-  sed 's/>&quot;/>\&ldquo;/' |
-  sed 's/&quot;</\&rdquo;</' |
-  sed 's/&quot;\([a-zA-Z]\)/\&ldquo;\1/g' |
-  sed 's/\([a-zA-Z,.:;?!]\)&quot;/\1\&rdquo;/g' |
-  sed $'s/\([a-zA-Z]\)\'\([a-zA-Z]\)/\\1\&rsquo;\\2/g' |
+  pandoc -S < to_become_forever.md |
   sed 's=<em>=<i>=g; s=</em>=</i>=g' > to_become_forever.html
 
-  sed 's/\\([a-zA-Z]\\)\'\\([a-zA-Z]\\)/\\1\\&apos;\\2/' |
+  pandoc -S -o to_become_forever.epub to_become_forever.txt to_become_forever.md
 
  To my Brother Brendan, without whom this book would have never been written.
  And Tyler Schultz, who makes me laugh every morning, and Dmitriy Kalinin who
@@ -27,7 +20,7 @@ ZZ
 
 -->
 
-## To Become Forever
+# A Death on the Job
 
 She knew it was going to get ugly.
 
@@ -67,11 +60,13 @@ turn white, but those are things you can fix, and, if not fix, mitigate.
 She had taken care of herself. It wasn't easy, she'd grant that. Gym every
 morning: treadmill, bicycle, and then the half-hour with her trainer.
 
-Her trainer — he was, for lack of a better word, hot. She had been working with
-him for the last two years. There was a period when their relationship began to
-become personal, when he shared about the overwhelming sense of loneliness that
-sometimes strikes him in mid-morning when he has no clients. She wanted to reach
-out and touch him, caress his head in her bosom, tell him that things were okay.
+Her trainer — he was, for lack of a better word, attractive. She had been
+working with him for the last two years. There was a period when their
+relationship began to become personal, when he shared about the overwhelming
+sense of loneliness that sometimes strikes him in mid-morning when he has no
+clients. She wanted to reach out and touch him, caress his head in her bosom,
+tell him that things were okay. It was an odd sentiment, out of character — it
+surprised her. She chalked it up to the student-teacher dynamic.
 
 But things shifted, and he never mentioned that again. She wished she had
 reached out to him that one time, that maybe their relationship would have
@@ -257,7 +252,7 @@ She'd time-box her exploration to two weeks, so it wouldn't get out of hand.
 
 "Ned," she asked, "how do I go about getting top-secret clearance?"
 
----
+# Follow-through
 
 It wasn't hard getting Top Secret clearance — there were tedious chores, such as
 getting fingerprinted, filling out a 20-page questionnaire, and then waiting
@@ -342,7 +337,7 @@ protect him, or at least do her best. She found that when people had a guardian
 it inspired a fierce sense of loyalty. Ned would do what it took to get her to
 see Colonel Taggart.
 
----
+# Colonel Taggart
 
 It was a week later, and they were in an army base in New Jersey.
 
@@ -551,7 +546,7 @@ and you should be back at your office by 18:00."
 The phone went dead. No bars. The hangar doors behind her opened up. She backed
 out of the hangar and continued her drive to the airport.
 
----
+# Remniscing
 
 She sat in coach. She travelled mostly in coach, sometimes in business class,
 but mostly in coach. She wanted to set the example for her company. Frugal. She
@@ -704,7 +699,7 @@ She shook her head. "Thanks," she said.
 
 He nodded._
 
----
+# The Project Visit, Finally
 
 The two weeks flew by — work kept her busy, and a good CEO is always busy.
 Sometimes work bled into the weekend, but she sequestered work to very specific
@@ -1498,7 +1493,7 @@ down on the MRI and within a minute had drifted off to sleep.
 
 She never heard the far-off distant clanging of the MRI.
 
----
+# Uh-oh: Disaster
 
 She dreamt she was in an impossibly large house. It was beautiful, with soaring
 vistas. She could hear someone in the distance calling her name.
@@ -1705,7 +1700,7 @@ once she started pushing the plunger before she passed out. The last thing she
 remembered saying was "Hold me because I'm about to pass out". Over Max's
 shoulder she could see Tyrion squinting at her.
 
----
+# Julia Awakes
 
 She awoke on a gurney. She was still in Max's lab, hooked up to the medical
 monitoring equipment.
@@ -2131,7 +2126,7 @@ the left, filters to the right. Help yourself."
 Max put his stuff away and headed out the door. Julia lay down on the couch.
 Sleep came easily.
 
----
+# The Infinity Chord
 
 She dreamed. She was in an open field with Max. She was excited, "Let's run,
 Max! Let's run." She was giddy and running across the field, and Max was trying
@@ -2691,7 +2686,7 @@ And so it was with Taggart: the ball containing his grief suddenly gave way, and
 the resulting explosion of grief and sorrow overwhelmed Julia — she felt herself
 lost in a tempest of unleashed emotion.
 
----
+# Finite Again
 
 She found herself on the cot, weeping uncontrollably. She lay there for what
 seemed like forever. And then dabbed her eyes, went over and made coffee. The
@@ -2915,7 +2910,7 @@ then slid the syringe in, then quickly depressed the plunger. Julia didn't know
 what was in the plunger, but she knew she had 30 seconds before it hit her
 brain. She screamed and struggled for those thirty seconds, and then darkness.
 
----
+# Drugged
 
 She woke up. It was dark. She felt ... odd. There was a sluggishness. Her
 thoughts, previously fish zipping in water, were trudging through jello. The new
@@ -3671,7 +3666,7 @@ can do."
 
 Julia sat in silence.
 
----
+# Treachery Unmasked
 
 Dr. Max arrived in the lab to find Julia gone. He suspected the worst. He
 suspected that she, like Tyrion before her, had disappeared.
@@ -4178,7 +4173,7 @@ began the trip.
 Excitement notwithstanding, he needed sleep. He stretched out on the back seat.
 Within seconds he was out.
 
----
+# Princeton my Home
 
 "Sir, we are here. Sir, we are here," he woke up to the driver shaking him
 gently.
@@ -5202,7 +5197,7 @@ picked it up.
 
 A familiar voice was on the line, but different.
 
----
+# Colonel Taggart Comes Undone
 
 As Colonel Taggart awoke one morning from uneasy dreams he found himself
 transformed in his bed into a weeping wreck.
@@ -5347,7 +5342,7 @@ with a syringe.
 Instead of replying, the Colonel inserted the syringe into Taggart's arm. And
 then everything went black.
 
----
+# Taggart, Bound
 
 Taggart came to in a dark room. Either the room was dark, or there was something
 covering his head.
@@ -6055,7 +6050,7 @@ of Time. He recognized his small part, his contribution to a beautiful pattern.
 
 And then he was gone, become part of something greater.
 
----
+# A Day Late, a Dollar Short
 
 "Dr. Max Bernstein, you are too late."
 
@@ -6309,7 +6304,7 @@ your involvement Julia would not be free."
 Max looked outside the window at the setting sun. He reached into his pocket and
 found his cellphone. He turned it on.
 
----
+# Alaska, the Final Frontier
 
 Fairbanks was beautiful in the summer. He liked landing in the airport in
 mid-day: it allowed him time to drive down US 3 and visit Hunter before sundown.
