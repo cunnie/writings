@@ -59,19 +59,20 @@
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">TEXT-SECTION</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="paperback-novel">
+        <Format ID="e-book-legacy">
             <SectionLayouts>
                 <Type ID="D2E24F2F-E4A2-49D0-BACA-26098774C8F9">DC460EDE-9743-4708-A4E8-B101EAD328E4</Type>
-                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
+                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">434CE1CE-0D74-44E7-AFB2-5F34FF0B1D3C</Type>
                 <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
-                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
+                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">A7B609FE-0C0D-4CA5-A022-AF6F45F421C7</Type>
                 <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
-                <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
+                <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">CD554FF8-258C-4B9E-A8B3-4C3011911B8E</Type>
+                <Type ID="235F7C42-10F1-40AB-9FC5-19AA26EABA47">ACC6AE6C-1881-4B48-9013-3C729011A2C1</Type>
                 <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">AS-IS</Type>
             </SectionLayouts>
             <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">4D01D8EC-C1C3-427E-88C0-602D9158FC95</DefaultFrontMatter>
+                <DefaultFrontMatter Add="Yes">4C4363AD-1F58-4140-A55F-DEE1298CA1C4</DefaultFrontMatter>
             </FrontAndBackMatter>
         </Format>
         <Format ID="576763A8-BDCE-4175-9463-92BAF8EC137B">
@@ -98,7 +99,7 @@
                 <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">AS-IS</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="script-screenplay">
+        <Format ID="nano-obfuscated">
             <SectionLayouts>
                 <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">TEXT-SECTION</Type>
                 <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
@@ -237,23 +238,22 @@
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="e-book-legacy">
+        <Format ID="paperback-novel">
             <SectionLayouts>
                 <Type ID="D2E24F2F-E4A2-49D0-BACA-26098774C8F9">DC460EDE-9743-4708-A4E8-B101EAD328E4</Type>
-                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">434CE1CE-0D74-44E7-AFB2-5F34FF0B1D3C</Type>
+                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
                 <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
-                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">A7B609FE-0C0D-4CA5-A022-AF6F45F421C7</Type>
+                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
                 <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
-                <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">CD554FF8-258C-4B9E-A8B3-4C3011911B8E</Type>
-                <Type ID="235F7C42-10F1-40AB-9FC5-19AA26EABA47">ACC6AE6C-1881-4B48-9013-3C729011A2C1</Type>
+                <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
                 <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">AS-IS</Type>
             </SectionLayouts>
             <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">4C4363AD-1F58-4140-A55F-DEE1298CA1C4</DefaultFrontMatter>
+                <DefaultFrontMatter Add="Yes">4D01D8EC-C1C3-427E-88C0-602D9158FC95</DefaultFrontMatter>
             </FrontAndBackMatter>
         </Format>
-        <Format ID="nano-obfuscated">
+        <Format ID="script-screenplay">
             <SectionLayouts>
                 <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">TEXT-SECTION</Type>
                 <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
