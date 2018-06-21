@@ -135,16 +135,48 @@
 		<key>NavigationHistoryArray</key>
 		<array/>
 	</dict>
+	<key>mainDocumentEditor.navigationHistory</key>
+	<dict>
+		<key>CurrentIndex</key>
+		<integer>2</integer>
+		<key>NavigationHistoryArray</key>
+		<array>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>11A2514A-5E78-43EE-8644-C719AFC08635</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
 	<key>mainDocumentEditor.outlinerVisible</key>
 	<false/>
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 611}}</string>
+	<string>{{0, 1845}, {620, 611}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.selectedTextRanges</key>
-	<string>0,0</string>
+	<string>6964,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
