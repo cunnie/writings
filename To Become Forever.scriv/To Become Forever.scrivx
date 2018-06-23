@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="tara" Author="Brian Cunnie" Modified="2018-06-20 18:51:21 -0700" ModID="7169CABF-9FDE-43BF-9379-A6C2FE8CACA1">
+<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="tara" Author="Brian Cunnie" Modified="2018-06-23 08:54:05 -0700" ModID="963FD5FD-9852-4885-A86E-13D4716AE50C">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 16:28:10 -0700">
             <Title>Novel Format</Title>
@@ -8,11 +8,14 @@
                 <IconFileName>Information.tiff</IconFileName>
             </MetaData>
             <TextSettings>
-                <TextSelection>0,0</TextSelection>
+                <TextSelection>5944,8</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 16:28:10 -0700">
             <Title>Manuscript</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>C59DF7C8-5E2B-4A12-9FDF-D6F42E1D569C</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 23:27:56 -0700">
                     <Title>A Death on the Job</Title>
@@ -42,8 +45,8 @@
                         <TextSelection>6964,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C59DF7C8-5E2B-4A12-9FDF-D6F42E1D569C" Type="Text" Created="2018-06-05 18:54:40 -0700" Modified="2018-06-05 23:32:29 -0700">
-                    <Title>Remniscing</Title>
+                <BinderItem UUID="C59DF7C8-5E2B-4A12-9FDF-D6F42E1D569C" Type="Text" Created="2018-06-05 18:54:40 -0700" Modified="2018-06-23 08:53:43 -0700">
+                    <Title>Reminiscing</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -185,6 +188,9 @@
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>4D01D8EC-C1C3-427E-88C0-602D9158FC95</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem UUID="3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E" Type="Folder" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 16:28:10 -0700">
                     <Title>Manuscript Format</Title>
@@ -491,7 +497,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-06-23 07:47:25 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-06-23 08:44:31 -0700"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-06-23 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>

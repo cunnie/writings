@@ -23,7 +23,7 @@
                     <Title>Cover</Title>
                     <SVG Width="600" Height="800"><![CDATA[]]></SVG>
                 </Cover>
-                <TOC>
+                <TOC PandocDepth="3">
                     <HTML Generate="Yes">
                         <Title>Contents</Title>
                     </HTML>
@@ -31,8 +31,8 @@
             </Ebook>
         </Options>
         <MetaData>
-            <ProjectTitle>To Become Forever</ProjectTitle>
-            <ProjectAbbreviatedTitle>To Become Forever</ProjectAbbreviatedTitle>
+            <ProjectTitle>On the Shoulders of Orion</ProjectTitle>
+            <ProjectAbbreviatedTitle>On the Shoulders of Orion</ProjectAbbreviatedTitle>
             <Authors>
                 <Author Role="aut">Brian Cunnie</Author>
             </Authors>
