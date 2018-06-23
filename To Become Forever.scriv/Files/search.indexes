@@ -590,9 +590,6 @@ A familiar voice was on the line, but different.</Text>
         <Document ID="3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E">
             <Title>Manuscript Format</Title>
         </Document>
-        <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
-            <Title>Characters</Title>
-        </Document>
         <Document ID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8">
             <Title>A Death on the Job</Title>
             <Text>She knew it was going to get ugly.
@@ -654,6 +651,9 @@ He smiled back and said, “None of the above.”
 It was at that moment that she decided she was going to learn more about what exactly this project was. She knew that this was irresponsible on her part, that she was tasked with running a company and the last thing she should allow herself to do is get lost in the weeds to satisfy her curiosity. Two weeks.  She’d time-box her exploration to two weeks, so it wouldn’t get out of hand.
 “Ned,” she asked, “how do I go about getting top-secret clearance?”</Text>
         </Document>
+        <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
+            <Title>Characters</Title>
+        </Document>
         <Document ID="EAED9F93-2779-4184-82E8-30D27307C6AC">
             <Title>Blank Page</Title>
             <Text>&lt;$BLANK_PAGE&gt;</Text>
@@ -661,6 +661,10 @@ It was at that moment that she decided she was going to learn more about what ex
         </Document>
         <Document ID="A01D76FD-6D6D-4A05-B3D7-72013BF9A630">
             <Title>Standard Manuscript</Title>
+        </Document>
+        <Document ID="A9C7734F-404D-4540-B1EF-21DA50D4FB90">
+            <Title>blah-1</Title>
+            <Text>Blah</Text>
         </Document>
         <Document ID="3A55F65F-FECB-457B-A6DD-276888AAD038">
             <Title>Taggart, Bound</Title>
@@ -1720,6 +1724,10 @@ Scrivener project templates are flexible and are not intended to restrict you to
 Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to novel writers. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
 
 You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="E73D1F20-E87A-4F88-9A03-A1C6F4233969">
+            <Title>blah</Title>
+            <Text>Blah</Text>
         </Document>
         <Document ID="FD75AC3C-F304-4EA6-ADCC-2C32D6589969">
             <Title>A Death on the Job</Title>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="tara" Author="Brian Cunnie" Modified="2018-06-20 18:40:06 -0700" ModID="8071C023-608F-4FB1-94DB-5E309A81B44C">
+<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="tara" Author="Brian Cunnie" Modified="2018-06-20 18:51:21 -0700" ModID="7169CABF-9FDE-43BF-9379-A6C2FE8CACA1">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 16:28:10 -0700">
             <Title>Novel Format</Title>
@@ -391,6 +391,33 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="7EFFB08A-0D98-4428-943B-1CFA87615518" Type="Folder" Created="2018-06-20 18:50:43 -0700" Modified="2018-06-20 18:50:43 -0700">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E73D1F20-E87A-4F88-9A03-A1C6F4233969" Type="Text" Created="2018-06-20 18:50:55 -0700" Modified="2018-06-20 18:51:08 -0700">
+                    <Title>blah</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A9C7734F-404D-4540-B1EF-21DA50D4FB90" Type="Text" Created="2018-06-20 18:50:55 -0700" Modified="2018-06-20 18:51:08 -0700">
+                    <Title>blah-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -464,9 +491,9 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-06-20 18:39:38 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-06-23 07:47:25 -0700"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-06-20 00:00:00 -0700">
+    <RecentWritingHistory Date="2018-06-23 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
