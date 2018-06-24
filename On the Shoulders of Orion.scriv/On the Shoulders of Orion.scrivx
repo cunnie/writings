@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="lucy" Author="Brian Cunnie" Modified="2018-06-24 11:57:48 -0700" ModID="17925C83-293D-441D-A768-463EFDEC2DCB">
+<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="lucy" Author="Brian Cunnie" Modified="2018-06-24 12:05:13 -0700" ModID="583D9163-2C56-485B-9CB5-2AB5F4827300">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 16:28:10 -0700">
             <Title>Novel Format</Title>
@@ -308,13 +308,13 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="FEFA7031-EA50-423C-B6C8-D7C523C773DA" Type="Text" Created="2018-06-23 17:31:22 -0700" Modified="2018-06-24 11:57:48 -0700">
+                <BinderItem UUID="FEFA7031-EA50-423C-B6C8-D7C523C773DA" Type="Text" Created="2018-06-23 17:31:22 -0700" Modified="2018-06-24 12:05:13 -0700">
                     <Title>blurb</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>492,0</TextSelection>
+                        <TextSelection>701,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -508,13 +508,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-06-23 16:49:39 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-06-24 12:04:58 -0700"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-06-24 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>85</OtherWordCount>
-        <OtherCharCount>550</OtherCharCount>
+        <OtherWordCount>142</OtherWordCount>
+        <OtherCharCount>861</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
