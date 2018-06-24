@@ -659,6 +659,21 @@ It was at that moment that she decided she was going to learn more about what ex
             <Text>&lt;$BLANK_PAGE&gt;</Text>
             <Notes>During Compile, Scrivener will try to remove any unnecessary blank pages. The &lt;$BLANK_PAGE&gt; tag tells Scrivener to leave this page blank (the tag itself will be removed from the compiled document).</Notes>
         </Document>
+        <Document ID="FEFA7031-EA50-423C-B6C8-D7C523C773DA">
+            <Title>blurb</Title>
+            <Text>When an accidental death occurs on one of her company’s top-secret projects for the Department of Homeland Security, CEO Julia Chou has trouble getting answers to even the simplest question, “what happened?”
+Julia does not like being stonewalled and begins digging. After a tense showdown with the mysterious General Gates, Julia is allowed an onsite visit to an undisclosed military facility, and that’s when things become strange…
+
+“I couldn’t put the book down fast enough” — Publisher’s Weekly
+
+“Don’t waste a second buying this book” — Kirkus Reviews
+
+Brian Cunnie is a writer living in San Francisco. In his copious amounts of spare time, he develops software, swims in the Bay, and plays rugby.
+
+
+
+</Text>
+        </Document>
         <Document ID="A01D76FD-6D6D-4A05-B3D7-72013BF9A630">
             <Title>Standard Manuscript</Title>
         </Document>
@@ -1887,10 +1902,10 @@ Notes
 
 To my sister and her family: Maureen, David, Eleanor, and Frances.
 
-Although Hunter and Dr. Max were inspired by real people, any resemblance is purely coincidental.
-
  To Brendan, my Brother, who never ceases to inspire me to greater efforts: IL
- MIGLIOR FABBRO</Text>
+ MIGLIOR FABBRO
+
+This is a work of fiction. Any resemblance to actual persons, living or dead, is purely coincidental, even when the resemblance is particularly striking or uncanny.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="57ECC98D-8199-4935-B5F1-D1F7A2D60646">
