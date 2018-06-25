@@ -20,7 +20,6 @@
     </Binder>
     <Inspector Show="Yes" View="Notes">
         <ShowProjectBookmarks>No</ShowProjectBookmarks>
-        <Collapse>Synopsis</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
     </Inspector>
     <Split>None</Split>
@@ -69,7 +68,7 @@
                 <Content>
                     <ItemID>FEFA7031-EA50-423C-B6C8-D7C523C773DA</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="36">
+                <NavigationHistory CurrentIndex="38">
                     <HistoryItem Type="BinderItems" ViewMode="Single">F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">11A2514A-5E78-43EE-8644-C719AFC08635</HistoryItem>
@@ -107,6 +106,8 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">A01D76FD-6D6D-4A05-B3D7-72013BF9A630</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">08CE373C-66A7-4AEB-9144-0170D078787D</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">FEFA7031-EA50-423C-B6C8-D7C523C773DA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">874592F5-2256-46A1-8434-432743846FB8</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">FEFA7031-EA50-423C-B6C8-D7C523C773DA</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -114,7 +115,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>701,0</Selection>
+                <Selection>703,310</Selection>
             </Text>
             <Outliner>
                 <Columns>
