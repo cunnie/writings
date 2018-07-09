@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="lucy" Author="Brian Cunnie" Modified="2018-06-24 17:51:37 -0700" ModID="7190797F-E6FE-44E6-A5E5-31F07D72F62F">
+<ScrivenerProject Identifier="FC2D5E4B-E319-4B77-A9F3-8333427135E0" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="tara" Author="Brian Cunnie" Modified="2018-07-08 17:52:13 -0700" ModID="AD6F577B-CA8A-479B-A35F-E0BF3DD5C5EA">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 16:28:10 -0700">
             <Title>Novel Format</Title>
@@ -17,14 +17,14 @@
                 <SelectedSubdocumentUUIDs>C59DF7C8-5E2B-4A12-9FDF-D6F42E1D569C</SelectedSubdocumentUUIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2018-06-05 16:28:10 -0700" Modified="2018-06-05 23:27:56 -0700">
+                <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2018-06-05 16:28:10 -0700" Modified="2018-07-08 17:49:34 -0700">
                     <Title>A Death on the Job</Title>
                     <MetaData>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>9073,0</TextSelection>
+                        <TextSelection>7688,7</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="12948BEE-63A6-4492-9D31-8789F5C7A04E" Type="Text" Created="2018-06-05 18:45:30 -0700" Modified="2018-06-05 23:28:49 -0700">
@@ -36,13 +36,13 @@
                         <TextSelection>1538,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="11A2514A-5E78-43EE-8644-C719AFC08635" Type="Text" Created="2018-06-05 18:47:42 -0700" Modified="2018-06-05 23:31:25 -0700">
+                <BinderItem UUID="11A2514A-5E78-43EE-8644-C719AFC08635" Type="Text" Created="2018-06-05 18:47:42 -0700" Modified="2018-07-08 17:52:13 -0700">
                     <Title>Colonel Taggart</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6964,0</TextSelection>
+                        <TextSelection>4666,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="C59DF7C8-5E2B-4A12-9FDF-D6F42E1D569C" Type="Text" Created="2018-06-05 18:54:40 -0700" Modified="2018-06-23 08:53:43 -0700">
@@ -508,15 +508,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-06-24 14:04:39 -0700"></PreviousSession>
+        <PreviousSession Words="18" Characters="96" Date="2018-07-08 17:46:44 -0700"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-06-24 00:00:00 -0700">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>142</OtherWordCount>
-        <OtherCharCount>861</OtherCharCount>
+    <RecentWritingHistory Date="2018-07-08 00:00:00 -0700">
+        <DraftWordCount>-164</DraftWordCount>
+        <DraftCharCount>-958</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -15,7 +15,7 @@
             <ItemID>9A470BDE-CF2B-4872-97C6-74F19BC90197</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>FEFA7031-EA50-423C-B6C8-D7C523C773DA</ItemID>
+            <ItemID>11A2514A-5E78-43EE-8644-C719AFC08635</ItemID>
         </Selection>
     </Binder>
     <Inspector Show="Yes" View="Notes">
@@ -66,9 +66,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>FEFA7031-EA50-423C-B6C8-D7C523C773DA</ItemID>
+                    <ItemID>11A2514A-5E78-43EE-8644-C719AFC08635</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="38">
+                <NavigationHistory CurrentIndex="41">
                     <HistoryItem Type="BinderItems" ViewMode="Single">F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">11A2514A-5E78-43EE-8644-C719AFC08635</HistoryItem>
@@ -108,6 +108,9 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">FEFA7031-EA50-423C-B6C8-D7C523C773DA</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">874592F5-2256-46A1-8434-432743846FB8</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">FEFA7031-EA50-423C-B6C8-D7C523C773DA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">4A1D6B18-0952-42EB-A487-D17915DD3BA1</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">11A2514A-5E78-43EE-8644-C719AFC08635</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -115,7 +118,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>703,310</Selection>
+                <Selection>4666,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
