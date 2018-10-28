@@ -312,25 +312,32 @@ My mom was away when it happened, but she was angry, too. She was mad at me all 
 
 Our last summer in France was special: My mom took the three of us to the French seaside resort of Trouville, a beautiful, relaxing town where we swam at the beach and learned to sail sailboats. My mom still reminisces fondly about that summer: &ldquo;You were terrible,&rdquo; she says, &ldquo;I couldn&rsquo;t wait for your father to show up.&rdquo;
 
-It was during this summer that my sister developed an imaginary friend, Mary Cugfai. Mary Cugfai was a sort of fairy godmother to my sister, and would leave inspirational notes like the following on the typewriter: <pre> Dear Maureen,
+It was during this summer that my sister developed an imaginary friend, Mary Cugfai. Mary Cugfai was a sort of fairy godmother to my sister, and would leave inspirational notes like the following on the typewriter:
+
+```
+Dear Maureen,
 
 You should try to be nice to your brothers even though they are nasty toads.
 
 Love,
 
 Mary Cugfai
+```
 
-</pre>
+The letters had a common theme: that even though her brothers were brutes, she should try to rise up above those petty animosities and strive to be a better person. These messages affected my brother and I profoundly. We realized that these notes on the typewriter had infinite potential. Besides, we knew how to use the typewriter. Soon, messages like these started appearing:
 
-The letters had a common theme: that even though her brothers were brutes, she should try to rise up above those petty animosities and strive to be a better person. These messages affected my brother and I profoundly. We realized that these notes on the typewriter had infinite potential. Besides, we knew how to use the typewriter. Soon, messages like these started appearing: <pre> Dear Maureen,
+```
+Dear Maureen,
 
-You should do everything that your brothers tell  you to do because they are handsome princes and   you are a bad girl!
+You should do everything that your brothers tell you to do because they are
+handsome princes and you are a bad girl!
 
 Love,
 
 Mary Cugfai
 
-p.s.  You are very bad! </pre>
+p.s.  You are very bad!
+```
 
 Over the next few days, scores of letters appeared from Mary Cugfai, exhorting my sister to do a wide variety of things ranging from giving her desserts to her brothers, to not talking for an entire month. She ignored them. Somehow she could tell that these letters were not from the real Mary Cugfai.
 
