@@ -370,7 +370,7 @@ We lived in a drafty Victorian house with high ceilings. In winter it was terrib
 
 It was really cold in that house. My parents kept the thermostat at fifty degrees. They would have probably kept it lower, but that&rsquo;s as low as the thermostat would go. It was so cold that we could see our breath when we woke up. My sister&rsquo;s friend, Abbie Kunath, would sometimes sleep over. Abbie&rsquo;s most vivid memory from High School is how cold our house was.
 
-Sometimes I would complain to mom how could it was, and she she would cackle fiendishly from her perch on the radiator, &ldquo;Put on another sweater! Put on another sweater!&rdquo;
+Sometimes I would complain to mom how cold it was, and she she would cackle fiendishly from her perch on the radiator, &ldquo;Put on another sweater! Put on another sweater!&rdquo;
 
 But in other ways my mom was great: she would make me five peanut butter and jelly sandwiches every day for lunch. I loved lunch. I still eat peanut butter and jelly sandwiches every day. Every morning I ask myself, &ldquo;Brian, what should I have for breakfast today?&rdquo; Then I say, &ldquo;Let&rsquo;s have peanut butter &amp; jelly sandwich!&rdquo;. And I&rsquo;m totally psyched every morning
 
