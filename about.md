@@ -373,6 +373,22 @@ We had taken it as far as it could go: Mr. Spock and Captain Kirk were but shado
 
 This was where we ran into resistance. My sister did not share our enthusiasm for our single-sided razor blade surgery and threatened to tell mom if we touched her Barbie dolls.
 
+The house needed a lot of work, and the inside paint was getting old. My dad wanted to wash the walls before he painted them. He said, "I'll pay you to help me wash the walls". This was a surprising turn of events: my father never paid us for anything. He must have read a book about instilling a work ethic in your children. "You'll pay us?" my brother & I asked incredulously. "Yes," he said. "I'll pay you." We still couldn't believe it.
+
+"You mean if we help you wash the walls, we'll get money, and if we don't help you wash the walls, we won't get any money?"
+
+"That's right,"
+
+My brother and I looked at each other. Then we turned back to my father, "We'd rather not help you wash the walls".
+
+Apparently the book my dad had read had not covered the possibility that the offer might be declined, but to my brother & I it was obvious: whenever we worked with out dad he would continuously tell us we were doing it wrong. It was more fun reading trashy scifi.
+
+So he made us help him wash the walls, and he never paid us, and he never offered to pay us for work again.
+
+One day my dad's attention fell on the pond: it needed a cleaning. If you had asked my brother and me if it needed a cleaning, we would have said, "No, definitely not." But he didn't ask our opinion; that wasn't his style.
+
+My sister had to help, too. "Bring me a bucket of water," he said to my sister, so she brought him a bucket of hot water because he always wanted hot water. She didn't realize he wanted the bucket of water to hold the pond fish while he cleaned out the pond. Anyway, all the fish died.
+
 We lived in a drafty Victorian house with high ceilings. In winter it was terribly cold, and the most comfortable place to sit was not the Biedermeier couch, nor the French loveseat, nor the comfy chair: it was the cast-iron radiator. When my mom wasn&rsquo;t sitting on it, Brendan, and Maureen, and I would fight for it.
 
 It was really cold in that house. My parents kept the thermostat at fifty degrees. They would have probably kept it lower, but that&rsquo;s as low as the thermostat would go. It was so cold that we could see our breath when we woke up. My sister&rsquo;s friend, Abbie Kunath, would sometimes sleep over. Abbie&rsquo;s most vivid memory from High School is how cold our house was.
