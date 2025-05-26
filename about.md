@@ -278,7 +278,7 @@ My brother later told me that he didn&rsquo;t know at first what happened, merel
 
 Brendan was covered with ketchup. Most of it was on his face, but a lot of it was on his shirt, too.
 
-My father was angry. I tried explaining to him that it was Brendan&rsquo;s fault, that if he hadn&rsquo;t held the ketchup squeeze bottle pointing at his head I would never have squeezed it, but my arguments were to no avail.
+My father was angry. I tried explaining to him that it was Brendan&rsquo;s fault, that if he hadn&rsquo;t held the ketchup squeeze bottle pointing at his head I would never have squeezed it, but my arguments fell on deaf ears.
 
 My mom was away when it happened, but she was angry, too. She was mad at me all day:
 
@@ -387,7 +387,7 @@ So he made us help him wash the walls, and he never paid us, and he never offere
 
 One day my dad's attention fell on the pond: it needed a cleaning. If you had asked my brother and me if it needed a cleaning, we would have said, "No, definitely not." But he didn't ask our opinion; that wasn't his style.
 
-My sister had to help, too. "Bring me a bucket of water," he said to my sister, so she brought him a bucket of hot water because he always wanted hot water. She didn't realize he wanted the bucket of water to hold the pond fish while he cleaned out the pond. Anyway, all the fish died.
+My sister had to help, too. "Bring me a bucket of water," he said to my sister, so she brought him a bucket of hot water because he always wanted hot water, and if you asked questions he'd get angry. She didn't realize he wanted the bucket of water to hold the pond fish while he cleaned out the pond. Anyway, all the fish died.
 
 We lived in a drafty Victorian house with high ceilings. In winter it was terribly cold, and the most comfortable place to sit was not the Biedermeier couch, nor the French loveseat, nor the comfy chair: it was the cast-iron radiator. When my mom wasn&rsquo;t sitting on it, Brendan, and Maureen, and I would fight for it.
 
