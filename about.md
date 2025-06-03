@@ -373,6 +373,10 @@ We had taken it as far as it could go: Mr. Spock and Captain Kirk were but shado
 
 This was where we ran into resistance. My sister did not share our enthusiasm for our single-sided razor blade surgery and threatened to tell mom if we touched her Barbie dolls.
 
+My dad was of an intellectual bent, and did not appreciate my brother and I playing with our Star Trek action figures. He decided to teach us the art of chess. We quickly mastered the pieces and how they moved, basic tactics, but the grand sweep of strategy was beyond us. Our dad won every time we played.
+
+Except for the day when Brendan finally won. That was the day we discovered that our dad never liked chess anyway, and he never played again.
+
 The house needed a lot of work, and the inside paint was getting old. My dad wanted to wash the walls before he painted them. He said, "I'll pay you to help me wash the walls". This was a surprising turn of events: my father never paid us for anything. He must have read a book about instilling a work ethic in your children. "You'll pay us?" my brother & I asked incredulously. "Yes," he said. "I'll pay you." We still couldn't believe it.
 
 "You mean if we help you wash the walls, we'll get money, and if we don't help you wash the walls, we won't get any money?"
